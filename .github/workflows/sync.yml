@@ -1,0 +1,29 @@
+name: Diplomacia Otomatik Yedekleme
+
+on:
+  schedule:
+    # Her saat başı otomatik çalışır (Günde 24 kez kontrol ve yedekleme)
+    - cron: '0 * * * *'
+  workflow_dispatch: # İstediğiniz an tek tıkla çalıştırma butonu
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Al
+        uses: actions/checkout@v4
+
+      - name: Node.js Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Verileri Eşitle ve Arşivle
+        run: node sync.js
+
+      - name: Değişiklikleri Depoya Kaydet
+        run: |
+          git config --global user.name "Diplomacia Bot"
+          git config --global user.email "bot@github.com"
+          git add data/
+          git diff --staged --quiet || (git commit -m "Veri Arşivi Güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
