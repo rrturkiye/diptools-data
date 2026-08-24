@@ -453,6 +453,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/brasilia.png?v=3",
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828"
     },
+    "Pekin": {
+      "code": null,
+      "color": null,
+      "name": "Pekin Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
+    },
     "Roma": {
       "code": null,
       "color": "#105bcb",
@@ -669,6 +678,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
       "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
+    "Şanghay": {
+      "code": null,
+      "color": null,
+      "name": "Şanghay Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
+    },
     "Alaska": {
       "code": null,
       "color": "#ed6526",
@@ -732,14 +750,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
       "countryId": "b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7"
     },
-    "Pekin": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
     "Kosova": {
       "code": null,
       "color": "#1f2c2e",
@@ -749,13 +759,32 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kosova.png?v=3",
       "countryId": "ce2a954b-cc87-49ae-ae9f-f81d8651e904"
     },
-    "Şanghay": {
+    "Guangzhou": {
       "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
+      "color": "#280d96",
+      "name": "Guangzhou Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "7b977dca-f0cc-4aab-bc96-66264c484368"
+    },
+    "Fuçou": {
+      "code": null,
+      "color": "#2a8959",
+      "name": "Fuçou Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "8f70a139-5ba3-4e60-b236-bbcf57c8dc39"
+    },
+    "Çengdu": {
+      "code": null,
+      "color": "#b80f12",
+      "name": "Çengdu Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "24817abf-616a-4a4f-986e-dd5e62ddff01"
     },
     "Hırvatistan": {
       "code": null,
@@ -766,37 +795,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
     },
-    "Guangzhou": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Fuçou": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Çengdu": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
     "Vuhan": {
       "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
+      "color": "#de3112",
+      "name": "Vuhan Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "96e275b5-2a3d-461a-af51-363ac0ec42c4"
     },
     "Abu Dabi": {
       "code": null,
@@ -807,22 +813,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/abudabi.png?v=3",
       "countryId": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
     },
-    "Guiyang": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Şian": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
     "Lombardiya": {
       "code": null,
       "color": "#105bcb",
@@ -831,6 +821,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/lombardiya.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
+    },
+    "Guiyang": {
+      "code": null,
+      "color": null,
+      "name": "Guiyang Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "ecf79383-f278-485e-a7c5-fcc37a63eef8"
     },
     "Karadağ": {
       "code": null,
@@ -850,6 +849,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
+    "Şian": {
+      "code": null,
+      "color": "#26527d",
+      "name": "Şian Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "9ea8d076-8268-4d8e-9f36-1341f555a017"
+    },
     "Temeşvar": {
       "code": null,
       "color": "#e958ca",
@@ -859,14 +867,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
       "countryId": "f96273b8-d621-46db-b6f1-e7fc5498204c"
     },
-    "Şenyang": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
     "Sırbistan": {
       "code": null,
       "color": "#1b1ea1",
@@ -875,6 +875,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1786652070346.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
+    },
+    "Şenyang": {
+      "code": null,
+      "color": "#121240",
+      "name": "Şenyang Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "34fc29ff-112d-4547-92a5-4306ab0a0a99"
     },
     "Bosna Hersek": {
       "code": null,
@@ -956,22 +965,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
       "countryId": "78179d69-494c-4c3f-a1cd-44c8ea77e442"
     },
-    "Rize": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/rize.png?v=3"
-    },
-    "Erzincan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/erzincan.png?v=3"
-    },
     "Burgonya": {
       "code": null,
       "color": "#143913",
@@ -1007,14 +1000,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/georgia.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
-    },
-    "Ardahan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3"
     },
     "Erzurum": {
       "code": null,
@@ -1069,6 +1054,14 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1786161007319.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "countryId": "bdb0966b-bd04-401b-8d01-8621df11c96b"
+    },
+    "Rize": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/rize.png?v=3"
     },
     "Azerbaycan": {
       "code": null,
@@ -1168,6 +1161,22 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1782463511118.png",
       "coatUrl": "https://diplomacia.com.tr/coats/munchen.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
+    },
+    "Erzincan": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/erzincan.png?v=3"
+    },
+    "Ardahan": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3"
     },
     "Yakutistan": {
       "code": null,
@@ -1447,22 +1456,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
       "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
     },
-    "Eskişehir": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/eskisehir.png?v=3"
-    },
-    "Denizli": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/denizli.png?v=3"
-    },
     "Papua": {
       "code": null,
       "color": "#e39c16",
@@ -1480,22 +1473,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jawa.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
-    },
-    "Kahramanmaraş": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/kahramanmaras.png?v=3"
-    },
-    "Amasya": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3"
     },
     "Asvan": {
       "code": null,
@@ -1551,13 +1528,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
-    "Afyon": {
+    "Harbin": {
       "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/afyon.png?v=3"
+      "color": "#1f262e",
+      "name": "Harbin Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "440c4494-be88-4bf9-b8b4-40da3004b188"
     },
     "Minnesota": {
       "code": null,
@@ -1568,6 +1546,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
       "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
     },
+    "İç Moğolistan": {
+      "code": null,
+      "color": null,
+      "name": "İç Moğolistan Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
+    },
     "Teksas": {
       "code": null,
       "color": "#ed6526",
@@ -1577,6 +1564,33 @@
       "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
       "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
     },
+    "Şincan": {
+      "code": null,
+      "color": null,
+      "name": "Şincan Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "f4d3dba9-f069-45cf-a77b-26cb8289bed3"
+    },
+    "Tibet": {
+      "code": null,
+      "color": "#064712",
+      "name": "Tibet Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "f0e121c3-3e6c-46da-bad6-cc4d77f6318c"
+    },
+    "Kunming": {
+      "code": null,
+      "color": "#0d0f9c",
+      "name": "Kunming Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
+    },
     "Medine": {
       "code": null,
       "color": "#85892a",
@@ -1585,54 +1599,6 @@
       "flagUrl": "https://diplomacia.com.tr/coats/medine.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/medine.png?v=3",
       "countryId": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33"
-    },
-    "Harbin": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "İç Moğolistan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Şincan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Tibet": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Kunming": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
-    },
-    "Şandong": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3"
     },
     "Horasan": {
       "code": null,
@@ -1661,6 +1627,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
+    "Şandong": {
+      "code": null,
+      "color": "#2a8949",
+      "name": "Şandong Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "4d973d67-468d-4c16-bba9-c8433a2c2e7b"
+    },
     "Varna": {
       "code": null,
       "color": "#4e134e",
@@ -1670,6 +1645,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
       "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
+    "Eskişehir": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/eskisehir.png?v=3"
+    },
     "Bükreş": {
       "code": null,
       "color": "#e8e83b",
@@ -1678,6 +1661,38 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1785523381827.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/bukres.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
+    },
+    "Denizli": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/denizli.png?v=3"
+    },
+    "Kahramanmaraş": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/kahramanmaras.png?v=3"
+    },
+    "Amasya": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3"
+    },
+    "Afyon": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/afyon.png?v=3"
     }
   }
 }
