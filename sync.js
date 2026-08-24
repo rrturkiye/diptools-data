@@ -16,17 +16,26 @@ function fetchJson(url) {
 async function run() {
   fs.mkdirSync('data', { recursive: true });
 
-  // 1. Canlı API Verilerini İndir
-  const livePlayersData = await fetchJson('https://diplomacia.com.tr/api/online/players');
-  const liveProvincesData = await fetchJson('https://diplomacia.com.tr/api/provinces/all');
-  const liveCountriesData = await fetchJson('https://diplomacia.com.tr/api/countries');
+  console.log('API Verileri Çekiliyor...');
 
-  if (!livePlayersData || !livePlayersData.players || !Array.isArray(livePlayersData.players)) {
-    console.error('HATA: Canlı oyuncu API verisi alınamadı!');
-    return;
-  }
-
-  const onlinePlayers = livePlayersData.players;
+  // 1. Tüm Canlı API İsteklerini Paralel Olarak Çek
+  const [
+    livePlayersData,
+    liveProvincesData,
+    liveCountriesData,
+    mapColorsData,
+    mapScoresData,
+    resourceBonusesData,
+    geoBlocsColorsData
+  ] = await Promise.all([
+    fetchJson('https://diplomacia.com.tr/api/online/players'),
+    fetchJson('https://diplomacia.com.tr/api/provinces/all'),
+    fetchJson('https://diplomacia.com.tr/api/countries'),
+    fetchJson('https://diplomacia.com.tr/api/countries/map/colors'),
+    fetchJson('https://diplomacia.com.tr/api/countries/map/scores'),
+    fetchJson('https://diplomacia.com.tr/api/provinces/resource-bonuses'),
+    fetchJson('https://diplomacia.com.tr/api/geo-blocs/map-colors')
+  ]);
 
   // 2. Mevcut all_players.json Arşivini Oku
   let masterPlayersMap = new Map();
@@ -35,87 +44,84 @@ async function run() {
       const existing = JSON.parse(fs.readFileSync('data/all_players.json', 'utf8'));
       if (Array.isArray(existing)) {
         existing.forEach(p => {
-          // Benzersiz anahtar (Öncelik: ID -> player_number -> username)
           const key = p.id || ('num_' + p.player_number) || p.username;
           masterPlayersMap.set(key, p);
         });
       }
-    } catch (e) {
-      console.warn('Mevcut all_players.json okunamadı, yeni oluşturulacak.');
-    }
+    } catch (e) {}
   }
 
   // 3. Online Oyuncuları ID ve Player Number ile Doğrulayıp Güncelle
   let updatedCount = 0;
   let newCount = 0;
 
-  onlinePlayers.forEach(freshPlayer => {
-    const primaryKey = freshPlayer.id || ('num_' + freshPlayer.player_number) || freshPlayer.username;
+  if (livePlayersData && livePlayersData.players && Array.isArray(livePlayersData.players)) {
+    const onlinePlayers = livePlayersData.players;
 
-    // ID ile eşleşme var mı kontrol et
-    let existingPlayer = masterPlayersMap.get(primaryKey);
+    onlinePlayers.forEach(freshPlayer => {
+      const primaryKey = freshPlayer.id || ('num_' + freshPlayer.player_number) || freshPlayer.username;
+      let existingPlayer = masterPlayersMap.get(primaryKey);
 
-    // ID yoksa Player Number ile kontrol et
-    if (!existingPlayer && freshPlayer.player_number) {
-      for (const [k, p] of masterPlayersMap.entries()) {
-        if (p.player_number && p.player_number === freshPlayer.player_number) {
-          existingPlayer = p;
-          break;
+      if (!existingPlayer && freshPlayer.player_number) {
+        for (const [k, p] of masterPlayersMap.entries()) {
+          if (p.player_number && p.player_number === freshPlayer.player_number) {
+            existingPlayer = p;
+            break;
+          }
         }
       }
-    }
 
-    // Player Number da yoksa Kullanıcı Adı ile kontrol et
-    if (!existingPlayer && freshPlayer.username) {
-      for (const [k, p] of masterPlayersMap.entries()) {
-        if (p.username && p.username.toLowerCase() === freshPlayer.username.toLowerCase()) {
-          existingPlayer = p;
-          break;
+      if (!existingPlayer && freshPlayer.username) {
+        for (const [k, p] of masterPlayersMap.entries()) {
+          if (p.username && p.username.toLowerCase() === freshPlayer.username.toLowerCase()) {
+            existingPlayer = p;
+            break;
+          }
         }
       }
-    }
 
-    if (existingPlayer) {
-      // ✅ OYUNCU ZATEN VAR: Tüm değişen verilerini (XP, Level, Rol, Ülke, Avatar, Son Aktiflik) YENİSİYLE DEĞİŞTİR
-      existingPlayer.id = freshPlayer.id || existingPlayer.id;
-      existingPlayer.player_number = freshPlayer.player_number || existingPlayer.player_number;
-      existingPlayer.username = freshPlayer.username;
-      existingPlayer.avatar_url = freshPlayer.avatar_url;
-      existingPlayer.xp = freshPlayer.xp;
-      existingPlayer.cabinet_role = freshPlayer.cabinet_role;
-      existingPlayer.last_active = freshPlayer.last_active;
-      existingPlayer.country_name = freshPlayer.country_name;
-      existingPlayer.country_flag = freshPlayer.country_flag;
-      existingPlayer.level = freshPlayer.level;
+      if (existingPlayer) {
+        // Tüm 8 veriyi en güncel haliyle değiştir
+        existingPlayer.id = freshPlayer.id || existingPlayer.id;
+        existingPlayer.player_number = freshPlayer.player_number || existingPlayer.player_number;
+        existingPlayer.username = freshPlayer.username;
+        existingPlayer.avatar_url = freshPlayer.avatar_url;
+        existingPlayer.xp = freshPlayer.xp;
+        existingPlayer.cabinet_role = freshPlayer.cabinet_role;
+        existingPlayer.last_active = freshPlayer.last_active;
+        existingPlayer.country_name = freshPlayer.country_name;
+        existingPlayer.country_flag = freshPlayer.country_flag;
+        existingPlayer.level = freshPlayer.level;
 
-      masterPlayersMap.set(primaryKey, existingPlayer);
-      updatedCount++;
-    } else {
-      // ➕ YENİ OYUNCU: Listeye ekle
-      masterPlayersMap.set(primaryKey, {
-        id: freshPlayer.id,
-        player_number: freshPlayer.player_number,
-        username: freshPlayer.username,
-        avatar_url: freshPlayer.avatar_url,
-        xp: freshPlayer.xp,
-        cabinet_role: freshPlayer.cabinet_role,
-        last_active: freshPlayer.last_active,
-        country_name: freshPlayer.country_name,
-        country_flag: freshPlayer.country_flag,
-        level: freshPlayer.level
-      });
-      newCount++;
-    }
-  });
+        masterPlayersMap.set(primaryKey, existingPlayer);
+        updatedCount++;
+      } else {
+        masterPlayersMap.set(primaryKey, {
+          id: freshPlayer.id,
+          player_number: freshPlayer.player_number,
+          username: freshPlayer.username,
+          avatar_url: freshPlayer.avatar_url,
+          xp: freshPlayer.xp,
+          cabinet_role: freshPlayer.cabinet_role,
+          last_active: freshPlayer.last_active,
+          country_name: freshPlayer.country_name,
+          country_flag: freshPlayer.country_flag,
+          level: freshPlayer.level
+        });
+        newCount++;
+      }
+    });
 
-  // 4. Tüm Oyuncuları En Yüksek XP'ye Göre Sırala ve Kaydet
+    // Anlık online oyuncular
+    fs.writeFileSync('data/online_players.json', JSON.stringify(onlinePlayers, null, 2), 'utf8');
+  }
+
+  // 4. Tüm Zamanların Oyuncularını XP'ye Göre Sırala ve Kaydet
   const allPlayersList = Array.from(masterPlayersMap.values());
   allPlayersList.sort((a, b) => (b.xp || 0) - (a.xp || 0));
-
   fs.writeFileSync('data/all_players.json', JSON.stringify(allPlayersList, null, 2), 'utf8');
-  fs.writeFileSync('data/online_players.json', JSON.stringify(onlinePlayers, null, 2), 'utf8');
 
-  // 5. Eyalet ve Ülkeleri Kaydet
+  // 5. Eyalet ve Ülke Verileri
   if (liveProvincesData && liveProvincesData.provinces) {
     fs.writeFileSync('data/provinces.json', JSON.stringify(liveProvincesData.provinces, null, 2), 'utf8');
   }
@@ -124,10 +130,25 @@ async function run() {
     fs.writeFileSync('data/countries.json', JSON.stringify(cList, null, 2), 'utf8');
   }
 
-  console.log(`Eşitleme Tamamlandı!`);
-  console.log(`- Güncellenen Oyuncu Sayısı: ${updatedCount}`);
-  console.log(`- Yeni Eklenen Oyuncu Sayısı: ${newCount}`);
-  console.log(`- Toplam Oyuncu Havuzu: ${allPlayersList.length}`);
+  // 6. YENİ EKLENEN 4 APİ YEDEĞİ
+  if (mapColorsData) {
+    fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
+  }
+  if (mapScoresData) {
+    fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
+  }
+  if (resourceBonusesData) {
+    fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
+  }
+  if (geoBlocsColorsData) {
+    fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
+  }
+
+  console.log(`✅ Eşitleme Başarıyla Tamamlandı!`);
+  console.log(`- Güncellenen Oyuncular: ${updatedCount}`);
+  console.log(`- Yeni Eklenenler: ${newCount}`);
+  console.log(`- Toplam Arşiv: ${allPlayersList.length}`);
+  console.log(`- Yeni 4 Harita/Kaynak/Pakt API'si Başarıyla Kaydedildi.`);
 }
 
 run();
