@@ -46,7 +46,7 @@
       "education": 10,
       "military": 10,
       "development": 11,
-      "health": 9
+      "health": 10
     },
     "Brasília": {
       "education": 10,
@@ -92,7 +92,7 @@
     },
     "Katar": {
       "education": 9,
-      "military": 9,
+      "military": 10,
       "development": 10,
       "health": 7
     },
@@ -104,7 +104,7 @@
     },
     "Amazonas": {
       "education": 9,
-      "military": 8,
+      "military": 9,
       "development": 9,
       "health": 9
     },
@@ -132,12 +132,6 @@
       "development": 7,
       "health": 2
     },
-    "Balkan": {
-      "education": 8,
-      "military": 10,
-      "development": 5,
-      "health": 10
-    },
     "Bakü": {
       "education": 8,
       "military": 6,
@@ -164,7 +158,7 @@
     },
     "Teksas": {
       "education": 8,
-      "military": 10,
+      "military": 11,
       "development": 7,
       "health": 10
     },
@@ -177,7 +171,7 @@
     "Roma": {
       "education": 8,
       "military": 6,
-      "development": 7,
+      "development": 8,
       "health": 9
     },
     "Buenos Aires": {
@@ -187,7 +181,7 @@
       "health": 5
     },
     "Filistin": {
-      "education": 7,
+      "education": 8,
       "military": 6,
       "development": 5,
       "health": 3
@@ -245,6 +239,12 @@
       "military": 8,
       "development": 7,
       "health": 7
+    },
+    "Balkan": {
+      "education": 7,
+      "military": 8,
+      "development": 3,
+      "health": 4
     },
     "New York": {
       "education": 6,
@@ -350,7 +350,7 @@
     },
     "Karaganda": {
       "education": 5,
-      "military": 5,
+      "military": 4,
       "development": 1,
       "health": 1
     },
@@ -380,7 +380,7 @@
     },
     "Kaliforniya": {
       "education": 4,
-      "military": 7,
+      "military": 6,
       "development": 8,
       "health": 10
     },
@@ -460,7 +460,7 @@
       "education": 3,
       "military": 6,
       "development": 5,
-      "health": 5
+      "health": 6
     },
     "Karabağ": {
       "education": 3,
@@ -470,7 +470,7 @@
     },
     "Kabil": {
       "education": 3,
-      "military": 3,
+      "military": 7,
       "development": 1,
       "health": 1
     },
@@ -483,7 +483,7 @@
     "Mekke": {
       "education": 3,
       "military": 8,
-      "development": 8,
+      "development": 7,
       "health": 8
     },
     "Cezayir": {
@@ -538,7 +538,7 @@
       "education": 1,
       "military": 1,
       "development": 4,
-      "health": 8
+      "health": 9
     },
     "Kueta": {
       "education": 1,
@@ -608,7 +608,7 @@
     },
     "Ermenistan": {
       "education": 0,
-      "military": 11,
+      "military": 10,
       "development": 10,
       "health": 11
     },
@@ -616,7 +616,7 @@
       "education": 0,
       "military": 10,
       "development": 9,
-      "health": 5
+      "health": 6
     },
     "Arnavutluk": {
       "education": 0,
@@ -644,7 +644,7 @@
     },
     "Lahor": {
       "education": 0,
-      "military": 8,
+      "military": 9,
       "development": 5,
       "health": 10
     },
@@ -675,14 +675,14 @@
     "Visayas": {
       "education": 0,
       "military": 7,
-      "development": 4,
+      "development": 5,
       "health": 3
     },
     "Sibirya": {
       "education": 0,
       "military": 6,
       "development": 10,
-      "health": 8
+      "health": 9
     },
     "Moskova": {
       "education": 0,
@@ -716,13 +716,13 @@
     },
     "Perm": {
       "education": 0,
-      "military": 5,
+      "military": 4,
       "development": 1,
       "health": 0
     },
     "Girit ve Adalar": {
       "education": 0,
-      "military": 5,
+      "military": 4,
       "development": 2,
       "health": 1
     },
@@ -874,7 +874,7 @@
       "education": 0,
       "military": 0,
       "development": 6,
-      "health": 5
+      "health": 6
     },
     "Paris": {
       "education": 0,
@@ -959,6 +959,12 @@
       "military": 0,
       "development": 1,
       "health": 0
+    },
+    "Guiyang": {
+      "education": 0,
+      "military": 0,
+      "development": 1,
+      "health": 1
     }
   }
 }
