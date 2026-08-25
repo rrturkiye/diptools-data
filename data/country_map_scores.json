@@ -39,7 +39,7 @@
     "Bosna Hersek": {
       "education": 10,
       "military": 10,
-      "development": 9,
+      "development": 10,
       "health": 10
     },
     "Fas": {
@@ -174,6 +174,12 @@
       "development": 8,
       "health": 8
     },
+    "Filistin": {
+      "education": 8,
+      "military": 6,
+      "development": 5,
+      "health": 4
+    },
     "Roma": {
       "education": 8,
       "military": 6,
@@ -181,16 +187,10 @@
       "health": 9
     },
     "Buenos Aires": {
-      "education": 8,
+      "education": 7,
       "military": 8,
       "development": 5,
       "health": 5
-    },
-    "Filistin": {
-      "education": 7,
-      "military": 6,
-      "development": 5,
-      "health": 4
     },
     "Güney Kıbrıs": {
       "education": 7,
@@ -358,7 +358,7 @@
       "education": 5,
       "military": 0,
       "development": 10,
-      "health": 9
+      "health": 10
     },
     "Marsilya": {
       "education": 5,
@@ -483,7 +483,7 @@
     "İsrail": {
       "education": 2,
       "military": 9,
-      "development": 9,
+      "development": 10,
       "health": 6
     },
     "Huzistan": {
@@ -639,8 +639,8 @@
     "Ermenistan": {
       "education": 0,
       "military": 10,
-      "development": 10,
-      "health": 10
+      "development": 9,
+      "health": 9
     },
     "Suudi Arabistan": {
       "education": 0,
@@ -997,6 +997,12 @@
       "health": 0
     },
     "Medine": {
+      "education": 0,
+      "military": 0,
+      "development": 1,
+      "health": 0
+    },
+    "Sofya": {
       "education": 0,
       "military": 0,
       "development": 1,
