@@ -39,7 +39,7 @@
     "Bosna Hersek": {
       "education": 10,
       "military": 10,
-      "development": 10,
+      "development": 9,
       "health": 10
     },
     "Fas": {
@@ -94,7 +94,7 @@
       "education": 9,
       "military": 10,
       "development": 9,
-      "health": 8
+      "health": 7
     },
     "Meksiko": {
       "education": 9,
@@ -107,6 +107,12 @@
       "military": 8,
       "development": 10,
       "health": 9
+    },
+    "Guiyang": {
+      "education": 9,
+      "military": 0,
+      "development": 1,
+      "health": 1
     },
     "Temeşvar": {
       "education": 9,
@@ -121,7 +127,7 @@
       "health": 1
     },
     "İslamabad": {
-      "education": 9,
+      "education": 8,
       "military": 5,
       "development": 8,
       "health": 3
@@ -181,7 +187,7 @@
       "health": 5
     },
     "Filistin": {
-      "education": 8,
+      "education": 7,
       "military": 6,
       "development": 5,
       "health": 4
@@ -235,13 +241,13 @@
       "health": 5
     },
     "New York": {
-      "education": 7,
+      "education": 6,
       "military": 5,
       "development": 8,
       "health": 6
     },
     "Moldova": {
-      "education": 7,
+      "education": 6,
       "military": 6,
       "development": 2,
       "health": 0
@@ -295,13 +301,13 @@
       "health": 3
     },
     "Mendoza": {
-      "education": 6,
+      "education": 5,
       "military": 8,
       "development": 5,
       "health": 10
     },
     "Harbin": {
-      "education": 6,
+      "education": 5,
       "military": 3,
       "development": 5,
       "health": 2
@@ -346,7 +352,7 @@
       "education": 5,
       "military": 2,
       "development": 9,
-      "health": 8
+      "health": 7
     },
     "Tahran": {
       "education": 5,
@@ -361,7 +367,7 @@
       "health": 5
     },
     "Kosova": {
-      "education": 5,
+      "education": 4,
       "military": 6,
       "development": 3,
       "health": 2
@@ -475,13 +481,13 @@
       "health": 6
     },
     "İsrail": {
-      "education": 3,
+      "education": 2,
       "military": 9,
-      "development": 10,
+      "development": 9,
       "health": 6
     },
     "Huzistan": {
-      "education": 3,
+      "education": 2,
       "military": 6,
       "development": 7,
       "health": 3
@@ -705,7 +711,7 @@
     "Sibirya": {
       "education": 0,
       "military": 6,
-      "development": 9,
+      "development": 10,
       "health": 8
     },
     "Moskova": {
@@ -790,7 +796,7 @@
       "education": 0,
       "military": 2,
       "development": 7,
-      "health": 8
+      "health": 7
     },
     "Jalisco": {
       "education": 0,
@@ -886,7 +892,7 @@
       "education": 0,
       "military": 0,
       "development": 6,
-      "health": 6
+      "health": 9
     },
     "Singapur": {
       "education": 0,
@@ -995,12 +1001,6 @@
       "military": 0,
       "development": 1,
       "health": 0
-    },
-    "Guiyang": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 1
     }
   }
 }
