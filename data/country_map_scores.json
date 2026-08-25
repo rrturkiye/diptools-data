@@ -1,7 +1,13 @@
 {
   "provinceScores": {
-    "Chiapas": {
+    "Atina": {
       "education": 11,
+      "military": 2,
+      "development": 0,
+      "health": 0
+    },
+    "Chiapas": {
+      "education": 10,
       "military": 0,
       "development": 4,
       "health": 3
@@ -61,7 +67,7 @@
       "health": 10
     },
     "Venezuela": {
-      "education": 10,
+      "education": 9,
       "military": 7,
       "development": 8,
       "health": 7
@@ -121,7 +127,7 @@
       "health": 9
     },
     "Musul": {
-      "education": 9,
+      "education": 8,
       "military": 8,
       "development": 1,
       "health": 1
@@ -181,7 +187,7 @@
       "health": 4
     },
     "Roma": {
-      "education": 8,
+      "education": 7,
       "military": 6,
       "development": 8,
       "health": 9
@@ -300,17 +306,17 @@
       "development": 4,
       "health": 3
     },
-    "Mendoza": {
-      "education": 5,
-      "military": 8,
-      "development": 5,
-      "health": 10
-    },
     "Harbin": {
       "education": 5,
       "military": 3,
       "development": 5,
       "health": 2
+    },
+    "Mendoza": {
+      "education": 5,
+      "military": 8,
+      "development": 5,
+      "health": 10
     },
     "Pavlodar": {
       "education": 5,
@@ -361,7 +367,7 @@
       "health": 10
     },
     "Marsilya": {
-      "education": 5,
+      "education": 4,
       "military": 9,
       "development": 9,
       "health": 5
@@ -803,12 +809,6 @@
       "military": 2,
       "development": 8,
       "health": 7
-    },
-    "Atina": {
-      "education": 0,
-      "military": 2,
-      "development": 0,
-      "health": 0
     },
     "Libya": {
       "education": 0,
