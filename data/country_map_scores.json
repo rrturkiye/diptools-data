@@ -61,7 +61,7 @@
       "health": 7
     },
     "Kolombiya": {
-      "education": 10,
+      "education": 9,
       "military": 9,
       "development": 10,
       "health": 10
@@ -135,7 +135,7 @@
     "Bakü": {
       "education": 8,
       "military": 6,
-      "development": 7,
+      "development": 6,
       "health": 8
     },
     "Napoli": {
@@ -255,7 +255,7 @@
     "Madrid": {
       "education": 6,
       "military": 2,
-      "development": 3,
+      "development": 8,
       "health": 6
     },
     "Balkan": {
@@ -378,6 +378,12 @@
       "development": 1,
       "health": 2
     },
+    "Güney Azerbaycan": {
+      "education": 4,
+      "military": 10,
+      "development": 7,
+      "health": 8
+    },
     "Astana": {
       "education": 4,
       "military": 5,
@@ -393,7 +399,7 @@
     "Kaliforniya": {
       "education": 4,
       "military": 6,
-      "development": 8,
+      "development": 7,
       "health": 10
     },
     "Nahçıvan": {
@@ -409,27 +415,21 @@
       "health": 7
     },
     "Kuveyt": {
-      "education": 4,
+      "education": 3,
       "military": 3,
       "development": 7,
       "health": 4
     },
     "St. Petersburg": {
-      "education": 4,
+      "education": 3,
       "military": 10,
       "development": 5,
       "health": 5
     },
     "İstanbul": {
-      "education": 4,
+      "education": 3,
       "military": 4,
       "development": 9,
-      "health": 8
-    },
-    "Güney Azerbaycan": {
-      "education": 3,
-      "military": 10,
-      "development": 7,
       "health": 8
     },
     "Sumatra": {
@@ -663,7 +663,7 @@
     "Lahor": {
       "education": 0,
       "military": 8,
-      "development": 6,
+      "development": 5,
       "health": 10
     },
     "Kahire": {
@@ -699,7 +699,7 @@
     "Visayas": {
       "education": 0,
       "military": 6,
-      "development": 5,
+      "development": 4,
       "health": 4
     },
     "Sibirya": {
@@ -723,7 +723,7 @@
     "Diyarbakır": {
       "education": 0,
       "military": 5,
-      "development": 7,
+      "development": 6,
       "health": 6
     },
     "Perm": {
@@ -915,7 +915,7 @@
     "Yemen": {
       "education": 0,
       "military": 0,
-      "development": 4,
+      "development": 3,
       "health": 2
     },
     "Asvan": {
