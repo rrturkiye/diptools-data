@@ -46,7 +46,7 @@
       "education": 10,
       "military": 10,
       "development": 11,
-      "health": 10
+      "health": 11
     },
     "Brasília": {
       "education": 10,
@@ -118,7 +118,7 @@
       "education": 9,
       "military": 8,
       "development": 1,
-      "health": 0
+      "health": 1
     },
     "İslamabad": {
       "education": 9,
@@ -160,7 +160,7 @@
       "education": 8,
       "military": 11,
       "development": 7,
-      "health": 11
+      "health": 10
     },
     "Lombardiya": {
       "education": 8,
@@ -191,6 +191,12 @@
       "military": 7,
       "development": 8,
       "health": 8
+    },
+    "Mindanao": {
+      "education": 7,
+      "military": 8,
+      "development": 8,
+      "health": 7
     },
     "Hırvatistan": {
       "education": 7,
@@ -227,12 +233,6 @@
       "military": 3,
       "development": 4,
       "health": 5
-    },
-    "Mindanao": {
-      "education": 7,
-      "military": 8,
-      "development": 8,
-      "health": 7
     },
     "New York": {
       "education": 7,
@@ -426,6 +426,12 @@
       "development": 9,
       "health": 8
     },
+    "Güney Azerbaycan": {
+      "education": 3,
+      "military": 10,
+      "development": 7,
+      "health": 7
+    },
     "Sumatra": {
       "education": 3,
       "military": 0,
@@ -481,7 +487,7 @@
       "health": 3
     },
     "Karabağ": {
-      "education": 3,
+      "education": 2,
       "military": 1,
       "development": 2,
       "health": 2
@@ -545,12 +551,6 @@
       "military": 5,
       "development": 6,
       "health": 6
-    },
-    "Güney Azerbaycan": {
-      "education": 1,
-      "military": 10,
-      "development": 7,
-      "health": 7
     },
     "Halep": {
       "education": 1,
@@ -729,7 +729,7 @@
     "Perm": {
       "education": 0,
       "military": 4,
-      "development": 2,
+      "development": 1,
       "health": 0
     },
     "Girit ve Adalar": {
@@ -942,6 +942,12 @@
       "development": 3,
       "health": 2
     },
+    "Tibet": {
+      "education": 0,
+      "military": 0,
+      "development": 2,
+      "health": 1
+    },
     "Araucanía": {
       "education": 0,
       "military": 0,
@@ -959,12 +965,6 @@
       "military": 0,
       "development": 1,
       "health": 0
-    },
-    "Tibet": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 1
     },
     "Doğu Timor": {
       "education": 0,
