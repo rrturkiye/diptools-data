@@ -138,15 +138,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/karaci.png?v=3",
       "countryId": "7f0c0ac2-db98-4d71-a9ca-95051310492e"
     },
-    "Jalisco": {
-      "code": null,
-      "color": "#108410",
-      "name": "Imperio Mexicano",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
-    },
     "Almatı": {
       "code": null,
       "color": "#6f11d4",
@@ -164,6 +155,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1787298983899.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kandahar.png?v=3",
       "countryId": "c42dd359-c4ba-4d3e-836e-f544d8d3285c"
+    },
+    "Jalisco": {
+      "code": null,
+      "color": "#348c31",
+      "name": "México Oriental",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
     },
     "Musul": {
       "code": null,
@@ -363,7 +363,7 @@
       "coatUrl": "https://diplomacia.com.tr/coats/omsk.png?v=3",
       "countryId": "86ab9188-3b20-4d6d-a081-77659c900a9b"
     },
-    "Şam": {
+    "��am": {
       "code": null,
       "color": "#aaa3c2",
       "name": "İslam Devleti",
@@ -779,7 +779,7 @@
     },
     "Hırvatistan": {
       "code": null,
-      "color": "#1b1ea1",
+      "color": "#4e134e",
       "name": "Balkan İslâm İmparatorluğu",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1786652070346.jpeg",
@@ -860,7 +860,7 @@
     },
     "Sırbistan": {
       "code": null,
-      "color": "#1b1ea1",
+      "color": "#4e134e",
       "name": "Balkan İslâm İmparatorluğu",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1786652070346.jpeg",
@@ -878,7 +878,7 @@
     },
     "Bosna Hersek": {
       "code": null,
-      "color": "#1b1ea1",
+      "color": "#4e134e",
       "name": "Balkan İslâm İmparatorluğu",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1786652070346.jpeg",
@@ -1538,15 +1538,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
       "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
     },
-    "İç Moğolistan": {
-      "code": null,
-      "color": "#348c31",
-      "name": "México Oriental",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
-    },
     "Teksas": {
       "code": null,
       "color": "#ed6526",
@@ -1694,6 +1685,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
+    },
+    "İç Moğolistan": {
+      "code": null,
+      "color": "#348c31",
+      "name": "México Oriental",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
     }
   }
 }
