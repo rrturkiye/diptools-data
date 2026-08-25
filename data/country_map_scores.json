@@ -182,7 +182,7 @@
     },
     "Filistin": {
       "education": 8,
-      "military": 6,
+      "military": 7,
       "development": 5,
       "health": 4
     },
@@ -195,7 +195,7 @@
     "Buenos Aires": {
       "education": 7,
       "military": 8,
-      "development": 5,
+      "development": 4,
       "health": 5
     },
     "Güney Kıbrıs": {
@@ -243,7 +243,7 @@
     "Sırbistan": {
       "education": 7,
       "military": 3,
-      "development": 4,
+      "development": 3,
       "health": 5
     },
     "Mendoza": {
@@ -351,7 +351,7 @@
     "Ohio": {
       "education": 5,
       "military": 4,
-      "development": 2,
+      "development": 1,
       "health": 4
     },
     "Ankara": {
@@ -410,8 +410,8 @@
     },
     "Kaliforniya": {
       "education": 4,
-      "military": 7,
-      "development": 8,
+      "military": 6,
+      "development": 7,
       "health": 10
     },
     "Nahçıvan": {
@@ -546,6 +546,12 @@
       "development": 1,
       "health": 1
     },
+    "Jalisco": {
+      "education": 1,
+      "military": 2,
+      "development": 8,
+      "health": 6
+    },
     "Florida": {
       "education": 1,
       "military": 1,
@@ -555,7 +561,7 @@
     "Hürmüz": {
       "education": 1,
       "military": 5,
-      "development": 6,
+      "development": 5,
       "health": 6
     },
     "Halep": {
@@ -615,7 +621,7 @@
     "Azerbaycan": {
       "education": 1,
       "military": 3,
-      "development": 7,
+      "development": 6,
       "health": 5
     },
     "Córdoba": {
@@ -798,12 +804,6 @@
       "development": 7,
       "health": 8
     },
-    "Jalisco": {
-      "education": 0,
-      "military": 2,
-      "development": 8,
-      "health": 6
-    },
     "Libya": {
       "education": 0,
       "military": 2,
@@ -813,7 +813,7 @@
     "Ural": {
       "education": 0,
       "military": 2,
-      "development": 3,
+      "development": 2,
       "health": 3
     },
     "Erzurum": {
@@ -852,10 +852,16 @@
       "development": 7,
       "health": 10
     },
-    "Şandong": {
+    "Pekin": {
       "education": 0,
       "military": 0,
       "development": 10,
+      "health": 0
+    },
+    "Şandong": {
+      "education": 0,
+      "military": 0,
+      "development": 9,
       "health": 0
     },
     "Illinois": {
@@ -967,12 +973,6 @@
       "health": 1
     },
     "Normandiya": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 0
-    },
-    "Pekin": {
       "education": 0,
       "military": 0,
       "development": 1,
