@@ -21,6 +21,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/mora.png?v=3",
       "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451"
     },
+    "Lübnan": {
+      "code": null,
+      "color": "#8c1214",
+      "name": "ROMAN EMPİRE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
+      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
+    },
     "Bahreyn": {
       "code": null,
       "color": "#19596c",
@@ -327,15 +336,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
       "countryId": "15054b7d-7503-4345-9434-c67d898b8ac0"
     },
-    "Lübnan": {
-      "code": null,
-      "color": "#8c1214",
-      "name": "ROMAN EMPİRE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
-      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
-    },
     "Yemen": {
       "code": null,
       "color": "#1f1f2e",
@@ -470,15 +470,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/roma.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
-    },
-    "Ermenistan": {
-      "code": null,
-      "color": "#8c1214",
-      "name": "ROMAN EMPİRE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
-      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
     },
     "İslamabad": {
       "code": null,
@@ -885,6 +876,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "34fc29ff-112d-4547-92a5-4306ab0a0a99"
     },
+    "Ermenistan": {
+      "code": null,
+      "color": "#8c1214",
+      "name": "ROMAN EMPİRE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
+      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
+    },
     "Bosna Hersek": {
       "code": null,
       "color": "#1b1ea1",
@@ -967,7 +967,7 @@
     },
     "Huzistan": {
       "code": null,
-      "color": null,
+      "color": "#8e0b0b",
       "name": "Huzistan Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
