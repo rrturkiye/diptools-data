@@ -46,7 +46,7 @@
       "education": 10,
       "military": 10,
       "development": 11,
-      "health": 11
+      "health": 10
     },
     "Brasília": {
       "education": 10,
@@ -69,7 +69,7 @@
     "Düsseldorf": {
       "education": 9,
       "military": 0,
-      "development": 8,
+      "development": 7,
       "health": 6
     },
     "Fargona": {
@@ -123,7 +123,7 @@
     "İslamabad": {
       "education": 9,
       "military": 5,
-      "development": 7,
+      "development": 8,
       "health": 3
     },
     "Daşoguz": {
@@ -160,7 +160,7 @@
       "education": 8,
       "military": 11,
       "development": 7,
-      "health": 10
+      "health": 11
     },
     "Lombardiya": {
       "education": 8,
@@ -454,7 +454,7 @@
       "education": 3,
       "military": 0,
       "development": 5,
-      "health": 1
+      "health": 2
     },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "education": 3,
@@ -498,12 +498,6 @@
       "development": 10,
       "health": 8
     },
-    "Kabil": {
-      "education": 2,
-      "military": 7,
-      "development": 1,
-      "health": 2
-    },
     "Cezayir": {
       "education": 2,
       "military": 2,
@@ -519,14 +513,20 @@
     "Manila": {
       "education": 1,
       "military": 1,
-      "development": 6,
+      "development": 5,
       "health": 1
     },
     "Karakalpakstan": {
       "education": 1,
-      "military": 7,
+      "military": 8,
       "development": 3,
-      "health": 5
+      "health": 6
+    },
+    "Kabil": {
+      "education": 1,
+      "military": 4,
+      "development": 1,
+      "health": 1
     },
     "Kuzey İrlanda": {
       "education": 1,
@@ -597,7 +597,7 @@
     "Azerbaycan": {
       "education": 1,
       "military": 3,
-      "development": 7,
+      "development": 6,
       "health": 5
     },
     "Córdoba": {
@@ -617,6 +617,12 @@
       "military": 6,
       "development": 4,
       "health": 8
+    },
+    "Güney Azerbaycan": {
+      "education": 1,
+      "military": 10,
+      "development": 7,
+      "health": 7
     },
     "Lübnan": {
       "education": 1,
@@ -641,12 +647,6 @@
       "military": 10,
       "development": 4,
       "health": 4
-    },
-    "Güney Azerbaycan": {
-      "education": 0,
-      "military": 10,
-      "development": 6,
-      "health": 7
     },
     "Taşkent": {
       "education": 0,
@@ -711,7 +711,7 @@
     "Moskova": {
       "education": 0,
       "military": 5,
-      "development": 4,
+      "development": 7,
       "health": 3
     },
     "Bretonya": {
@@ -783,7 +783,7 @@
     "İsfahan": {
       "education": 0,
       "military": 2,
-      "development": 7,
+      "development": 6,
       "health": 5
     },
     "Kuzey Makedonya": {
@@ -833,6 +833,12 @@
       "military": 1,
       "development": 9,
       "health": 9
+    },
+    "Çengdu": {
+      "education": 0,
+      "military": 1,
+      "development": 0,
+      "health": 0
     },
     "Pennsylvania": {
       "education": 0,
