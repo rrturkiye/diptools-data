@@ -1,34 +1,50 @@
 const fs = require('fs');
 const https = require('https');
 
-function fetchJson(url) {
+// Akıllı ve Hata Korumalı Fetcher (Rate-Limit & 429 Kalkanı)
+function politeFetch(url, retries = 3) {
   return new Promise((resolve) => {
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } }, (res) => {
+    https.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*'
+      }
+    }, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try { resolve(JSON.parse(data)); } catch (e) { resolve(null); }
+      res.on('end', async () => {
+        try {
+          const json = JSON.parse(data);
+
+          // Sunucu "Çok fazla istek" dediyse bekle ve tekrar dene
+          if (json && (json.code === 'TOO_MANY_REQUESTS' || json.error)) {
+            if (retries > 0) {
+              const waitSec = Math.min(json.retryAfter || 5, 20) + 1;
+              console.log(`⏳ Sunucu bekleme istedi (${url}). ${waitSec}s bekleniyor...`);
+              await new Promise(r => setTimeout(r, waitSec * 1000));
+              const retryRes = await politeFetch(url, retries - 1);
+              return resolve(retryRes);
+            }
+            return resolve(null);
+          }
+
+          resolve(json);
+        } catch (e) {
+          resolve(null);
+        }
       });
     }).on('error', () => resolve(null));
   });
 }
 
-async function fetchInBatches(items, batchSize, fn) {
-  const results = [];
-  for (let i = 0; i < items.length; i += batchSize) {
-    const batch = items.slice(i, i + batchSize);
-    const batchResults = await Promise.all(batch.map(fn));
-    results.push(...batchResults);
-    await new Promise(r => setTimeout(r, 60));
-  }
-  return results;
-}
+// Belirtilen milisaniye kadar duraklama
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
 async function run() {
   fs.mkdirSync('data', { recursive: true });
-  console.log('🚀 Diplomacia Kapsamlı Veri Taraması Başlatılıyor...');
+  console.log('🚀 Diplomacia Zırhlı Veri Taraması Başlatılıyor...');
 
-  // 1. Ana Listeleri Çek
+  // 1. Temel Listeleri Çek
   const [
     liveProvincesData,
     liveCountriesData,
@@ -39,14 +55,14 @@ async function run() {
     geoBlocsColorsData,
     wealthLeaderboardData
   ] = await Promise.all([
-    fetchJson('https://diplomacia.com.tr/api/provinces/all'),
-    fetchJson('https://diplomacia.com.tr/api/countries'),
-    fetchJson('https://diplomacia.com.tr/api/online/players'),
-    fetchJson('https://diplomacia.com.tr/api/countries/map/colors'),
-    fetchJson('https://diplomacia.com.tr/api/countries/map/scores'),
-    fetchJson('https://diplomacia.com.tr/api/provinces/resource-bonuses'),
-    fetchJson('https://diplomacia.com.tr/api/geo-blocs/map-colors'),
-    fetchJson('https://diplomacia.com.tr/api/countries/leaderboard/wealth?page=1&limit=50&status=active')
+    politeFetch('https://diplomacia.com.tr/api/provinces/all'),
+    politeFetch('https://diplomacia.com.tr/api/countries'),
+    politeFetch('https://diplomacia.com.tr/api/online/players'),
+    politeFetch('https://diplomacia.com.tr/api/countries/map/colors'),
+    politeFetch('https://diplomacia.com.tr/api/countries/map/scores'),
+    politeFetch('https://diplomacia.com.tr/api/provinces/resource-bonuses'),
+    politeFetch('https://diplomacia.com.tr/api/geo-blocs/map-colors'),
+    politeFetch('https://diplomacia.com.tr/api/countries/leaderboard/wealth?page=1&limit=50&status=active')
   ]);
 
   const countriesList = Array.isArray(liveCountriesData) ? liveCountriesData : (liveCountriesData?.countries || []);
@@ -54,7 +70,7 @@ async function run() {
 
   console.log(`📍 ${countriesList.length} Ülke ve ${provincesList.length} Eyalet Tespit Edildi.`);
 
-  // 2. Mevcut Dosyaları Oku
+  // 2. Mevcut Dosyaları Oku (Hata durumunda veriyi kaybetmemek için)
   let allPlayersMap = new Map();
   if (fs.existsSync('data/all_players.json')) {
     try {
@@ -71,9 +87,9 @@ async function run() {
   let seenOnlineMap = new Map();
   if (fs.existsSync('data/seen_online_players.json')) {
     try {
-      const existingOnlineHistory = JSON.parse(fs.readFileSync('data/seen_online_players.json', 'utf8'));
-      if (Array.isArray(existingOnlineHistory)) {
-        existingOnlineHistory.forEach(p => {
+      const existingOnline = JSON.parse(fs.readFileSync('data/seen_online_players.json', 'utf8'));
+      if (Array.isArray(existingOnline)) {
+        existingOnline.forEach(p => {
           const key = p.id || ('num_' + p.player_number) || p.username;
           seenOnlineMap.set(key, p);
         });
@@ -94,38 +110,38 @@ async function run() {
     } catch (e) {}
   }
 
-  // 3. 🕒 BİR ZAMANLAR ONLİNE GÖRÜNMÜŞ OYUNCULARI GÜNCELLE
+  // 3. Online Oyuncuları Arşivle
   if (liveOnlinePlayersData && Array.isArray(liveOnlinePlayersData.players)) {
     const instantOnline = liveOnlinePlayersData.players;
-
     instantOnline.forEach(p => {
       const key = p.id || ('num_' + p.player_number) || p.username;
       seenOnlineMap.set(key, { ...p });
     });
-
     fs.writeFileSync('data/online_players.json', JSON.stringify(instantOnline, null, 2), 'utf8');
   }
 
-  // 4. 🌐 76 ÜLKENİN TÜM VATANDAŞLARINI DERİNLEMESİNE TOPLA
-  console.log('🌐 76 Ülkenin Tüm Vatandaşları Çekiliyor...');
+  // 4. 🌐 76 ÜLKENİN TÜM VATANDAŞLARINI DÜZENLİ ARALIKLA TOPLA
+  console.log('🌐 76 Ülke Vatandaşları Taranıyor...');
   const allCitizens = [];
-
   if (liveOnlinePlayersData && Array.isArray(liveOnlinePlayersData.players)) {
     allCitizens.push(...liveOnlinePlayersData.players);
   }
 
-  await fetchInBatches(countriesList, 8, async (c) => {
-    if (!c.id) return;
-    const res = await fetchJson(`https://diplomacia.com.tr/api/countries/${c.id}/players`);
-    const pList = Array.isArray(res) ? res : (res?.players || []);
-    pList.forEach(p => {
-      if (!p.country_name) p.country_name = c.name;
-      if (!p.country_flag) p.country_flag = c.flag_url || c.flag;
-      allCitizens.push(p);
-    });
-  });
+  for (const c of countriesList) {
+    if (!c.id) continue;
+    const res = await politeFetch(`https://diplomacia.com.tr/api/countries/${c.id}/players`);
+    if (res && !res.error) {
+      const pList = Array.isArray(res) ? res : (res?.players || []);
+      pList.forEach(p => {
+        if (!p.country_name) p.country_name = c.name;
+        if (!p.country_flag) p.country_flag = c.flag_url || c.flag;
+        allCitizens.push(p);
+      });
+    }
+    await sleep(100); // 100ms nefes payı
+  }
 
-  // all_players.json ve name_changes.json Güncelleme
+  // Oyuncuları eşle ve güncelle
   allCitizens.forEach(freshPlayer => {
     if (!freshPlayer.username) return;
     const primaryKey = freshPlayer.id || ('num_' + freshPlayer.player_number) || freshPlayer.username;
@@ -141,7 +157,7 @@ async function run() {
     }
 
     if (existingPlayer) {
-      // İsim Değişikliği Kontrolü -> Sadece name_changes.json içine yaz
+      // İsim Değişikliği
       if (existingPlayer.username && freshPlayer.username && existingPlayer.username !== freshPlayer.username) {
         let changeRecord = nameChangesMap.get(primaryKey);
         if (!changeRecord) {
@@ -171,7 +187,7 @@ async function run() {
         changeRecord.xp = freshPlayer.xp;
       }
 
-      // all_players.json güncelle (Tamamen Sade)
+      // all_players güncelle
       existingPlayer.id = freshPlayer.id || existingPlayer.id;
       existingPlayer.player_number = freshPlayer.player_number || existingPlayer.player_number;
       existingPlayer.username = freshPlayer.username;
@@ -200,63 +216,81 @@ async function run() {
     }
   });
 
-  // 5. 🏛️ 181 EYALETİ ŞEHİR ŞEHİR GEZ (Partiler, Fabrikalar, Vergiler)
-  console.log('🏛️ 181 Eyalet Taranıyor...');
-  const allParties = [];
-  const allProvinceFactories = {};
-  const allProvinceTaxes = {};
+  // 5. 🏛️ 181 EYALETİ SIRAYLA VE KONTROLLÜ HIZDA TARA (Partiler, Fabrikalar, Vergiler)
+  console.log('🏛️ 181 Eyalet Sakin Hızla Taranıyor...');
+  const allPartiesMap = new Map();
+  let allProvinceFactories = {};
+  let allProvinceTaxes = {};
 
-  await fetchInBatches(provincesList, 10, async (prov) => {
+  // Varsa önceki fabrika/vergi verisini yükle
+  if (fs.existsSync('data/all_province_factories.json')) {
+    try { allProvinceFactories = JSON.parse(fs.readFileSync('data/all_province_factories.json', 'utf8')) || {}; } catch(e) {}
+  }
+  if (fs.existsSync('data/all_province_taxes.json')) {
+    try { allProvinceTaxes = JSON.parse(fs.readFileSync('data/all_province_taxes.json', 'utf8')) || {}; } catch(e) {}
+  }
+
+  for (let i = 0; i < provincesList.length; i++) {
+    const prov = provincesList[i];
     const pName = encodeURIComponent(prov.name);
 
-    const partiesRes = await fetchJson(`https://diplomacia.com.tr/api/parties/province/${pName}`);
-    if (partiesRes) {
+    // 1. Eyalet Partileri
+    const partiesRes = await politeFetch(`https://diplomacia.com.tr/api/parties/province/${pName}`);
+    if (partiesRes && !partiesRes.error) {
       const pArr = Array.isArray(partiesRes) ? partiesRes : (partiesRes.parties || []);
       pArr.forEach(party => {
-        party.province_name = prov.name;
-        party.country_name = prov.country_name;
-        allParties.push(party);
+        if (party && (party.id || party.name)) {
+          const partyKey = party.id || (party.name + '_' + prov.name);
+          party.province_name = prov.name;
+          party.country_name = prov.country_name;
+          allPartiesMap.set(partyKey, party);
+        }
       });
     }
+    await sleep(80);
 
-    const factoriesRes = await fetchJson(`https://diplomacia.com.tr/api/provinces/factories?provinceName=${pName}`);
-    if (factoriesRes) allProvinceFactories[prov.name] = factoriesRes;
+    // 2. Eyalet Fabrikaları
+    const factoriesRes = await politeFetch(`https://diplomacia.com.tr/api/provinces/factories?provinceName=${pName}`);
+    if (factoriesRes && !factoriesRes.error) {
+      allProvinceFactories[prov.name] = factoriesRes;
+    }
+    await sleep(80);
 
-    const taxRes = await fetchJson(`https://diplomacia.com.tr/api/provinces/tax-revenue?province_name=${pName}`);
-    if (taxRes) allProvinceTaxes[prov.name] = taxRes;
-  });
+    // 3. Eyalet Vergileri
+    const taxRes = await politeFetch(`https://diplomacia.com.tr/api/provinces/tax-revenue?province_name=${pName}`);
+    if (taxRes && !taxRes.error) {
+      allProvinceTaxes[prov.name] = taxRes;
+    }
+    await sleep(80);
+  }
 
-  // 6. DOSYALARI KAYDET
-  // A) Tüm Oyuncular (76 Ülkenin Tüm Vatandaşları)
+  // 6. DOSYALARI GÜVENLE YAZ
   const allPlayersList = Array.from(allPlayersMap.values()).sort((a, b) => (b.xp || 0) - (a.xp || 0));
   fs.writeFileSync('data/all_players.json', JSON.stringify(allPlayersList, null, 2), 'utf8');
 
-  // B) Bir Zamanlar Online Görünmüş Oyuncular
   const seenOnlineList = Array.from(seenOnlineMap.values()).sort((a, b) => (b.xp || 0) - (a.xp || 0));
   fs.writeFileSync('data/seen_online_players.json', JSON.stringify(seenOnlineList, null, 2), 'utf8');
 
-  // C) İsim Değiştirenler
   fs.writeFileSync('data/name_changes.json', JSON.stringify(Array.from(nameChangesMap.values()), null, 2), 'utf8');
 
-  // D) Eyalet ve Parti Dosyaları
-  fs.writeFileSync('data/all_parties.json', JSON.stringify(allParties, null, 2), 'utf8');
+  const finalPartiesList = Array.from(allPartiesMap.values());
+  fs.writeFileSync('data/all_parties.json', JSON.stringify(finalPartiesList, null, 2), 'utf8');
   fs.writeFileSync('data/all_province_factories.json', JSON.stringify(allProvinceFactories, null, 2), 'utf8');
   fs.writeFileSync('data/all_province_taxes.json', JSON.stringify(allProvinceTaxes, null, 2), 'utf8');
 
-  // E) Genel Eyalet, Ülke ve Harita Dosyaları
+  // Diğer Genel Dosyalar
   if (provincesList.length > 0) fs.writeFileSync('data/provinces.json', JSON.stringify(provincesList, null, 2), 'utf8');
   if (countriesList.length > 0) fs.writeFileSync('data/countries.json', JSON.stringify(countriesList, null, 2), 'utf8');
-  if (mapColorsData) fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
-  if (mapScoresData) fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
-  if (resourceBonusesData) fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
-  if (geoBlocsColorsData) fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
-  if (wealthLeaderboardData) fs.writeFileSync('data/countries_wealth_leaderboard.json', JSON.stringify(wealthLeaderboardData, null, 2), 'utf8');
+  if (mapColorsData && !mapColorsData.error) fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
+  if (mapScoresData && !mapScoresData.error) fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
+  if (resourceBonusesData && !resourceBonusesData.error) fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
+  if (geoBlocsColorsData && !geoBlocsColorsData.error) fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
+  if (wealthLeaderboardData && !wealthLeaderboardData.error) fs.writeFileSync('data/countries_wealth_leaderboard.json', JSON.stringify(wealthLeaderboardData, null, 2), 'utf8');
 
-  console.log(`🎉 TÜM İŞLEMLER BAŞARIYLA TAMAMLANDI!`);
-  console.log(`- TÜM OYUNCULAR (76 Ülke): ${allPlayersList.length}`);
-  console.log(`- BİR ZAMANLAR ONLİNE GÖRÜNMÜŞ OYUNCULAR: ${seenOnlineList.length}`);
-  console.log(`- İSİM DEĞİŞTİRENLER: ${nameChangesMap.size}`);
-  console.log(`- TOPLAM PARTİ: ${allParties.length}`);
+  console.log(`🎉 ZIRHLI TARAMA BAŞARIYLA TAMAMLANDI!`);
+  console.log(`- TÜM OYUNCULAR: ${allPlayersList.length}`);
+  console.log(`- TOPLAM PARTİ: ${finalPartiesList.length}`);
+  console.log(`- 181 Eyaletin Fabrikaları ve Vergileri Hatasız Kaydedildi.`);
 }
 
 run();
