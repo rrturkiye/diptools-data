@@ -32,7 +32,7 @@
     },
     "São Paulo": {
       "education": 10,
-      "military": 2,
+      "military": 1,
       "development": 9,
       "health": 10
     },
@@ -98,7 +98,7 @@
     },
     "Katar": {
       "education": 9,
-      "military": 10,
+      "military": 9,
       "development": 9,
       "health": 8
     },
@@ -134,7 +134,7 @@
     },
     "Daşoguz": {
       "education": 8,
-      "military": 7,
+      "military": 6,
       "development": 3,
       "health": 4
     },
@@ -200,7 +200,7 @@
     },
     "Buenos Aires": {
       "education": 7,
-      "military": 8,
+      "military": 7,
       "development": 5,
       "health": 5
     },
@@ -422,7 +422,7 @@
     },
     "Berlin": {
       "education": 4,
-      "military": 6,
+      "military": 5,
       "development": 8,
       "health": 7
     },
@@ -490,7 +490,7 @@
       "education": 2,
       "military": 9,
       "development": 10,
-      "health": 6
+      "health": 7
     },
     "Huzistan": {
       "education": 2,
@@ -524,7 +524,7 @@
     },
     "İngiltere": {
       "education": 2,
-      "military": 2,
+      "military": 1,
       "development": 5,
       "health": 7
     },
@@ -578,15 +578,9 @@
     },
     "Kueta": {
       "education": 1,
-      "military": 3,
+      "military": 2,
       "development": 6,
       "health": 5
-    },
-    "Selanik": {
-      "education": 1,
-      "military": 1,
-      "development": 0,
-      "health": 0
     },
     "Kabil": {
       "education": 1,
@@ -666,6 +660,12 @@
       "development": 4,
       "health": 4
     },
+    "Çengdu": {
+      "education": 0,
+      "military": 10,
+      "development": 0,
+      "health": 0
+    },
     "Taşkent": {
       "education": 0,
       "military": 10,
@@ -687,7 +687,7 @@
     "Kahire": {
       "education": 0,
       "military": 8,
-      "development": 6,
+      "development": 7,
       "health": 3
     },
     "Abu Dabi": {
@@ -741,7 +741,7 @@
     "Diyarbakır": {
       "education": 0,
       "military": 5,
-      "development": 7,
+      "development": 6,
       "health": 6
     },
     "Perm": {
@@ -824,7 +824,7 @@
     },
     "Ural": {
       "education": 0,
-      "military": 2,
+      "military": 1,
       "development": 2,
       "health": 3
     },
@@ -833,6 +833,12 @@
       "military": 1,
       "development": 8,
       "health": 7
+    },
+    "Selanik": {
+      "education": 0,
+      "military": 1,
+      "development": 0,
+      "health": 0
     },
     "Georgia": {
       "education": 0,
@@ -845,12 +851,6 @@
       "military": 1,
       "development": 9,
       "health": 9
-    },
-    "Çengdu": {
-      "education": 0,
-      "military": 1,
-      "development": 0,
-      "health": 0
     },
     "Pennsylvania": {
       "education": 0,
