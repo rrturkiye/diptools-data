@@ -42,6 +42,12 @@
       "development": 9,
       "health": 9
     },
+    "Kolombiya": {
+      "education": 10,
+      "military": 9,
+      "development": 10,
+      "health": 10
+    },
     "Bosna Hersek": {
       "education": 10,
       "military": 10,
@@ -61,16 +67,10 @@
       "health": 10
     },
     "Venezuela": {
-      "education": 10,
-      "military": 7,
-      "development": 8,
-      "health": 7
-    },
-    "Kolombiya": {
       "education": 9,
-      "military": 9,
-      "development": 10,
-      "health": 10
+      "military": 7,
+      "development": 7,
+      "health": 7
     },
     "Düsseldorf": {
       "education": 9,
@@ -94,7 +94,7 @@
       "education": 9,
       "military": 9,
       "development": 9,
-      "health": 7
+      "health": 6
     },
     "Katar": {
       "education": 9,
@@ -226,7 +226,7 @@
       "education": 7,
       "military": 3,
       "development": 8,
-      "health": 6
+      "health": 5
     },
     "Sinaloa": {
       "education": 7,
@@ -490,7 +490,7 @@
       "education": 2,
       "military": 9,
       "development": 10,
-      "health": 7
+      "health": 6
     },
     "Huzistan": {
       "education": 2,
@@ -538,7 +538,7 @@
       "education": 1,
       "military": 8,
       "development": 3,
-      "health": 6
+      "health": 5
     },
     "Kuzey İrlanda": {
       "education": 1,
@@ -646,7 +646,7 @@
       "education": 0,
       "military": 10,
       "development": 9,
-      "health": 7
+      "health": 6
     },
     "Suudi Arabistan": {
       "education": 0,
@@ -876,17 +876,17 @@
       "development": 9,
       "health": 7
     },
+    "Karaçi": {
+      "education": 0,
+      "military": 0,
+      "development": 8,
+      "health": 7
+    },
     "Papua": {
       "education": 0,
       "military": 0,
       "development": 7,
       "health": 0
-    },
-    "Karaçi": {
-      "education": 0,
-      "military": 0,
-      "development": 7,
-      "health": 5
     },
     "Kuala Lumpur": {
       "education": 0,
