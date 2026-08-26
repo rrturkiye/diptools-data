@@ -18,7 +18,7 @@ async function run() {
 
   console.log('API Verileri Çekiliyor...');
 
-  // 1. Tüm Canlı API İsteklerini Paralel Olarak Çek
+  // 1. Canlı API Verilerini Çek
   const [
     livePlayersData,
     liveProvincesData,
@@ -37,7 +37,7 @@ async function run() {
     fetchJson('https://diplomacia.com.tr/api/geo-blocs/map-colors')
   ]);
 
-  // 2. Mevcut all_players.json Arşivini Oku
+  // 2. Mevcut all_players.json Arşivini Oku (Tamamen Sade Yapı)
   let masterPlayersMap = new Map();
   if (fs.existsSync('data/all_players.json')) {
     try {
@@ -51,7 +51,21 @@ async function run() {
     } catch (e) {}
   }
 
-  // 3. Online Oyuncuları ID ve Player Number ile Doğrulayıp Güncelle
+  // 3. Mevcut name_changes.json Dosyasını Oku (Ayrı Takip Havuzu)
+  let nameChangesMap = new Map();
+  if (fs.existsSync('data/name_changes.json')) {
+    try {
+      const existingChanges = JSON.parse(fs.readFileSync('data/name_changes.json', 'utf8'));
+      if (Array.isArray(existingChanges)) {
+        existingChanges.forEach(entry => {
+          const key = entry.id || ('num_' + entry.player_number);
+          nameChangesMap.set(key, entry);
+        });
+      }
+    } catch (e) {}
+  }
+
+  // 4. Online Oyuncuları Eşle, Güncelle ve İsim Değişikliğini Ayrı Dosyada Kaydet
   let updatedCount = 0;
   let newCount = 0;
 
@@ -71,17 +85,44 @@ async function run() {
         }
       }
 
-      if (!existingPlayer && freshPlayer.username) {
-        for (const [k, p] of masterPlayersMap.entries()) {
-          if (p.username && p.username.toLowerCase() === freshPlayer.username.toLowerCase()) {
-            existingPlayer = p;
-            break;
-          }
-        }
-      }
-
       if (existingPlayer) {
-        // Tüm 8 veriyi en güncel haliyle değiştir
+        // İSİM DEĞİŞMİŞ Mİ? -> Değiştiyse AYRI DOSYAYA (name_changes.json) yaz
+        if (existingPlayer.username && freshPlayer.username && existingPlayer.username !== freshPlayer.username) {
+          let changeRecord = nameChangesMap.get(primaryKey);
+          if (!changeRecord) {
+            changeRecord = {
+              id: freshPlayer.id,
+              player_number: freshPlayer.player_number,
+              current_username: freshPlayer.username,
+              previous_usernames: [],
+              avatar_url: freshPlayer.avatar_url,
+              level: freshPlayer.level,
+              xp: freshPlayer.xp,
+              country_name: freshPlayer.country_name,
+              country_flag: freshPlayer.country_flag
+            };
+            nameChangesMap.set(primaryKey, changeRecord);
+          }
+
+          // Eski ismi listeye ekle
+          const alreadyLogged = changeRecord.previous_usernames.some(h => (typeof h === 'string' ? h : h.name) === existingPlayer.username);
+          if (!alreadyLogged) {
+            changeRecord.previous_usernames.push({
+              name: existingPlayer.username,
+              changed_at: new Date().toISOString()
+            });
+            console.log(`🔍 İsim Değişikliği Kaydedildi: "${existingPlayer.username}" ➔ "${freshPlayer.username}"`);
+          }
+
+          changeRecord.current_username = freshPlayer.username;
+          changeRecord.level = freshPlayer.level;
+          changeRecord.xp = freshPlayer.xp;
+          changeRecord.avatar_url = freshPlayer.avatar_url;
+          changeRecord.country_name = freshPlayer.country_name;
+          changeRecord.country_flag = freshPlayer.country_flag;
+        }
+
+        // all_players.json için GÜNCELLEME (Tamamen Sade, Ek Alan Yok)
         existingPlayer.id = freshPlayer.id || existingPlayer.id;
         existingPlayer.player_number = freshPlayer.player_number || existingPlayer.player_number;
         existingPlayer.username = freshPlayer.username;
@@ -112,43 +153,29 @@ async function run() {
       }
     });
 
-    // Anlık online oyuncular
     fs.writeFileSync('data/online_players.json', JSON.stringify(onlinePlayers, null, 2), 'utf8');
   }
 
-  // 4. Tüm Zamanların Oyuncularını XP'ye Göre Sırala ve Kaydet
+  // 5. all_players.json Dosyasını Kaydet (Tamamen Sade)
   const allPlayersList = Array.from(masterPlayersMap.values());
   allPlayersList.sort((a, b) => (b.xp || 0) - (a.xp || 0));
   fs.writeFileSync('data/all_players.json', JSON.stringify(allPlayersList, null, 2), 'utf8');
 
-  // 5. Eyalet ve Ülke Verileri
-  if (liveProvincesData && liveProvincesData.provinces) {
-    fs.writeFileSync('data/provinces.json', JSON.stringify(liveProvincesData.provinces, null, 2), 'utf8');
-  }
-  if (liveCountriesData) {
-    const cList = Array.isArray(liveCountriesData) ? liveCountriesData : (liveCountriesData.countries || []);
-    fs.writeFileSync('data/countries.json', JSON.stringify(cList, null, 2), 'utf8');
-  }
+  // 6. name_changes.json Dosyasını Kaydet (Sadece İsim Değiştirenler)
+  const nameChangesList = Array.from(nameChangesMap.values());
+  fs.writeFileSync('data/name_changes.json', JSON.stringify(nameChangesList, null, 2), 'utf8');
 
-  // 6. YENİ EKLENEN 4 APİ YEDEĞİ
-  if (mapColorsData) {
-    fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
-  }
-  if (mapScoresData) {
-    fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
-  }
-  if (resourceBonusesData) {
-    fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
-  }
-  if (geoBlocsColorsData) {
-    fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
-  }
+  // 7. Diğer Eyalet, Ülke ve Harita Dosyaları
+  if (liveProvincesData && liveProvincesData.provinces) fs.writeFileSync('data/provinces.json', JSON.stringify(liveProvincesData.provinces, null, 2), 'utf8');
+  if (liveCountriesData) fs.writeFileSync('data/countries.json', JSON.stringify(Array.isArray(liveCountriesData) ? liveCountriesData : (liveCountriesData.countries || []), null, 2), 'utf8');
+  if (mapColorsData) fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
+  if (mapScoresData) fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
+  if (resourceBonusesData) fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
+  if (geoBlocsColorsData) fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
 
-  console.log(`✅ Eşitleme Başarıyla Tamamlandı!`);
-  console.log(`- Güncellenen Oyuncular: ${updatedCount}`);
-  console.log(`- Yeni Eklenenler: ${newCount}`);
-  console.log(`- Toplam Arşiv: ${allPlayersList.length}`);
-  console.log(`- Yeni 4 Harita/Kaynak/Pakt API'si Başarıyla Kaydedildi.`);
+  console.log(`✅ Eşitleme Tamamlandı!`);
+  console.log(`- all_players.json Toplam: ${allPlayersList.length} (Sade)`);
+  console.log(`- name_changes.json İsim Değiştiren: ${nameChangesList.length}`);
 }
 
 run();
