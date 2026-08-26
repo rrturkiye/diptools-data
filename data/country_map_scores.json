@@ -266,7 +266,7 @@
     },
     "Madrid": {
       "education": 6,
-      "military": 3,
+      "military": 2,
       "development": 8,
       "health": 6
     },
@@ -314,7 +314,7 @@
     },
     "Harbin": {
       "education": 5,
-      "military": 3,
+      "military": 2,
       "development": 5,
       "health": 2
     },
@@ -768,6 +768,12 @@
       "development": 0,
       "health": 0
     },
+    "Guangzhou": {
+      "education": 0,
+      "military": 3,
+      "development": 4,
+      "health": 0
+    },
     "Barcelona": {
       "education": 0,
       "military": 3,
@@ -786,17 +792,17 @@
       "development": 1,
       "health": 0
     },
+    "İsfahan": {
+      "education": 0,
+      "military": 3,
+      "development": 6,
+      "health": 5
+    },
     "Papua Yeni Gine": {
       "education": 0,
       "military": 3,
       "development": 4,
       "health": 1
-    },
-    "İsfahan": {
-      "education": 0,
-      "military": 2,
-      "development": 6,
-      "health": 5
     },
     "Kuzey Makedonya": {
       "education": 0,
@@ -923,12 +929,6 @@
       "military": 0,
       "development": 4,
       "health": 3
-    },
-    "Guangzhou": {
-      "education": 0,
-      "military": 0,
-      "development": 4,
-      "health": 0
     },
     "Yemen": {
       "education": 0,
