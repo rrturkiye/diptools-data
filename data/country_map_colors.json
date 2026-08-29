@@ -50,7 +50,7 @@
     },
     "Ankara": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -232,7 +232,7 @@
       "color": "#18b0ec",
       "name": "KAZAKİSTAN GÖKTÜRK DEVLETİ",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1785517523854.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1788024268937.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
       "countryId": "922aa01f-dc5e-405e-a356-97f5e50f039d"
     },
@@ -499,7 +499,7 @@
     },
     "Diyarbakır": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -514,15 +514,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1786911269273.png",
       "coatUrl": "https://diplomacia.com.tr/coats/kuzeymakedonya.png?v=3",
       "countryId": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6"
-    },
-    "Marsilya": {
-      "code": null,
-      "color": "#143913",
-      "name": "Kingdom Of Middle-Earth",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/78179d69-494c-4c3f-a1cd-44c8ea77e442-1784798762231.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
-      "countryId": "78179d69-494c-4c3f-a1cd-44c8ea77e442"
     },
     "Moldova": {
       "code": null,
@@ -589,7 +580,7 @@
     },
     "Samsun": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -598,7 +589,7 @@
     },
     "Adana": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -868,7 +859,7 @@
     },
     "Ermenistan": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -929,15 +920,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
     },
-    "Bordo": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Imperi Galàctic Català",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3",
-      "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
-    },
     "Chiapas": {
       "code": null,
       "color": "#2a7128",
@@ -947,14 +929,22 @@
       "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
     },
-    "Paris": {
+    "Bordo": {
       "code": null,
-      "color": "#143913",
-      "name": "Kingdom Of Middle-Earth",
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3"
+    },
+    "Marsilya": {
+      "code": null,
+      "color": "#2f271e",
+      "name": "Federal Republic of Germany",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/78179d69-494c-4c3f-a1cd-44c8ea77e442-1784798762231.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "countryId": "78179d69-494c-4c3f-a1cd-44c8ea77e442"
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
+      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
     "Huzistan": {
       "code": null,
@@ -993,7 +983,7 @@
     },
     "Erzurum": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -1011,7 +1001,7 @@
     },
     "İstanbul": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -1020,7 +1010,7 @@
     },
     "İzmir": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -1272,7 +1262,7 @@
     },
     "Perm": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -1282,7 +1272,7 @@
     "Rize": {
       "code": null,
       "color": "#4785a9",
-      "name": "Rize Geçici Hükümeti",
+      "name": "OTTOMAN EMPİRE",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/rize.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/rize.png?v=3",
@@ -1350,6 +1340,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
       "coatUrl": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
+    },
+    "Paris": {
+      "code": null,
+      "color": "#143913",
+      "name": "Kingdom Of Middle-Earth",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/78179d69-494c-4c3f-a1cd-44c8ea77e442-1784798762231.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "countryId": "78179d69-494c-4c3f-a1cd-44c8ea77e442"
     },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "code": null,
@@ -1506,7 +1505,7 @@
     },
     "Kafkasya": {
       "code": null,
-      "color": "#ec1313",
+      "color": "#4e134e",
       "name": "TÜRKİYE CUMHURİYETİ",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1785884301001.jpeg",
@@ -1659,7 +1658,7 @@
     "Amasya": {
       "code": null,
       "color": "#3a1773",
-      "name": "جمهوريه تركيا الاسلاميه العربيه",
+      "name": "الإتيحاد الإسلامي | İslam Birliği",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3",
@@ -1676,10 +1675,10 @@
     },
     "Kahramanmaraş": {
       "code": null,
-      "color": null,
+      "color": "#2a8946",
       "name": "Kahramanmaraş Geçici Hükümeti",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/kahramanmaras.png?v=3",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ba9bd1ae-2f31-4a0b-b38a-9cd773cace75-1787933781101.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kahramanmaras.png?v=3",
       "countryId": "ba9bd1ae-2f31-4a0b-b38a-9cd773cace75"
     },
