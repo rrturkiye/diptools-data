@@ -117,7 +117,7 @@
     "Temeşvar": {
       "education": 9,
       "military": 10,
-      "development": 8,
+      "development": 7,
       "health": 9
     },
     "Lombardiya": {
@@ -135,7 +135,7 @@
     "Musul": {
       "education": 9,
       "military": 8,
-      "development": 2,
+      "development": 1,
       "health": 1
     },
     "Daşoguz": {
@@ -152,7 +152,7 @@
     },
     "Napoli": {
       "education": 8,
-      "military": 7,
+      "military": 6,
       "development": 7,
       "health": 10
     },
@@ -164,7 +164,7 @@
     },
     "Mindanao": {
       "education": 8,
-      "military": 8,
+      "military": 7,
       "development": 8,
       "health": 9
     },
@@ -194,7 +194,7 @@
     },
     "Filistin": {
       "education": 8,
-      "military": 6,
+      "military": 7,
       "development": 6,
       "health": 6
     },
@@ -226,7 +226,7 @@
       "education": 7,
       "military": 4,
       "development": 1,
-      "health": 2
+      "health": 1
     },
     "Mendoza": {
       "education": 7,
@@ -249,7 +249,7 @@
     "Omsk": {
       "education": 7,
       "military": 4,
-      "development": 3,
+      "development": 4,
       "health": 4
     },
     "Minnesota": {
@@ -278,7 +278,7 @@
     },
     "Keşmir": {
       "education": 6,
-      "military": 5,
+      "military": 4,
       "development": 2,
       "health": 0
     },
@@ -326,7 +326,7 @@
     },
     "Sevilla": {
       "education": 6,
-      "military": 5,
+      "military": 4,
       "development": 3,
       "health": 4
     },
@@ -345,7 +345,7 @@
     "Ankara": {
       "education": 5,
       "military": 2,
-      "development": 9,
+      "development": 8,
       "health": 7
     },
     "Kunming": {
@@ -370,7 +370,7 @@
       "education": 5,
       "military": 8,
       "development": 2,
-      "health": 4
+      "health": 3
     },
     "Yeni Kaledonya": {
       "education": 5,
@@ -386,7 +386,7 @@
     },
     "Karabağ": {
       "education": 5,
-      "military": 6,
+      "military": 5,
       "development": 3,
       "health": 3
     },
@@ -444,12 +444,6 @@
       "development": 1,
       "health": 3
     },
-    "Paris": {
-      "education": 4,
-      "military": 2,
-      "development": 4,
-      "health": 3
-    },
     "Kuveyt": {
       "education": 3,
       "military": 2,
@@ -478,7 +472,7 @@
       "education": 3,
       "military": 8,
       "development": 10,
-      "health": 2
+      "health": 1
     },
     "Washington DC": {
       "education": 3,
@@ -512,9 +506,15 @@
     },
     "Patagonia": {
       "education": 3,
-      "military": 7,
+      "military": 6,
       "development": 7,
       "health": 8
+    },
+    "Paris": {
+      "education": 3,
+      "military": 1,
+      "development": 3,
+      "health": 3
     },
     "Denizli": {
       "education": 3,
@@ -545,6 +545,12 @@
       "military": 8,
       "development": 6,
       "health": 5
+    },
+    "Şenyang": {
+      "education": 2,
+      "military": 8,
+      "development": 3,
+      "health": 4
     },
     "Kosova": {
       "education": 2,
@@ -597,7 +603,7 @@
     "Kaliforniya": {
       "education": 1,
       "military": 10,
-      "development": 3,
+      "development": 2,
       "health": 2
     },
     "Huzistan": {
@@ -656,7 +662,7 @@
     },
     "Córdoba": {
       "education": 1,
-      "military": 5,
+      "military": 4,
       "development": 7,
       "health": 9
     },
@@ -668,7 +674,7 @@
     },
     "Valencia": {
       "education": 1,
-      "military": 6,
+      "military": 5,
       "development": 5,
       "health": 9
     },
@@ -741,7 +747,7 @@
     "Kahire": {
       "education": 0,
       "military": 7,
-      "development": 7,
+      "development": 6,
       "health": 3
     },
     "Abu Dabi": {
@@ -758,7 +764,7 @@
     },
     "Ural": {
       "education": 0,
-      "military": 7,
+      "military": 6,
       "development": 3,
       "health": 3
     },
@@ -776,7 +782,7 @@
     },
     "Sibirya": {
       "education": 0,
-      "military": 6,
+      "military": 5,
       "development": 10,
       "health": 8
     },
@@ -873,7 +879,7 @@
     "İsfahan": {
       "education": 0,
       "military": 2,
-      "development": 6,
+      "development": 9,
       "health": 5
     },
     "Papua Yeni Gine": {
@@ -1069,12 +1075,6 @@
       "health": 0
     },
     "Bordo": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 0
-    },
-    "Şenyang": {
       "education": 0,
       "military": 0,
       "development": 1,

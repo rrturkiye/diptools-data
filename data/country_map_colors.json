@@ -120,15 +120,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
       "countryId": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7"
     },
-    "Düsseldorf": {
-      "code": null,
-      "color": "#2f271e",
-      "name": "Federal Republic of Germany",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/dusseldorf.png?v=3",
-      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
-    },
     "Karaçi": {
       "code": null,
       "color": "#0b4d8e",
@@ -236,6 +227,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1788024268937.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
       "countryId": "922aa01f-dc5e-405e-a356-97f5e50f039d"
+    },
+    "Düsseldorf": {
+      "code": null,
+      "color": "#2f271e",
+      "name": "Federal Republic of Germany",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/dusseldorf.png?v=3",
+      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
     "Atıray": {
       "code": null,
@@ -383,7 +383,7 @@
     },
     "Omsk": {
       "code": null,
-      "color": "#a4ec27",
+      "color": "#4e134e",
       "name": "İrtiş Türk Devleti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1786981332209.jpeg",
@@ -479,6 +479,23 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/roma.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
+    },
+    "Bordo": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3"
+    },
+    "Marsilya": {
+      "code": null,
+      "color": "#2f271e",
+      "name": "Federal Republic of Germany",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
+      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
     "İslamabad": {
       "code": null,
@@ -921,26 +938,9 @@
       "coatUrl": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
     },
-    "Bordo": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3"
-    },
-    "Marsilya": {
-      "code": null,
-      "color": "#2f271e",
-      "name": "Federal Republic of Germany",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
-      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
-    },
     "Hırvatistan": {
       "code": null,
-      "color": "#a4ec27",
+      "color": "#4e134e",
       "name": "İrtiş Türk Devleti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1786981332209.jpeg",
@@ -1257,7 +1257,7 @@
       "color": "#4785a9",
       "name": "OTTOMAN EMPİRE",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/rize.png?v=3",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/2dc7b94a-ba11-481b-8684-9ccd18a93e72-1788028801222.png",
       "coatUrl": "https://diplomacia.com.tr/coats/rize.png?v=3",
       "countryId": "2dc7b94a-ba11-481b-8684-9ccd18a93e72"
     },
@@ -1314,24 +1314,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/hurmuz.png?v=3",
       "countryId": "ebf00276-bc41-4857-9def-6f02f0db09ae"
-    },
-    "Burgonya": {
-      "code": null,
-      "color": "#2f271e",
-      "name": "Federal Republic of Germany",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
-      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
-    },
-    "Paris": {
-      "code": null,
-      "color": "#143913",
-      "name": "Kingdom Of Middle-Earth",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/78179d69-494c-4c3f-a1cd-44c8ea77e442-1784798762231.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "countryId": "78179d69-494c-4c3f-a1cd-44c8ea77e442"
     },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "code": null,
@@ -1603,6 +1585,41 @@
       "coatUrl": "https://diplomacia.com.tr/coats/medine.png?v=3",
       "countryId": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33"
     },
+    "Paris": {
+      "code": null,
+      "color": "#2f271e",
+      "name": "Federal Republic of Germany",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
+    },
+    "Burgonya": {
+      "code": null,
+      "color": "#2f271e",
+      "name": "Federal Republic of Germany",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
+      "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
+    },
+    "Washington DC": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3"
+    },
+    "Teksas": {
+      "code": null,
+      "color": "#ed6526",
+      "name": "Attack Me If Your Gay",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ae56faa3-1f83-4958-adb6-1b05c28f5cd1-1787260209358.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
+      "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
+    },
     "Horasan": {
       "code": null,
       "color": "#16163c",
@@ -1648,14 +1665,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
       "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
-    "Washington DC": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3"
-    },
     "Bükreş": {
       "code": null,
       "color": "#e8e83b",
@@ -1664,15 +1673,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1785523381827.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/bukres.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
-    },
-    "Teksas": {
-      "code": null,
-      "color": "#ed6526",
-      "name": "Attack Me If Your Gay",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ae56faa3-1f83-4958-adb6-1b05c28f5cd1-1787260209358.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
-      "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
     },
     "Moskova": {
       "code": null,
@@ -1704,7 +1704,7 @@
     "Amasya": {
       "code": null,
       "color": "#3a1773",
-      "name": "الإتيحاد الإسلامي | İslam Birliği",
+      "name": "الإتحاد الاسلامي | İslam Birliği",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/amasya.png?v=3",
