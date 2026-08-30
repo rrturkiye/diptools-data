@@ -116,7 +116,7 @@
       "name": "Amasya",
       "icon": null,
       "country_id": "fd87c0a2-7fe7-4290-ba71-633abb707156",
-      "country_name": "الإتيحاد ا��إسلامي | İslam Birliği",
+      "country_name": "الإتيحاد الإ��لامي | İslam Birliği",
       "country_flag": "https://diplomacia.com.tr/coats/amasya.png?v=3",
       "coat_url": "https://diplomacia.com.tr/coats/amasya.png",
       "is_independent": false,
@@ -531,9 +531,9 @@
     {
       "name": "Bretonya",
       "icon": "⚓",
-      "country_id": "78179d69-494c-4c3f-a1cd-44c8ea77e442",
-      "country_name": "Kingdom Of Middle-Earth",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/78179d69-494c-4c3f-a1cd-44c8ea77e442-1784798762231.jpeg",
+      "country_id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
+      "country_name": "🌎 GLOBAL CAPITAL RESERVE",
+      "country_flag": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
       "coat_url": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -641,11 +641,27 @@
       }
     },
     {
+      "name": "Chennai",
+      "icon": null,
+      "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
+      "country_name": "Indian Goverment",
+      "country_flag": "https://diplomacia.com.tr/coats/india.png",
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "is_independent": false,
+      "bonuses": {
+        "deri": 11,
+        "altin": 8,
+        "petrol": 9,
+        "nte": 13,
+        "elmas": 12
+      }
+    },
+    {
       "name": "Chiapas",
       "icon": "🌿",
-      "country_id": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7",
-      "country_name": "México Oriental",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
+      "country_id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
+      "country_name": "Imperio Mexicano",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -702,6 +718,22 @@
         "petrol": 11,
         "nte": 11,
         "elmas": 6
+      }
+    },
+    {
+      "name": "Delhi",
+      "icon": null,
+      "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
+      "country_name": "Indian Goverment",
+      "country_flag": "https://diplomacia.com.tr/coats/india.png",
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "is_independent": false,
+      "bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 6,
+        "nte": 9,
+        "elmas": 19
       }
     },
     {
@@ -821,7 +853,7 @@
       "icon": null,
       "country_id": "3fb12e2f-f636-4a3b-ab53-ece380fbaa7d",
       "country_name": "تركيا الوسطى",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/3fb12e2f-f636-4a3b-ab53-ece380fbaa7d-1787839176582.jpeg",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/3fb12e2f-f636-4a3b-ab53-ece380fbaa7d-1788003714841.jpeg",
       "coat_url": "https://diplomacia.com.tr/coats/eskisehir.png",
       "is_independent": false,
       "bonuses": {
@@ -1411,9 +1443,9 @@
     {
       "name": "Kaliforniya",
       "icon": "🌴",
-      "country_id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
-      "country_name": "Imperio Mexicano",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+      "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
+      "country_name": "AYKA",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
       "coat_url": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -1566,6 +1598,22 @@
         "petrol": 3,
         "nte": 14,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Kolkata",
+      "icon": null,
+      "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
+      "country_name": "Indian Goverment",
+      "country_flag": "https://diplomacia.com.tr/coats/india.png",
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "is_independent": false,
+      "bonuses": {
+        "deri": 14,
+        "altin": 9,
+        "petrol": 8,
+        "nte": 12,
+        "elmas": 11
       }
     },
     {
@@ -1998,6 +2046,22 @@
         "petrol": 10,
         "nte": 10,
         "elmas": 17
+      }
+    },
+    {
+      "name": "Mumbai",
+      "icon": null,
+      "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
+      "country_name": "Indian Goverment",
+      "country_flag": "https://diplomacia.com.tr/coats/india.png",
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "is_independent": false,
+      "bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 11,
+        "nte": 8,
+        "elmas": 18
       }
     },
     {
@@ -3025,5 +3089,5 @@
       }
     }
   ],
-  "total": 189
+  "total": 193
 }
