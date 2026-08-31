@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#FF9933",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#FF9933"
   },
   "provinceOwners": {
     "Mekke": {
@@ -83,15 +83,6 @@
       "flag": "🏳️",
       "independent": true,
       "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3"
-    },
-    "Sinaloa": {
-      "code": null,
-      "color": "#108410",
-      "name": "Imperio Mexicano",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
     "Herat": {
       "code": null,
@@ -254,6 +245,14 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
       "coatUrl": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
       "countryId": "43262e0b-726a-4a9f-8a52-44f582257946"
+    },
+    "Sinaloa": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3"
     },
     "Nahçıvan": {
       "code": null,
@@ -496,6 +495,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
       "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
+    },
+    "Meksiko": {
+      "code": null,
+      "color": "#108410",
+      "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
     "İslamabad": {
       "code": null,
@@ -775,15 +783,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karadag.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
-    "Meksiko": {
-      "code": null,
-      "color": "#108410",
-      "name": "Imperio Mexicano",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
     "Şian": {
       "code": null,
@@ -1540,15 +1539,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/india.png?v=3",
       "countryId": "6a63810e-77fb-4804-ae7f-2eb1962e2bef"
     },
-    "Chiapas": {
-      "code": null,
-      "color": "#108410",
-      "name": "Imperio Mexicano",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
-    },
     "Şincan": {
       "code": null,
       "color": "#084e5e",
@@ -1620,6 +1610,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
       "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
     },
+    "Chiapas": {
+      "code": null,
+      "color": "#108410",
+      "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
+    },
     "Horasan": {
       "code": null,
       "color": "#16163c",
@@ -1637,6 +1636,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
       "coatUrl": "https://diplomacia.com.tr/coats/tahran.png?v=3",
       "countryId": "da5b016b-6b16-4f93-9c97-ca8042b989bf"
+    },
+    "İç Moğolistan": {
+      "code": null,
+      "color": "#108410",
+      "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
     "Şandong": {
       "code": null,
@@ -1682,15 +1690,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
-    "İç Moğolistan": {
-      "code": null,
-      "color": "#108410",
-      "name": "Imperio Mexicano",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
     "Eskişehir": {
       "code": null,

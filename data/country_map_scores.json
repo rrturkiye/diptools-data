@@ -30,6 +30,12 @@
       "development": 9,
       "health": 10
     },
+    "Brasília": {
+      "education": 10,
+      "military": 10,
+      "development": 10,
+      "health": 10
+    },
     "Rio Grande do Sul": {
       "education": 10,
       "military": 8,
@@ -47,12 +53,6 @@
       "military": 9,
       "development": 10,
       "health": 11
-    },
-    "Brasília": {
-      "education": 10,
-      "military": 10,
-      "development": 10,
-      "health": 10
     },
     "Bosna Hersek": {
       "education": 10,
@@ -94,7 +94,7 @@
       "education": 9,
       "military": 8,
       "development": 9,
-      "health": 7
+      "health": 6
     },
     "Katar": {
       "education": 9,
@@ -112,13 +112,13 @@
       "education": 9,
       "military": 8,
       "development": 10,
-      "health": 9
+      "health": 8
     },
     "Temeşvar": {
       "education": 9,
-      "military": 10,
+      "military": 9,
       "development": 8,
-      "health": 9
+      "health": 8
     },
     "Lombardiya": {
       "education": 9,
@@ -406,7 +406,7 @@
       "education": 4,
       "military": 5,
       "development": 9,
-      "health": 9
+      "health": 8
     },
     "Astana": {
       "education": 4,
@@ -504,6 +504,12 @@
       "development": 5,
       "health": 3
     },
+    "Bağdat": {
+      "education": 3,
+      "military": 3,
+      "development": 7,
+      "health": 5
+    },
     "Denizli": {
       "education": 3,
       "military": 3,
@@ -523,13 +529,13 @@
       "health": 8
     },
     "Cezayir": {
-      "education": 3,
+      "education": 2,
       "military": 1,
       "development": 5,
       "health": 7
     },
     "Mekke": {
-      "education": 3,
+      "education": 2,
       "military": 8,
       "development": 10,
       "health": 9
@@ -544,7 +550,7 @@
       "education": 2,
       "military": 8,
       "development": 10,
-      "health": 7
+      "health": 9
     },
     "Ürdün": {
       "education": 2,
@@ -590,9 +596,9 @@
     },
     "Şenyang": {
       "education": 2,
-      "military": 9,
-      "development": 4,
-      "health": 5
+      "military": 10,
+      "development": 5,
+      "health": 10
     },
     "Alaska": {
       "education": 1,
@@ -810,16 +816,10 @@
       "development": 5,
       "health": 5
     },
-    "Bağdat": {
-      "education": 0,
-      "military": 3,
-      "development": 7,
-      "health": 4
-    },
     "Guangzhou": {
       "education": 0,
       "military": 3,
-      "development": 5,
+      "development": 4,
       "health": 0
     },
     "Kabil": {
@@ -868,7 +868,7 @@
       "education": 0,
       "military": 2,
       "development": 9,
-      "health": 10
+      "health": 9
     },
     "Varna": {
       "education": 0,
