@@ -40,11 +40,11 @@
       "education": 10,
       "military": 8,
       "development": 9,
-      "health": 10
+      "health": 9
     },
     "Kolombiya": {
       "education": 10,
-      "military": 8,
+      "military": 9,
       "development": 10,
       "health": 10
     },
@@ -123,20 +123,26 @@
     "Lombardiya": {
       "education": 9,
       "military": 4,
-      "development": 8,
+      "development": 9,
       "health": 10
     },
     "Roma": {
       "education": 9,
       "military": 6,
       "development": 8,
-      "health": 8
+      "health": 10
     },
     "Napoli": {
       "education": 9,
       "military": 6,
       "development": 7,
       "health": 10
+    },
+    "Güney Azerbaycan": {
+      "education": 8,
+      "military": 10,
+      "development": 9,
+      "health": 9
     },
     "Musul": {
       "education": 8,
@@ -149,12 +155,6 @@
       "military": 6,
       "development": 3,
       "health": 5
-    },
-    "Güney Azerbaycan": {
-      "education": 8,
-      "military": 10,
-      "development": 9,
-      "health": 9
     },
     "İslamabad": {
       "education": 8,
@@ -202,7 +202,7 @@
       "education": 8,
       "military": 8,
       "development": 3,
-      "health": 4
+      "health": 5
     },
     "Buenos Aires": {
       "education": 7,
@@ -219,7 +219,7 @@
     "Hessen": {
       "education": 7,
       "military": 3,
-      "development": 9,
+      "development": 8,
       "health": 7
     },
     "Afyon": {
@@ -234,6 +234,12 @@
       "development": 6,
       "health": 10
     },
+    "Sinaloa": {
+      "education": 7,
+      "military": 9,
+      "development": 9,
+      "health": 6
+    },
     "Kandahar": {
       "education": 7,
       "military": 6,
@@ -245,18 +251,6 @@
       "military": 2,
       "development": 9,
       "health": 9
-    },
-    "Sinaloa": {
-      "education": 7,
-      "military": 9,
-      "development": 9,
-      "health": 6
-    },
-    "Minnesota": {
-      "education": 7,
-      "military": 5,
-      "development": 8,
-      "health": 4
     },
     "New York": {
       "education": 7,
@@ -270,9 +264,15 @@
       "development": 3,
       "health": 4
     },
+    "Minnesota": {
+      "education": 7,
+      "military": 5,
+      "development": 8,
+      "health": 4
+    },
     "Keşmir": {
       "education": 6,
-      "military": 5,
+      "military": 4,
       "development": 2,
       "health": 0
     },
@@ -282,17 +282,17 @@
       "development": 8,
       "health": 4
     },
-    "Hırvatistan": {
-      "education": 6,
-      "military": 6,
-      "development": 4,
-      "health": 5
-    },
     "Münih": {
       "education": 6,
       "military": 0,
       "development": 8,
       "health": 6
+    },
+    "Hırvatistan": {
+      "education": 6,
+      "military": 6,
+      "development": 4,
+      "health": 5
     },
     "Bükreş": {
       "education": 6,
@@ -326,19 +326,19 @@
     },
     "Sevilla": {
       "education": 6,
-      "military": 5,
+      "military": 4,
       "development": 3,
       "health": 4
     },
     "Harbin": {
       "education": 6,
-      "military": 2,
+      "military": 1,
       "development": 5,
       "health": 2
     },
     "Ankara": {
       "education": 5,
-      "military": 2,
+      "military": 1,
       "development": 8,
       "health": 7
     },
@@ -360,17 +360,17 @@
       "development": 2,
       "health": 4
     },
-    "Amasya": {
-      "education": 5,
-      "military": 8,
-      "development": 2,
-      "health": 3
-    },
     "Pavlodar": {
       "education": 5,
       "military": 4,
       "development": 5,
       "health": 2
+    },
+    "Amasya": {
+      "education": 5,
+      "military": 8,
+      "development": 2,
+      "health": 3
     },
     "Yeni Kaledonya": {
       "education": 5,
@@ -408,17 +408,17 @@
       "development": 9,
       "health": 8
     },
+    "Colorado": {
+      "education": 4,
+      "military": 10,
+      "development": 5,
+      "health": 4
+    },
     "Astana": {
       "education": 4,
       "military": 3,
       "development": 1,
       "health": 2
-    },
-    "Colorado": {
-      "education": 4,
-      "military": 10,
-      "development": 5,
-      "health": 5
     },
     "İstanbul": {
       "education": 4,
@@ -432,23 +432,17 @@
       "development": 4,
       "health": 5
     },
-    "Medine": {
-      "education": 4,
-      "military": 2,
-      "development": 1,
-      "health": 3
-    },
     "Sumatra": {
       "education": 4,
       "military": 0,
       "development": 4,
       "health": 3
     },
-    "Aktöbe": {
+    "Medine": {
       "education": 4,
-      "military": 8,
-      "development": 10,
-      "health": 1
+      "military": 2,
+      "development": 1,
+      "health": 3
     },
     "Semerkant": {
       "education": 4,
@@ -456,10 +450,22 @@
       "development": 8,
       "health": 9
     },
+    "Aktöbe": {
+      "education": 4,
+      "military": 8,
+      "development": 10,
+      "health": 1
+    },
     "Kuveyt": {
       "education": 3,
       "military": 2,
       "development": 6,
+      "health": 4
+    },
+    "St. Petersburg": {
+      "education": 3,
+      "military": 10,
+      "development": 5,
       "health": 4
     },
     "Peşaver": {
@@ -468,28 +474,28 @@
       "development": 3,
       "health": 2
     },
-    "St. Petersburg": {
-      "education": 3,
-      "military": 10,
-      "development": 5,
-      "health": 4
-    },
-    "Rize": {
-      "education": 3,
-      "military": 0,
-      "development": 0,
-      "health": 0
-    },
     "Washington DC": {
       "education": 3,
       "military": 9,
       "development": 3,
       "health": 4
     },
+    "Rize": {
+      "education": 3,
+      "military": 6,
+      "development": 0,
+      "health": 0
+    },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "education": 3,
       "military": 7,
       "development": 3,
+      "health": 3
+    },
+    "Marsilya": {
+      "education": 3,
+      "military": 6,
+      "development": 5,
       "health": 3
     },
     "Lübnan": {
@@ -498,10 +504,16 @@
       "development": 2,
       "health": 3
     },
-    "Marsilya": {
+    "Patagonia": {
       "education": 3,
       "military": 6,
-      "development": 5,
+      "development": 7,
+      "health": 8
+    },
+    "Paris": {
+      "education": 3,
+      "military": 1,
+      "development": 3,
       "health": 3
     },
     "Bağdat": {
@@ -516,18 +528,6 @@
       "development": 1,
       "health": 0
     },
-    "Paris": {
-      "education": 3,
-      "military": 1,
-      "development": 3,
-      "health": 3
-    },
-    "Patagonia": {
-      "education": 3,
-      "military": 6,
-      "development": 7,
-      "health": 8
-    },
     "Cezayir": {
       "education": 2,
       "military": 1,
@@ -540,11 +540,11 @@
       "development": 10,
       "health": 9
     },
-    "İngiltere": {
+    "Ürdün": {
       "education": 2,
-      "military": 1,
-      "development": 8,
-      "health": 8
+      "military": 8,
+      "development": 6,
+      "health": 5
     },
     "İsrail": {
       "education": 2,
@@ -552,29 +552,11 @@
       "development": 10,
       "health": 9
     },
-    "Ürdün": {
-      "education": 2,
-      "military": 8,
-      "development": 6,
-      "health": 5
-    },
-    "Florida": {
+    "İngiltere": {
       "education": 2,
       "military": 1,
-      "development": 4,
-      "health": 7
-    },
-    "Kahramanmaraş": {
-      "education": 2,
-      "military": 3,
-      "development": 1,
-      "health": 0
-    },
-    "Kaliforniya": {
-      "education": 2,
-      "military": 10,
-      "development": 3,
-      "health": 2
+      "development": 8,
+      "health": 8
     },
     "Karakalpakstan": {
       "education": 2,
@@ -582,17 +564,17 @@
       "development": 6,
       "health": 6
     },
-    "Kosova": {
-      "education": 2,
-      "military": 3,
-      "development": 2,
-      "health": 2
-    },
     "Kuzey İrlanda": {
       "education": 2,
       "military": 1,
       "development": 1,
       "health": 1
+    },
+    "Kahramanmaraş": {
+      "education": 2,
+      "military": 3,
+      "development": 1,
+      "health": 0
     },
     "Şenyang": {
       "education": 2,
@@ -600,59 +582,29 @@
       "development": 5,
       "health": 10
     },
-    "Alaska": {
-      "education": 1,
-      "military": 9,
-      "development": 4,
-      "health": 4
-    },
-    "Ardahan": {
-      "education": 1,
+    "Florida": {
+      "education": 2,
       "military": 1,
-      "development": 1,
-      "health": 1
-    },
-    "Azerbaycan": {
-      "education": 1,
-      "military": 2,
-      "development": 8,
+      "development": 4,
       "health": 7
     },
-    "Córdoba": {
-      "education": 1,
-      "military": 5,
-      "development": 7,
-      "health": 9
+    "Kaliforniya": {
+      "education": 2,
+      "military": 10,
+      "development": 2,
+      "health": 2
     },
-    "Erzincan": {
-      "education": 1,
-      "military": 1,
-      "development": 1,
-      "health": 1
+    "Kosova": {
+      "education": 2,
+      "military": 3,
+      "development": 2,
+      "health": 2
     },
     "Galler": {
       "education": 1,
       "military": 1,
       "development": 5,
       "health": 8
-    },
-    "Huzistan": {
-      "education": 1,
-      "military": 3,
-      "development": 4,
-      "health": 2
-    },
-    "İskoçya": {
-      "education": 1,
-      "military": 1,
-      "development": 5,
-      "health": 8
-    },
-    "Kalimantan": {
-      "education": 1,
-      "military": 9,
-      "development": 5,
-      "health": 2
     },
     "Kueta": {
       "education": 1,
@@ -666,6 +618,48 @@
       "development": 6,
       "health": 1
     },
+    "İskoçya": {
+      "education": 1,
+      "military": 1,
+      "development": 5,
+      "health": 8
+    },
+    "Kalimantan": {
+      "education": 1,
+      "military": 8,
+      "development": 4,
+      "health": 2
+    },
+    "Ardahan": {
+      "education": 1,
+      "military": 1,
+      "development": 1,
+      "health": 1
+    },
+    "Yakutistan": {
+      "education": 1,
+      "military": 7,
+      "development": 4,
+      "health": 1
+    },
+    "Azerbaycan": {
+      "education": 1,
+      "military": 2,
+      "development": 8,
+      "health": 7
+    },
+    "Córdoba": {
+      "education": 1,
+      "military": 4,
+      "development": 7,
+      "health": 9
+    },
+    "Huzistan": {
+      "education": 1,
+      "military": 2,
+      "development": 4,
+      "health": 2
+    },
     "Tunus": {
       "education": 1,
       "military": 2,
@@ -674,15 +668,21 @@
     },
     "Valencia": {
       "education": 1,
-      "military": 6,
+      "military": 5,
       "development": 5,
       "health": 9
     },
-    "Yakutistan": {
+    "Erzincan": {
       "education": 1,
-      "military": 7,
-      "development": 4,
+      "military": 1,
+      "development": 1,
       "health": 1
+    },
+    "Alaska": {
+      "education": 1,
+      "military": 9,
+      "development": 4,
+      "health": 4
     },
     "Ermenistan": {
       "education": 0,
@@ -728,7 +728,7 @@
     },
     "İzmir": {
       "education": 0,
-      "military": 9,
+      "military": 8,
       "development": 6,
       "health": 6
     },
@@ -782,7 +782,7 @@
     },
     "Sibirya": {
       "education": 0,
-      "military": 6,
+      "military": 5,
       "development": 10,
       "health": 8
     },
@@ -819,7 +819,7 @@
     "Guangzhou": {
       "education": 0,
       "military": 3,
-      "development": 4,
+      "development": 5,
       "health": 0
     },
     "Kabil": {
@@ -831,6 +831,12 @@
     "Perm": {
       "education": 0,
       "military": 3,
+      "development": 1,
+      "health": 0
+    },
+    "Kafkasya": {
+      "education": 0,
+      "military": 3,
       "development": 2,
       "health": 0
     },
@@ -840,12 +846,6 @@
       "development": 2,
       "health": 1
     },
-    "Kafkasya": {
-      "education": 0,
-      "military": 3,
-      "development": 2,
-      "health": 0
-    },
     "Aşkabat": {
       "education": 0,
       "military": 3,
@@ -854,7 +854,7 @@
     },
     "Karadağ": {
       "education": 0,
-      "military": 3,
+      "military": 2,
       "development": 0,
       "health": 0
     },
@@ -900,17 +900,17 @@
       "development": 7,
       "health": 5
     },
-    "Asvan": {
-      "education": 0,
-      "military": 1,
-      "development": 4,
-      "health": 1
-    },
     "Erzurum": {
       "education": 0,
       "military": 1,
       "development": 7,
       "health": 7
+    },
+    "Asvan": {
+      "education": 0,
+      "military": 1,
+      "development": 4,
+      "health": 1
     },
     "Georgia": {
       "education": 0,
@@ -918,17 +918,17 @@
       "development": 1,
       "health": 0
     },
-    "Selanik": {
-      "education": 0,
-      "military": 1,
-      "development": 0,
-      "health": 0
-    },
     "Solomon Adaları": {
       "education": 0,
       "military": 1,
       "development": 8,
       "health": 9
+    },
+    "Selanik": {
+      "education": 0,
+      "military": 1,
+      "development": 0,
+      "health": 0
     },
     "Pekin": {
       "education": 0,
@@ -984,17 +984,17 @@
       "development": 7,
       "health": 10
     },
-    "Adana": {
-      "education": 0,
-      "military": 0,
-      "development": 6,
-      "health": 6
-    },
     "Papua": {
       "education": 0,
       "military": 0,
       "development": 6,
       "health": 0
+    },
+    "Adana": {
+      "education": 0,
+      "military": 0,
+      "development": 6,
+      "health": 6
     },
     "Atacama": {
       "education": 0,
@@ -1033,6 +1033,12 @@
       "health": 0
     },
     "Sarawak": {
+      "education": 0,
+      "military": 0,
+      "development": 3,
+      "health": 0
+    },
+    "Delhi": {
       "education": 0,
       "military": 0,
       "development": 3,
