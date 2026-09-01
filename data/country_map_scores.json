@@ -1,22 +1,16 @@
 {
   "provinceScores": {
-    "Ohio": {
-      "education": 11,
-      "military": 4,
-      "development": 2,
-      "health": 4
-    },
     "Atina": {
-      "education": 10,
+      "education": 11,
       "military": 2,
       "development": 0,
       "health": 0
     },
-    "Chiapas": {
+    "Ohio": {
       "education": 10,
-      "military": 0,
-      "development": 3,
-      "health": 2
+      "military": 4,
+      "development": 2,
+      "health": 4
     },
     "Sabah": {
       "education": 10,
@@ -29,6 +23,12 @@
       "military": 10,
       "development": 10,
       "health": 10
+    },
+    "Chiapas": {
+      "education": 10,
+      "military": 0,
+      "development": 2,
+      "health": 1
     },
     "São Paulo": {
       "education": 10,
@@ -150,17 +150,17 @@
       "development": 9,
       "health": 9
     },
-    "Bakü": {
-      "education": 8,
-      "military": 5,
-      "development": 7,
-      "health": 8
-    },
     "İslamabad": {
       "education": 8,
       "military": 8,
       "development": 8,
       "health": 5
+    },
+    "Bakü": {
+      "education": 8,
+      "military": 5,
+      "development": 7,
+      "health": 8
     },
     "Musul": {
       "education": 8,
@@ -321,7 +321,7 @@
     "Moldova": {
       "education": 6,
       "military": 4,
-      "development": 2,
+      "development": 1,
       "health": 0
     },
     "Botoşani": {
@@ -346,7 +346,7 @@
       "education": 5,
       "military": 2,
       "development": 8,
-      "health": 7
+      "health": 6
     },
     "Kunming": {
       "education": 5,
@@ -476,7 +476,7 @@
     },
     "Rize": {
       "education": 3,
-      "military": 6,
+      "military": 7,
       "development": 0,
       "health": 0
     },
@@ -632,7 +632,7 @@
     },
     "Córdoba": {
       "education": 1,
-      "military": 4,
+      "military": 5,
       "development": 7,
       "health": 9
     },
@@ -700,7 +700,7 @@
       "education": 0,
       "military": 9,
       "development": 10,
-      "health": 6
+      "health": 8
     },
     "Bretonya": {
       "education": 0,
@@ -730,7 +730,7 @@
       "education": 0,
       "military": 7,
       "development": 2,
-      "health": 3
+      "health": 2
     },
     "Abu Dabi": {
       "education": 0,
@@ -796,7 +796,7 @@
       "education": 0,
       "military": 5,
       "development": 7,
-      "health": 4
+      "health": 3
     },
     "Visayas": {
       "education": 0,
@@ -880,7 +880,7 @@
       "education": 0,
       "military": 2,
       "development": 7,
-      "health": 7
+      "health": 6
     },
     "Halep": {
       "education": 0,
@@ -1026,6 +1026,12 @@
       "development": 4,
       "health": 1
     },
+    "Sırbistan": {
+      "education": 0,
+      "military": 0,
+      "development": 4,
+      "health": 4
+    },
     "Yemen": {
       "education": 0,
       "military": 0,
@@ -1063,12 +1069,6 @@
       "health": 0
     },
     "Umman": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 1
-    },
-    "Sırbistan": {
       "education": 0,
       "military": 0,
       "development": 1,
