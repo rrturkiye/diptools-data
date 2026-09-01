@@ -257,7 +257,7 @@
     "Omsk": {
       "code": null,
       "color": "#4e134e",
-      "name": "İrtiş Türk Devleti",
+      "name": "Kingdom of Croatia",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1786981332209.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/omsk.png?v=3",
@@ -496,18 +496,9 @@
       "coatUrl": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
-    "Meksiko": {
-      "code": null,
-      "color": "#108410",
-      "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
-    },
     "İslamabad": {
       "code": null,
-      "color": "#890b0b",
+      "color": "#134f12",
       "name": "People's Republic of Pakistan",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1786721477988.jpeg",
@@ -526,7 +517,7 @@
     "Hırvatistan": {
       "code": null,
       "color": "#4e134e",
-      "name": "İrtiş Türk Devleti",
+      "name": "Kingdom of Croatia",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1786981332209.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
@@ -585,6 +576,14 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1785523381827.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moldova.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
+    },
+    "Meksiko": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3"
     },
     "Daşoguz": {
       "code": null,
@@ -759,7 +758,7 @@
     },
     "Vuhan": {
       "code": null,
-      "color": "#de3112",
+      "color": "#c62b10",
       "name": "Umbrella State Headquarters",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/96e275b5-2a3d-461a-af51-363ac0ec42c4-1787586661791.jpeg",
@@ -822,7 +821,7 @@
     },
     "Şenyang": {
       "code": null,
-      "color": "#1d341e",
+      "color": "#3dda16",
       "name": "جمهورية شنيانغ المتحدة | United Shenyang Republic",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/34fc29ff-112d-4547-92a5-4306ab0a0a99-1787861049675.jpeg",
@@ -856,7 +855,7 @@
       "coatUrl": "https://diplomacia.com.tr/coats/bahia.png?v=3",
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828"
     },
-    "Güney Azerbaycan": {
+    "G��ney Azerbaycan": {
       "code": null,
       "color": "#217ded",
       "name": "Anadolu Selçuklu Devleti",
@@ -989,6 +988,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/georgia.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
+    },
+    "Papua Yeni Gine": {
+      "code": null,
+      "color": "#e39c16",
+      "name": "Republik Indonesia Serikat",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/papuayenigine.png?v=3",
+      "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
     },
     "Erzurum": {
       "code": null,
@@ -1161,6 +1169,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3",
       "countryId": "f76dcdb7-a646-4dff-92ef-0e61295596e6"
     },
+    "Kaliforniya": {
+      "code": null,
+      "color": "#08335e",
+      "name": "STEPPE KHAGANATE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
+      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
+    },
     "Buenos Aires": {
       "code": null,
       "color": "#6cace4",
@@ -1169,15 +1186,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1786135509402.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
-    },
-    "Papua Yeni Gine": {
-      "code": null,
-      "color": "#12d951",
-      "name": "Empire de Noustraa (PNG)",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/245ee36a-2434-4496-8111-4521fe20344b-1786863334767.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/papuayenigine.png?v=3",
-      "countryId": "245ee36a-2434-4496-8111-4521fe20344b"
     },
     "Valencia": {
       "code": null,
@@ -1349,15 +1357,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
       "coatUrl": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
       "countryId": "da5b016b-6b16-4f93-9c97-ca8042b989bf"
-    },
-    "Kaliforniya": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Santiago": {
       "code": null,
@@ -1603,12 +1602,12 @@
     },
     "Teksas": {
       "code": null,
-      "color": "#ed6526",
-      "name": "My Uncle is Waiting",
+      "color": "#4e134e",
+      "name": "AYKA",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ae56faa3-1f83-4958-adb6-1b05c28f5cd1-1787260209358.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
       "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
-      "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Horasan": {
       "code": null,
@@ -1639,7 +1638,7 @@
     },
     "Şandong": {
       "code": null,
-      "color": "#2a8949",
+      "color": "#a50d0d",
       "name": "YOZYAR",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1787592521960.jpeg",
