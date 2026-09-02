@@ -963,14 +963,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
       "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
-    "Huzistan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3"
-    },
     "Florida": {
       "code": "USA",
       "color": "#0f0750",
@@ -1168,6 +1160,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
       "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
+    },
+    "Huzistan": {
+      "code": null,
+      "color": "#062a47",
+      "name": "Huzistan Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
+      "countryId": "13ec96ba-f86f-4e41-9103-9ad475be7896"
     },
     "Georgia": {
       "code": null,
@@ -1672,15 +1673,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
-    "Chiapas": {
-      "code": null,
-      "color": "#2a7128",
-      "name": "México Oriental",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7"
-    },
     "Moskova": {
       "code": null,
       "color": "#151a38",
@@ -1734,6 +1726,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3c659f8c-6623-413b-a1fd-f4b1c44e4377-1787846213929.png",
       "coatUrl": "https://diplomacia.com.tr/coats/afyon.png?v=3",
       "countryId": "3c659f8c-6623-413b-a1fd-f4b1c44e4377"
+    },
+    "Chiapas": {
+      "code": null,
+      "color": "#0d0a4c",
+      "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     }
   }
 }
