@@ -2,27 +2,27 @@
   "id": "6311fc78-bb94-48a2-8d87-e67ae4374888",
   "name": "Federal Republic of Germany",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-  "treasury": 84626850,
+  "treasury": 85879741,
   "country_number": 30,
-  "player_count": 256,
-  "provinces_count": 7,
+  "player_count": 257,
+  "provinces_count": 5,
   "capital": {
     "name": "Berlin",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 45,
-    "altin": 37,
-    "petrol": 42,
-    "nte": 60,
-    "elmas": 103
+    "deri": 34,
+    "altin": 30,
+    "petrol": 29,
+    "nte": 48,
+    "elmas": 74
   },
   "average_scores": {
-    "education": 5.6,
+    "education": 7,
     "military": 3.4,
-    "development": 6.9,
-    "health": 4.9
+    "development": 8.2,
+    "health": 6.2
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 101,
+      "player_count": 103,
       "scores": {
         "education": 5,
         "military": 5,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 56,
+      "player_count": 59,
       "scores": {
         "education": 7,
         "military": 3,
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Marsilya",
-      "icon": "☀️",
-      "coat_url": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
-      "region": "Güney (Akdeniz + Pireneler)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 6,
-      "scores": {
-        "education": 2,
-        "military": 6,
-        "development": 5,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 3,
-        "petrol": 10,
-        "nte": 6,
-        "elmas": 12
-      }
-    },
-    {
       "name": "Münih",
       "icon": "⛰️",
       "coat_url": "https://diplomacia.com.tr/coats/munchen.png?v=3",
@@ -153,12 +129,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 102,
+      "player_count": 98,
       "scores": {
         "education": 7,
         "military": 0,
-        "development": 8,
-        "health": 6,
+        "development": 9,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -167,30 +143,6 @@
         "petrol": 4,
         "nte": 10,
         "elmas": 15
-      }
-    },
-    {
-      "name": "Paris",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "region": "Kuzey Merkez (Île-de-France)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 4,
-      "scores": {
-        "education": 2,
-        "military": 1,
-        "development": 3,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 6,
-        "altin": 4,
-        "petrol": 3,
-        "nte": 6,
-        "elmas": 17
       }
     }
   ]

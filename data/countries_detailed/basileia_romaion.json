@@ -2,27 +2,27 @@
   "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
   "name": "Basileia Romaion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-  "treasury": 7008505,
+  "treasury": 57008505,
   "country_number": 37,
   "player_count": 53,
-  "provinces_count": 4,
+  "provinces_count": 5,
   "capital": {
     "name": "Atina",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 30,
-    "altin": 39,
-    "petrol": 29,
-    "nte": 30,
-    "elmas": 43
+    "deri": 37,
+    "altin": 44,
+    "petrol": 37,
+    "nte": 34,
+    "elmas": 55
   },
   "average_scores": {
-    "education": 2.8,
-    "military": 1.3,
-    "development": 0.3,
-    "health": 0
+    "education": 2.4,
+    "military": 2.6,
+    "development": 0.6,
+    "health": 0.4
   },
   "provinces": [
     {
@@ -35,8 +35,8 @@
       "independence_date": null,
       "player_count": 1,
       "scores": {
-        "education": 11,
-        "military": 2,
+        "education": 10,
+        "military": 1,
         "development": 0,
         "health": 0,
         "health_world_first": false
@@ -47,6 +47,30 @@
         "petrol": 7,
         "nte": 9,
         "elmas": 13
+      }
+    },
+    {
+      "name": "Lübnan",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/lubnan.png?v=3",
+      "region": "Lübnan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 2,
+        "military": 9,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 5,
+        "petrol": 8,
+        "nte": 4,
+        "elmas": 12
       }
     },
     {
