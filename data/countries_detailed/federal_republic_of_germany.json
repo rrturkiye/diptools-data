@@ -2,27 +2,27 @@
   "id": "6311fc78-bb94-48a2-8d87-e67ae4374888",
   "name": "Federal Republic of Germany",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-  "treasury": 96816580,
+  "treasury": 84626850,
   "country_number": 30,
-  "player_count": 253,
-  "provinces_count": 8,
+  "player_count": 256,
+  "provinces_count": 7,
   "capital": {
     "name": "Berlin",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 56,
-    "altin": 43,
-    "petrol": 47,
-    "nte": 64,
-    "elmas": 113
+    "deri": 45,
+    "altin": 37,
+    "petrol": 42,
+    "nte": 60,
+    "elmas": 103
   },
   "average_scores": {
-    "education": 4.6,
-    "military": 4.1,
-    "development": 6,
-    "health": 4.3
+    "education": 5.6,
+    "military": 3.4,
+    "development": 6.9,
+    "health": 4.9
   },
   "provinces": [
     {
@@ -33,9 +33,9 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 105,
+      "player_count": 101,
       "scores": {
-        "education": 4,
+        "education": 5,
         "military": 5,
         "development": 9,
         "health": 8,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Burgonya",
-      "icon": "🍷",
-      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
-      "region": "Doğu (Burgundy, Rhône)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 32,
-      "scores": {
-        "education": 0,
-        "military": 9,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 6,
-        "petrol": 5,
-        "nte": 4,
-        "elmas": 10
-      }
-    },
-    {
       "name": "Düsseldorf",
       "icon": "🏭",
       "coat_url": "https://diplomacia.com.tr/coats/dusseldorf.png?v=3",
@@ -81,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 35,
+      "player_count": 36,
       "scores": {
         "education": 9,
         "military": 8,
         "development": 6,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -105,9 +81,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 19,
+      "player_count": 20,
       "scores": {
-        "education": 6,
+        "education": 7,
         "military": 1,
         "development": 8,
         "health": 4,
@@ -129,12 +105,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 58,
+      "player_count": 56,
       "scores": {
         "education": 7,
         "military": 3,
         "development": 9,
-        "health": 6,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -155,7 +131,7 @@
       "independence_date": null,
       "player_count": 6,
       "scores": {
-        "education": 3,
+        "education": 2,
         "military": 6,
         "development": 5,
         "health": 3,
@@ -177,9 +153,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 104,
+      "player_count": 102,
       "scores": {
-        "education": 6,
+        "education": 7,
         "military": 0,
         "development": 8,
         "health": 6,

@@ -2,27 +2,27 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "TÜRKİYE CUMHURİYETİ",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788123400559.jpeg",
-  "treasury": 151493310,
+  "treasury": 187487095,
   "country_number": 130,
-  "player_count": 499,
-  "provinces_count": 10,
+  "player_count": 1751,
+  "provinces_count": 18,
   "capital": {
     "name": "Ankara",
     "icon": "🌿",
     "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 106,
-    "altin": 92,
-    "petrol": 77,
-    "nte": 97,
-    "elmas": 98
+    "deri": 208,
+    "altin": 148,
+    "petrol": 122,
+    "nte": 180,
+    "elmas": 165
   },
   "average_scores": {
-    "education": 1.1,
-    "military": 4.4,
-    "development": 5.6,
-    "health": 4.4
+    "education": 1.8,
+    "military": 4,
+    "development": 3.6,
+    "health": 2.7
   },
   "provinces": [
     {
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 115,
+      "player_count": 101,
       "scores": {
         "education": 6,
         "military": 10,
-        "development": 9,
+        "development": 8,
         "health": 6,
         "health_world_first": false
       },
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 18,
       "scores": {
         "education": 0,
         "military": 0,
@@ -74,6 +74,102 @@
       }
     },
     {
+      "name": "Afyon",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/afyon.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 170,
+      "scores": {
+        "education": 5,
+        "military": 2,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 7,
+        "nte": 15,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Amasya",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/amasya.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 157,
+      "scores": {
+        "education": 4,
+        "military": 5,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 20,
+        "altin": 8,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Ardahan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ardahan.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 161,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 6,
+        "petrol": 4,
+        "nte": 7,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Denizli",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/denizli.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 185,
+      "scores": {
+        "education": 2,
+        "military": 6,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 10
+      }
+    },
+    {
       "name": "Diyarbakır",
       "icon": "⛰️",
       "coat_url": "https://diplomacia.com.tr/coats/diyarbakir.png?v=3",
@@ -81,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 26,
+      "player_count": 22,
       "scores": {
         "education": 0,
         "military": 5,
@@ -105,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 25,
+      "player_count": 24,
       "scores": {
         "education": 0,
         "military": 10,
@@ -122,6 +218,30 @@
       }
     },
     {
+      "name": "Erzincan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/erzincan.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 155,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Erzurum",
       "icon": "🏔️",
       "coat_url": "https://diplomacia.com.tr/coats/erzurum.png?v=3",
@@ -131,7 +251,7 @@
       "independence_date": null,
       "player_count": 40,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 1,
         "development": 7,
         "health": 6,
@@ -146,6 +266,30 @@
       }
     },
     {
+      "name": "Eskişehir",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/eskisehir.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 152,
+      "scores": {
+        "education": 7,
+        "military": 6,
+        "development": 2,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 14,
+        "elmas": 9
+      }
+    },
+    {
       "name": "İstanbul",
       "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
@@ -153,11 +297,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 100,
+      "player_count": 118,
       "scores": {
         "education": 4,
         "military": 4,
-        "development": 9,
+        "development": 8,
         "health": 6,
         "health_world_first": false
       },
@@ -182,7 +326,7 @@
         "education": 0,
         "military": 9,
         "development": 6,
-        "health": 6,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -218,6 +362,30 @@
       }
     },
     {
+      "name": "Kahramanmaraş",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kahramanmaras.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 161,
+      "scores": {
+        "education": 1,
+        "military": 3,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 10,
+        "nte": 9,
+        "elmas": 9
+      }
+    },
+    {
       "name": "Perm",
       "icon": "🏭",
       "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
@@ -225,7 +393,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 4,
+      "player_count": 5,
       "scores": {
         "education": 0,
         "military": 3,
@@ -242,6 +410,30 @@
       }
     },
     {
+      "name": "Rize",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/rize.png",
+      "region": "Türkiye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 167,
+      "scores": {
+        "education": 3,
+        "military": 4,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 7
+      }
+    },
+    {
       "name": "Samsun",
       "icon": "⚓",
       "coat_url": "https://diplomacia.com.tr/coats/samsun.png?v=3",
@@ -249,7 +441,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 66,
+      "player_count": 60,
       "scores": {
         "education": 0,
         "military": 0,

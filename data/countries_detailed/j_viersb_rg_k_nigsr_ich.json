@@ -5,23 +5,23 @@
   "treasury": 22843428,
   "country_number": 105,
   "player_count": 17,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Yeni Kaledonya",
     "icon": "🪸",
     "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 4,
-    "altin": 9,
-    "petrol": 5,
-    "nte": 19,
-    "elmas": 4
+    "deri": 12,
+    "altin": 16,
+    "petrol": 10,
+    "nte": 31,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 5,
-    "military": 6,
-    "development": 4,
+    "education": 2.5,
+    "military": 4.5,
+    "development": 4.5,
     "health": 1
   },
   "provinces": [
@@ -38,7 +38,7 @@
         "education": 5,
         "military": 6,
         "development": 4,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -47,6 +47,30 @@
         "petrol": 5,
         "nte": 19,
         "elmas": 4
+      }
+    },
+    {
+      "name": "Guangzhou",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 149,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 5,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 18
       }
     }
   ]

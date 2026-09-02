@@ -1,0 +1,77 @@
+{
+  "id": "84b5882d-a580-482e-a265-c518df28c8ee",
+  "name": "Bosna İslâm Cumhuriyeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788384493818.jpeg",
+  "treasury": 47622807,
+  "country_number": 113,
+  "player_count": 43,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Bosna Hersek",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 19,
+    "altin": 20,
+    "petrol": 15,
+    "nte": 19,
+    "elmas": 14
+  },
+  "average_scores": {
+    "education": 5,
+    "military": 4.5,
+    "development": 7,
+    "health": 8.5
+  },
+  "provinces": [
+    {
+      "name": "Bosna Hersek",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 54,
+      "scores": {
+        "education": 10,
+        "military": 9,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Sırbistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 46,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 4,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 11,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 8
+      }
+    }
+  ]
+}

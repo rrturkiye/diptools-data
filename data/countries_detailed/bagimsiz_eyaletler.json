@@ -1,7 +1,31 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 4,
+  "provinces_count": 6,
   "provinces": [
+    {
+      "name": "Burgonya",
+      "icon": "🍷",
+      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
+      "region": "Doğu (Burgundy, Rhône)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-02T21:32:54.353Z",
+      "player_count": 33,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 4,
+        "elmas": 10
+      }
+    },
     {
       "name": "Halep",
       "icon": "🕌",
@@ -10,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T16:14:34.396Z",
-      "player_count": 39,
+      "player_count": 52,
       "scores": {
         "education": 0,
         "military": 1,
@@ -34,11 +58,11 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-01T14:26:59.051Z",
-      "player_count": 181,
+      "player_count": 187,
       "scores": {
         "education": 9,
         "military": 9,
-        "development": 9,
+        "development": 8,
         "health": 5,
         "health_world_first": false
       },
@@ -51,6 +75,30 @@
       }
     },
     {
+      "name": "Omsk",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
+      "region": "Sibirya (Ob nehri)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-02T20:07:21.270Z",
+      "player_count": 55,
+      "scores": {
+        "education": 7,
+        "military": 4,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 7,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Sinaloa",
       "icon": "🌊",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
@@ -58,7 +106,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-08-31T01:52:37.727Z",
-      "player_count": 198,
+      "player_count": 243,
       "scores": {
         "education": 6,
         "military": 9,
@@ -82,7 +130,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T11:54:07.993Z",
-      "player_count": 74,
+      "player_count": 73,
       "scores": {
         "education": 0,
         "military": 6,

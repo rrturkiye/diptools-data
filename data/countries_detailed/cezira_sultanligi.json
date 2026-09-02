@@ -2,9 +2,9 @@
   "id": "d787f333-dd2a-4403-9f70-44b03d6e4a22",
   "name": "Cezira Sultanlığı",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d787f333-dd2a-4403-9f70-44b03d6e4a22-1786555740455.jpeg",
-  "treasury": 124605208,
+  "treasury": 116494235,
   "country_number": 76,
-  "player_count": 28,
+  "player_count": 26,
   "provinces_count": 4,
   "capital": {
     "name": "Abu Dabi",
@@ -22,7 +22,7 @@
     "education": 0,
     "military": 4.3,
     "development": 6.3,
-    "health": 4.8
+    "health": 4.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 94,
+      "player_count": 91,
       "scores": {
         "education": 0,
         "military": 7,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 170,
+      "player_count": 173,
       "scores": {
         "education": 0,
         "military": 10,
@@ -99,7 +99,7 @@
     },
     {
       "name": "Yemen",
-      "icon": "🏺",
+      "icon": "��",
       "coat_url": "https://diplomacia.com.tr/coats/yemen.png?v=3",
       "region": "Arap Yarımadası Güneyi",
       "is_capital": false,
@@ -110,7 +110,7 @@
         "education": 0,
         "military": 0,
         "development": 3,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {

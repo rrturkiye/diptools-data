@@ -2,9 +2,9 @@
   "id": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33",
   "name": "Kingdom of Hejaz",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1787604082950.jpeg",
-  "treasury": 117603568,
+  "treasury": 118260609,
   "country_number": 151,
-  "player_count": 54,
+  "player_count": 47,
   "provinces_count": 2,
   "capital": {
     "name": "Medine",
@@ -22,7 +22,7 @@
     "education": 3.5,
     "military": 5,
     "development": 5.5,
-    "health": 5.5
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 42,
+      "player_count": 35,
       "scores": {
         "education": 4,
         "military": 2,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 36,
+      "player_count": 37,
       "scores": {
         "education": 3,
         "military": 8,
         "development": 10,
-        "health": 9,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
