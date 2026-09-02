@@ -76,14 +76,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/lahor.png?v=3",
       "countryId": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958"
     },
-    "Astana": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3"
-    },
     "Herat": {
       "code": null,
       "color": "#8a0f26",
@@ -158,7 +150,7 @@
     },
     "Musul": {
       "code": null,
-      "color": "#4b0708",
+      "color": "#47074b",
       "name": "Baas Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/61034f3e-2b22-4c79-8a9d-e034d0f5385d-1787854725944.jpeg",
@@ -280,6 +272,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karabag.png?v=3",
       "countryId": "313a641c-f6ae-4553-aeae-318e78b093ec"
+    },
+    "Astana": {
+      "code": null,
+      "color": null,
+      "name": "Astana Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
+      "countryId": "e2327468-0be9-4d02-8eaf-129e4ef07386"
     },
     "Kuveyt": {
       "code": null,
@@ -499,7 +500,7 @@
     "İslamabad": {
       "code": null,
       "color": "#134f12",
-      "name": "People's Republic of Pakistan",
+      "name": "Government of Greater Pakistan",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1786721477988.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/islamabad.png?v=3",
@@ -587,7 +588,7 @@
     },
     "Daşoguz": {
       "code": null,
-      "color": "#4b0708",
+      "color": "#47074b",
       "name": "Baas Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/61034f3e-2b22-4c79-8a9d-e034d0f5385d-1787854725944.jpeg",
@@ -1107,15 +1108,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
-    "Ural": {
-      "code": null,
-      "color": "#151a38",
-      "name": "Valgora Lejyon Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/ural.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Kuala Lumpur": {
       "code": null,
       "color": "#3e7079",
@@ -1179,6 +1171,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/georgia.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
+    "Ural": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/ural.png?v=3"
+    },
     "Buenos Aires": {
       "code": null,
       "color": "#6cace4",
@@ -1227,9 +1227,9 @@
     "Sarawak": {
       "code": null,
       "color": "#e39c16",
-      "name": "Sarawak",
+      "name": "Neo Shandong Imperium",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1784676088274.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788355351239.png",
       "coatUrl": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
       "countryId": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
     },
@@ -1584,14 +1584,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
-    "Washington DC": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3"
-    },
     "Teksas": {
       "code": null,
       "color": "#4e134e",
@@ -1673,15 +1665,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
     },
-    "Moskova": {
-      "code": null,
-      "color": "#151a38",
-      "name": "Valgora Lejyon Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Eskişehir": {
       "code": null,
       "color": "#359a19",
@@ -1735,6 +1718,24 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
+    },
+    "Moskova": {
+      "code": null,
+      "color": "#151a38",
+      "name": "Valgora Lejyon Devleti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
+    },
+    "Washington DC": {
+      "code": null,
+      "color": null,
+      "name": "Washington DC Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/washington.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3",
+      "countryId": "6141cf0d-2203-4c0f-9bc2-152a0ec033bd"
     }
   }
 }
