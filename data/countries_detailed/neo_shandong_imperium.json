@@ -1,0 +1,53 @@
+{
+  "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
+  "name": "Neo Shandong Imperium",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
+  "treasury": 72849957,
+  "country_number": 109,
+  "player_count": 8,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Sarawak",
+    "icon": "🦧",
+    "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 5,
+    "altin": 14,
+    "petrol": 15,
+    "nte": 15,
+    "elmas": 5
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 3,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Sarawak",
+      "icon": "🦧",
+      "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
+      "region": "Doğu Malezya (Borneo Batı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 28,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 3,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 14,
+        "petrol": 15,
+        "nte": 15,
+        "elmas": 5
+      }
+    }
+  ]
+}

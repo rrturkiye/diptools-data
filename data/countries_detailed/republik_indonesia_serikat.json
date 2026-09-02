@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 211923003,
+  "treasury": 212168569,
   "country_number": 54,
   "player_count": 1139,
-  "provinces_count": 8,
+  "provinces_count": 7,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 45,
-    "altin": 115,
-    "petrol": 93,
-    "nte": 102,
-    "elmas": 50
+    "deri": 40,
+    "altin": 105,
+    "petrol": 81,
+    "nte": 93,
+    "elmas": 46
   },
   "average_scores": {
-    "education": 2.5,
-    "military": 1.1,
-    "development": 3.9,
-    "health": 1.3
+    "education": 2.9,
+    "military": 1.3,
+    "development": 4.1,
+    "health": 1.4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 680,
+      "player_count": 679,
       "scores": {
         "education": 6,
         "military": 0,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Doğu Timor",
-      "icon": "🏝️",
-      "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3",
-      "region": "Güneydoğu Asya (Timor Adası)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 3,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 10,
-        "petrol": 12,
-        "nte": 9,
-        "elmas": 4
-      }
-    },
-    {
       "name": "Kalimantan",
       "icon": "🌳",
       "coat_url": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 67,
+      "player_count": 68,
       "scores": {
         "education": 0,
         "military": 8,
@@ -153,11 +129,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 18,
       "scores": {
         "education": 10,
         "military": 0,
-        "development": 3,
+        "development": 2,
         "health": 0,
         "health_world_first": false
       },

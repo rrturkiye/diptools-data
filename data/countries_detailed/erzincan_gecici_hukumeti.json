@@ -1,0 +1,53 @@
+{
+  "id": "28e89c1c-cfc9-45bb-a9ac-2ead776f53ee",
+  "name": "Erzincan Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/erzincan.png?v=3",
+  "treasury": 5823019,
+  "country_number": 175,
+  "player_count": 154,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Erzincan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/erzincan.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 13,
+    "altin": 9,
+    "petrol": 5,
+    "nte": 8,
+    "elmas": 8
+  },
+  "average_scores": {
+    "education": 1,
+    "military": 1,
+    "development": 1,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Erzincan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/erzincan.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 154,
+      "scores": {
+        "education": 1,
+        "military": 1,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 8
+      }
+    }
+  ]
+}
