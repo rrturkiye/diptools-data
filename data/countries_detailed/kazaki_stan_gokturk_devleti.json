@@ -1,0 +1,53 @@
+{
+  "id": "922aa01f-dc5e-405e-a356-97f5e50f039d",
+  "name": "KAZAKİSTAN GÖKTÜRK DEVLETİ",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1788024268937.jpeg",
+  "treasury": 1178349,
+  "country_number": 82,
+  "player_count": 37,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Karaganda",
+    "icon": "⚒️",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 14,
+    "altin": 15,
+    "petrol": 10,
+    "nte": 16,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 5,
+    "military": 3,
+    "development": 1,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Karaganda",
+      "icon": "⚒️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Orta Kazakistan (Sanayi)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 5,
+        "military": 3,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 15,
+        "petrol": 10,
+        "nte": 16,
+        "elmas": 7
+      }
+    }
+  ]
+}

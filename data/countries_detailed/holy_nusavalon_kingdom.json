@@ -1,0 +1,53 @@
+{
+  "id": "f61b1b71-6a8b-4eff-9070-61413d3837a5",
+  "name": "Holy Nusavalon Kingdom",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f61b1b71-6a8b-4eff-9070-61413d3837a5-1784381850211.jpeg",
+  "treasury": 100000,
+  "country_number": 104,
+  "player_count": 12,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Solomon Adaları",
+    "icon": "🌴",
+    "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 4,
+    "altin": 15,
+    "petrol": 7,
+    "nte": 13,
+    "elmas": 3
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 1,
+    "development": 8,
+    "health": 9
+  },
+  "provinces": [
+    {
+      "name": "Solomon Adaları",
+      "icon": "🌴",
+      "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
+      "region": "Pasifik (Melanezya)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 8,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 15,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 3
+      }
+    }
+  ]
+}

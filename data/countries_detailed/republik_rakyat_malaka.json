@@ -1,0 +1,53 @@
+{
+  "id": "1390cf4d-aec6-4029-960c-6662c587bde7",
+  "name": "Republik Rakyat Malaka",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ec1225f6-6f40-48ae-b457-7fdc32dac273-1787322509452.jpeg",
+  "treasury": 21672633,
+  "country_number": 107,
+  "player_count": 18,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Kuala Lumpur",
+    "icon": "🏙️",
+    "coat_url": "https://diplomacia.com.tr/coats/kualalumpur.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 7,
+    "altin": 12,
+    "petrol": 12,
+    "nte": 18,
+    "elmas": 14
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 7,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Kuala Lumpur",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/kualalumpur.png?v=3",
+      "region": "Batı Malezya (Başkent)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 7,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 12,
+        "petrol": 12,
+        "nte": 18,
+        "elmas": 14
+      }
+    }
+  ]
+}

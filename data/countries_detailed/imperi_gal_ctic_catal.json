@@ -1,0 +1,53 @@
+{
+  "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
+  "name": "Imperi Galàctic Català",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
+  "treasury": 33893513,
+  "country_number": 99,
+  "player_count": 159,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Barcelona",
+    "icon": "🎨",
+    "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 13,
+    "altin": 6,
+    "petrol": 7,
+    "nte": 9,
+    "elmas": 15
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 9,
+    "development": 10,
+    "health": 7
+  },
+  "provinces": [
+    {
+      "name": "Barcelona",
+      "icon": "🎨",
+      "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
+      "region": "Kuzey İspanya (Katalonya & Aragón)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 179,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 10,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 15
+      }
+    }
+  ]
+}

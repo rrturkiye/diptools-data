@@ -1,0 +1,53 @@
+{
+  "id": "e2327468-0be9-4d02-8eaf-129e4ef07386",
+  "name": "Astana Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/astana.png?v=3",
+  "treasury": 100000,
+  "country_number": 182,
+  "player_count": 127,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Astana",
+    "icon": "🏛️",
+    "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 14,
+    "altin": 11,
+    "petrol": 12,
+    "nte": 13,
+    "elmas": 13
+  },
+  "average_scores": {
+    "education": 4,
+    "military": 3,
+    "development": 1,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Astana",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3",
+      "region": "Kazakistan Başkenti",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 128,
+      "scores": {
+        "education": 4,
+        "military": 3,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 11,
+        "petrol": 12,
+        "nte": 13,
+        "elmas": 13
+      }
+    }
+  ]
+}

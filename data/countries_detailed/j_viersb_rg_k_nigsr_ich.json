@@ -1,0 +1,53 @@
+{
+  "id": "b71a8c62-8567-4dba-aa7d-56b31f1316d9",
+  "name": "Jàviersbērg Kōnigsrēich",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b71a8c62-8567-4dba-aa7d-56b31f1316d9-1787344387382.png",
+  "treasury": 22843428,
+  "country_number": 105,
+  "player_count": 17,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Yeni Kaledonya",
+    "icon": "🪸",
+    "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 4,
+    "altin": 9,
+    "petrol": 5,
+    "nte": 19,
+    "elmas": 4
+  },
+  "average_scores": {
+    "education": 5,
+    "military": 6,
+    "development": 4,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 5,
+        "military": 6,
+        "development": 4,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
+      }
+    }
+  ]
+}

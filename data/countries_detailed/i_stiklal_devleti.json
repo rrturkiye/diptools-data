@@ -1,0 +1,53 @@
+{
+  "id": "cbe20b56-34d7-4b08-abdb-b9794ee2544d",
+  "name": "İstiklal Devleti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1787846758169.png",
+  "treasury": 1464757,
+  "country_number": 91,
+  "player_count": 36,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Mary",
+    "icon": "🏺",
+    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 8,
+    "petrol": 16,
+    "nte": 10,
+    "elmas": 5
+  },
+  "average_scores": {
+    "education": 9,
+    "military": 8,
+    "development": 6,
+    "health": 5
+  },
+  "provinces": [
+    {
+      "name": "Mary",
+      "icon": "🏺",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Güneydoğu Türkmenistan",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 9,
+      "scores": {
+        "education": 9,
+        "military": 8,
+        "development": 6,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 8,
+        "petrol": 16,
+        "nte": 10,
+        "elmas": 5
+      }
+    }
+  ]
+}

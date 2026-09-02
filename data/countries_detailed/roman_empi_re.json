@@ -1,0 +1,101 @@
+{
+  "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
+  "name": "ROMAN EMPİRE",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
+  "treasury": 4559388,
+  "country_number": 4,
+  "player_count": 175,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Atıray",
+    "icon": "🛢️",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 27,
+    "altin": 23,
+    "petrol": 41,
+    "nte": 29,
+    "elmas": 28
+  },
+  "average_scores": {
+    "education": 6,
+    "military": 9.3,
+    "development": 4,
+    "health": 3.7
+  },
+  "provinces": [
+    {
+      "name": "Atıray",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Hazar Kıyısı (Kazakistan)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 17,
+      "scores": {
+        "education": 9,
+        "military": 10,
+        "development": 7,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 9,
+        "petrol": 17,
+        "nte": 12,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Balkan",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Batı Türkmenistan (Hazar Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 53,
+      "scores": {
+        "education": 6,
+        "military": 9,
+        "development": 3,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 16,
+        "nte": 13,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Lübnan",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/lubnan.png?v=3",
+      "region": "Lübnan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 3,
+        "military": 9,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 5,
+        "petrol": 8,
+        "nte": 4,
+        "elmas": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
+  "name": "Koperasi Desa Merah Putih",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1787020843687.jpeg",
+  "treasury": 19704515,
+  "country_number": 106,
+  "player_count": 27,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Singapur",
+    "icon": "🦁",
+    "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 4,
+    "altin": 10,
+    "petrol": 12,
+    "nte": 14,
+    "elmas": 19
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 7,
+    "health": 8
+  },
+  "provinces": [
+    {
+      "name": "Singapur",
+      "icon": "🦁",
+      "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3",
+      "region": "Güneydoğu Asya (Şehir-Devlet)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 43,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 7,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 10,
+        "petrol": 12,
+        "nte": 14,
+        "elmas": 19
+      }
+    }
+  ]
+}

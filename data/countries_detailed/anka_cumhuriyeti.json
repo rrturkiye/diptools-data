@@ -1,0 +1,53 @@
+{
+  "id": "1af5671a-288e-413d-bd50-8bda2d91ead4",
+  "name": "Anka Cumhuriyeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1af5671a-288e-413d-bd50-8bda2d91ead4-1787923579653.jpeg",
+  "treasury": 161792,
+  "country_number": 177,
+  "player_count": 164,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Denizli",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/denizli.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 12,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 8,
+    "elmas": 10
+  },
+  "average_scores": {
+    "education": 2,
+    "military": 8,
+    "development": 1,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Denizli",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/denizli.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 190,
+      "scores": {
+        "education": 2,
+        "military": 8,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 10
+      }
+    }
+  ]
+}

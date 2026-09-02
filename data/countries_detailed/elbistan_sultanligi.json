@@ -1,0 +1,53 @@
+{
+  "id": "ba9bd1ae-2f31-4a0b-b38a-9cd773cace75",
+  "name": "Elbistan Sultanlığı",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ba9bd1ae-2f31-4a0b-b38a-9cd773cace75-1787933781101.jpeg",
+  "treasury": 1222531,
+  "country_number": 178,
+  "player_count": 160,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Kahramanmaraş",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/kahramanmaras.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 6,
+    "petrol": 10,
+    "nte": 9,
+    "elmas": 9
+  },
+  "average_scores": {
+    "education": 2,
+    "military": 5,
+    "development": 1,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Kahramanmaraş",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kahramanmaras.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 161,
+      "scores": {
+        "education": 2,
+        "military": 5,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 10,
+        "nte": 9,
+        "elmas": 9
+      }
+    }
+  ]
+}

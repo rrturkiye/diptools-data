@@ -1,0 +1,125 @@
+{
+  "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
+  "name": "Basileia Romaion",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+  "treasury": 1408505,
+  "country_number": 37,
+  "player_count": 55,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Atina",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 30,
+    "altin": 39,
+    "petrol": 29,
+    "nte": 30,
+    "elmas": 43
+  },
+  "average_scores": {
+    "education": 2.8,
+    "military": 1.3,
+    "development": 0.3,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Atina",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 11,
+        "military": 2,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 8,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Selanik",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 12,
+        "petrol": 7,
+        "nte": 8,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Sofya",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 9,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 11,
+        "petrol": 6,
+        "nte": 8,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Varna",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/varna.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 8,
+        "petrol": 9,
+        "nte": 5,
+        "elmas": 9
+      }
+    }
+  ]
+}

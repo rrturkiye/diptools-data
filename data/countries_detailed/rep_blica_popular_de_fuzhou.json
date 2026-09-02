@@ -1,0 +1,53 @@
+{
+  "id": "8f70a139-5ba3-4e60-b236-bbcf57c8dc39",
+  "name": "República Popular de Fuzhou",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8f70a139-5ba3-4e60-b236-bbcf57c8dc39-1788161352813.jpeg",
+  "treasury": 12310150,
+  "country_number": 158,
+  "player_count": 157,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Fuçou",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 10,
+    "altin": 6,
+    "petrol": 4,
+    "nte": 16,
+    "elmas": 12
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 10,
+    "development": 8,
+    "health": 9
+  },
+  "provinces": [
+    {
+      "name": "Fuçou",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 129,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 8,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 6,
+        "petrol": 4,
+        "nte": 16,
+        "elmas": 12
+      }
+    }
+  ]
+}

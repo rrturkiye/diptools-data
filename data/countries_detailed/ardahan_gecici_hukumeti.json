@@ -1,0 +1,53 @@
+{
+  "id": "f76dcdb7-a646-4dff-92ef-0e61295596e6",
+  "name": "Ardahan Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f76dcdb7-a646-4dff-92ef-0e61295596e6-1787922826037.jpeg",
+  "treasury": 688596,
+  "country_number": 176,
+  "player_count": 157,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Ardahan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/ardahan.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 17,
+    "altin": 6,
+    "petrol": 4,
+    "nte": 7,
+    "elmas": 6
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 1,
+    "development": 1,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Ardahan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ardahan.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 160,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 6,
+        "petrol": 4,
+        "nte": 7,
+        "elmas": 6
+      }
+    }
+  ]
+}

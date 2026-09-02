@@ -1,0 +1,101 @@
+{
+  "id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
+  "name": "Tuvieron que venir todos 💪Para quemarnos🔥",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+  "treasury": 334067451,
+  "country_number": 92,
+  "player_count": 389,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Georgia",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 34,
+    "altin": 25,
+    "petrol": 26,
+    "nte": 39,
+    "elmas": 27
+  },
+  "average_scores": {
+    "education": 3.3,
+    "military": 0.3,
+    "development": 1,
+    "health": 0.3
+  },
+  "provinces": [
+    {
+      "name": "Georgia",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/georgia.png",
+      "region": "Amerika",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": "2026-08-14T09:09:36.169Z",
+      "player_count": 124,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Chiapas",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Güneydoğu Meksika",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 131,
+      "scores": {
+        "education": 10,
+        "military": 0,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 12,
+        "petrol": 13,
+        "nte": 12,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "İç Moğolistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 97,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 8
+      }
+    }
+  ]
+}

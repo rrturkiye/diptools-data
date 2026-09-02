@@ -1,0 +1,53 @@
+{
+  "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
+  "name": "Holy Nusavalon Empire",
+  "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
+  "treasury": 49412255,
+  "country_number": 155,
+  "player_count": 153,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Pekin",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 6,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 10,
+    "elmas": 20
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 10,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Pekin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 139,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 10,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 20
+      }
+    }
+  ]
+}

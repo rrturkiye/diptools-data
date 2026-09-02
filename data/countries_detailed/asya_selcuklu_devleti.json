@@ -1,0 +1,53 @@
+{
+  "id": "c42dd359-c4ba-4d3e-836e-f544d8d3285c",
+  "name": "ASYA SELÇUKLU DEVLETİ",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1787298983899.jpeg",
+  "treasury": 554476,
+  "country_number": 146,
+  "player_count": 35,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Kandahar",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/kandahar.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 6,
+    "petrol": 9,
+    "nte": 8,
+    "elmas": 10
+  },
+  "average_scores": {
+    "education": 7,
+    "military": 6,
+    "development": 6,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Kandahar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kandahar.png",
+      "region": "Asya",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 43,
+      "scores": {
+        "education": 7,
+        "military": 6,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 10
+      }
+    }
+  ]
+}

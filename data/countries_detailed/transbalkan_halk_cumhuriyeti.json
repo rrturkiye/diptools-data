@@ -1,0 +1,77 @@
+{
+  "id": "f96273b8-d621-46db-b6f1-e7fc5498204c",
+  "name": "Transbalkan Halk Cumhuriyeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f96273b8-d621-46db-b6f1-e7fc5498204c-1785614331146.jpeg",
+  "treasury": 11036848,
+  "country_number": 32,
+  "player_count": 38,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Temeşvar",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 24,
+    "altin": 19,
+    "petrol": 16,
+    "nte": 15,
+    "elmas": 14
+  },
+  "average_scores": {
+    "education": 7,
+    "military": 6.5,
+    "development": 4,
+    "health": 4.5
+  },
+  "provinces": [
+    {
+      "name": "Temeşvar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 31,
+      "scores": {
+        "education": 8,
+        "military": 10,
+        "development": 7,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Botoşani",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/botosani.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 6,
+        "military": 3,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 9,
+        "petrol": 7,
+        "nte": 7,
+        "elmas": 6
+      }
+    }
+  ]
+}

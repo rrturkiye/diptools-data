@@ -1,0 +1,77 @@
+{
+  "id": "61034f3e-2b22-4c79-8a9d-e034d0f5385d",
+  "name": "Baas Cumhuriyeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/61034f3e-2b22-4c79-8a9d-e034d0f5385d-1787854725944.jpeg",
+  "treasury": 5258350,
+  "country_number": 90,
+  "player_count": 18,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Daşoguz",
+    "icon": "🌾",
+    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 21,
+    "altin": 15,
+    "petrol": 28,
+    "nte": 17,
+    "elmas": 13
+  },
+  "average_scores": {
+    "education": 8,
+    "military": 6,
+    "development": 2,
+    "health": 2.5
+  },
+  "provinces": [
+    {
+      "name": "Daşoguz",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Kuzey Türkmenistan",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 9,
+      "scores": {
+        "education": 8,
+        "military": 5,
+        "development": 3,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 8,
+        "petrol": 11,
+        "nte": 11,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Musul",
+      "icon": "🏺",
+      "coat_url": "https://diplomacia.com.tr/coats/musul.png?v=3",
+      "region": "Kuzey Irak",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 8,
+        "military": 7,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 17,
+        "nte": 6,
+        "elmas": 7
+      }
+    }
+  ]
+}

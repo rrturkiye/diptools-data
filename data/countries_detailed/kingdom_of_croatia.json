@@ -1,0 +1,77 @@
+{
+  "id": "86ab9188-3b20-4d6d-a081-77659c900a9b",
+  "name": "Kingdom of Croatia",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1786981332209.jpeg",
+  "treasury": 9426037,
+  "country_number": 149,
+  "player_count": 58,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Hırvatistan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 19,
+    "altin": 14,
+    "petrol": 22,
+    "nte": 15,
+    "elmas": 18
+  },
+  "average_scores": {
+    "education": 6.5,
+    "military": 4.5,
+    "development": 3.5,
+    "health": 3.5
+  },
+  "provinces": [
+    {
+      "name": "Hırvatistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 25,
+      "scores": {
+        "education": 6,
+        "military": 5,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Omsk",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
+      "region": "Sibirya (Ob nehri)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 53,
+      "scores": {
+        "education": 7,
+        "military": 4,
+        "development": 3,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 7,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    }
+  ]
+}

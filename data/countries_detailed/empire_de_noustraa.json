@@ -1,0 +1,77 @@
+{
+  "id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958",
+  "name": "Empire de Noustraa",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1181a04c-77ea-4cb3-8cc6-f4671d1a4958-1786945027687.jpeg",
+  "treasury": 5999103,
+  "country_number": 138,
+  "player_count": 75,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Lahor",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/lahor.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 22,
+    "altin": 13,
+    "petrol": 11,
+    "nte": 18,
+    "elmas": 28
+  },
+  "average_scores": {
+    "education": 2,
+    "military": 5.5,
+    "development": 4.5,
+    "health": 6
+  },
+  "provinces": [
+    {
+      "name": "Lahor",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/lahor.png",
+      "region": "Asya",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 32,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 6,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 7,
+        "elmas": 16
+      }
+    },
+    {
+      "name": "Peşaver",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/pesaver.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 32,
+      "scores": {
+        "education": 4,
+        "military": 4,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 6,
+        "nte": 11,
+        "elmas": 12
+      }
+    }
+  ]
+}

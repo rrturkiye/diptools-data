@@ -1,0 +1,53 @@
+{
+  "id": "24817abf-616a-4a4f-986e-dd5e62ddff01",
+  "name": "People's republic of chengdu",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/24817abf-616a-4a4f-986e-dd5e62ddff01-1787644811860.jpeg",
+  "treasury": 2321631,
+  "country_number": 159,
+  "player_count": 165,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Çengdu",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 12,
+    "altin": 5,
+    "petrol": 14,
+    "nte": 8,
+    "elmas": 14
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 10,
+    "development": 1,
+    "health": 6
+  },
+  "provinces": [
+    {
+      "name": "Çengdu",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 152,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 1,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 5,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 14
+      }
+    }
+  ]
+}

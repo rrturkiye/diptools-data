@@ -1,0 +1,53 @@
+{
+  "id": "2dc7b94a-ba11-481b-8684-9ccd18a93e72",
+  "name": "OTTOMAN EMPİRE",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/2dc7b94a-ba11-481b-8684-9ccd18a93e72-1788028801222.png",
+  "treasury": 10057820,
+  "country_number": 174,
+  "player_count": 157,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Rize",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/rize.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 6,
+    "petrol": 4,
+    "nte": 10,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 3,
+    "military": 7,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Rize",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/rize.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 165,
+      "scores": {
+        "education": 3,
+        "military": 7,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 7
+      }
+    }
+  ]
+}

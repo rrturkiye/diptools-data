@@ -1,0 +1,77 @@
+{
+  "id": "7b977dca-f0cc-4aab-bc96-66264c484368",
+  "name": "Dämonenkult von Verberos",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
+  "treasury": 14568150,
+  "country_number": 157,
+  "player_count": 156,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Kuveyt",
+    "icon": "🛢️",
+    "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 15,
+    "petrol": 22,
+    "nte": 16,
+    "elmas": 33
+  },
+  "average_scores": {
+    "education": 1.5,
+    "military": 2.5,
+    "development": 5,
+    "health": 1.5
+  },
+  "provinces": [
+    {
+      "name": "Kuveyt",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
+      "region": "Basra Körfezi Başı",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 14,
+      "scores": {
+        "education": 3,
+        "military": 2,
+        "development": 5,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 3,
+        "altin": 8,
+        "petrol": 17,
+        "nte": 4,
+        "elmas": 15
+      }
+    },
+    {
+      "name": "Guangzhou",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 152,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 5,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 18
+      }
+    }
+  ]
+}

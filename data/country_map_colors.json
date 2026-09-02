@@ -291,6 +291,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
       "countryId": "7b977dca-f0cc-4aab-bc96-66264c484368"
     },
+    "Halep": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/aleppo.png?v=3"
+    },
     "Lübnan": {
       "code": null,
       "color": "#4e134e",
@@ -302,7 +310,7 @@
     },
     "Cezayir": {
       "code": null,
-      "color": "#0eaa42",
+      "color": "#0b8433",
       "name": "الجزائر",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4f148395-cec7-4b2d-b00a-71b6855c4209-1786111345979.jpeg",
@@ -335,15 +343,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/729bd219-affd-4cbf-ad80-76dc1dbc9b1a-1785869313490.png",
       "coatUrl": "https://diplomacia.com.tr/coats/tunus.png?v=3",
       "countryId": "729bd219-affd-4cbf-ad80-76dc1dbc9b1a"
-    },
-    "Halep": {
-      "code": null,
-      "color": "#aaa3c2",
-      "name": "İslam Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
-      "countryId": "ebf00276-bc41-4857-9def-6f02f0db09ae"
     },
     "Sumatra": {
       "code": null,
@@ -480,13 +479,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/roma.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
     },
-    "Bordo": {
+    "Colorado": {
       "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3"
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/colorado.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Marsilya": {
       "code": null,
@@ -533,15 +533,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kesmir.png?v=3",
       "countryId": "23991eac-1883-4ae5-b939-7b13959c0bc9"
     },
-    "Colorado": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/colorado.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
     "Diyarbakır": {
       "code": null,
       "color": "#4e134e",
@@ -559,15 +550,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1786911269273.png",
       "coatUrl": "https://diplomacia.com.tr/coats/kuzeymakedonya.png?v=3",
       "countryId": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6"
-    },
-    "Alaska": {
-      "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/alaska.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
     },
     "Moldova": {
       "code": null,
@@ -721,15 +703,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
     },
-    "New York": {
-      "code": null,
-      "color": "#a3c0c2",
-      "name": "🌎 GLOBAL CAPITAL RESERVE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
-      "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
-    },
     "Arnavutluk": {
       "code": null,
       "color": "#4e134e",
@@ -739,6 +712,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
+    "Bordo": {
+      "code": null,
+      "color": null,
+      "name": "Bordo Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3",
+      "countryId": "8239cc2b-e392-4192-82e2-5e1cd11bf6c3"
+    },
     "Ürdün": {
       "code": null,
       "color": "#71b3f4",
@@ -747,6 +729,24 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7-1787239876586.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
       "countryId": "b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7"
+    },
+    "Alaska": {
+      "code": null,
+      "color": "#08335e",
+      "name": "STEPPE KHAGANATE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/alaska.png?v=3",
+      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
+    },
+    "New York": {
+      "code": null,
+      "color": "#a3c0c2",
+      "name": "🌎 GLOBAL CAPITAL RESERVE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
     "Fuçou": {
       "code": null,
@@ -769,9 +769,9 @@
     "Vuhan": {
       "code": null,
       "color": "#c62b10",
-      "name": "Umbrella State Headquarters",
+      "name": "Republik Sosialis Bersatu",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/96e275b5-2a3d-461a-af51-363ac0ec42c4-1787586661791.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/96e275b5-2a3d-461a-af51-363ac0ec42c4-1788280360849.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "96e275b5-2a3d-461a-af51-363ac0ec42c4"
     },
@@ -1144,14 +1144,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3",
       "countryId": "f76dcdb7-a646-4dff-92ef-0e61295596e6"
     },
-    "Kaliforniya": {
+    "Sevilla": {
       "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
+      "color": "#af1f1d",
+      "name": "Estado de Madrid",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/sevilla.png?v=3",
+      "countryId": "03689952-c626-4cac-9e8f-83897b11af2b"
     },
     "Huzistan": {
       "code": null,
@@ -1187,6 +1187,24 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1786135509402.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
+    },
+    "Kaliforniya": {
+      "code": null,
+      "color": "#08335e",
+      "name": "STEPPE KHAGANATE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
+      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
+    },
+    "Yakutistan": {
+      "code": null,
+      "color": "#08335e",
+      "name": "STEPPE KHAGANATE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/yakutistan.png?v=3",
+      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
     },
     "Valencia": {
       "code": null,
@@ -1227,9 +1245,9 @@
     "Sarawak": {
       "code": null,
       "color": "#e39c16",
-      "name": "Neo Shandong Imperium",
+      "name": "Sarawak",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788355351239.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788361382135.png",
       "coatUrl": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
       "countryId": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
     },
@@ -1305,15 +1323,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/mendoza.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
     },
-    "Yakutistan": {
-      "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/yakutistan.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
-    },
     "Atacama": {
       "code": null,
       "color": "#921616",
@@ -1340,15 +1349,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1786288720141.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kuzeykibristurkcumhuriyeti.png?v=3",
       "countryId": "1ae658e0-7301-42da-a440-3c5582ce4114"
-    },
-    "Sevilla": {
-      "code": null,
-      "color": "#4876c7",
-      "name": "Círculo Akelarre del Cantábrico",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/sevilla.png?v=3",
-      "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
     },
     "İsfahan": {
       "code": null,
@@ -1521,10 +1521,19 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "440c4494-be88-4bf9-b8b4-40da3004b188"
     },
+    "Teksas": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
+    },
     "Chennai": {
       "code": "IND",
       "color": "#d57120",
-      "name": "INDIA - भारत",
+      "name": "INDIA - भा��त",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6a63810e-77fb-4804-ae7f-2eb1962e2bef-1788198268805.png",
       "coatUrl": "https://diplomacia.com.tr/coats/india.png?v=3",
@@ -1584,23 +1593,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
-    "Teksas": {
+    "Minnesota": {
       "code": null,
       "color": "#4e134e",
       "name": "AYKA",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
-    "Minnesota": {
-      "code": null,
-      "color": "#ed6526",
-      "name": "My Uncle is Waiting",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ae56faa3-1f83-4958-adb6-1b05c28f5cd1-1787260209358.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
-      "countryId": "ae56faa3-1f83-4958-adb6-1b05c28f5cd1"
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Horasan": {
       "code": null,
@@ -1695,7 +1695,7 @@
     "Kahramanmaraş": {
       "code": null,
       "color": "#2a8946",
-      "name": "Kahramanmaraş Geçici Hükümeti",
+      "name": "Elbistan Sultanlığı",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ba9bd1ae-2f31-4a0b-b38a-9cd773cace75-1787933781101.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kahramanmaras.png?v=3",

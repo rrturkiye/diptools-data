@@ -1,0 +1,125 @@
+{
+  "id": "313a641c-f6ae-4553-aeae-318e78b093ec",
+  "name": "Azərbaycan Respublikası",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
+  "treasury": 42686174,
+  "country_number": 65,
+  "player_count": 171,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Bakü",
+    "icon": "🛢️",
+    "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 39,
+    "altin": 46,
+    "petrol": 40,
+    "nte": 44,
+    "elmas": 34
+  },
+  "average_scores": {
+    "education": 4.3,
+    "military": 4,
+    "development": 5.5,
+    "health": 6
+  },
+  "provinces": [
+    {
+      "name": "Bakü",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3",
+      "region": "Hazar Kıyısı (Azerbaycan Başkenti)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 40,
+      "scores": {
+        "education": 8,
+        "military": 5,
+        "development": 7,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 16,
+        "nte": 9,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Azerbaycan",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/azerbaycan.png?v=3",
+      "region": "Batı Azerbaycan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 29,
+      "scores": {
+        "education": 1,
+        "military": 2,
+        "development": 8,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 12,
+        "petrol": 13,
+        "nte": 11,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Karabağ",
+      "icon": "⛰️",
+      "coat_url": "https://diplomacia.com.tr/coats/karabag.png?v=3",
+      "region": "Dağlık Karabağ",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 15,
+      "scores": {
+        "education": 4,
+        "military": 5,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 16,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Nahçıvan",
+      "icon": "🏔️",
+      "coat_url": "https://diplomacia.com.tr/coats/nahcivan.png?v=3",
+      "region": "Nahçıvan Özerk Bölgesi (Eksklav)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 29,
+      "scores": {
+        "education": 4,
+        "military": 4,
+        "development": 4,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 10,
+        "petrol": 6,
+        "nte": 14,
+        "elmas": 5
+      }
+    }
+  ]
+}

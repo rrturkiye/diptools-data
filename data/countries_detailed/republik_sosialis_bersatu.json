@@ -1,0 +1,53 @@
+{
+  "id": "96e275b5-2a3d-461a-af51-363ac0ec42c4",
+  "name": "Republik Sosialis Bersatu",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/96e275b5-2a3d-461a-af51-363ac0ec42c4-1788280360849.jpeg",
+  "treasury": 10266170,
+  "country_number": 160,
+  "player_count": 141,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Vuhan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 6,
+    "petrol": 8,
+    "nte": 7,
+    "elmas": 16
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 2,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Vuhan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 139,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 2,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 16
+      }
+    }
+  ]
+}

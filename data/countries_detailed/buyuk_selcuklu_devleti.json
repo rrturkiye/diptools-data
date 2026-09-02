@@ -1,0 +1,101 @@
+{
+  "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
+  "name": "Büyük Selçuklu Devleti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
+  "treasury": 75908767,
+  "country_number": 114,
+  "player_count": 159,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Tahran",
+    "icon": "🏙️",
+    "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 29,
+    "altin": 25,
+    "petrol": 34,
+    "nte": 29,
+    "elmas": 33
+  },
+  "average_scores": {
+    "education": 1.7,
+    "military": 2.3,
+    "development": 7,
+    "health": 7
+  },
+  "provinces": [
+    {
+      "name": "Tahran",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3",
+      "region": "Kuzey Merkez (Başkent)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 59,
+      "scores": {
+        "education": 5,
+        "military": 0,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 6,
+        "petrol": 15,
+        "nte": 11,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Horasan",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
+      "region": "Kuzeydoğu (Afganistan sınırı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "İsfahan",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
+      "region": "Orta İran (Tarihi Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 46,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 9,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 9,
+        "petrol": 10,
+        "nte": 8,
+        "elmas": 11
+      }
+    }
+  ]
+}

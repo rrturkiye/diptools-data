@@ -1,0 +1,53 @@
+{
+  "id": "9ea8d076-8268-4d8e-9f36-1341f555a017",
+  "name": "Círculo de las Triadas",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
+  "treasury": 50004,
+  "country_number": 162,
+  "player_count": 144,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Şian",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 8,
+    "altin": 6,
+    "petrol": 16,
+    "nte": 9,
+    "elmas": 13
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Şian",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 128,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 16,
+        "nte": 9,
+        "elmas": 13
+      }
+    }
+  ]
+}

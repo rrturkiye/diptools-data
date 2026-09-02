@@ -1,0 +1,101 @@
+{
+  "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
+  "name": "Thema Hellados",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
+  "treasury": 8914747,
+  "country_number": 126,
+  "player_count": 15,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Mora",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 25,
+    "altin": 17,
+    "petrol": 15,
+    "nte": 26,
+    "elmas": 34
+  },
+  "average_scores": {
+    "education": 2.7,
+    "military": 3,
+    "development": 3,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Mora",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 8,
+        "military": 4,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "Girit ve Adalar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/giritveadalar.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 2,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 4,
+        "petrol": 6,
+        "nte": 4,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Kabil",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kabil.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 46,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 5,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 5,
+        "nte": 16,
+        "elmas": 17
+      }
+    }
+  ]
+}

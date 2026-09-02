@@ -1,0 +1,101 @@
+{
+  "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
+  "name": "HÚNÉR IMPERIUM",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1784394284047.png",
+  "treasury": 29104357,
+  "country_number": 86,
+  "player_count": 36,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Fargona",
+    "icon": "🌸",
+    "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 44,
+    "altin": 43,
+    "petrol": 30,
+    "nte": 41,
+    "elmas": 36
+  },
+  "average_scores": {
+    "education": 3,
+    "military": 5,
+    "development": 8.3,
+    "health": 7
+  },
+  "provinces": [
+    {
+      "name": "Fargona",
+      "icon": "🌸",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Fergana Vadisi (Özbekistan)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 21,
+      "scores": {
+        "education": 9,
+        "military": 0,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 14,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "Almatı",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/almati.png?v=3",
+      "region": "Güney Kazakistan (Eski Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 23,
+      "scores": {
+        "education": 0,
+        "military": 6,
+        "development": 10,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 14,
+        "petrol": 10,
+        "nte": 14,
+        "elmas": 14
+      }
+    },
+    {
+      "name": "Taşkent",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Özbekistan Başkenti",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 16,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 15,
+        "petrol": 9,
+        "nte": 15,
+        "elmas": 13
+      }
+    }
+  ]
+}

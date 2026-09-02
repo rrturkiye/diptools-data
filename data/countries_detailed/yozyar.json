@@ -1,0 +1,53 @@
+{
+  "id": "4d973d67-468d-4c16-bba9-c8433a2c2e7b",
+  "name": "YOZYAR",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1787592521960.jpeg",
+  "treasury": 38476812,
+  "country_number": 169,
+  "player_count": 162,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Şandong",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 10,
+    "altin": 7,
+    "petrol": 12,
+    "nte": 8,
+    "elmas": 16
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 9,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Şandong",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 115,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 9,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 7,
+        "petrol": 12,
+        "nte": 8,
+        "elmas": 16
+      }
+    }
+  ]
+}

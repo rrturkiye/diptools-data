@@ -1,0 +1,101 @@
+{
+  "id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
+  "name": "🌎 GLOBAL CAPITAL RESERVE",
+  "flag_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
+  "treasury": 43114194,
+  "country_number": 171,
+  "player_count": 145,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Normandiya",
+    "icon": "🏰",
+    "coat_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 36,
+    "altin": 14,
+    "petrol": 15,
+    "nte": 14,
+    "elmas": 38
+  },
+  "average_scores": {
+    "education": 1.7,
+    "military": 6.7,
+    "development": 2.3,
+    "health": 1.3
+  },
+  "provinces": [
+    {
+      "name": "Normandiya",
+      "icon": "🏰",
+      "coat_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
+      "region": "Kuzeybatı (La Manche Kıyısı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 136,
+      "scores": {
+        "education": 0,
+        "military": 8,
+        "development": 2,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 3,
+        "petrol": 6,
+        "nte": 3,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "Bretonya",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
+      "region": "Batı (Bretanya Yarımadası)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 4,
+        "petrol": 5,
+        "nte": 5,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "New York",
+      "icon": "🗽",
+      "coat_url": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "region": "Kuzeydoğu (Atlantik Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 20,
+      "scores": {
+        "education": 5,
+        "military": 2,
+        "development": 5,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 20
+      }
+    }
+  ]
+}

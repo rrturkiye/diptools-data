@@ -1,0 +1,53 @@
+{
+  "id": "ca192381-559f-40fa-a94d-e874a13917c6",
+  "name": "Húnér Jr.",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1786705649263.png",
+  "treasury": 15179590,
+  "country_number": 142,
+  "player_count": 101,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Belh",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/belh.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 7,
+    "petrol": 13,
+    "nte": 10,
+    "elmas": 11
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Belh",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/belh.png",
+      "region": "Asya",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 37,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 13,
+        "nte": 10,
+        "elmas": 11
+      }
+    }
+  ]
+}

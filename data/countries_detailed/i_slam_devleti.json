@@ -1,0 +1,101 @@
+{
+  "id": "ebf00276-bc41-4857-9def-6f02f0db09ae",
+  "name": "İslam Devleti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
+  "treasury": 16873722,
+  "country_number": 88,
+  "player_count": 54,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Hürmüz",
+    "icon": "⚓",
+    "coat_url": "https://diplomacia.com.tr/coats/hurmuz.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 27,
+    "altin": 20,
+    "petrol": 37,
+    "nte": 23,
+    "elmas": 30
+  },
+  "average_scores": {
+    "education": 0.7,
+    "military": 1.7,
+    "development": 2.3,
+    "health": 2
+  },
+  "provinces": [
+    {
+      "name": "Hürmüz",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/hurmuz.png?v=3",
+      "region": "Güney (Hürmüz Boğazı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 5,
+        "petrol": 15,
+        "nte": 7,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Aşkabat",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Türkmenistan Başkenti",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 9,
+        "petrol": 13,
+        "nte": 11,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Şam",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/sam.png?v=3",
+      "region": "Batı ve Güney Suriye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 2,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 9,
+        "nte": 5,
+        "elmas": 8
+      }
+    }
+  ]
+}

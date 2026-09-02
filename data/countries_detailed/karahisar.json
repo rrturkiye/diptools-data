@@ -1,0 +1,53 @@
+{
+  "id": "3c659f8c-6623-413b-a1fd-f4b1c44e4377",
+  "name": "Karahisar",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3c659f8c-6623-413b-a1fd-f4b1c44e4377-1787846213929.png",
+  "treasury": 8391507,
+  "country_number": 179,
+  "player_count": 169,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Afyon",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/afyon.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 8,
+    "petrol": 7,
+    "nte": 15,
+    "elmas": 10
+  },
+  "average_scores": {
+    "education": 7,
+    "military": 4,
+    "development": 1,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Afyon",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/afyon.png",
+      "region": "Türkiye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 168,
+      "scores": {
+        "education": 7,
+        "military": 4,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 7,
+        "nte": 15,
+        "elmas": 10
+      }
+    }
+  ]
+}

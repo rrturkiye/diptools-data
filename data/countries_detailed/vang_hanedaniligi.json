@@ -1,0 +1,77 @@
+{
+  "id": "effa8173-3e25-4063-a83a-ab5422e35a46",
+  "name": "VANG Hanedanılığı",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1785523381827.jpeg",
+  "treasury": 1109740,
+  "country_number": 116,
+  "player_count": 27,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Bükreş",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/bukres.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 20,
+    "altin": 14,
+    "petrol": 16,
+    "nte": 12,
+    "elmas": 16
+  },
+  "average_scores": {
+    "education": 6,
+    "military": 5,
+    "development": 2,
+    "health": 0.5
+  },
+  "provinces": [
+    {
+      "name": "Bükreş",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/bukres.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 6,
+        "military": 6,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 12,
+        "nte": 9,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Moldova",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/moldova.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 6,
+        "military": 4,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 3,
+        "elmas": 5
+      }
+    }
+  ]
+}

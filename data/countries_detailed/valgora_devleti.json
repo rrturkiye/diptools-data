@@ -1,0 +1,53 @@
+{
+  "id": "440c4494-be88-4bf9-b8b4-40da3004b188",
+  "name": "Valgora Devleti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/440c4494-be88-4bf9-b8b4-40da3004b188-1787701567416.jpeg",
+  "treasury": 19792324,
+  "country_number": 164,
+  "player_count": 159,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Harbin",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 14,
+    "altin": 5,
+    "petrol": 9,
+    "nte": 6,
+    "elmas": 11
+  },
+  "average_scores": {
+    "education": 5,
+    "military": 1,
+    "development": 5,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Harbin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 162,
+      "scores": {
+        "education": 5,
+        "military": 1,
+        "development": 5,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 5,
+        "petrol": 9,
+        "nte": 6,
+        "elmas": 11
+      }
+    }
+  ]
+}

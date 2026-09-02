@@ -1,0 +1,53 @@
+{
+  "id": "31c78b4e-e502-4aab-afd2-179e000f4729",
+  "name": "Círculo Akelarre del Mediterraneo",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/31c78b4e-e502-4aab-afd2-179e000f4729-1786370145395.png",
+  "treasury": 7124749,
+  "country_number": 95,
+  "player_count": 178,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Valencia",
+    "icon": "🍊",
+    "coat_url": "https://diplomacia.com.tr/coats/valencia.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 14,
+    "altin": 4,
+    "petrol": 7,
+    "nte": 5,
+    "elmas": 11
+  },
+  "average_scores": {
+    "education": 1,
+    "military": 5,
+    "development": 5,
+    "health": 9
+  },
+  "provinces": [
+    {
+      "name": "Valencia",
+      "icon": "🍊",
+      "coat_url": "https://diplomacia.com.tr/coats/valencia.png?v=3",
+      "region": "Doğu İspanya (Akdeniz Kıyısı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 170,
+      "scores": {
+        "education": 1,
+        "military": 5,
+        "development": 5,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 4,
+        "petrol": 7,
+        "nte": 5,
+        "elmas": 11
+      }
+    }
+  ]
+}

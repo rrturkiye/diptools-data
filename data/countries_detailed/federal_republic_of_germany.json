@@ -1,0 +1,221 @@
+{
+  "id": "6311fc78-bb94-48a2-8d87-e67ae4374888",
+  "name": "Federal Republic of Germany",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
+  "treasury": 95488279,
+  "country_number": 30,
+  "player_count": 251,
+  "provinces_count": 8,
+  "capital": {
+    "name": "Berlin",
+    "icon": "🏙️",
+    "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 56,
+    "altin": 43,
+    "petrol": 47,
+    "nte": 64,
+    "elmas": 113
+  },
+  "average_scores": {
+    "education": 4.6,
+    "military": 4.1,
+    "development": 6,
+    "health": 4.3
+  },
+  "provinces": [
+    {
+      "name": "Berlin",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3",
+      "region": "Kuzeydoğu (Berlin, Brandenburg)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 105,
+      "scores": {
+        "education": 4,
+        "military": 5,
+        "development": 9,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 9,
+        "elmas": 16
+      }
+    },
+    {
+      "name": "Burgonya",
+      "icon": "🍷",
+      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
+      "region": "Doğu (Burgundy, Rhône)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 32,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 4,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Düsseldorf",
+      "icon": "🏭",
+      "coat_url": "https://diplomacia.com.tr/coats/dusseldorf.png?v=3",
+      "region": "Güneybatı (Ren Vadisi, Ruhr)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 34,
+      "scores": {
+        "education": 9,
+        "military": 8,
+        "development": 6,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Hamburg",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/hamburg.png?v=3",
+      "region": "Kuzeybatı (Hamburg, Bremen)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 18,
+      "scores": {
+        "education": 6,
+        "military": 1,
+        "development": 8,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 8,
+        "elmas": 14
+      }
+    },
+    {
+      "name": "Hessen",
+      "icon": "🏭",
+      "coat_url": "https://diplomacia.com.tr/coats/hessen.png?v=3",
+      "region": "Orta Almanya (Frankfurt, Ren-Men)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 57,
+      "scores": {
+        "education": 7,
+        "military": 3,
+        "development": 9,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 16
+      }
+    },
+    {
+      "name": "Marsilya",
+      "icon": "☀️",
+      "coat_url": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
+      "region": "Güney (Akdeniz + Pireneler)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 3,
+        "military": 6,
+        "development": 5,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 3,
+        "petrol": 10,
+        "nte": 6,
+        "elmas": 12
+      }
+    },
+    {
+      "name": "Münih",
+      "icon": "⛰️",
+      "coat_url": "https://diplomacia.com.tr/coats/munchen.png?v=3",
+      "region": "Güneydoğu (Bavyera)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 105,
+      "scores": {
+        "education": 6,
+        "military": 0,
+        "development": 8,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 15
+      }
+    },
+    {
+      "name": "Paris",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "region": "Kuzey Merkez (Île-de-France)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 2,
+        "military": 1,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 6,
+        "elmas": 17
+      }
+    }
+  ]
+}

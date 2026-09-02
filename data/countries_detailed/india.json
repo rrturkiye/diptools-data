@@ -1,0 +1,125 @@
+{
+  "id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
+  "name": "INDIA - भारत",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a63810e-77fb-4804-ae7f-2eb1962e2bef-1788198268805.png",
+  "treasury": 13710858,
+  "country_number": 180,
+  "player_count": 80,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Delhi",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/india.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 42,
+    "altin": 32,
+    "petrol": 34,
+    "nte": 42,
+    "elmas": 60
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 2,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Delhi",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "region": "Hindistan",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": "2026-08-30T15:08:47.539Z",
+      "player_count": 32,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 8,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 6,
+        "nte": 9,
+        "elmas": 19
+      }
+    },
+    {
+      "name": "Chennai",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "region": "Hindistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": "2026-08-30T15:08:47.539Z",
+      "player_count": 13,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 8,
+        "petrol": 9,
+        "nte": 13,
+        "elmas": 12
+      }
+    },
+    {
+      "name": "Kolkata",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "region": "Hindistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": "2026-08-30T15:08:47.539Z",
+      "player_count": 12,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 9,
+        "petrol": 8,
+        "nte": 12,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Mumbai",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/india.png",
+      "region": "Hindistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": "2026-08-30T15:08:47.539Z",
+      "player_count": 20,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 11,
+        "nte": 8,
+        "elmas": 18
+      }
+    }
+  ]
+}

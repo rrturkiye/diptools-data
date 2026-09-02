@@ -1,0 +1,125 @@
+{
+  "id": "ec1225f6-6f40-48ae-b457-7fdc32dac273",
+  "name": "Imperium Albionis",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ec1225f6-6f40-48ae-b457-7fdc32dac273-1787770179143.jpeg",
+  "treasury": 130702471,
+  "country_number": 121,
+  "player_count": 372,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Galler",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/galler.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 55,
+    "altin": 35,
+    "petrol": 34,
+    "nte": 27,
+    "elmas": 47
+  },
+  "average_scores": {
+    "education": 1.5,
+    "military": 1,
+    "development": 4.8,
+    "health": 5.8
+  },
+  "provinces": [
+    {
+      "name": "Galler",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/galler.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 78,
+      "scores": {
+        "education": 1,
+        "military": 1,
+        "development": 4,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 10,
+        "petrol": 6,
+        "nte": 7,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "İngiltere",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ingiltere.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 104,
+      "scores": {
+        "education": 2,
+        "military": 1,
+        "development": 10,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 5,
+        "petrol": 10,
+        "nte": 8,
+        "elmas": 19
+      }
+    },
+    {
+      "name": "İskoçya",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/iskocya.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 78,
+      "scores": {
+        "education": 1,
+        "military": 1,
+        "development": 4,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 9,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Kuzey İrlanda",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kuzeyirlanda.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 99,
+      "scores": {
+        "education": 2,
+        "military": 1,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 11,
+        "petrol": 4,
+        "nte": 4,
+        "elmas": 9
+      }
+    }
+  ]
+}

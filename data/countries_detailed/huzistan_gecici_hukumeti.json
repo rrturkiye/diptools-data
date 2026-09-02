@@ -1,0 +1,53 @@
+{
+  "id": "13ec96ba-f86f-4e41-9103-9ad475be7896",
+  "name": "Huzistan Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
+  "treasury": 8697327,
+  "country_number": 181,
+  "player_count": 127,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Huzistan",
+    "icon": "🛢️",
+    "coat_url": "https://diplomacia.com.tr/coats/huzistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 5,
+    "altin": 6,
+    "petrol": 18,
+    "nte": 7,
+    "elmas": 9
+  },
+  "average_scores": {
+    "education": 5,
+    "military": 4,
+    "development": 4,
+    "health": 3
+  },
+  "provinces": [
+    {
+      "name": "Huzistan",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
+      "region": "Güneybatı (Körfez, petrol)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 224,
+      "scores": {
+        "education": 5,
+        "military": 4,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 6,
+        "petrol": 18,
+        "nte": 7,
+        "elmas": 9
+      }
+    }
+  ]
+}

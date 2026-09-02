@@ -1,0 +1,53 @@
+{
+  "id": "b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7",
+  "name": "Ortadoğu Selçuklu Devleti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7-1787239876586.jpeg",
+  "treasury": 8022358,
+  "country_number": 152,
+  "player_count": 47,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Ürdün",
+    "icon": "🏜️",
+    "coat_url": "https://diplomacia.com.tr/coats/urdun.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 6,
+    "petrol": 6,
+    "nte": 13,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 2,
+    "military": 8,
+    "development": 7,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Ürdün",
+      "icon": "🏜️",
+      "coat_url": "https://diplomacia.com.tr/coats/urdun.png?v=3",
+      "region": "Ürdün",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 63,
+      "scores": {
+        "education": 2,
+        "military": 8,
+        "development": 7,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 6,
+        "nte": 13,
+        "elmas": 7
+      }
+    }
+  ]
+}

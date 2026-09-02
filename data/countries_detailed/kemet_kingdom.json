@@ -1,0 +1,101 @@
+{
+  "id": "9803c555-a7db-4519-8652-0697dfad5c94",
+  "name": "KEMET KINGDOM - مملكة كيميت",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1786631953484.jpeg",
+  "treasury": 27005138,
+  "country_number": 61,
+  "player_count": 103,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Kahire",
+    "icon": "🏛️",
+    "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 25,
+    "altin": 32,
+    "petrol": 29,
+    "nte": 27,
+    "elmas": 35
+  },
+  "average_scores": {
+    "education": 0.7,
+    "military": 4.3,
+    "development": 6.7,
+    "health": 3.3
+  },
+  "provinces": [
+    {
+      "name": "Kahire",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3",
+      "region": "Kuzey Mısır",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 60,
+      "scores": {
+        "education": 0,
+        "military": 6,
+        "development": 6,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 10,
+        "petrol": 11,
+        "nte": 8,
+        "elmas": 12
+      }
+    },
+    {
+      "name": "Asvan",
+      "icon": "🌅",
+      "coat_url": "https://diplomacia.com.tr/coats/aswan.png?v=3",
+      "region": "Güney Mısır",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 16,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 4,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 15,
+        "petrol": 9,
+        "nte": 11,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "İsrail",
+      "icon": "✡️",
+      "coat_url": "https://diplomacia.com.tr/coats/israel.png?v=3",
+      "region": "İsrail",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 65,
+      "scores": {
+        "education": 2,
+        "military": 7,
+        "development": 10,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 17
+      }
+    }
+  ]
+}

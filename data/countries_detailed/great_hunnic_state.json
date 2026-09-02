@@ -1,0 +1,53 @@
+{
+  "id": "9e83332a-b932-4a97-a26c-8e274a60161b",
+  "name": "Great Hunnic State",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9e83332a-b932-4a97-a26c-8e274a60161b-1785187693659.jpeg",
+  "treasury": 38467563,
+  "country_number": 77,
+  "player_count": 49,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Şımkent",
+    "icon": "🌿",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 16,
+    "altin": 10,
+    "petrol": 13,
+    "nte": 11,
+    "elmas": 8
+  },
+  "average_scores": {
+    "education": 9,
+    "military": 8,
+    "development": 9,
+    "health": 6
+  },
+  "provinces": [
+    {
+      "name": "Şımkent",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Güney Kazakistan",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 28,
+      "scores": {
+        "education": 9,
+        "military": 8,
+        "development": 9,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 10,
+        "petrol": 13,
+        "nte": 11,
+        "elmas": 8
+      }
+    }
+  ]
+}

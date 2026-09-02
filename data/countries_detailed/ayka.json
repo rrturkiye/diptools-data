@@ -1,0 +1,221 @@
+{
+  "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
+  "name": "AYKA",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
+  "treasury": 146057940,
+  "country_number": 127,
+  "player_count": 129,
+  "provinces_count": 8,
+  "capital": {
+    "name": "Arnavutluk",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 91,
+    "altin": 75,
+    "petrol": 72,
+    "nte": 69,
+    "elmas": 73
+  },
+  "average_scores": {
+    "education": 1.4,
+    "military": 4.9,
+    "development": 2.3,
+    "health": 2.3
+  },
+  "provinces": [
+    {
+      "name": "Arnavutluk",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 25,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 5,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Batum",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/batum.png?v=3",
+      "region": "Karadeniz Kıyısı (Acara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 10,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 12
+      }
+    },
+    {
+      "name": "Colorado",
+      "icon": "🏔️",
+      "coat_url": "https://diplomacia.com.tr/coats/colorado.png?v=3",
+      "region": "İç Batı (Kayalık Dağlar)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 80,
+      "scores": {
+        "education": 4,
+        "military": 10,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 17,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Karadağ",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/karadag.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 6,
+        "nte": 6,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "Kosova",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 13,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 10,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 5
+      }
+    },
+    {
+      "name": "Minnesota",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
+      "region": "Kuzey Orta (Great Lakes)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 28,
+      "scores": {
+        "education": 5,
+        "military": 3,
+        "development": 5,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 5,
+        "petrol": 6,
+        "nte": 11,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Teksas",
+      "icon": "🤠",
+      "coat_url": "https://diplomacia.com.tr/coats/texas.png?v=3",
+      "region": "Güney Orta (Körfez kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 24,
+      "scores": {
+        "education": 2,
+        "military": 11,
+        "development": 2,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 19,
+        "altin": 6,
+        "petrol": 18,
+        "nte": 9,
+        "elmas": 12
+      }
+    },
+    {
+      "name": "Tiflis",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
+      "region": "Güney Kafkasya (Gürcistan Başkenti)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 3,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 11,
+        "petrol": 7,
+        "nte": 7,
+        "elmas": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
+  "name": "STEPPE KHAGANATE",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
+  "treasury": 54712801,
+  "country_number": 89,
+  "player_count": 83,
+  "provinces_count": 5,
+  "capital": {
+    "name": "Altay",
+    "icon": "🏔️",
+    "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 40,
+    "altin": 74,
+    "petrol": 58,
+    "nte": 68,
+    "elmas": 50
+  },
+  "average_scores": {
+    "education": 1.6,
+    "military": 6.2,
+    "development": 3.4,
+    "health": 1.6
+  },
+  "provinces": [
+    {
+      "name": "Altay",
+      "icon": "🏔️",
+      "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3",
+      "region": "Güney Sibirya (Altay dağları)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 5,
+        "military": 8,
+        "development": 4,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 13,
+        "petrol": 8,
+        "nte": 12,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Alaska",
+      "icon": "❄️",
+      "coat_url": "https://diplomacia.com.tr/coats/alaska.png?v=3",
+      "region": "Kuzeybatı (Arktik)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 35,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 18,
+        "petrol": 12,
+        "nte": 12,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Bağdat",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/baghdad.png?v=3",
+      "region": "Orta ve Güney Irak",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 27,
+      "scores": {
+        "education": 3,
+        "military": 3,
+        "development": 7,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 8,
+        "petrol": 15,
+        "nte": 7,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "Kaliforniya",
+      "icon": "🌴",
+      "coat_url": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
+      "region": "Batı Kıyısı (Pasifik)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 27,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 16,
+        "petrol": 11,
+        "nte": 20,
+        "elmas": 18
+      }
+    },
+    {
+      "name": "Yakutistan",
+      "icon": "❄️",
+      "coat_url": "https://diplomacia.com.tr/coats/yakutistan.png?v=3",
+      "region": "Doğu Sibirya (Lena nehri)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 0,
+        "military": 6,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 19,
+        "petrol": 12,
+        "nte": 17,
+        "elmas": 9
+      }
+    }
+  ]
+}
