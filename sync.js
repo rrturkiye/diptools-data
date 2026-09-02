@@ -1,7 +1,6 @@
 const fs = require('fs');
 const https = require('https');
 
-// Akıllı ve Hata Korumalı Fetcher (Rate-Limit & 429 Kalkanı)
 function politeFetch(url, retries = 3) {
   return new Promise((resolve) => {
     https.get(url, {
@@ -15,8 +14,6 @@ function politeFetch(url, retries = 3) {
       res.on('end', async () => {
         try {
           const json = JSON.parse(data);
-
-          // Sunucu "Çok fazla istek" dediyse bekle ve tekrar dene
           if (json && (json.code === 'TOO_MANY_REQUESTS' || json.error)) {
             if (retries > 0) {
               const waitSec = Math.min(json.retryAfter || 5, 20) + 1;
@@ -27,7 +24,6 @@ function politeFetch(url, retries = 3) {
             }
             return resolve(null);
           }
-
           resolve(json);
         } catch (e) {
           resolve(null);
@@ -37,12 +33,23 @@ function politeFetch(url, retries = 3) {
   });
 }
 
-// Belirtilen milisaniye kadar duraklama
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+function slugify(text) {
+  if (!text) return 'unnamed';
+  return text.toString().toLowerCase()
+    .replace(/ğ/g, 'g').replace(/ü/g, 'u').replace(/ş/g, 's')
+    .replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ç/g, 'c')
+    .replace(/[^a-z0-9]/g, '_')
+    .replace(/_+/g, '_')
+    .replace(/^_+|_+$/g, '');
+}
 
 async function run() {
   fs.mkdirSync('data', { recursive: true });
-  console.log('🚀 Diplomacia Zırhlı Veri Taraması Başlatılıyor...');
+  fs.mkdirSync('data/countries_detailed', { recursive: true });
+
+  console.log('🚀 Diplomacia Kapsamlı Veri Taraması Başlatılıyor...');
 
   // 1. Temel Listeleri Çek
   const [
@@ -70,7 +77,7 @@ async function run() {
 
   console.log(`📍 ${countriesList.length} Ülke ve ${provincesList.length} Eyalet Tespit Edildi.`);
 
-  // 2. Mevcut Dosyaları Oku (Hata durumunda veriyi kaybetmemek için)
+  // 2. Mevcut Dosyaları Oku
   let allPlayersMap = new Map();
   if (fs.existsSync('data/all_players.json')) {
     try {
@@ -120,8 +127,8 @@ async function run() {
     fs.writeFileSync('data/online_players.json', JSON.stringify(instantOnline, null, 2), 'utf8');
   }
 
-  // 4. 🌐 76 ÜLKENİN TÜM VATANDAŞLARINI DÜZENLİ ARALIKLA TOPLA
-  console.log('🌐 76 Ülke Vatandaşları Taranıyor...');
+  // 4. 🌐 76 Ülkenin Tüm Vatandaşlarını Topla
+  console.log('🌐 Ülke Vatandaşları Taranıyor...');
   const allCitizens = [];
   if (liveOnlinePlayersData && Array.isArray(liveOnlinePlayersData.players)) {
     allCitizens.push(...liveOnlinePlayersData.players);
@@ -138,7 +145,7 @@ async function run() {
         allCitizens.push(p);
       });
     }
-    await sleep(100); // 100ms nefes payı
+    await sleep(80);
   }
 
   // Oyuncuları eşle ve güncelle
@@ -157,7 +164,6 @@ async function run() {
     }
 
     if (existingPlayer) {
-      // İsim Değişikliği
       if (existingPlayer.username && freshPlayer.username && existingPlayer.username !== freshPlayer.username) {
         let changeRecord = nameChangesMap.get(primaryKey);
         if (!changeRecord) {
@@ -187,7 +193,6 @@ async function run() {
         changeRecord.xp = freshPlayer.xp;
       }
 
-      // all_players güncelle
       existingPlayer.id = freshPlayer.id || existingPlayer.id;
       existingPlayer.player_number = freshPlayer.player_number || existingPlayer.player_number;
       existingPlayer.username = freshPlayer.username;
@@ -216,13 +221,12 @@ async function run() {
     }
   });
 
-  // 5. 🏛️ 181 EYALETİ SIRAYLA VE KONTROLLÜ HIZDA TARA (Partiler, Fabrikalar, Vergiler)
-  console.log('🏛️ 181 Eyalet Sakin Hızla Taranıyor...');
+  // 5. 🏛️ 181 Eyaleti Sırayla Tara (Partiler, Fabrikalar, Vergiler)
+  console.log('🏛️ Eyaletler Taranıyor...');
   const allPartiesMap = new Map();
   let allProvinceFactories = {};
   let allProvinceTaxes = {};
 
-  // Varsa önceki fabrika/vergi verisini yükle
   if (fs.existsSync('data/all_province_factories.json')) {
     try { allProvinceFactories = JSON.parse(fs.readFileSync('data/all_province_factories.json', 'utf8')) || {}; } catch(e) {}
   }
@@ -234,7 +238,6 @@ async function run() {
     const prov = provincesList[i];
     const pName = encodeURIComponent(prov.name);
 
-    // 1. Eyalet Partileri
     const partiesRes = await politeFetch(`https://diplomacia.com.tr/api/parties/province/${pName}`);
     if (partiesRes && !partiesRes.error) {
       const pArr = Array.isArray(partiesRes) ? partiesRes : (partiesRes.parties || []);
@@ -247,50 +250,153 @@ async function run() {
         }
       });
     }
-    await sleep(80);
+    await sleep(70);
 
-    // 2. Eyalet Fabrikaları
     const factoriesRes = await politeFetch(`https://diplomacia.com.tr/api/provinces/factories?provinceName=${pName}`);
     if (factoriesRes && !factoriesRes.error) {
       allProvinceFactories[prov.name] = factoriesRes;
     }
-    await sleep(80);
+    await sleep(70);
 
-    // 3. Eyalet Vergileri
     const taxRes = await politeFetch(`https://diplomacia.com.tr/api/provinces/tax-revenue?province_name=${pName}`);
     if (taxRes && !taxRes.error) {
       allProvinceTaxes[prov.name] = taxRes;
     }
-    await sleep(80);
+    await sleep(70);
   }
 
-  // 6. DOSYALARI GÜVENLE YAZ
+  // 6. 🌟 YENİ: 3 APİ'Yİ BİRLEŞTİREN DETAYLI ÜLKE VE ŞEHİR VERİTABANI
+  console.log('🧩 3 API Birleştiriliyor (Ülkeler + Eyaletler + Kaynak Bonusları)...');
+  const bonusMap = new Map();
+  const bonusList = (resourceBonusesData && resourceBonusesData.provinces) 
+    ? resourceBonusesData.provinces 
+    : (Array.isArray(resourceBonusesData) ? resourceBonusesData : []);
+
+  bonusList.forEach(b => {
+    if (b && b.name) bonusMap.set(b.name.trim().toLowerCase(), b);
+  });
+
+  const countryProvincesMap = new Map();
+  const independentProvinces = [];
+
+  provincesList.forEach(p => {
+    const bInfo = bonusMap.get((p.name || '').trim().toLowerCase()) || {};
+    const enrichedProvince = {
+      name: p.name,
+      icon: p.icon || null,
+      coat_url: bInfo.coat_url || p.coat_url || null,
+      region: p.region || null,
+      is_capital: Boolean(p.is_capital),
+      is_independent: Boolean(p.is_independent),
+      independence_date: p.independence_date || null,
+      player_count: p.player_count || 0,
+      scores: {
+        education: p.education_score || 0,
+        military: p.military_score || 0,
+        development: p.development_score || 0,
+        health: p.health_score || 0,
+        health_world_first: Boolean(p.health_world_first)
+      },
+      resource_bonuses: bInfo.bonuses || { deri: 0, altin: 0, petrol: 0, nte: 0, elmas: 0 }
+    };
+
+    if (p.country_id) {
+      if (!countryProvincesMap.has(p.country_id)) countryProvincesMap.set(p.country_id, []);
+      countryProvincesMap.get(p.country_id).push(enrichedProvince);
+    } else {
+      independentProvinces.push(enrichedProvince);
+    }
+  });
+
+  const detailedCountries = countriesList.map(c => {
+    const cProvinces = countryProvincesMap.get(c.id) || [];
+    const capital = cProvinces.find(p => p.is_capital) || null;
+
+    const totalBonuses = { deri: 0, altin: 0, petrol: 0, nte: 0, elmas: 0 };
+    let sumEdu = 0, sumMil = 0, sumDev = 0, sumHealth = 0;
+
+    cProvinces.forEach(p => {
+      const b = p.resource_bonuses || {};
+      totalBonuses.deri += (b.deri || 0);
+      totalBonuses.altin += (b.altin || 0);
+      totalBonuses.petrol += (b.petrol || 0);
+      totalBonuses.nte += (b.nte || 0);
+      totalBonuses.elmas += (b.elmas || 0);
+
+      sumEdu += p.scores.education;
+      sumMil += p.scores.military;
+      sumDev += p.scores.development;
+      sumHealth += p.scores.health;
+    });
+
+    const pCount = cProvinces.length;
+
+    const countryObj = {
+      id: c.id,
+      name: c.name,
+      flag_url: c.flag_url,
+      treasury: c.treasury || 0,
+      country_number: c.country_number,
+      player_count: c.player_count || 0,
+      provinces_count: pCount,
+      capital: capital ? { name: capital.name, icon: capital.icon, coat_url: capital.coat_url } : null,
+      total_resource_bonuses: totalBonuses,
+      average_scores: pCount > 0 ? {
+        education: Number((sumEdu / pCount).toFixed(1)),
+        military: Number((sumMil / pCount).toFixed(1)),
+        development: Number((sumDev / pCount).toFixed(1)),
+        health: Number((sumHealth / pCount).toFixed(1))
+      } : { education: 0, military: 0, development: 0, health: 0 },
+      provinces: cProvinces
+    };
+
+    // Ayrı klasöre her ülkeyi tek tek kaydet
+    const slug = slugify(c.name);
+    fs.writeFileSync(`data/countries_detailed/${slug}.json`, JSON.stringify(countryObj, null, 2), 'utf8');
+
+    return countryObj;
+  });
+
+  // Bağımsız eyaletleri de ayrı dosyaya kaydet
+  fs.writeFileSync('data/countries_detailed/bagimsiz_eyaletler.json', JSON.stringify({
+    title: "Bağımsız / Sahipsiz Eyaletler",
+    provinces_count: independentProvinces.length,
+    provinces: independentProvinces
+  }, null, 2), 'utf8');
+
+  // Birleşik ana dosyayı kaydet
+  const masterCountriesDetailed = {
+    updated_at: new Date().toISOString(),
+    total_countries: detailedCountries.length,
+    total_provinces: provincesList.length,
+    countries: detailedCountries,
+    independent_provinces: independentProvinces
+  };
+  fs.writeFileSync('data/countries_detailed.json', JSON.stringify(masterCountriesDetailed, null, 2), 'utf8');
+
+  // 7. ORİJİNAL 3 DOSYA (OLDUĞU GİBİ KORUNUYOR)
+  if (countriesList.length > 0) fs.writeFileSync('data/countries.json', JSON.stringify(countriesList, null, 2), 'utf8');
+  if (provincesList.length > 0) fs.writeFileSync('data/provinces.json', JSON.stringify(provincesList, null, 2), 'utf8');
+  if (resourceBonusesData && !resourceBonusesData.error) fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
+
+  // 8. Diğer Genel Dosyalar
   const allPlayersList = Array.from(allPlayersMap.values()).sort((a, b) => (b.xp || 0) - (a.xp || 0));
   fs.writeFileSync('data/all_players.json', JSON.stringify(allPlayersList, null, 2), 'utf8');
-
-  const seenOnlineList = Array.from(seenOnlineMap.values()).sort((a, b) => (b.xp || 0) - (a.xp || 0));
-  fs.writeFileSync('data/seen_online_players.json', JSON.stringify(seenOnlineList, null, 2), 'utf8');
-
+  fs.writeFileSync('data/seen_online_players.json', JSON.stringify(Array.from(seenOnlineMap.values()).sort((a, b) => (b.xp || 0) - (a.xp || 0)), null, 2), 'utf8');
   fs.writeFileSync('data/name_changes.json', JSON.stringify(Array.from(nameChangesMap.values()), null, 2), 'utf8');
 
-  const finalPartiesList = Array.from(allPartiesMap.values());
-  fs.writeFileSync('data/all_parties.json', JSON.stringify(finalPartiesList, null, 2), 'utf8');
+  fs.writeFileSync('data/all_parties.json', JSON.stringify(Array.from(allPartiesMap.values()), null, 2), 'utf8');
   fs.writeFileSync('data/all_province_factories.json', JSON.stringify(allProvinceFactories, null, 2), 'utf8');
   fs.writeFileSync('data/all_province_taxes.json', JSON.stringify(allProvinceTaxes, null, 2), 'utf8');
 
-  // Diğer Genel Dosyalar
-  if (provincesList.length > 0) fs.writeFileSync('data/provinces.json', JSON.stringify(provincesList, null, 2), 'utf8');
-  if (countriesList.length > 0) fs.writeFileSync('data/countries.json', JSON.stringify(countriesList, null, 2), 'utf8');
   if (mapColorsData && !mapColorsData.error) fs.writeFileSync('data/country_map_colors.json', JSON.stringify(mapColorsData, null, 2), 'utf8');
   if (mapScoresData && !mapScoresData.error) fs.writeFileSync('data/country_map_scores.json', JSON.stringify(mapScoresData, null, 2), 'utf8');
-  if (resourceBonusesData && !resourceBonusesData.error) fs.writeFileSync('data/province_resource_bonuses.json', JSON.stringify(resourceBonusesData, null, 2), 'utf8');
   if (geoBlocsColorsData && !geoBlocsColorsData.error) fs.writeFileSync('data/geo_blocs_map_colors.json', JSON.stringify(geoBlocsColorsData, null, 2), 'utf8');
   if (wealthLeaderboardData && !wealthLeaderboardData.error) fs.writeFileSync('data/countries_wealth_leaderboard.json', JSON.stringify(wealthLeaderboardData, null, 2), 'utf8');
 
-  console.log(`🎉 ZIRHLI TARAMA BAŞARIYLA TAMAMLANDI!`);
-  console.log(`- TÜM OYUNCULAR: ${allPlayersList.length}`);
-  console.log(`- TOPLAM PARTİ: ${finalPartiesList.length}`);
-  console.log(`- 181 Eyaletin Fabrikaları ve Vergileri Hatasız Kaydedildi.`);
+  console.log(`🎉 TÜM İŞLEMLER BAŞARIYLA TAMAMLANDI!`);
+  console.log(`- data/countries.json, data/provinces.json, data/province_resource_bonuses.json aynen korundu.`);
+  console.log(`- data/countries_detailed.json ve data/countries_detailed/ klasörü eksiksiz oluşturuldu!`);
 }
 
 run();
