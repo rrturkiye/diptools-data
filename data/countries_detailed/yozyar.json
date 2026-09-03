@@ -2,26 +2,26 @@
   "id": "4d973d67-468d-4c16-bba9-c8433a2c2e7b",
   "name": "YOZYAR",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1787592521960.jpeg",
-  "treasury": 42787191,
+  "treasury": 43241736,
   "country_number": 169,
-  "player_count": 156,
-  "provinces_count": 2,
+  "player_count": 153,
+  "provinces_count": 1,
   "capital": {
     "name": "Doğu Timor",
     "icon": "🏝️",
     "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 15,
-    "altin": 17,
-    "petrol": 24,
-    "nte": 17,
-    "elmas": 20
+    "deri": 5,
+    "altin": 10,
+    "petrol": 12,
+    "nte": 9,
+    "elmas": 4
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 5,
+    "development": 1,
     "health": 0
   },
   "provinces": [
@@ -47,30 +47,6 @@
         "petrol": 12,
         "nte": 9,
         "elmas": 4
-      }
-    },
-    {
-      "name": "Şandong",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 114,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 9,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 12,
-        "nte": 8,
-        "elmas": 16
       }
     }
   ]

@@ -2,9 +2,9 @@
   "id": "d42e931d-92f1-4c3b-bb0e-3bf8325b5c87",
   "name": "Kingdom of Tylos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d42e931d-92f1-4c3b-bb0e-3bf8325b5c87-1787161670078.jpeg",
-  "treasury": 18149423,
+  "treasury": 19832260,
   "country_number": 73,
-  "player_count": 110,
+  "player_count": 109,
   "provinces_count": 2,
   "capital": {
     "name": "Katar",
@@ -22,7 +22,7 @@
     "education": 4.5,
     "military": 7.5,
     "development": 9,
-    "health": 6.5
+    "health": 6
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 51,
+      "player_count": 48,
       "scores": {
         "education": 9,
         "military": 9,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 55,
+      "player_count": 57,
       "scores": {
         "education": 0,
         "military": 6,
         "development": 9,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
