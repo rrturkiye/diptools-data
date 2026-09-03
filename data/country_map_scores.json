@@ -1,16 +1,16 @@
 {
   "provinceScores": {
-    "Ohio": {
-      "education": 11,
-      "military": 4,
-      "development": 2,
-      "health": 4
-    },
     "Atina": {
-      "education": 10,
+      "education": 11,
       "military": 1,
       "development": 0,
       "health": 0
+    },
+    "Ohio": {
+      "education": 10,
+      "military": 4,
+      "development": 2,
+      "health": 4
     },
     "Sabah": {
       "education": 10,
@@ -20,7 +20,7 @@
     },
     "Bahia": {
       "education": 10,
-      "military": 10,
+      "military": 9,
       "development": 10,
       "health": 10
     },
@@ -126,6 +126,12 @@
       "development": 7,
       "health": 10
     },
+    "Temeşvar": {
+      "education": 9,
+      "military": 10,
+      "development": 8,
+      "health": 8
+    },
     "Amazonas": {
       "education": 9,
       "military": 8,
@@ -133,16 +139,10 @@
       "health": 9
     },
     "Meksiko": {
-      "education": 9,
-      "military": 9,
-      "development": 8,
-      "health": 5
-    },
-    "Temeşvar": {
       "education": 8,
       "military": 9,
       "development": 8,
-      "health": 8
+      "health": 5
     },
     "Güney Azerbaycan": {
       "education": 8,
@@ -321,7 +321,7 @@
     "Kunming": {
       "education": 6,
       "military": 5,
-      "development": 6,
+      "development": 7,
       "health": 3
     },
     "Tahran": {
@@ -471,7 +471,7 @@
     "St. Petersburg": {
       "education": 3,
       "military": 9,
-      "development": 7,
+      "development": 6,
       "health": 4
     },
     "Patagonia": {
@@ -825,7 +825,7 @@
     "Guangzhou": {
       "education": 0,
       "military": 3,
-      "development": 5,
+      "development": 4,
       "health": 0
     },
     "Hürmüz": {
@@ -1035,7 +1035,7 @@
     "Sırbistan": {
       "education": 0,
       "military": 0,
-      "development": 4,
+      "development": 5,
       "health": 7
     },
     "Sulawesi": {
