@@ -2,43 +2,67 @@
   "id": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7",
   "name": "México Oriental",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
-  "treasury": 125884149,
+  "treasury": 138600619,
   "country_number": 165,
-  "player_count": 185,
-  "provinces_count": 1,
+  "player_count": 188,
+  "provinces_count": 2,
   "capital": {
-    "name": "Jalisco",
-    "icon": "🎺",
+    "name": "Chiapas",
+    "icon": "🌿",
     "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 17,
-    "altin": 12,
-    "petrol": 8,
-    "nte": 10,
-    "elmas": 11
+    "deri": 27,
+    "altin": 24,
+    "petrol": 21,
+    "nte": 22,
+    "elmas": 17
   },
   "average_scores": {
-    "education": 0,
+    "education": 4.5,
     "military": 0,
-    "development": 6,
-    "health": 5
+    "development": 3.5,
+    "health": 2.5
   },
   "provinces": [
+    {
+      "name": "Chiapas",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Güneydoğu Meksika",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 133,
+      "scores": {
+        "education": 9,
+        "military": 0,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 12,
+        "petrol": 13,
+        "nte": 12,
+        "elmas": 6
+      }
+    },
     {
       "name": "Jalisco",
       "icon": "🎺",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "region": "Batı Meksika (Guadalajara)",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 125,
+      "player_count": 122,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 6,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {

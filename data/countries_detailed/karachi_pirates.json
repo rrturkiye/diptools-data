@@ -2,27 +2,27 @@
   "id": "7f0c0ac2-db98-4d71-a9ca-95051310492e",
   "name": "Karachi Pirates ⚔️",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7f0c0ac2-db98-4d71-a9ca-95051310492e-1788198598195.png",
-  "treasury": 2464418,
+  "treasury": 3256065,
   "country_number": 144,
-  "player_count": 39,
-  "provinces_count": 1,
+  "player_count": 32,
+  "provinces_count": 2,
   "capital": {
     "name": "Karaçi",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/karaci.png"
   },
   "total_resource_bonuses": {
-    "deri": 8,
-    "altin": 7,
-    "petrol": 10,
-    "nte": 6,
-    "elmas": 20
+    "deri": 23,
+    "altin": 11,
+    "petrol": 15,
+    "nte": 11,
+    "elmas": 29
   },
   "average_scores": {
     "education": 0,
-    "military": 0,
-    "development": 8,
-    "health": 7
+    "military": 5,
+    "development": 3.5,
+    "health": 3
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 35,
+      "player_count": 30,
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 8,
-        "health": 7,
+        "development": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -47,6 +47,30 @@
         "petrol": 10,
         "nte": 6,
         "elmas": 20
+      }
+    },
+    {
+      "name": "Bretonya",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
+      "region": "Batı (Bretanya Yarımadası)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 5,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 4,
+        "petrol": 5,
+        "nte": 5,
+        "elmas": 9
       }
     }
   ]

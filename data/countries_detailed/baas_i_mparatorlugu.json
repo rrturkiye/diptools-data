@@ -2,27 +2,27 @@
   "id": "61034f3e-2b22-4c79-8a9d-e034d0f5385d",
   "name": "Baas İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/61034f3e-2b22-4c79-8a9d-e034d0f5385d-1787854725944.jpeg",
-  "treasury": 5303340,
+  "treasury": 3367012,
   "country_number": 90,
-  "player_count": 16,
-  "provinces_count": 2,
+  "player_count": 15,
+  "provinces_count": 3,
   "capital": {
     "name": "Daşoguz",
     "icon": "🌾",
     "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 15,
-    "petrol": 28,
-    "nte": 17,
-    "elmas": 13
+    "deri": 34,
+    "altin": 24,
+    "petrol": 35,
+    "nte": 24,
+    "elmas": 19
   },
   "average_scores": {
-    "education": 8,
+    "education": 7.3,
     "military": 6,
-    "development": 2,
-    "health": 2.5
+    "development": 1.7,
+    "health": 2
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 9,
+      "player_count": 8,
       "scores": {
         "education": 8,
         "military": 5,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Botoşani",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/botosani.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 6,
+        "military": 6,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 9,
+        "petrol": 7,
+        "nte": 7,
+        "elmas": 6
+      }
+    },
+    {
       "name": "Musul",
       "icon": "🏺",
       "coat_url": "https://diplomacia.com.tr/coats/musul.png?v=3",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 10,
+      "player_count": 9,
       "scores": {
         "education": 8,
         "military": 7,

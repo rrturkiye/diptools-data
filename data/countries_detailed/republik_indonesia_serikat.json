@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 215315395,
+  "treasury": 246880958,
   "country_number": 54,
-  "player_count": 1107,
-  "provinces_count": 7,
+  "player_count": 1114,
+  "provinces_count": 6,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 40,
-    "altin": 105,
-    "petrol": 81,
-    "nte": 93,
-    "elmas": 46
+    "deri": 35,
+    "altin": 93,
+    "petrol": 66,
+    "nte": 79,
+    "elmas": 41
   },
   "average_scores": {
-    "education": 2.9,
-    "military": 1.4,
-    "development": 4.4,
-    "health": 1.4
+    "education": 1.7,
+    "military": 1.8,
+    "development": 4.5,
+    "health": 1.5
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 663,
+      "player_count": 655,
       "scores": {
         "education": 6,
         "military": 0,
         "development": 8,
-        "health": 6,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 63,
+      "player_count": 66,
       "scores": {
         "education": 0,
         "military": 9,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 28,
+      "player_count": 25,
       "scores": {
         "education": 0,
         "military": 0,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 23,
+      "player_count": 25,
       "scores": {
         "education": 0,
         "military": 0,
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Sabah",
-      "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/sabah.png?v=3",
-      "region": "Doğu Malezya (Borneo Kuzey)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 23,
-      "scores": {
-        "education": 10,
-        "military": 0,
-        "development": 3,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 12,
-        "petrol": 15,
-        "nte": 14,
-        "elmas": 5
-      }
-    },
-    {
       "name": "Sulawesi",
       "icon": "🐚",
       "coat_url": "https://diplomacia.com.tr/coats/sulawesi.png?v=3",
@@ -153,11 +129,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 52,
+      "player_count": 54,
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 4,
+        "development": 3,
         "health": 0,
         "health_world_first": false
       },
@@ -177,10 +153,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 139,
+      "player_count": 140,
       "scores": {
         "education": 4,
-        "military": 1,
+        "military": 2,
         "development": 4,
         "health": 3,
         "health_world_first": false

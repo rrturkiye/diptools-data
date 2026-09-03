@@ -2,9 +2,9 @@
   "id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
   "name": "República Argentina",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1786135509402.jpeg",
-  "treasury": 14371674,
+  "treasury": 19616391,
   "country_number": 103,
-  "player_count": 930,
+  "player_count": 938,
   "provinces_count": 4,
   "capital": {
     "name": "Buenos Aires",
@@ -22,7 +22,7 @@
     "education": 4.8,
     "military": 6.8,
     "development": 8,
-    "health": 8
+    "health": 7.8
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 247,
+      "player_count": 243,
       "scores": {
         "education": 8,
         "military": 7,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 213,
+      "player_count": 216,
       "scores": {
         "education": 1,
         "military": 7,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 224,
+      "player_count": 228,
       "scores": {
         "education": 7,
         "military": 7,
@@ -105,12 +105,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 220,
+      "player_count": 223,
       "scores": {
         "education": 3,
         "military": 6,
         "development": 7,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -1,0 +1,53 @@
+{
+  "id": "8239cc2b-e392-4192-82e2-5e1cd11bf6c3",
+  "name": "Greater Republic of Türkiye",
+  "flag_url": "https://diplomacia.com.tr/coats/bordo.png?v=3",
+  "treasury": 531507,
+  "country_number": 184,
+  "player_count": 114,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Bordo",
+    "icon": "🍷",
+    "coat_url": "https://diplomacia.com.tr/coats/bordo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 4,
+    "petrol": 8,
+    "nte": 5,
+    "elmas": 11
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Bordo",
+      "icon": "🍷",
+      "coat_url": "https://diplomacia.com.tr/coats/bordo.png?v=3",
+      "region": "Güneybatı (Garonne, Atlantik)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 83,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 4,
+        "petrol": 8,
+        "nte": 5,
+        "elmas": 11
+      }
+    }
+  ]
+}

@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 334067451,
   "country_number": 92,
-  "player_count": 359,
-  "provinces_count": 3,
+  "player_count": 356,
+  "provinces_count": 2,
   "capital": {
     "name": "Georgia",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
   },
   "total_resource_bonuses": {
-    "deri": 34,
-    "altin": 25,
-    "petrol": 26,
-    "nte": 39,
-    "elmas": 27
+    "deri": 24,
+    "altin": 13,
+    "petrol": 13,
+    "nte": 27,
+    "elmas": 21
   },
   "average_scores": {
-    "education": 3.3,
-    "military": 0.3,
-    "development": 1,
-    "health": 0.3
+    "education": 0,
+    "military": 0.5,
+    "development": 0.5,
+    "health": 0
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 118,
+      "player_count": 115,
       "scores": {
         "education": 0,
         "military": 1,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Chiapas",
-      "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Güneydoğu Meksika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 131,
-      "scores": {
-        "education": 10,
-        "military": 0,
-        "development": 2,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 12,
-        "petrol": 13,
-        "nte": 12,
-        "elmas": 6
-      }
-    },
-    {
       "name": "İç Moğolistan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 97,
+      "player_count": 98,
       "scores": {
         "education": 0,
         "military": 0,
