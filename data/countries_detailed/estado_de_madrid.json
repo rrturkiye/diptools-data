@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
   "treasury": 16613760,
   "country_number": 98,
-  "player_count": 240,
-  "provinces_count": 2,
+  "player_count": 242,
+  "provinces_count": 1,
   "capital": {
     "name": "Sevilla",
     "icon": "💃",
     "coat_url": "https://diplomacia.com.tr/coats/sevilla.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 26,
-    "altin": 20,
-    "petrol": 10,
-    "nte": 21,
-    "elmas": 24
+    "deri": 16,
+    "altin": 13,
+    "petrol": 6,
+    "nte": 13,
+    "elmas": 9
   },
   "average_scores": {
-    "education": 6.5,
-    "military": 3,
-    "development": 5.5,
-    "health": 4
+    "education": 6,
+    "military": 4,
+    "development": 3,
+    "health": 3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 109,
+      "player_count": 111,
       "scores": {
         "education": 6,
         "military": 4,
@@ -47,30 +47,6 @@
         "petrol": 6,
         "nte": 13,
         "elmas": 9
-      }
-    },
-    {
-      "name": "Madrid",
-      "icon": "👑",
-      "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
-      "region": "İspanya Başkenti (Orta İspanya)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 209,
-      "scores": {
-        "education": 7,
-        "military": 2,
-        "development": 8,
-        "health": 5,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 4,
-        "nte": 8,
-        "elmas": 15
       }
     }
   ]

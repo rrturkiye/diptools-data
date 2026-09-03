@@ -2,7 +2,7 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-  "treasury": 170430292,
+  "treasury": 171294696,
   "country_number": 127,
   "player_count": 116,
   "provinces_count": 8,
@@ -20,8 +20,8 @@
   },
   "average_scores": {
     "education": 1.1,
-    "military": 4.9,
-    "development": 2.1,
+    "military": 4.8,
+    "development": 2,
     "health": 2
   },
   "provinces": [
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 36,
+      "player_count": 32,
       "scores": {
         "education": 0,
         "military": 10,
-        "development": 5,
+        "development": 4,
         "health": 7,
         "health_world_first": false
       },
@@ -129,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 9,
+      "player_count": 8,
       "scores": {
         "education": 0,
         "military": 3,
@@ -180,7 +180,7 @@
       "player_count": 20,
       "scores": {
         "education": 1,
-        "military": 11,
+        "military": 10,
         "development": 2,
         "health": 3,
         "health_world_first": false

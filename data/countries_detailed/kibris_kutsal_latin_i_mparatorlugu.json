@@ -2,25 +2,25 @@
   "id": "1ae658e0-7301-42da-a440-3c5582ce4114",
   "name": "Kıbrıs kutsal Latin İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1786288720141.jpeg",
-  "treasury": 11116412,
+  "treasury": 11234597,
   "country_number": 134,
-  "player_count": 26,
+  "player_count": 25,
   "provinces_count": 2,
   "capital": {
     "name": "Kuzey Kıbrıs Türk Cumhuriyeti",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/kuzeykibristurkcumhuriyeti.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 6,
-    "altin": 7,
-    "petrol": 10,
-    "nte": 7,
-    "elmas": 12
+    "deri": 13,
+    "altin": 12,
+    "petrol": 19,
+    "nte": 11,
+    "elmas": 19
   },
   "average_scores": {
     "education": 4.5,
-    "military": 6.5,
+    "military": 6,
     "development": 5.5,
     "health": 3
   },
@@ -28,7 +28,7 @@
     {
       "name": "Kuzey Kıbrıs Türk Cumhuriyeti",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kuzeykibristurkcumhuriyeti.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 5,
+        "petrol": 9,
+        "nte": 4,
+        "elmas": 7
       }
     },
     {
@@ -57,10 +57,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 10,
+      "player_count": 11,
       "scores": {
         "education": 7,
-        "military": 7,
+        "military": 6,
         "development": 8,
         "health": 5,
         "health_world_first": false

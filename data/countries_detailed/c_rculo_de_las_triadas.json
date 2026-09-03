@@ -4,36 +4,60 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
   "treasury": 50004,
   "country_number": 162,
-  "player_count": 144,
-  "provinces_count": 1,
+  "player_count": 146,
+  "provinces_count": 2,
   "capital": {
-    "name": "Şian",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+    "name": "Madrid",
+    "icon": "👑",
+    "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 8,
-    "altin": 6,
-    "petrol": 16,
-    "nte": 9,
-    "elmas": 13
+    "deri": 18,
+    "altin": 13,
+    "petrol": 20,
+    "nte": 17,
+    "elmas": 28
   },
   "average_scores": {
-    "education": 0,
-    "military": 10,
-    "development": 0,
-    "health": 10
+    "education": 3.5,
+    "military": 5.5,
+    "development": 4,
+    "health": 7.5
   },
   "provinces": [
+    {
+      "name": "Madrid",
+      "icon": "👑",
+      "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
+      "region": "İspanya Başkenti (Orta İspanya)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 211,
+      "scores": {
+        "education": 7,
+        "military": 1,
+        "development": 8,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 8,
+        "elmas": 15
+      }
+    },
     {
       "name": "Şian",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 130,
+      "player_count": 127,
       "scores": {
         "education": 0,
         "military": 10,
