@@ -2,21 +2,21 @@
   "id": "d42e931d-92f1-4c3b-bb0e-3bf8325b5c87",
   "name": "Kingdom of Tylos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d42e931d-92f1-4c3b-bb0e-3bf8325b5c87-1787161670078.jpeg",
-  "treasury": 19175100,
+  "treasury": 7846157,
   "country_number": 73,
-  "player_count": 111,
+  "player_count": 110,
   "provinces_count": 2,
   "capital": {
     "name": "Katar",
     "icon": "🏙️",
-    "coat_url": "https://diplomacia.com.tr/coats/katar.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 7,
-    "altin": 17,
-    "petrol": 29,
-    "nte": 9,
-    "elmas": 31
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 4.5,
@@ -28,12 +28,12 @@
     {
       "name": "Katar",
       "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/katar.png?v=3",
+      "coat_url": null,
       "region": "Basra Körfezi Yarımadası",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 47,
+      "player_count": 49,
       "scores": {
         "education": 9,
         "military": 9,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 3,
-        "altin": 8,
-        "petrol": 16,
-        "nte": 4,
-        "elmas": 16
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Bahreyn",
       "icon": "🏝️",
-      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
+      "coat_url": null,
       "region": "Basra Körfezi Adası",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 57,
+      "player_count": 56,
       "scores": {
         "education": 0,
         "military": 6,
@@ -66,11 +66,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 13,
-        "nte": 5,
-        "elmas": 15
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

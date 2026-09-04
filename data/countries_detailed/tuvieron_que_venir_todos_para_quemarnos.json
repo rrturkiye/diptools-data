@@ -4,36 +4,36 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 334067451,
   "country_number": 92,
-  "player_count": 325,
-  "provinces_count": 1,
+  "player_count": 317,
+  "provinces_count": 2,
   "capital": {
     "name": "Georgia",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 9,
-    "altin": 7,
-    "petrol": 5,
-    "nte": 10,
-    "elmas": 13
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 0,
-    "military": 1,
-    "development": 1,
-    "health": 0
+    "military": 0.5,
+    "development": 3.5,
+    "health": 2
   },
   "provinces": [
     {
       "name": "Georgia",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/georgia.png",
+      "coat_url": null,
       "region": "Amerika",
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 112,
+      "player_count": 110,
       "scores": {
         "education": 0,
         "military": 1,
@@ -42,11 +42,35 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 10,
-        "elmas": 13
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
+      }
+    },
+    {
+      "name": "Jalisco",
+      "icon": "🎺",
+      "coat_url": null,
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 126,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

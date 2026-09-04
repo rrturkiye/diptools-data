@@ -2,75 +2,75 @@
   "id": "ca984b9e-07b1-4123-8e20-dde1b2bbcbe9",
   "name": "Göktürk Kağanlığı",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ca984b9e-07b1-4123-8e20-dde1b2bbcbe9-1787667774075.jpeg",
-  "treasury": 28754365,
+  "treasury": 28827382,
   "country_number": 133,
-  "player_count": 32,
+  "player_count": 31,
   "provinces_count": 2,
   "capital": {
     "name": "Aktöbe",
     "icon": "⛏️",
-    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 32,
-    "altin": 24,
-    "petrol": 22,
-    "nte": 31,
-    "elmas": 12
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 5,
     "military": 5.5,
     "development": 7.5,
-    "health": 2.5
+    "health": 2
   },
   "provinces": [
     {
       "name": "Aktöbe",
       "icon": "⛏️",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "coat_url": null,
       "region": "Batı Kazakistan",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
       "player_count": 28,
       "scores": {
-        "education": 3,
+        "education": 2,
         "military": 8,
         "development": 9,
         "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 15,
-        "altin": 11,
-        "petrol": 14,
-        "nte": 16,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Kostanay",
       "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "coat_url": null,
       "region": "Kuzey Kazakistan",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
       "player_count": 7,
       "scores": {
-        "education": 7,
+        "education": 8,
         "military": 3,
         "development": 6,
-        "health": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 17,
-        "altin": 13,
-        "petrol": 8,
-        "nte": 15,
-        "elmas": 5
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

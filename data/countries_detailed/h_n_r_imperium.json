@@ -2,21 +2,21 @@
   "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
   "name": "HÚNÉR IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1784394284047.png",
-  "treasury": 6834746,
+  "treasury": 8547103,
   "country_number": 86,
-  "player_count": 28,
+  "player_count": 27,
   "provinces_count": 3,
   "capital": {
     "name": "Fargona",
     "icon": "🌸",
-    "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 44,
-    "altin": 43,
-    "petrol": 30,
-    "nte": 41,
-    "elmas": 36
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 3.3,
@@ -28,12 +28,12 @@
     {
       "name": "Fargona",
       "icon": "🌸",
-      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "coat_url": null,
       "region": "Fergana Vadisi (Özbekistan)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 22,
+      "player_count": 21,
       "scores": {
         "education": 10,
         "military": 0,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 16,
-        "altin": 14,
-        "petrol": 11,
-        "nte": 12,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Almatı",
       "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/almati.png?v=3",
+      "coat_url": null,
       "region": "Güney Kazakistan (Eski Başkent)",
       "is_capital": false,
       "is_independent": false,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 15,
-        "altin": 14,
-        "petrol": 10,
-        "nte": 14,
-        "elmas": 14
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Taşkent",
       "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "coat_url": null,
       "region": "Özbekistan Başkenti",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 20,
+      "player_count": 21,
       "scores": {
         "education": 0,
         "military": 9,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 13,
-        "altin": 15,
-        "petrol": 9,
-        "nte": 15,
-        "elmas": 13
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

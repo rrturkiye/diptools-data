@@ -2,33 +2,33 @@
   "id": "78abf52b-649d-4d05-bb54-540409e3b083",
   "name": "Círculo de la Seda",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/78abf52b-649d-4d05-bb54-540409e3b083-1787357878119.webp",
-  "treasury": 5463285,
+  "treasury": 5522891,
   "country_number": 97,
   "player_count": 17,
   "provinces_count": 1,
   "capital": {
     "name": "Pavlodar",
     "icon": "🏭",
-    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 12,
-    "altin": 11,
-    "petrol": 11,
-    "nte": 16,
-    "elmas": 5
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 4,
     "military": 3,
-    "development": 5,
+    "development": 4,
     "health": 1
   },
   "provinces": [
     {
       "name": "Pavlodar",
       "icon": "🏭",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "coat_url": null,
       "region": "Doğu Kazakistan",
       "is_capital": true,
       "is_independent": false,
@@ -37,16 +37,16 @@
       "scores": {
         "education": 4,
         "military": 3,
-        "development": 5,
+        "development": 4,
         "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 12,
-        "altin": 11,
-        "petrol": 11,
-        "nte": 16,
-        "elmas": 5
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

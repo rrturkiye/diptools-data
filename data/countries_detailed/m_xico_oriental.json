@@ -2,38 +2,38 @@
   "id": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7",
   "name": "México Oriental",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
-  "treasury": 142286881,
+  "treasury": 142503678,
   "country_number": 165,
-  "player_count": 187,
-  "provinces_count": 2,
+  "player_count": 172,
+  "provinces_count": 1,
   "capital": {
     "name": "Chiapas",
     "icon": "🌿",
-    "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 27,
-    "altin": 24,
-    "petrol": 21,
-    "nte": 22,
-    "elmas": 17
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 4.5,
+    "education": 9,
     "military": 0,
-    "development": 3.5,
-    "health": 2.5
+    "development": 1,
+    "health": 1
   },
   "provinces": [
     {
       "name": "Chiapas",
       "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "coat_url": null,
       "region": "Güneydoğu Meksika",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 122,
+      "player_count": 118,
       "scores": {
         "education": 9,
         "military": 0,
@@ -42,35 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 12,
-        "petrol": 13,
-        "nte": 12,
-        "elmas": 6
-      }
-    },
-    {
-      "name": "Jalisco",
-      "icon": "🎺",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Batı Meksika (Guadalajara)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 124,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 6,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 17,
-        "altin": 12,
-        "petrol": 8,
-        "nte": 10,
-        "elmas": 11
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

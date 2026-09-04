@@ -2,25 +2,25 @@
   "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
   "name": "Basileia Romaion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-  "treasury": 93002049,
+  "treasury": 68002431,
   "country_number": 37,
-  "player_count": 50,
+  "player_count": 48,
   "provinces_count": 5,
   "capital": {
     "name": "Atina",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 37,
-    "altin": 44,
-    "petrol": 37,
-    "nte": 34,
-    "elmas": 55
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 2.4,
-    "military": 3.6,
+    "military": 3.4,
     "development": 0.4,
     "health": 0.4
   },
@@ -28,7 +28,7 @@
     {
       "name": "Atina",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": true,
       "is_independent": false,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 8,
-        "petrol": 7,
-        "nte": 9,
-        "elmas": 13
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Lübnan",
       "icon": "🌲",
-      "coat_url": "https://diplomacia.com.tr/coats/lubnan.png?v=3",
+      "coat_url": null,
       "region": "Lübnan",
       "is_capital": false,
       "is_independent": false,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 5,
-        "petrol": 8,
-        "nte": 4,
-        "elmas": 12
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Selanik",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -90,17 +90,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 12,
-        "petrol": 7,
-        "nte": 8,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Sofya",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -114,17 +114,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 11,
-        "petrol": 6,
-        "nte": 8,
-        "elmas": 11
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Varna",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/varna.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -132,17 +132,17 @@
       "player_count": 9,
       "scores": {
         "education": 0,
-        "military": 2,
+        "military": 1,
         "development": 1,
         "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 8,
-        "petrol": 9,
-        "nte": 5,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

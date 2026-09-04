@@ -2,33 +2,33 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 67033279,
+  "treasury": 65155271,
   "country_number": 89,
-  "player_count": 76,
-  "provinces_count": 5,
+  "player_count": 190,
+  "provinces_count": 6,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
-    "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 40,
-    "altin": 74,
-    "petrol": 58,
-    "nte": 68,
-    "elmas": 50
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 1.2,
-    "military": 6.2,
+    "education": 1.5,
+    "military": 5,
     "development": 3.2,
-    "health": 1.6
+    "health": 1.5
   },
   "provinces": [
     {
       "name": "Altay",
       "icon": "🏔️",
-      "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3",
+      "coat_url": null,
       "region": "Güney Sibirya (Altay dağları)",
       "is_capital": true,
       "is_independent": false,
@@ -36,47 +36,47 @@
       "player_count": 6,
       "scores": {
         "education": 4,
-        "military": 8,
+        "military": 7,
         "development": 3,
         "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 12,
-        "altin": 13,
-        "petrol": 8,
-        "nte": 12,
-        "elmas": 6
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Alaska",
       "icon": "❄️",
-      "coat_url": "https://diplomacia.com.tr/coats/alaska.png?v=3",
+      "coat_url": null,
       "region": "Kuzeybatı (Arktik)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 15,
+      "player_count": 14,
       "scores": {
         "education": 0,
-        "military": 7,
+        "military": 6,
         "development": 2,
         "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 18,
-        "petrol": 12,
-        "nte": 12,
-        "elmas": 6
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Bağdat",
       "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/baghdad.png?v=3",
+      "coat_url": null,
       "region": "Orta ve Güney Irak",
       "is_capital": false,
       "is_independent": false,
@@ -90,22 +90,46 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 8,
-        "petrol": 15,
-        "nte": 7,
-        "elmas": 11
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
+      }
+    },
+    {
+      "name": "Harbin",
+      "icon": null,
+      "coat_url": null,
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 118,
+      "scores": {
+        "education": 3,
+        "military": 1,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Kaliforniya",
       "icon": "🌴",
-      "coat_url": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
+      "coat_url": null,
       "region": "Batı Kıyısı (Pasifik)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 15,
+      "player_count": 18,
       "scores": {
         "education": 0,
         "military": 7,
@@ -114,17 +138,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 16,
-        "petrol": 11,
-        "nte": 20,
-        "elmas": 18
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Yakutistan",
       "icon": "❄️",
-      "coat_url": "https://diplomacia.com.tr/coats/yakutistan.png?v=3",
+      "coat_url": null,
       "region": "Doğu Sibirya (Lena nehri)",
       "is_capital": false,
       "is_independent": false,
@@ -138,11 +162,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 5,
-        "altin": 19,
-        "petrol": 12,
-        "nte": 17,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

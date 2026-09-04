@@ -2,38 +2,38 @@
   "id": "dc266d20-3045-4c2d-8185-2022a532c0b7",
   "name": "Círculo Akelarre del Cantábrico",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
-  "treasury": 5135141,
+  "treasury": 5598725,
   "country_number": 100,
-  "player_count": 242,
+  "player_count": 236,
   "provinces_count": 2,
   "capital": {
     "name": "Galicia",
     "icon": "🌊",
-    "coat_url": "https://diplomacia.com.tr/coats/galicia.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 23,
-    "altin": 25,
-    "petrol": 26,
-    "nte": 26,
-    "elmas": 15
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 0.5,
-    "military": 3,
+    "military": 2.5,
     "development": 9,
-    "health": 7
+    "health": 6.5
   },
   "provinces": [
     {
       "name": "Galicia",
       "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/galicia.png?v=3",
+      "coat_url": null,
       "region": "Kuzey İspanya (Kuzeybatı)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 160,
+      "player_count": 155,
       "scores": {
         "education": 1,
         "military": 1,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 15,
-        "altin": 11,
-        "petrol": 7,
-        "nte": 10,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Sibirya",
       "icon": "🌲",
-      "coat_url": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
+      "coat_url": null,
       "region": "Sibirya (Ob-İrtiş ovası)",
       "is_capital": false,
       "is_independent": false,
@@ -60,17 +60,17 @@
       "player_count": 21,
       "scores": {
         "education": 0,
-        "military": 5,
+        "military": 4,
         "development": 10,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 14,
-        "petrol": 19,
-        "nte": 16,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

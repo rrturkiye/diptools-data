@@ -4,19 +4,19 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
   "treasury": 50005,
   "country_number": 162,
-  "player_count": 139,
+  "player_count": 138,
   "provinces_count": 2,
   "capital": {
     "name": "Madrid",
     "icon": "👑",
-    "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 18,
-    "altin": 13,
-    "petrol": 20,
-    "nte": 17,
-    "elmas": 28
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 3,
@@ -28,12 +28,12 @@
     {
       "name": "Madrid",
       "icon": "👑",
-      "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
+      "coat_url": null,
       "region": "İspanya Başkenti (Orta İspanya)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 211,
+      "player_count": 213,
       "scores": {
         "education": 6,
         "military": 1,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 4,
-        "nte": 8,
-        "elmas": 15
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Şian",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "coat_url": null,
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 108,
+      "player_count": 104,
       "scores": {
         "education": 0,
         "military": 10,
@@ -66,11 +66,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 6,
-        "petrol": 16,
-        "nte": 9,
-        "elmas": 13
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

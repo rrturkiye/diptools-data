@@ -2,33 +2,33 @@
   "id": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33",
   "name": "Kingdom of Hejaz",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1787604082950.jpeg",
-  "treasury": 78282853,
+  "treasury": 170244,
   "country_number": 151,
-  "player_count": 28,
+  "player_count": 30,
   "provinces_count": 2,
   "capital": {
     "name": "Medine",
     "icon": "🕌",
-    "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 15,
-    "altin": 25,
-    "petrol": 20,
-    "nte": 12,
-    "elmas": 24
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 2.5,
-    "military": 5,
-    "development": 5.5,
+    "military": 4,
+    "development": 5,
     "health": 5
   },
   "provinces": [
     {
       "name": "Medine",
       "icon": "🕌",
-      "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
+      "coat_url": null,
       "region": "Hicaz (Kutsal Şehir)",
       "is_capital": true,
       "is_independent": false,
@@ -36,41 +36,41 @@
       "player_count": 17,
       "scores": {
         "education": 3,
-        "military": 2,
+        "military": 1,
         "development": 1,
         "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 12,
-        "petrol": 10,
-        "nte": 6,
-        "elmas": 11
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Mekke",
       "icon": "🕋",
-      "coat_url": "https://diplomacia.com.tr/coats/mekke.png?v=3",
+      "coat_url": null,
       "region": "Hicaz (Kutsal Şehir)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 28,
+      "player_count": 34,
       "scores": {
         "education": 2,
-        "military": 8,
-        "development": 10,
+        "military": 7,
+        "development": 9,
         "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 13,
-        "petrol": 10,
-        "nte": 6,
-        "elmas": 13
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

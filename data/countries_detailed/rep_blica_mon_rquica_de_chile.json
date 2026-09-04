@@ -2,99 +2,99 @@
   "id": "16fb3540-85c0-46fc-a143-f72db2337f86",
   "name": "República Monárquica de Chile",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
-  "treasury": 98803035,
+  "treasury": 99683952,
   "country_number": 132,
-  "player_count": 67,
+  "player_count": 73,
   "provinces_count": 3,
   "capital": {
     "name": "Santiago",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/santiago.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 31,
-    "altin": 28,
-    "petrol": 20,
-    "nte": 36,
-    "elmas": 33
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 5,
-    "health": 7.3
+    "development": 5.3,
+    "health": 8.7
   },
   "provinces": [
     {
       "name": "Santiago",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/santiago.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 36,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 5,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 9,
-        "petrol": 8,
-        "nte": 11,
-        "elmas": 15
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Araucanía",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/araucania.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 16,
+      "player_count": 30,
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 4,
+        "development": 5,
         "health": 10,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 16,
-        "altin": 6,
-        "petrol": 5,
-        "nte": 7,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Atacama",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/atacama.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 10,
+      "player_count": 14,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 6,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 5,
-        "altin": 13,
-        "petrol": 7,
-        "nte": 18,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

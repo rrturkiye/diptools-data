@@ -2,75 +2,75 @@
   "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
   "name": "Imperi Galàctic Català",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-  "treasury": 43378655,
+  "treasury": 35897468,
   "country_number": 99,
-  "player_count": 272,
+  "player_count": 269,
   "provinces_count": 2,
   "capital": {
     "name": "Barcelona",
     "icon": "🎨",
-    "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 22,
-    "altin": 10,
-    "petrol": 15,
-    "nte": 14,
-    "elmas": 26
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 0,
-    "military": 4.5,
-    "development": 5,
+    "education": 2,
+    "military": 8,
+    "development": 6,
     "health": 4
   },
   "provinces": [
     {
       "name": "Barcelona",
       "icon": "🎨",
-      "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
+      "coat_url": null,
       "region": "Kuzey İspanya (Katalonya & Aragón)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 178,
+      "player_count": 176,
       "scores": {
         "education": 0,
         "military": 9,
         "development": 10,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 13,
-        "altin": 6,
-        "petrol": 7,
-        "nte": 9,
-        "elmas": 15
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Bordo",
       "icon": "🍷",
-      "coat_url": "https://diplomacia.com.tr/coats/bordo.png?v=3",
+      "coat_url": null,
       "region": "Güneybatı (Garonne, Atlantik)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
       "player_count": 80,
       "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
+        "education": 4,
+        "military": 7,
+        "development": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 4,
-        "petrol": 8,
-        "nte": 5,
-        "elmas": 11
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

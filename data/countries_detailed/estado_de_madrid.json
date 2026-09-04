@@ -4,49 +4,49 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
   "treasury": 16613760,
   "country_number": 98,
-  "player_count": 250,
+  "player_count": 249,
   "provinces_count": 1,
   "capital": {
     "name": "Sevilla",
     "icon": "💃",
-    "coat_url": "https://diplomacia.com.tr/coats/sevilla.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 16,
-    "altin": 13,
-    "petrol": 6,
-    "nte": 13,
-    "elmas": 9
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 6,
     "military": 4,
-    "development": 3,
+    "development": 2,
     "health": 3
   },
   "provinces": [
     {
       "name": "Sevilla",
       "icon": "💃",
-      "coat_url": "https://diplomacia.com.tr/coats/sevilla.png?v=3",
+      "coat_url": null,
       "region": "Güney İspanya (Endülüs)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 124,
+      "player_count": 125,
       "scores": {
         "education": 6,
         "military": 4,
-        "development": 3,
+        "development": 2,
         "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 16,
-        "altin": 13,
-        "petrol": 6,
-        "nte": 13,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

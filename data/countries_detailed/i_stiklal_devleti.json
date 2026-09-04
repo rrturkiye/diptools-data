@@ -4,19 +4,19 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1787846758169.png",
   "treasury": 1464757,
   "country_number": 91,
-  "player_count": 33,
+  "player_count": 32,
   "provinces_count": 1,
   "capital": {
     "name": "Mary",
     "icon": "🏺",
-    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 8,
-    "petrol": 16,
-    "nte": 10,
-    "elmas": 5
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 9,
@@ -28,7 +28,7 @@
     {
       "name": "Mary",
       "icon": "🏺",
-      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "coat_url": null,
       "region": "Güneydoğu Türkmenistan",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 11,
-        "altin": 8,
-        "petrol": 16,
-        "nte": 10,
-        "elmas": 5
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

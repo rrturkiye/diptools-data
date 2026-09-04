@@ -2,33 +2,33 @@
   "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
   "name": "ROMAN EMPİRE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1787147004997.jpeg",
-  "treasury": 24245675,
+  "treasury": 25001699,
   "country_number": 4,
-  "player_count": 154,
+  "player_count": 150,
   "provinces_count": 5,
   "capital": {
     "name": "Atıray",
     "icon": "🛢️",
-    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 43,
-    "altin": 33,
-    "petrol": 57,
-    "nte": 48,
-    "elmas": 51
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 5.4,
-    "military": 7.6,
-    "development": 4.2,
-    "health": 3.2
+    "education": 5.2,
+    "military": 7.2,
+    "development": 4,
+    "health": 2.8
   },
   "provinces": [
     {
       "name": "Atıray",
       "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "coat_url": null,
       "region": "Hazar Kıyısı (Kazakistan)",
       "is_capital": true,
       "is_independent": false,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 11,
-        "altin": 9,
-        "petrol": 17,
-        "nte": 12,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Balkan",
       "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "coat_url": null,
       "region": "Batı Türkmenistan (Hazar Kıyısı)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 30,
+      "player_count": 26,
       "scores": {
         "education": 6,
         "military": 10,
@@ -66,41 +66,41 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 9,
-        "petrol": 16,
-        "nte": 13,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Daşoguz",
       "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "coat_url": null,
       "region": "Kuzey Türkmenistan",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 7,
+      "player_count": 8,
       "scores": {
         "education": 6,
-        "military": 3,
+        "military": 2,
         "development": 2,
-        "health": 3,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 12,
-        "altin": 8,
-        "petrol": 11,
-        "nte": 11,
-        "elmas": 6
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Marsilya",
       "icon": "☀️",
-      "coat_url": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
+      "coat_url": null,
       "region": "Güney (Akdeniz + Pireneler)",
       "is_capital": false,
       "is_independent": false,
@@ -108,41 +108,41 @@
       "player_count": 6,
       "scores": {
         "education": 5,
-        "military": 5,
-        "development": 5,
-        "health": 3,
+        "military": 4,
+        "development": 4,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 5,
-        "altin": 3,
-        "petrol": 10,
-        "nte": 6,
-        "elmas": 12
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Paris",
       "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "coat_url": null,
       "region": "Kuzey Merkez (Île-de-France)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 103,
+      "player_count": 74,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 11,
         "development": 4,
         "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 6,
-        "altin": 4,
-        "petrol": 3,
-        "nte": 6,
-        "elmas": 17
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

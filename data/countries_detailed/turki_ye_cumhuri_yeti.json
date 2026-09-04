@@ -2,62 +2,62 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "TÜRKİYE CUMHURİYETİ",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788123400559.jpeg",
-  "treasury": 83599391,
+  "treasury": 73424249,
   "country_number": 130,
-  "player_count": 1694,
-  "provinces_count": 18,
+  "player_count": 1686,
+  "provinces_count": 19,
   "capital": {
     "name": "Ankara",
     "icon": "🌿",
-    "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 208,
-    "altin": 148,
-    "petrol": 122,
-    "nte": 180,
-    "elmas": 165
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 3.2,
-    "military": 4.9,
-    "development": 4.5,
-    "health": 5.7
+    "education": 3.3,
+    "military": 4.8,
+    "development": 4.3,
+    "health": 5.4
   },
   "provinces": [
     {
       "name": "Ankara",
       "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3",
+      "coat_url": null,
       "region": "Kuzey Orta Anadolu",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 85,
+      "player_count": 86,
       "scores": {
         "education": 5,
-        "military": 9,
+        "military": 10,
         "development": 8,
         "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 7,
-        "altin": 8,
-        "petrol": 5,
-        "nte": 18,
-        "elmas": 12
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Adana",
       "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/adana.png?v=3",
+      "coat_url": null,
       "region": "Güney Anadolu (Akdeniz)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 18,
+      "player_count": 17,
       "scores": {
         "education": 3,
         "military": 2,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 9,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Afyon",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/afyon.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -90,17 +90,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 8,
-        "petrol": 7,
-        "nte": 15,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Amasya",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/amasya.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -114,17 +114,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 20,
-        "altin": 8,
-        "petrol": 5,
-        "nte": 12,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Ardahan",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/ardahan.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -138,22 +138,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 17,
-        "altin": 6,
-        "petrol": 4,
-        "nte": 7,
-        "elmas": 6
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Denizli",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/denizli.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 175,
+      "player_count": 176,
       "scores": {
         "education": 5,
         "military": 6,
@@ -162,17 +162,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 12,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 8,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Diyarbakır",
       "icon": "⛰️",
-      "coat_url": "https://diplomacia.com.tr/coats/diyarbakir.png?v=3",
+      "coat_url": null,
       "region": "Doğu Anadolu",
       "is_capital": false,
       "is_independent": false,
@@ -186,41 +186,41 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 12,
-        "nte": 10,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Ermenistan",
       "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
+      "coat_url": null,
       "region": "Güney Kafkasya (Ermenistan)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 22,
+      "player_count": 20,
       "scores": {
         "education": 8,
         "military": 10,
-        "development": 5,
+        "development": 6,
         "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 15,
-        "petrol": 5,
-        "nte": 13,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Erzincan",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/erzincan.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -234,17 +234,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 13,
-        "altin": 9,
-        "petrol": 5,
-        "nte": 8,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Erzurum",
       "icon": "🏔️",
-      "coat_url": "https://diplomacia.com.tr/coats/erzurum.png?v=3",
+      "coat_url": null,
       "region": "Doğu Anadolu (Dağlık)",
       "is_capital": false,
       "is_independent": false,
@@ -258,17 +258,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 18,
-        "altin": 11,
-        "petrol": 5,
-        "nte": 9,
-        "elmas": 6
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Eskişehir",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/eskisehir.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -282,41 +282,41 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 11,
-        "altin": 6,
-        "petrol": 5,
-        "nte": 14,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "İstanbul",
       "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
+      "coat_url": null,
       "region": "Kuzeybatı (Trakya + Batı Anadolu)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 105,
+      "player_count": 104,
       "scores": {
         "education": 4,
-        "military": 4,
+        "military": 3,
         "development": 8,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 13,
-        "altin": 5,
-        "petrol": 5,
-        "nte": 7,
-        "elmas": 18
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "İzmir",
       "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/izmir.png?v=3",
+      "coat_url": null,
       "region": "Ege (Batı Kıyısı)",
       "is_capital": false,
       "is_independent": false,
@@ -330,17 +330,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 12,
-        "petrol": 6,
-        "nte": 8,
-        "elmas": 12
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Kafkasya",
       "icon": "⛰️",
-      "coat_url": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
+      "coat_url": null,
       "region": "Güneybatı (Kafkas dağları)",
       "is_capital": false,
       "is_independent": false,
@@ -349,27 +349,27 @@
       "scores": {
         "education": 0,
         "military": 2,
-        "development": 2,
+        "development": 1,
         "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 12,
-        "altin": 8,
-        "petrol": 11,
-        "nte": 6,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Kahramanmaraş",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/kahramanmaras.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 164,
+      "player_count": 163,
       "scores": {
         "education": 3,
         "military": 5,
@@ -378,17 +378,41 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 10,
-        "nte": 9,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
+      }
+    },
+    {
+      "name": "Musul",
+      "icon": "🏺",
+      "coat_url": null,
+      "region": "Kuzey Irak",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 6,
+        "military": 4,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Perm",
       "icon": "🏭",
-      "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
+      "coat_url": null,
       "region": "Doğu Avrupa (Kama nehri)",
       "is_capital": false,
       "is_independent": false,
@@ -402,22 +426,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 10,
-        "petrol": 14,
-        "nte": 12,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Rize",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/rize.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 165,
+      "player_count": 163,
       "scores": {
         "education": 3,
         "military": 5,
@@ -426,35 +450,35 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 11,
-        "altin": 6,
-        "petrol": 4,
-        "nte": 10,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
       "name": "Samsun",
       "icon": "⚓",
-      "coat_url": "https://diplomacia.com.tr/coats/samsun.png?v=3",
+      "coat_url": null,
       "region": "Karadeniz (Kuzey Kıyısı)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 50,
+      "player_count": 48,
       "scores": {
         "education": 1,
-        "military": 4,
+        "military": 3,
         "development": 6,
         "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 10,
-        "petrol": 6,
-        "nte": 5,
-        "elmas": 8
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

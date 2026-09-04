@@ -2,24 +2,24 @@
   "id": "86ab9188-3b20-4d6d-a081-77659c900a9b",
   "name": "Kingdom of Croatia",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1788349386206.jpeg",
-  "treasury": 10389872,
+  "treasury": 5497252,
   "country_number": 149,
-  "player_count": 38,
+  "player_count": 37,
   "provinces_count": 1,
   "capital": {
     "name": "Hırvatistan",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 8,
-    "altin": 7,
-    "petrol": 8,
-    "nte": 7,
-    "elmas": 10
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
-    "education": 6,
+    "education": 7,
     "military": 5,
     "development": 5,
     "health": 4
@@ -28,25 +28,25 @@
     {
       "name": "Hırvatistan",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 22,
+      "player_count": 25,
       "scores": {
-        "education": 6,
+        "education": 7,
         "military": 5,
         "development": 5,
         "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 7,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 10
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

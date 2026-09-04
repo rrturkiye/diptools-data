@@ -2,25 +2,25 @@
   "id": "7b977dca-f0cc-4aab-bc96-66264c484368",
   "name": "Dämonenkult von Verberos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
-  "treasury": 15170601,
+  "treasury": 15185631,
   "country_number": 157,
-  "player_count": 134,
+  "player_count": 122,
   "provinces_count": 1,
   "capital": {
     "name": "Kuveyt",
     "icon": "🛢️",
-    "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 3,
-    "altin": 8,
-    "petrol": 17,
-    "nte": 4,
-    "elmas": 15
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 2,
-    "military": 2,
+    "military": 1,
     "development": 5,
     "health": 3
   },
@@ -28,7 +28,7 @@
     {
       "name": "Kuveyt",
       "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
+      "coat_url": null,
       "region": "Basra Körfezi Başı",
       "is_capital": true,
       "is_independent": false,
@@ -36,17 +36,17 @@
       "player_count": 15,
       "scores": {
         "education": 2,
-        "military": 2,
+        "military": 1,
         "development": 5,
         "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 3,
-        "altin": 8,
-        "petrol": 17,
-        "nte": 4,
-        "elmas": 15
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

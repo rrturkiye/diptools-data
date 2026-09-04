@@ -2,21 +2,21 @@
   "id": "2e50163f-e948-4512-aaeb-2bb93ff2dcc2",
   "name": "Republic Maynila",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/2e50163f-e948-4512-aaeb-2bb93ff2dcc2-1784461368118.png",
-  "treasury": 37255258,
+  "treasury": 37528249,
   "country_number": 110,
   "player_count": 12,
   "provinces_count": 1,
   "capital": {
     "name": "Manila",
     "icon": "🌆",
-    "coat_url": "https://diplomacia.com.tr/coats/manila.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 8,
-    "altin": 13,
-    "petrol": 9,
-    "nte": 12,
-    "elmas": 14
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Manila",
       "icon": "🌆",
-      "coat_url": "https://diplomacia.com.tr/coats/manila.png?v=3",
+      "coat_url": null,
       "region": "Filipinler Başkenti (Luzon)",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 13,
-        "petrol": 9,
-        "nte": 12,
-        "elmas": 14
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]

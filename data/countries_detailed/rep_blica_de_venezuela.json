@@ -4,19 +4,19 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3eef23ef-fce7-411d-a72e-bb855139843d-1787021677479.png",
   "treasury": 513969,
   "country_number": 101,
-  "player_count": 131,
+  "player_count": 130,
   "provinces_count": 1,
   "capital": {
     "name": "Venezuela",
     "icon": "🛢️",
-    "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3"
+    "coat_url": null
   },
   "total_resource_bonuses": {
-    "deri": 10,
-    "altin": 17,
-    "petrol": 19,
-    "nte": 9,
-    "elmas": 4
+    "deri": 0,
+    "altin": 0,
+    "petrol": 0,
+    "nte": 0,
+    "elmas": 0
   },
   "average_scores": {
     "education": 10,
@@ -28,12 +28,12 @@
     {
       "name": "Venezuela",
       "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3",
+      "coat_url": null,
       "region": "Güney Amerika (Karaib Kıyısı)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 133,
+      "player_count": 134,
       "scores": {
         "education": 10,
         "military": 7,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 17,
-        "petrol": 19,
-        "nte": 9,
-        "elmas": 4
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     }
   ]
