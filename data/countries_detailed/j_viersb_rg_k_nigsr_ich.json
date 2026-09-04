@@ -2,27 +2,27 @@
   "id": "b71a8c62-8567-4dba-aa7d-56b31f1316d9",
   "name": "Jàviersbērg Kōnigsrēich",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b71a8c62-8567-4dba-aa7d-56b31f1316d9-1787344387382.png",
-  "treasury": 12843428,
+  "treasury": 18897428,
   "country_number": 105,
-  "player_count": 36,
-  "provinces_count": 2,
+  "player_count": 277,
+  "provinces_count": 3,
   "capital": {
     "name": "Yeni Kaledonya",
     "icon": "🪸",
     "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 12,
-    "altin": 16,
-    "petrol": 10,
-    "nte": 31,
-    "elmas": 22
+    "deri": 21,
+    "altin": 22,
+    "petrol": 18,
+    "nte": 38,
+    "elmas": 38
   },
   "average_scores": {
-    "education": 2.5,
-    "military": 8,
-    "development": 4,
-    "health": 1
+    "education": 1.7,
+    "military": 5.3,
+    "development": 3,
+    "health": 0.7
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 185,
+      "player_count": 169,
       "scores": {
         "education": 0,
         "military": 10,
@@ -71,6 +71,30 @@
         "petrol": 5,
         "nte": 12,
         "elmas": 18
+      }
+    },
+    {
+      "name": "Vuhan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 112,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 16
       }
     }
   ]

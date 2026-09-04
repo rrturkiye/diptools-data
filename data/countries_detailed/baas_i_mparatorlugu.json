@@ -5,56 +5,32 @@
   "treasury": 5000,
   "country_number": 90,
   "player_count": 11,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
-    "name": "Daşoguz",
-    "icon": "🌾",
-    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
+    "name": "Botoşani",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/botosani.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 34,
-    "altin": 24,
-    "petrol": 35,
-    "nte": 24,
-    "elmas": 19
+    "deri": 22,
+    "altin": 16,
+    "petrol": 24,
+    "nte": 13,
+    "elmas": 13
   },
   "average_scores": {
-    "education": 7.3,
-    "military": 5.7,
-    "development": 1.7,
-    "health": 2
+    "education": 7,
+    "military": 6.5,
+    "development": 1,
+    "health": 1
   },
   "provinces": [
-    {
-      "name": "Daşoguz",
-      "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
-      "region": "Kuzey Türkmenistan",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 7,
-      "scores": {
-        "education": 8,
-        "military": 4,
-        "development": 3,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 12,
-        "altin": 8,
-        "petrol": 11,
-        "nte": 11,
-        "elmas": 6
-      }
-    },
     {
       "name": "Botoşani",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/botosani.png?v=3",
       "region": null,
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
       "player_count": 6,
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 11,
       "scores": {
         "education": 8,
         "military": 7,

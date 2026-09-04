@@ -2,9 +2,9 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-  "treasury": 176272827,
+  "treasury": 177196342,
   "country_number": 127,
-  "player_count": 111,
+  "player_count": 113,
   "provinces_count": 8,
   "capital": {
     "name": "Arnavutluk",
@@ -12,17 +12,17 @@
     "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 91,
-    "altin": 75,
-    "petrol": 72,
-    "nte": 69,
-    "elmas": 73
+    "deri": 83,
+    "altin": 68,
+    "petrol": 66,
+    "nte": 63,
+    "elmas": 66
   },
   "average_scores": {
-    "education": 1,
+    "education": 0.9,
     "military": 4.6,
     "development": 2,
-    "health": 1.9
+    "health": 1.8
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 25,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 10,
         "development": 4,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -81,9 +81,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 18,
       "scores": {
-        "education": 3,
+        "education": 2,
         "military": 10,
         "development": 4,
         "health": 2,
@@ -100,7 +100,7 @@
     {
       "name": "Karadağ",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/karadag.png?v=3",
+      "coat_url": null,
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -114,11 +114,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 7,
-        "petrol": 6,
-        "nte": 6,
-        "elmas": 7
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
@@ -129,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 7,
       "scores": {
         "education": 0,
         "military": 3,
@@ -201,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 5,
       "scores": {
         "education": 0,
         "military": 0,

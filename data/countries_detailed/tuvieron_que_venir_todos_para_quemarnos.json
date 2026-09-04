@@ -4,24 +4,24 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 334067451,
   "country_number": 92,
-  "player_count": 326,
-  "provinces_count": 2,
+  "player_count": 325,
+  "provinces_count": 1,
   "capital": {
     "name": "Georgia",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
   },
   "total_resource_bonuses": {
-    "deri": 24,
-    "altin": 13,
-    "petrol": 13,
-    "nte": 27,
-    "elmas": 21
+    "deri": 9,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 10,
+    "elmas": 13
   },
   "average_scores": {
     "education": 0,
-    "military": 0.5,
-    "development": 0.5,
+    "military": 1,
+    "development": 1,
     "health": 0
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 110,
+      "player_count": 112,
       "scores": {
         "education": 0,
         "military": 1,
@@ -47,30 +47,6 @@
         "petrol": 5,
         "nte": 10,
         "elmas": 13
-      }
-    },
-    {
-      "name": "İç Moğolistan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 81,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 15,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 17,
-        "elmas": 8
       }
     }
   ]

@@ -2,26 +2,26 @@
   "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
   "name": "Neo Shandong Imperium",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-  "treasury": 77463727,
+  "treasury": 78225814,
   "country_number": 109,
-  "player_count": 37,
-  "provinces_count": 3,
+  "player_count": 45,
+  "provinces_count": 2,
   "capital": {
     "name": "Şandong",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 20,
-    "altin": 33,
-    "petrol": 42,
-    "nte": 37,
-    "elmas": 26
+    "deri": 15,
+    "altin": 21,
+    "petrol": 27,
+    "nte": 23,
+    "elmas": 21
   },
   "average_scores": {
-    "education": 3,
+    "education": 0,
     "military": 0,
-    "development": 4,
+    "development": 5.5,
     "health": 0
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 116,
+      "player_count": 117,
       "scores": {
         "education": 0,
         "military": 0,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Sabah",
-      "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/sabah.png?v=3",
-      "region": "Doğu Malezya (Borneo Kuzey)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 14,
-      "scores": {
-        "education": 9,
-        "military": 0,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 12,
-        "petrol": 15,
-        "nte": 14,
-        "elmas": 5
-      }
-    },
-    {
       "name": "Sarawak",
       "icon": "🦧",
       "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 36,
       "scores": {
         "education": 0,
         "military": 0,
