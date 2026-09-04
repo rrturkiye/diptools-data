@@ -2,21 +2,21 @@
   "id": "47ae6714-b10c-44d0-88ac-882b22cbea09",
   "name": "Anadolu Selçuklu Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/47ae6714-b10c-44d0-88ac-882b22cbea09-1787485958680.jpeg",
-  "treasury": 42135,
+  "treasury": 608974,
   "country_number": 154,
   "player_count": 60,
   "provinces_count": 1,
   "capital": {
     "name": "Güney Azerbaycan",
     "icon": "🏔️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/guneyazerbaycan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 12,
+    "altin": 8,
+    "petrol": 10,
+    "nte": 9,
+    "elmas": 10
   },
   "average_scores": {
     "education": 9,
@@ -28,12 +28,12 @@
     {
       "name": "Güney Azerbaycan",
       "icon": "🏔️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/guneyazerbaycan.png?v=3",
       "region": "Kuzeybatı (Azerbaycan, Hazar)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 96,
+      "player_count": 98,
       "scores": {
         "education": 9,
         "military": 10,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 12,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 9,
+        "elmas": 10
       }
     }
   ]

@@ -2,21 +2,21 @@
   "id": "168c75a4-277b-4996-b9e8-d70070be7748",
   "name": "Zarghun Dominion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/168c75a4-277b-4996-b9e8-d70070be7748-1786945523457.jpeg",
-  "treasury": 8293719,
+  "treasury": 8386062,
   "country_number": 140,
   "player_count": 19,
   "provinces_count": 1,
   "capital": {
     "name": "Kueta",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/kueta.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 9,
+    "altin": 8,
+    "petrol": 15,
+    "nte": 18,
+    "elmas": 5
   },
   "average_scores": {
     "education": 1,
@@ -28,7 +28,7 @@
     {
       "name": "Kueta",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
       "region": "Asya",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 8,
+        "petrol": 15,
+        "nte": 18,
+        "elmas": 5
       }
     }
   ]

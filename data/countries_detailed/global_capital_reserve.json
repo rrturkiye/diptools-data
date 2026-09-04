@@ -2,21 +2,21 @@
   "id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
   "name": "🌎 GLOBAL CAPITAL RESERVE",
   "flag_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
-  "treasury": 43828985,
+  "treasury": 43830558,
   "country_number": 171,
   "player_count": 142,
   "provinces_count": 2,
   "capital": {
     "name": "Normandiya",
     "icon": "🏰",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 21,
+    "altin": 10,
+    "petrol": 10,
+    "nte": 9,
+    "elmas": 29
   },
   "average_scores": {
     "education": 5.5,
@@ -28,12 +28,12 @@
     {
       "name": "Normandiya",
       "icon": "🏰",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
       "region": "Kuzeybatı (La Manche Kıyısı)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 135,
+      "player_count": 136,
       "scores": {
         "education": 7,
         "military": 7,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 15,
+        "altin": 3,
+        "petrol": 6,
+        "nte": 3,
+        "elmas": 9
       }
     },
     {
       "name": "New York",
       "icon": "🗽",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/newyork.png?v=3",
       "region": "Kuzeydoğu (Atlantik Kıyısı)",
       "is_capital": false,
       "is_independent": false,
@@ -66,11 +66,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 20
       }
     }
   ]

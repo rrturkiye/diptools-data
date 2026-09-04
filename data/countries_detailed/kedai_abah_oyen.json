@@ -2,21 +2,21 @@
   "id": "4d973d67-468d-4c16-bba9-c8433a2c2e7b",
   "name": "Kedai Abah Oyen",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1788400072476.png",
-  "treasury": 43716133,
+  "treasury": 43761817,
   "country_number": 169,
   "player_count": 102,
   "provinces_count": 1,
   "capital": {
     "name": "Doğu Timor",
     "icon": "🏝️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 5,
+    "altin": 10,
+    "petrol": 12,
+    "nte": 9,
+    "elmas": 4
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Doğu Timor",
       "icon": "🏝️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3",
       "region": "Güneydoğu Asya (Timor Adası)",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 10,
+        "petrol": 12,
+        "nte": 9,
+        "elmas": 4
       }
     }
   ]

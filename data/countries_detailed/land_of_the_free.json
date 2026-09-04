@@ -2,21 +2,21 @@
   "id": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
   "name": "Land Of the Free",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-  "treasury": 31257610,
+  "treasury": 32699703,
   "country_number": 136,
-  "player_count": 676,
+  "player_count": 680,
   "provinces_count": 4,
   "capital": {
     "name": "Florida",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/florida.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 38,
+    "altin": 27,
+    "petrol": 36,
+    "nte": 41,
+    "elmas": 61
   },
   "average_scores": {
     "education": 2.8,
@@ -28,12 +28,12 @@
     {
       "name": "Florida",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/florida.png",
       "region": "Amerika",
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 144,
+      "player_count": 145,
       "scores": {
         "education": 1,
         "military": 1,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 5,
+        "petrol": 12,
+        "nte": 8,
+        "elmas": 14
       }
     },
     {
       "name": "Illinois",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/illinois.png",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 147,
+      "player_count": 149,
       "scores": {
         "education": 0,
         "military": 0,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 6,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 17
       }
     },
     {
       "name": "Ohio",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ohio.png",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
@@ -90,22 +90,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 7,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 14
       }
     },
     {
       "name": "Pennsylvania",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/pennsylvania.png",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 138,
+      "player_count": 139,
       "scores": {
         "education": 0,
         "military": 0,
@@ -114,11 +114,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 9,
+        "petrol": 8,
+        "nte": 12,
+        "elmas": 16
       }
     }
   ]

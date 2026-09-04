@@ -2,21 +2,21 @@
   "id": "8880799b-2f10-4cee-92a0-76133f380e8b",
   "name": "Horasan Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8880799b-2f10-4cee-92a0-76133f380e8b-1786722195623.jpeg",
-  "treasury": 42339333,
+  "treasury": 42394815,
   "country_number": 141,
   "player_count": 16,
   "provinces_count": 1,
   "capital": {
     "name": "Herat",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/herat.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 9,
+    "altin": 7,
+    "petrol": 11,
+    "nte": 9,
+    "elmas": 14
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Herat",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/herat.png",
       "region": "Asya",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 7,
+        "petrol": 11,
+        "nte": 9,
+        "elmas": 14
       }
     }
   ]

@@ -5,12 +5,12 @@
     {
       "name": "Burgonya",
       "icon": "🍷",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "region": "Doğu (Burgundy, Rhône)",
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T21:32:54.353Z",
-      "player_count": 92,
+      "player_count": 89,
       "scores": {
         "education": 0,
         "military": 8,
@@ -19,22 +19,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 4,
+        "elmas": 10
       }
     },
     {
       "name": "Halep",
       "icon": "🕌",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
       "region": "Kuzey ve Doğu Suriye",
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T16:14:34.396Z",
-      "player_count": 66,
+      "player_count": 69,
       "scores": {
         "education": 0,
         "military": 1,
@@ -43,22 +43,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 13,
+        "altin": 7,
+        "petrol": 11,
+        "nte": 7,
+        "elmas": 9
       }
     },
     {
       "name": "Meksiko",
       "icon": "🌮",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "region": "Orta Amerika",
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-01T14:26:59.051Z",
-      "player_count": 204,
+      "player_count": 200,
       "scores": {
         "education": 8,
         "military": 9,
@@ -67,22 +67,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 13,
+        "petrol": 11,
+        "nte": 13,
+        "elmas": 14
       }
     },
     {
       "name": "Omsk",
       "icon": "🌲",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
       "region": "Sibirya (Ob nehri)",
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T20:07:21.270Z",
-      "player_count": 82,
+      "player_count": 84,
       "scores": {
         "education": 7,
         "military": 3,
@@ -91,17 +91,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 7,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
       }
     },
     {
       "name": "Ural",
       "icon": "⛰️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ural.png?v=3",
       "region": "Ural Dağları (Avrupa-Asya sınırı)",
       "is_capital": false,
       "is_independent": true,
@@ -115,11 +115,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 16,
+        "petrol": 13,
+        "nte": 17,
+        "elmas": 8
       }
     }
   ]

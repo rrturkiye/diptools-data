@@ -2,21 +2,21 @@
   "id": "f0e121c3-3e6c-46da-bad6-cc4d77f6318c",
   "name": "Tibet İslam Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f0e121c3-3e6c-46da-bad6-cc4d77f6318c-1787586723655.jpeg",
-  "treasury": 156614,
+  "treasury": 213198,
   "country_number": 167,
-  "player_count": 104,
+  "player_count": 103,
   "provinces_count": 1,
   "capital": {
     "name": "Tibet",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 8,
+    "altin": 10,
+    "petrol": 5,
+    "nte": 14,
+    "elmas": 11
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Tibet",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 8,
+        "altin": 10,
+        "petrol": 5,
+        "nte": 14,
+        "elmas": 11
       }
     }
   ]

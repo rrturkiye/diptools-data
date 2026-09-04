@@ -2,62 +2,62 @@
   "id": "6311fc78-bb94-48a2-8d87-e67ae4374888",
   "name": "Federal Republic of Germany",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-  "treasury": 73924104,
+  "treasury": 73748965,
   "country_number": 30,
-  "player_count": 272,
+  "player_count": 271,
   "provinces_count": 5,
   "capital": {
     "name": "Berlin",
     "icon": "🏙️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 34,
+    "altin": 30,
+    "petrol": 29,
+    "nte": 48,
+    "elmas": 74
   },
   "average_scores": {
     "education": 6.8,
     "military": 3.2,
     "development": 7.8,
-    "health": 5.2
+    "health": 6.6
   },
   "provinces": [
     {
       "name": "Berlin",
       "icon": "🏙️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/berlin.png?v=3",
       "region": "Kuzeydoğu (Berlin, Brandenburg)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 105,
+      "player_count": 102,
       "scores": {
         "education": 4,
         "military": 4,
         "development": 9,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 9,
+        "elmas": 16
       }
     },
     {
       "name": "Düsseldorf",
       "icon": "🏭",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/dusseldorf.png?v=3",
       "region": "Güneybatı (Ren Vadisi, Ruhr)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 35,
+      "player_count": 36,
       "scores": {
         "education": 9,
         "military": 8,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 13
       }
     },
     {
       "name": "Hamburg",
       "icon": "⚓",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/hamburg.png?v=3",
       "region": "Kuzeybatı (Hamburg, Bremen)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 26,
+      "player_count": 27,
       "scores": {
         "education": 7,
         "military": 1,
@@ -90,17 +90,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 8,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 8,
+        "elmas": 14
       }
     },
     {
       "name": "Hessen",
       "icon": "🏭",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/hessen.png?v=3",
       "region": "Orta Almanya (Frankfurt, Ren-Men)",
       "is_capital": false,
       "is_independent": false,
@@ -110,39 +110,39 @@
         "education": 7,
         "military": 3,
         "development": 9,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 16
       }
     },
     {
       "name": "Münih",
       "icon": "⛰️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/munchen.png?v=3",
       "region": "Güneydoğu (Bavyera)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 103,
+      "player_count": 101,
       "scores": {
         "education": 7,
         "military": 0,
         "development": 8,
-        "health": 6,
+        "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 15
       }
     }
   ]

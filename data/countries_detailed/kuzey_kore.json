@@ -2,21 +2,21 @@
   "id": "effa8173-3e25-4063-a83a-ab5422e35a46",
   "name": "KUZEY KORE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1788465447182.jpeg",
-  "treasury": 4127322,
+  "treasury": 4266370,
   "country_number": 116,
   "player_count": 40,
   "provinces_count": 3,
   "capital": {
     "name": "Bükreş",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/bukres.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 33,
+    "altin": 23,
+    "petrol": 23,
+    "nte": 19,
+    "elmas": 22
   },
   "average_scores": {
     "education": 5.3,
@@ -28,7 +28,7 @@
     {
       "name": "Bükreş",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/bukres.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 9,
+        "petrol": 12,
+        "nte": 9,
+        "elmas": 11
       }
     },
     {
       "name": "Botoşani",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/botosani.png?v=3",
       "region": null,
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 7,
+      "player_count": 6,
       "scores": {
         "education": 4,
         "military": 3,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 13,
+        "altin": 9,
+        "petrol": 7,
+        "nte": 7,
+        "elmas": 6
       }
     },
     {
       "name": "Moldova",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/moldova.png?v=3",
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 3,
+        "elmas": 5
       }
     }
   ]

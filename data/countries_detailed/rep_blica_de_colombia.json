@@ -2,21 +2,21 @@
   "id": "bdb0966b-bd04-401b-8d01-8621df11c96b",
   "name": "República de Colombia.",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1786161007319.jpeg",
-  "treasury": 12922669,
+  "treasury": 13240041,
   "country_number": 102,
-  "player_count": 567,
+  "player_count": 571,
   "provinces_count": 1,
   "capital": {
     "name": "Kolombiya",
     "icon": "☕",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/kolombiya.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 11,
+    "altin": 16,
+    "petrol": 13,
+    "nte": 10,
+    "elmas": 10
   },
   "average_scores": {
     "education": 10,
@@ -28,12 +28,12 @@
     {
       "name": "Kolombiya",
       "icon": "☕",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "region": "Güney Amerika (Kuzey)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 563,
+      "player_count": 561,
       "scores": {
         "education": 10,
         "military": 9,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 16,
+        "petrol": 13,
+        "nte": 10,
+        "elmas": 10
       }
     }
   ]

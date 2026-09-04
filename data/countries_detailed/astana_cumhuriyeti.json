@@ -2,21 +2,21 @@
   "id": "e2327468-0be9-4d02-8eaf-129e4ef07386",
   "name": "Astana Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788370989018.jpeg",
-  "treasury": 3434630,
+  "treasury": 3595261,
   "country_number": 182,
   "player_count": 124,
   "provinces_count": 1,
   "capital": {
     "name": "Astana",
     "icon": "🏛️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 14,
+    "altin": 11,
+    "petrol": 12,
+    "nte": 13,
+    "elmas": 13
   },
   "average_scores": {
     "education": 3,
@@ -28,7 +28,7 @@
     {
       "name": "Astana",
       "icon": "🏛️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3",
       "region": "Kazakistan Başkenti",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 14,
+        "altin": 11,
+        "petrol": 12,
+        "nte": 13,
+        "elmas": 13
       }
     }
   ]

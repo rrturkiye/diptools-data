@@ -2,21 +2,21 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788384493818.jpeg",
-  "treasury": 47013946,
+  "treasury": 47602556,
   "country_number": 113,
-  "player_count": 81,
+  "player_count": 75,
   "provinces_count": 4,
   "capital": {
     "name": "Bosna Hersek",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 41,
+    "altin": 36,
+    "petrol": 33,
+    "nte": 32,
+    "elmas": 30
   },
   "average_scores": {
     "education": 4.5,
@@ -28,12 +28,12 @@
     {
       "name": "Bosna Hersek",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 47,
+      "player_count": 50,
       "scores": {
         "education": 10,
         "military": 9,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 9,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 6
       }
     },
     {
       "name": "Şam",
       "icon": "🏛️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sam.png?v=3",
       "region": "Batı ve Güney Suriye",
       "is_capital": false,
       "is_independent": false,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 6,
+        "petrol": 9,
+        "nte": 5,
+        "elmas": 8
       }
     },
     {
       "name": "Sırbistan",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
       "region": null,
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 51,
+      "player_count": 53,
       "scores": {
         "education": 0,
         "military": 10,
@@ -90,22 +90,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 11,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 8
       }
     },
     {
       "name": "Temeşvar",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
       "region": null,
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 27,
+      "player_count": 24,
       "scores": {
         "education": 7,
         "military": 7,
@@ -114,11 +114,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 8
       }
     }
   ]

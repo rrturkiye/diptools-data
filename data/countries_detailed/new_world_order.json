@@ -2,21 +2,21 @@
   "id": "6141cf0d-2203-4c0f-9bc2-152a0ec033bd",
   "name": "New World Order",
   "flag_url": "https://diplomacia.com.tr/coats/washington.png?v=3",
-  "treasury": 6819582,
+  "treasury": 6866346,
   "country_number": 183,
   "player_count": 110,
   "provinces_count": 1,
   "capital": {
     "name": "Washington DC",
     "icon": "🏛️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/washington.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 4,
+    "altin": 4,
+    "petrol": 3,
+    "nte": 5,
+    "elmas": 15
   },
   "average_scores": {
     "education": 2,
@@ -28,7 +28,7 @@
     {
       "name": "Washington DC",
       "icon": "🏛️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/washington.png?v=3",
       "region": "Doğu Kıyısı (Atlantik)",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 4,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 5,
+        "elmas": 15
       }
     }
   ]

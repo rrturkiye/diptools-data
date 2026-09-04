@@ -2,62 +2,62 @@
   "id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
   "name": "Repvbblica Italiana",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
-  "treasury": 316136688,
+  "treasury": 317633641,
   "country_number": 119,
-  "player_count": 1145,
+  "player_count": 1153,
   "provinces_count": 3,
   "capital": {
     "name": "Roma",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/roma.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 38,
+    "altin": 18,
+    "petrol": 22,
+    "nte": 19,
+    "elmas": 39
   },
   "average_scores": {
     "education": 9,
     "military": 5.3,
-    "development": 8.3,
+    "development": 8,
     "health": 9.3
   },
   "provinces": [
     {
       "name": "Roma",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/roma.png?v=3",
       "region": "Avrupa",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 392,
+      "player_count": 394,
       "scores": {
         "education": 9,
         "military": 5,
-        "development": 8,
+        "development": 7,
         "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 7,
+        "petrol": 7,
+        "nte": 5,
+        "elmas": 14
       }
     },
     {
       "name": "Lombardiya",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/lombardiya.png?v=3",
       "region": "Avrupa",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 402,
+      "player_count": 408,
       "scores": {
         "education": 9,
         "military": 4,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 14,
+        "altin": 7,
+        "petrol": 6,
+        "nte": 8,
+        "elmas": 16
       }
     },
     {
       "name": "Napoli",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/napoli.png?v=3",
       "region": "Avrupa",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 340,
+      "player_count": 344,
       "scores": {
         "education": 9,
         "military": 7,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 13,
+        "altin": 4,
+        "petrol": 9,
+        "nte": 6,
+        "elmas": 9
       }
     }
   ]

@@ -2,25 +2,25 @@
   "id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
   "name": "República Argentina",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1786135509402.jpeg",
-  "treasury": 39645382,
+  "treasury": 47826151,
   "country_number": 103,
-  "player_count": 954,
+  "player_count": 961,
   "provinces_count": 4,
   "capital": {
     "name": "Buenos Aires",
     "icon": "🥩",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 69,
+    "altin": 44,
+    "petrol": 44,
+    "nte": 42,
+    "elmas": 34
   },
   "average_scores": {
     "education": 4.5,
-    "military": 6.5,
+    "military": 6.3,
     "development": 8,
     "health": 8.3
   },
@@ -28,12 +28,12 @@
     {
       "name": "Buenos Aires",
       "icon": "🥩",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
       "region": "Güney Amerika (Güney)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 248,
+      "player_count": 249,
       "scores": {
         "education": 8,
         "military": 6,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 20,
+        "altin": 8,
+        "petrol": 9,
+        "nte": 9,
+        "elmas": 12
       }
     },
     {
       "name": "Córdoba",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/cordoba.png?v=3",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
@@ -60,28 +60,28 @@
       "player_count": 220,
       "scores": {
         "education": 1,
-        "military": 7,
+        "military": 6,
         "development": 8,
         "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 18,
+        "altin": 10,
+        "petrol": 8,
+        "nte": 12,
+        "elmas": 9
       }
     },
     {
       "name": "Mendoza",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mendoza.png?v=3",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 223,
+      "player_count": 226,
       "scores": {
         "education": 7,
         "military": 7,
@@ -90,22 +90,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 13,
+        "altin": 12,
+        "petrol": 13,
+        "nte": 10,
+        "elmas": 9
       }
     },
     {
       "name": "Patagonia",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/patagonia.png?v=3",
       "region": "Amerika",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 230,
+      "player_count": 232,
       "scores": {
         "education": 2,
         "military": 6,
@@ -114,11 +114,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 18,
+        "altin": 14,
+        "petrol": 14,
+        "nte": 11,
+        "elmas": 4
       }
     }
   ]

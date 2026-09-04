@@ -2,21 +2,21 @@
   "id": "1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80",
   "name": "(DPRM) Democratic People's Republic Of Maharlika",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80-1788360816839.jpeg",
-  "treasury": 115449869,
+  "treasury": 115670318,
   "country_number": 112,
   "player_count": 21,
   "provinces_count": 1,
   "capital": {
     "name": "Mindanao",
     "icon": "🌺",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 7,
+    "altin": 18,
+    "petrol": 8,
+    "nte": 16,
+    "elmas": 4
   },
   "average_scores": {
     "education": 8,
@@ -28,12 +28,12 @@
     {
       "name": "Mindanao",
       "icon": "🌺",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
       "region": "Güney Filipinler",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 57,
+      "player_count": 60,
       "scores": {
         "education": 8,
         "military": 7,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 18,
+        "petrol": 8,
+        "nte": 16,
+        "elmas": 4
       }
     }
   ]

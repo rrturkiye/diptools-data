@@ -2,21 +2,21 @@
   "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
   "name": "Thema Hellados",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-  "treasury": 7288715,
+  "treasury": 7523984,
   "country_number": 126,
   "player_count": 13,
   "provinces_count": 3,
   "capital": {
     "name": "Mora",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 25,
+    "altin": 17,
+    "petrol": 15,
+    "nte": 26,
+    "elmas": 34
   },
   "average_scores": {
     "education": 2.7,
@@ -28,7 +28,7 @@
     {
       "name": "Mora",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 7
       }
     },
     {
       "name": "Girit ve Adalar",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/giritveadalar.png?v=3",
       "region": null,
       "is_capital": false,
       "is_independent": false,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 4,
+        "petrol": 6,
+        "nte": 4,
+        "elmas": 10
       }
     },
     {
       "name": "Kabil",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kabil.png",
       "region": "Asya",
       "is_capital": false,
       "is_independent": false,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 8,
+        "petrol": 5,
+        "nte": 16,
+        "elmas": 17
       }
     }
   ]

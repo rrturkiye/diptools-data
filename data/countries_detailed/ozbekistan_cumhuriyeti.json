@@ -2,21 +2,21 @@
   "id": "43262e0b-726a-4a9f-8a52-44f582257946",
   "name": "Özbekistan Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
-  "treasury": 50378353,
+  "treasury": 50689139,
   "country_number": 85,
-  "player_count": 67,
+  "player_count": 66,
   "provinces_count": 2,
   "capital": {
     "name": "Semerkant",
     "icon": "🕌",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/semerkand.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 22,
+    "altin": 32,
+    "petrol": 20,
+    "nte": 26,
+    "elmas": 13
   },
   "average_scores": {
     "education": 2,
@@ -28,12 +28,12 @@
     {
       "name": "Semerkant",
       "icon": "🕌",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/semerkand.png?v=3",
       "region": "Özbekistan (Tarihi Şehir)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 40,
+      "player_count": 41,
       "scores": {
         "education": 3,
         "military": 6,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 13,
+        "altin": 18,
+        "petrol": 8,
+        "nte": 11,
+        "elmas": 9
       }
     },
     {
       "name": "Karakalpakstan",
       "icon": "🏜️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
       "region": "Batı Özbekistan (Özerk)",
       "is_capital": false,
       "is_independent": false,
@@ -66,11 +66,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 14,
+        "petrol": 12,
+        "nte": 15,
+        "elmas": 4
       }
     }
   ]

@@ -9,14 +9,14 @@
   "capital": {
     "name": "Mary",
     "icon": "🏺",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 11,
+    "altin": 8,
+    "petrol": 16,
+    "nte": 10,
+    "elmas": 5
   },
   "average_scores": {
     "education": 9,
@@ -28,7 +28,7 @@
     {
       "name": "Mary",
       "icon": "🏺",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "region": "Güneydoğu Türkmenistan",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 8,
+        "petrol": 16,
+        "nte": 10,
+        "elmas": 5
       }
     }
   ]

@@ -9,26 +9,26 @@
   "capital": {
     "name": "Solomon Adaları",
     "icon": "🌴",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 4,
+    "altin": 15,
+    "petrol": 7,
+    "nte": 13,
+    "elmas": 3
   },
   "average_scores": {
     "education": 0,
     "military": 1,
-    "development": 9,
+    "development": 8,
     "health": 6
   },
   "provinces": [
     {
       "name": "Solomon Adaları",
       "icon": "🌴",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
       "region": "Pasifik (Melanezya)",
       "is_capital": true,
       "is_independent": false,
@@ -37,16 +37,16 @@
       "scores": {
         "education": 0,
         "military": 1,
-        "development": 9,
+        "development": 8,
         "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 4,
+        "altin": 15,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 3
       }
     }
   ]

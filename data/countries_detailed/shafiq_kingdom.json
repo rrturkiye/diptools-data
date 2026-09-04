@@ -2,21 +2,21 @@
   "id": "223ccc4c-71c4-4410-8021-4e43df700a7c",
   "name": "Shafiq Kingdom",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/223ccc4c-71c4-4410-8021-4e43df700a7c-1784510143633.png",
-  "treasury": 12226769,
+  "treasury": 12290339,
   "country_number": 111,
   "player_count": 28,
   "provinces_count": 1,
   "capital": {
     "name": "Visayas",
     "icon": "🏖️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/visayas.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 7,
+    "altin": 15,
+    "petrol": 8,
+    "nte": 15,
+    "elmas": 7
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Visayas",
       "icon": "🏖️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/visayas.png?v=3",
       "region": "Orta Filipinler (Adalar)",
       "is_capital": true,
       "is_independent": false,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 15,
+        "petrol": 8,
+        "nte": 15,
+        "elmas": 7
       }
     }
   ]

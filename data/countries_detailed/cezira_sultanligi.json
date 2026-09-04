@@ -2,21 +2,21 @@
   "id": "d787f333-dd2a-4403-9f70-44b03d6e4a22",
   "name": "Cezira Sultanlığı",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d787f333-dd2a-4403-9f70-44b03d6e4a22-1786555740455.jpeg",
-  "treasury": 79744138,
+  "treasury": 82211390,
   "country_number": 76,
   "player_count": 18,
   "provinces_count": 4,
   "capital": {
     "name": "Abu Dabi",
     "icon": "🏙️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/abudabi.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 25,
+    "altin": 43,
+    "petrol": 64,
+    "nte": 27,
+    "elmas": 47
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Abu Dabi",
       "icon": "🏙️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/abudabi.png?v=3",
       "region": "Basra Körfezi (BAE)",
       "is_capital": true,
       "is_independent": false,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 4,
+        "altin": 11,
+        "petrol": 18,
+        "nte": 7,
+        "elmas": 17
       }
     },
     {
       "name": "Suudi Arabistan",
       "icon": "🏜️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/suudiarabistan.png?v=3",
       "region": "Arap Yarımadası İçi (Necid)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 148,
+      "player_count": 151,
       "scores": {
         "education": 0,
         "military": 10,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 12,
+        "petrol": 20,
+        "nte": 8,
+        "elmas": 16
       }
     },
     {
       "name": "Umman",
       "icon": "🐪",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/umman.png?v=3",
       "region": "Umman Denizi Kıyısı",
       "is_capital": false,
       "is_independent": false,
@@ -90,17 +90,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 11,
+        "petrol": 15,
+        "nte": 7,
+        "elmas": 10
       }
     },
     {
       "name": "Yemen",
       "icon": "🏺",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/yemen.png?v=3",
       "region": "Arap Yarımadası Güneyi",
       "is_capital": false,
       "is_independent": false,
@@ -114,11 +114,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 9,
+        "petrol": 11,
+        "nte": 5,
+        "elmas": 4
       }
     }
   ]

@@ -2,21 +2,21 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Holy Nusavalon Empire",
   "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-  "treasury": 32441819,
+  "treasury": 33304300,
   "country_number": 155,
   "player_count": 242,
   "provinces_count": 3,
   "capital": {
     "name": "Pekin",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 30,
+    "altin": 20,
+    "petrol": 23,
+    "nte": 34,
+    "elmas": 43
   },
   "average_scores": {
     "education": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Pekin",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": true,
       "is_independent": false,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 20
       }
     },
     {
       "name": "İç Moğolistan",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 57,
+      "player_count": 56,
       "scores": {
         "education": 0,
         "military": 0,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 15,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 8
       }
     },
     {
       "name": "Şenyang",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 87,
+      "player_count": 88,
       "scores": {
         "education": 0,
         "military": 8,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 7,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 15
       }
     }
   ]

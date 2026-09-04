@@ -2,21 +2,21 @@
   "id": "7f9146f8-8c42-44e4-a864-3652f4ffefcd",
   "name": "فلسطين",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7f9146f8-8c42-44e4-a864-3652f4ffefcd-1786752058425.jpeg",
-  "treasury": 31920303,
+  "treasury": 32035223,
   "country_number": 147,
   "player_count": 61,
   "provinces_count": 1,
   "capital": {
     "name": "Filistin",
     "icon": "🕌",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 8,
+    "altin": 6,
+    "petrol": 7,
+    "nte": 4,
+    "elmas": 6
   },
   "average_scores": {
     "education": 7,
@@ -28,12 +28,12 @@
     {
       "name": "Filistin",
       "icon": "🕌",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3",
       "region": "Filistin",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 45,
+      "player_count": 42,
       "scores": {
         "education": 7,
         "military": 5,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 8,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 4,
+        "elmas": 6
       }
     }
   ]

@@ -2,21 +2,21 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 269073256,
+  "treasury": 270924206,
   "country_number": 54,
-  "player_count": 1089,
+  "player_count": 1094,
   "provinces_count": 7,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 40,
+    "altin": 105,
+    "petrol": 81,
+    "nte": 93,
+    "elmas": 46
   },
   "average_scores": {
     "education": 2.4,
@@ -28,12 +28,12 @@
     {
       "name": "Cava",
       "icon": "🏙️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3",
       "region": "Cava ve Bali",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 638,
+      "player_count": 639,
       "scores": {
         "education": 6,
         "military": 0,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 11,
+        "petrol": 10,
+        "nte": 11,
+        "elmas": 14
       }
     },
     {
       "name": "Kalimantan",
       "icon": "🌳",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
       "region": "Borneo (Kalimantan)",
       "is_capital": false,
       "is_independent": false,
@@ -66,17 +66,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 14,
+        "petrol": 14,
+        "nte": 14,
+        "elmas": 7
       }
     },
     {
       "name": "Papua",
       "icon": "🌿",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/papua.png?v=3",
       "region": "Papua Adası",
       "is_capital": false,
       "is_independent": false,
@@ -90,17 +90,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 20,
+        "petrol": 9,
+        "nte": 12,
+        "elmas": 4
       }
     },
     {
       "name": "Papua Yeni Gine",
       "icon": "🦜",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/papuayenigine.png?v=3",
       "region": "Pasifik (Papua Adası)",
       "is_capital": false,
       "is_independent": false,
@@ -114,22 +114,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 4,
+        "altin": 19,
+        "petrol": 11,
+        "nte": 14,
+        "elmas": 3
       }
     },
     {
       "name": "Sabah",
       "icon": "🌿",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sabah.png?v=3",
       "region": "Doğu Malezya (Borneo Kuzey)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 22,
       "scores": {
         "education": 8,
         "military": 0,
@@ -138,17 +138,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 5,
+        "altin": 12,
+        "petrol": 15,
+        "nte": 14,
+        "elmas": 5
       }
     },
     {
       "name": "Sulawesi",
       "icon": "🐚",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sulawesi.png?v=3",
       "region": "Sulawesi ve Maluku",
       "is_capital": false,
       "is_independent": false,
@@ -162,17 +162,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 16,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 5
       }
     },
     {
       "name": "Sumatra",
       "icon": "🌋",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sumatra.png?v=3",
       "region": "Sumatra Adası",
       "is_capital": false,
       "is_independent": false,
@@ -186,11 +186,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 6,
+        "altin": 13,
+        "petrol": 14,
+        "nte": 11,
+        "elmas": 8
       }
     }
   ]

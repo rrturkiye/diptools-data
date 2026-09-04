@@ -2,21 +2,21 @@
   "id": "9a906c31-293d-4a49-ade4-4f145842a99e",
   "name": "Great Kingdom of Cendana",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
-  "treasury": 1938584,
+  "treasury": 3243714,
   "country_number": 156,
   "player_count": 146,
   "provinces_count": 1,
   "capital": {
     "name": "Şanghay",
     "icon": null,
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 7,
+    "altin": 8,
+    "petrol": 6,
+    "nte": 9,
+    "elmas": 19
   },
   "average_scores": {
     "education": 0,
@@ -28,12 +28,12 @@
     {
       "name": "Şanghay",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 104,
+      "player_count": 107,
       "scores": {
         "education": 0,
         "military": 0,
@@ -42,11 +42,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 8,
+        "petrol": 6,
+        "nte": 9,
+        "elmas": 19
       }
     }
   ]

@@ -2,21 +2,21 @@
   "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
   "name": "Büyük Selçuklu Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
-  "treasury": 84673754,
+  "treasury": 86507400,
   "country_number": 114,
-  "player_count": 98,
+  "player_count": 97,
   "provinces_count": 3,
   "capital": {
     "name": "Tahran",
     "icon": "🏙️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 29,
+    "altin": 25,
+    "petrol": 34,
+    "nte": 29,
+    "elmas": 33
   },
   "average_scores": {
     "education": 2,
@@ -28,12 +28,12 @@
     {
       "name": "Tahran",
       "icon": "🏙️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3",
       "region": "Kuzey Merkez (Başkent)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 59,
+      "player_count": 58,
       "scores": {
         "education": 6,
         "military": 0,
@@ -42,17 +42,17 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 7,
+        "altin": 6,
+        "petrol": 15,
+        "nte": 11,
+        "elmas": 13
       }
     },
     {
       "name": "Horasan",
       "icon": "🌾",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
       "region": "Kuzeydoğu (Afganistan sınırı)",
       "is_capital": false,
       "is_independent": false,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 12,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 9
       }
     },
     {
       "name": "İsfahan",
       "icon": "🏛️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
       "region": "Orta İran (Tarihi Başkent)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 42,
+      "player_count": 40,
       "scores": {
         "education": 0,
         "military": 2,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 10,
+        "altin": 9,
+        "petrol": 10,
+        "nte": 8,
+        "elmas": 11
       }
     }
   ]

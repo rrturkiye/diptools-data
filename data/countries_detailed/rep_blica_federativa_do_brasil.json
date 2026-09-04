@@ -2,38 +2,38 @@
   "id": "4ee14c46-59af-4800-aec7-8c5b07029828",
   "name": "República Federativa do Brasil",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4ee14c46-59af-4800-aec7-8c5b07029828-1782883631599.png",
-  "treasury": 228027810,
+  "treasury": 232610887,
   "country_number": 57,
-  "player_count": 4095,
+  "player_count": 4138,
   "provinces_count": 5,
   "capital": {
     "name": "Brasília",
     "icon": "🏛️",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/brasilia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 68,
+    "altin": 56,
+    "petrol": 48,
+    "nte": 77,
+    "elmas": 56
   },
   "average_scores": {
     "education": 9.6,
     "military": 7.6,
     "development": 9.4,
-    "health": 9.4
+    "health": 9.2
   },
   "provinces": [
     {
       "name": "Brasília",
       "icon": "🏛️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/brasilia.png?v=3",
       "region": "Orta-Batı Brezilya",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 678,
+      "player_count": 689,
       "scores": {
         "education": 10,
         "military": 10,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 11,
+        "altin": 10,
+        "petrol": 7,
+        "nte": 15,
+        "elmas": 13
       }
     },
     {
       "name": "Amazonas",
       "icon": "🌳",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/amazonas.png?v=3",
       "region": "Kuzey Brezilya",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 312,
+      "player_count": 314,
       "scores": {
         "education": 8,
         "military": 8,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 8,
+        "altin": 17,
+        "petrol": 12,
+        "nte": 18,
+        "elmas": 6
       }
     },
     {
       "name": "Bahia",
       "icon": "🌊",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/bahia.png?v=3",
       "region": "Kuzeydoğu Brezilya",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1075,
+      "player_count": 1090,
       "scores": {
         "education": 10,
         "military": 10,
@@ -90,46 +90,46 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 14,
+        "altin": 13,
+        "petrol": 11,
+        "nte": 19,
+        "elmas": 9
       }
     },
     {
       "name": "Rio Grande do Sul",
       "icon": "⛰️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/riogrande.png?v=3",
       "region": "Güney Brezilya",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 678,
+      "player_count": 684,
       "scores": {
         "education": 10,
         "military": 8,
         "development": 9,
-        "health": 9,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 19,
+        "altin": 8,
+        "petrol": 8,
+        "nte": 11,
+        "elmas": 10
       }
     },
     {
       "name": "São Paulo",
       "icon": "🏙️",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/saopaulo.png?v=3",
       "region": "Güneydoğu Brezilya",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1407,
+      "player_count": 1418,
       "scores": {
         "education": 10,
         "military": 2,
@@ -138,11 +138,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 16,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 14,
+        "elmas": 18
       }
     }
   ]

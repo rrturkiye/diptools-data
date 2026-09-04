@@ -9,14 +9,14 @@
   "capital": {
     "name": "Yeni Kaledonya",
     "icon": "🪸",
-    "coat_url": null
+    "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 0,
-    "altin": 0,
-    "petrol": 0,
-    "nte": 0,
-    "elmas": 0
+    "deri": 21,
+    "altin": 22,
+    "petrol": 18,
+    "nte": 38,
+    "elmas": 38
   },
   "average_scores": {
     "education": 1.7,
@@ -28,7 +28,7 @@
     {
       "name": "Yeni Kaledonya",
       "icon": "🪸",
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
       "region": "Pasifik (Fransız Toprağı)",
       "is_capital": true,
       "is_independent": false,
@@ -42,22 +42,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
       }
     },
     {
       "name": "Guangzhou",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 151,
+      "player_count": 152,
       "scores": {
         "education": 0,
         "military": 10,
@@ -66,22 +66,22 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 8,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 18
       }
     },
     {
       "name": "Vuhan",
       "icon": null,
-      "coat_url": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 106,
+      "player_count": 104,
       "scores": {
         "education": 0,
         "military": 0,
@@ -90,11 +90,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 0,
-        "altin": 0,
-        "petrol": 0,
-        "nte": 0,
-        "elmas": 0
+        "deri": 9,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 16
       }
     }
   ]
