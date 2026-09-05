@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
   "treasury": 16613760,
   "country_number": 98,
-  "player_count": 251,
+  "player_count": 252,
   "provinces_count": 2,
   "capital": {
     "name": "Şian",
@@ -21,7 +21,7 @@
   "average_scores": {
     "education": 3,
     "military": 7,
-    "development": 1,
+    "development": 1.5,
     "health": 6.5
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 91,
+      "player_count": 90,
       "scores": {
         "education": 0,
         "military": 10,
@@ -57,11 +57,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 128,
+      "player_count": 129,
       "scores": {
         "education": 6,
         "military": 4,
-        "development": 2,
+        "development": 3,
         "health": 3,
         "health_world_first": false
       },

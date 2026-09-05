@@ -1,0 +1,77 @@
+{
+  "id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
+  "name": "💪🏼Leales a la patria🇲🇽, jamás a su sultán🦃",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
+  "treasury": 304067451,
+  "country_number": 92,
+  "player_count": 306,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Georgia",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 26,
+    "altin": 19,
+    "petrol": 13,
+    "nte": 20,
+    "elmas": 24
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 5,
+    "development": 3.5,
+    "health": 2
+  },
+  "provinces": [
+    {
+      "name": "Georgia",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/georgia.png",
+      "region": "Amerika",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": "2026-08-14T09:09:36.169Z",
+      "player_count": 107,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Jalisco",
+      "icon": "🎺",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 146,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 12,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 11
+      }
+    }
+  ]
+}

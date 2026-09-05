@@ -2,13 +2,13 @@
   "id": "d787f333-dd2a-4403-9f70-44b03d6e4a22",
   "name": "Cezira Sultanlığı",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d787f333-dd2a-4403-9f70-44b03d6e4a22-1786555740455.jpeg",
-  "treasury": 94221708,
+  "treasury": 97113248,
   "country_number": 76,
-  "player_count": 18,
+  "player_count": 19,
   "provinces_count": 4,
   "capital": {
     "name": "Abu Dabi",
-    "icon": "🏙���",
+    "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/abudabi.png?v=3"
   },
   "total_resource_bonuses": {
@@ -21,19 +21,19 @@
   "average_scores": {
     "education": 0,
     "military": 4.3,
-    "development": 6,
+    "development": 6.5,
     "health": 5.5
   },
   "provinces": [
     {
       "name": "Abu Dabi",
-      "icon": "🏙���",
+      "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/abudabi.png?v=3",
       "region": "Basra Körfezi (BAE)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 115,
+      "player_count": 118,
       "scores": {
         "education": 0,
         "military": 7,
@@ -57,11 +57,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 139,
+      "player_count": 144,
       "scores": {
         "education": 0,
         "military": 10,
-        "development": 9,
+        "development": 10,
         "health": 9,
         "health_world_first": false
       },
@@ -85,7 +85,7 @@
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 1,
+        "development": 2,
         "health": 1,
         "health_world_first": false
       },
