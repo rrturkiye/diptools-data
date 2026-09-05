@@ -40,7 +40,7 @@
       "education": 10,
       "military": 8,
       "development": 9,
-      "health": 9
+      "health": 8
     },
     "Fas": {
       "education": 10,
@@ -184,7 +184,7 @@
       "education": 8,
       "military": 6,
       "development": 10,
-      "health": 8
+      "health": 7
     },
     "Mora": {
       "education": 8,
@@ -196,7 +196,7 @@
       "education": 8,
       "military": 3,
       "development": 9,
-      "health": 9
+      "health": 8
     },
     "Kostanay": {
       "education": 8,
@@ -296,7 +296,7 @@
     },
     "Sinaloa": {
       "education": 6,
-      "military": 10,
+      "military": 9,
       "development": 8,
       "health": 5
     },
@@ -406,7 +406,7 @@
       "education": 4,
       "military": 4,
       "development": 9,
-      "health": 9
+      "health": 8
     },
     "New York": {
       "education": 4,
@@ -574,7 +574,7 @@
       "education": 2,
       "military": 6,
       "development": 7,
-      "health": 8
+      "health": 7
     },
     "Kuveyt": {
       "education": 2,
@@ -640,7 +640,7 @@
       "education": 1,
       "military": 6,
       "development": 8,
-      "health": 8
+      "health": 7
     },
     "Galicia": {
       "education": 1,
@@ -723,8 +723,14 @@
     "Pekin": {
       "education": 0,
       "military": 10,
-      "development": 10,
+      "development": 9,
       "health": 0
+    },
+    "Jalisco": {
+      "education": 0,
+      "military": 10,
+      "development": 6,
+      "health": 4
     },
     "Kaliforniya": {
       "education": 0,
@@ -743,12 +749,6 @@
       "military": 9,
       "development": 5,
       "health": 6
-    },
-    "Jalisco": {
-      "education": 0,
-      "military": 9,
-      "development": 6,
-      "health": 4
     },
     "Taşkent": {
       "education": 0,
@@ -820,7 +820,7 @@
       "education": 0,
       "military": 7,
       "development": 2,
-      "health": 8
+      "health": 7
     },
     "Şenyang": {
       "education": 0,
@@ -861,8 +861,8 @@
     "İsrail": {
       "education": 0,
       "military": 6,
-      "development": 9,
-      "health": 6
+      "development": 10,
+      "health": 9
     },
     "Alaska": {
       "education": 0,
@@ -1030,7 +1030,7 @@
       "education": 0,
       "military": 0,
       "development": 7,
-      "health": 8
+      "health": 7
     },
     "Pennsylvania": {
       "education": 0,
