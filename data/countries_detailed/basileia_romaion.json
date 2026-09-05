@@ -19,8 +19,8 @@
     "elmas": 55
   },
   "average_scores": {
-    "education": 2.4,
-    "military": 3.4,
+    "education": 2.2,
+    "military": 3,
     "development": 0.6,
     "health": 0.4
   },
@@ -36,7 +36,7 @@
       "player_count": 2,
       "scores": {
         "education": 11,
-        "military": 6,
+        "military": 5,
         "development": 0,
         "health": 0,
         "health_world_first": false
@@ -57,9 +57,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 4,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 8,
         "development": 2,
         "health": 2,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 9,
       "scores": {
         "education": 0,
         "military": 0,
@@ -132,7 +132,7 @@
       "player_count": 8,
       "scores": {
         "education": 0,
-        "military": 2,
+        "military": 1,
         "development": 1,
         "health": 0,
         "health_world_first": false
