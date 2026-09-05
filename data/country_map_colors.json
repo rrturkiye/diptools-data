@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mekke": {
@@ -506,6 +506,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/colorado.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
+    "Şian": {
+      "code": null,
+      "color": "#af1f1d",
+      "name": "Estado de Madrid",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "03689952-c626-4cac-9e8f-83897b11af2b"
+    },
     "İslamabad": {
       "code": null,
       "color": "#134f12",
@@ -747,15 +756,6 @@
       "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
       "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
-    },
-    "Şian": {
-      "code": null,
-      "color": "#26527d",
-      "name": "Círculo de las Triadas",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "9ea8d076-8268-4d8e-9f36-1341f555a017"
     },
     "Bordo": {
       "code": null,
@@ -1254,7 +1254,7 @@
     "Atacama": {
       "code": null,
       "color": "#921616",
-      "name": "República Monárquica de Chile",
+      "name": "República de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/atacama.png?v=3",
@@ -1326,7 +1326,7 @@
     "Santiago": {
       "code": null,
       "color": "#921616",
-      "name": "República Monárquica de Chile",
+      "name": "República de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/santiago.png?v=3",
@@ -1335,7 +1335,7 @@
     "Araucanía": {
       "code": null,
       "color": "#921616",
-      "name": "República Monárquica de Chile",
+      "name": "República de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/araucania.png?v=3",

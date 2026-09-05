@@ -5,24 +5,24 @@
   "treasury": 50005,
   "country_number": 162,
   "player_count": 137,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
     "name": "Madrid",
     "icon": "👑",
     "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 18,
-    "altin": 13,
-    "petrol": 20,
-    "nte": 17,
-    "elmas": 28
+    "deri": 10,
+    "altin": 7,
+    "petrol": 4,
+    "nte": 8,
+    "elmas": 15
   },
   "average_scores": {
-    "education": 3,
-    "military": 5.5,
-    "development": 4,
-    "health": 7.5
+    "education": 6,
+    "military": 1,
+    "development": 8,
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 213,
+      "player_count": 212,
       "scores": {
         "education": 6,
         "military": 1,
@@ -47,30 +47,6 @@
         "petrol": 4,
         "nte": 8,
         "elmas": 15
-      }
-    },
-    {
-      "name": "Şian",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 98,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 0,
-        "health": 10,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 6,
-        "petrol": 16,
-        "nte": 9,
-        "elmas": 13
       }
     }
   ]

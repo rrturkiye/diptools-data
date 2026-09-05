@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
   "treasury": 16613760,
   "country_number": 98,
-  "player_count": 245,
-  "provinces_count": 1,
+  "player_count": 244,
+  "provinces_count": 2,
   "capital": {
     "name": "Sevilla",
     "icon": "💃",
     "coat_url": "https://diplomacia.com.tr/coats/sevilla.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 16,
-    "altin": 13,
-    "petrol": 6,
-    "nte": 13,
-    "elmas": 9
+    "deri": 24,
+    "altin": 19,
+    "petrol": 22,
+    "nte": 22,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 6,
-    "military": 4,
-    "development": 2,
-    "health": 3
+    "education": 3,
+    "military": 7,
+    "development": 1,
+    "health": 6.5
   },
   "provinces": [
     {
@@ -47,6 +47,30 @@
         "petrol": 6,
         "nte": 13,
         "elmas": 9
+      }
+    },
+    {
+      "name": "Şian",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 98,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 0,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 16,
+        "nte": 9,
+        "elmas": 13
       }
     }
   ]

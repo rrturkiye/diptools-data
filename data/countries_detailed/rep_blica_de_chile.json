@@ -1,0 +1,101 @@
+{
+  "id": "16fb3540-85c0-46fc-a143-f72db2337f86",
+  "name": "República de Chile",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
+  "treasury": 107837091,
+  "country_number": 132,
+  "player_count": 84,
+  "provinces_count": 3,
+  "capital": {
+    "name": "Santiago",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/santiago.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 31,
+    "altin": 28,
+    "petrol": 20,
+    "nte": 36,
+    "elmas": 33
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 5.3,
+    "health": 8.7
+  },
+  "provinces": [
+    {
+      "name": "Santiago",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/santiago.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 28,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 5,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 9,
+        "petrol": 8,
+        "nte": 11,
+        "elmas": 15
+      }
+    },
+    {
+      "name": "Araucanía",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/araucania.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 46,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 5,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 7,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Atacama",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/atacama.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 18,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 6,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 13,
+        "petrol": 7,
+        "nte": 18,
+        "elmas": 10
+      }
+    }
+  ]
+}
