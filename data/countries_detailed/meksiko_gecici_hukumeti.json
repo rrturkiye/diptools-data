@@ -1,52 +1,52 @@
 {
-  "id": "887cd0e4-8963-4342-9525-22baf9024f3d",
-  "name": "Sinaloa Geçici Hükümeti",
+  "id": "1b2cbdb3-4fa7-478b-9a96-1df3d3804579",
+  "name": "Meksiko Geçici Hükümeti",
   "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-  "treasury": 43804850,
-  "country_number": 185,
-  "player_count": 121,
+  "treasury": 4441000,
+  "country_number": 186,
+  "player_count": 170,
   "provinces_count": 1,
   "capital": {
-    "name": "Sinaloa",
-    "icon": "🌊",
+    "name": "Meksiko",
+    "icon": "🌮",
     "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 14,
-    "altin": 17,
-    "petrol": 9,
-    "nte": 10,
-    "elmas": 7
+    "deri": 11,
+    "altin": 13,
+    "petrol": 11,
+    "nte": 13,
+    "elmas": 14
   },
   "average_scores": {
-    "education": 6,
+    "education": 8,
     "military": 9,
     "development": 8,
-    "health": 5
+    "health": 4
   },
   "provinces": [
     {
-      "name": "Sinaloa",
-      "icon": "🌊",
+      "name": "Meksiko",
+      "icon": "🌮",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
+      "region": "Orta Amerika",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 210,
+      "player_count": 167,
       "scores": {
-        "education": 6,
+        "education": 8,
         "military": 9,
         "development": 8,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 14,
-        "altin": 17,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 7
+        "deri": 11,
+        "altin": 13,
+        "petrol": 11,
+        "nte": 13,
+        "elmas": 14
       }
     }
   ]

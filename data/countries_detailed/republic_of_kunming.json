@@ -2,27 +2,27 @@
   "id": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33",
   "name": "Republic of Kunming",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1787709588781.png",
-  "treasury": 16551323,
+  "treasury": 16991096,
   "country_number": 168,
-  "player_count": 229,
-  "provinces_count": 3,
+  "player_count": 203,
+  "provinces_count": 2,
   "capital": {
     "name": "Kunming",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 32,
-    "altin": 18,
-    "petrol": 22,
-    "nte": 39,
-    "elmas": 38
+    "deri": 21,
+    "altin": 13,
+    "petrol": 18,
+    "nte": 21,
+    "elmas": 28
   },
   "average_scores": {
-    "education": 3.7,
-    "military": 4.3,
-    "development": 2.3,
-    "health": 2.3
+    "education": 3,
+    "military": 5.5,
+    "development": 3.5,
+    "health": 3.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 122,
+      "player_count": 103,
       "scores": {
         "education": 6,
         "military": 4,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 120,
+      "player_count": 104,
       "scores": {
         "education": 0,
         "military": 7,
@@ -71,30 +71,6 @@
         "petrol": 14,
         "nte": 8,
         "elmas": 14
-      }
-    },
-    {
-      "name": "Guiyang",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 82,
-      "scores": {
-        "education": 5,
-        "military": 2,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 5,
-        "petrol": 4,
-        "nte": 18,
-        "elmas": 10
       }
     }
   ]

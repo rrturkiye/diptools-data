@@ -2,27 +2,27 @@
   "id": "b71a8c62-8567-4dba-aa7d-56b31f1316d9",
   "name": "Jàviersbērg Kōnigsrēich",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b71a8c62-8567-4dba-aa7d-56b31f1316d9-1787344387382.png",
-  "treasury": 8897428,
+  "treasury": 46398451,
   "country_number": 105,
-  "player_count": 223,
-  "provinces_count": 3,
+  "player_count": 204,
+  "provinces_count": 4,
   "capital": {
     "name": "Yeni Kaledonya",
     "icon": "🪸",
     "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 22,
-    "petrol": 18,
-    "nte": 38,
-    "elmas": 38
+    "deri": 32,
+    "altin": 27,
+    "petrol": 22,
+    "nte": 56,
+    "elmas": 48
   },
   "average_scores": {
-    "education": 1.7,
-    "military": 5,
-    "development": 3.3,
-    "health": 0.7
+    "education": 2,
+    "military": 4,
+    "development": 2.5,
+    "health": 0.5
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 127,
+      "player_count": 120,
       "scores": {
         "education": 0,
         "military": 10,
@@ -74,6 +74,30 @@
       }
     },
     {
+      "name": "Guiyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 60,
+      "scores": {
+        "education": 3,
+        "military": 1,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 18,
+        "elmas": 10
+      }
+    },
+    {
       "name": "Vuhan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 96,
+      "player_count": 95,
       "scores": {
         "education": 0,
         "military": 0,
