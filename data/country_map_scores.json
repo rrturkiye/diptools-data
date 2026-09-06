@@ -2,7 +2,7 @@
   "provinceScores": {
     "Atina": {
       "education": 11,
-      "military": 5,
+      "military": 6,
       "development": 0,
       "health": 0
     },
@@ -106,7 +106,7 @@
       "education": 9,
       "military": 7,
       "development": 5,
-      "health": 4
+      "health": 5
     },
     "Chiapas": {
       "education": 9,
@@ -154,7 +154,7 @@
       "education": 8,
       "military": 9,
       "development": 8,
-      "health": 4
+      "health": 5
     },
     "Bakü": {
       "education": 8,
@@ -255,7 +255,7 @@
     "Münih": {
       "education": 7,
       "military": 0,
-      "development": 9,
+      "development": 8,
       "health": 9
     },
     "Hırvatistan": {
@@ -294,12 +294,6 @@
       "development": 7,
       "health": 5
     },
-    "Sinaloa": {
-      "education": 6,
-      "military": 9,
-      "development": 8,
-      "health": 5
-    },
     "Cava": {
       "education": 6,
       "military": 0,
@@ -320,7 +314,7 @@
     },
     "Kunming": {
       "education": 6,
-      "military": 4,
+      "military": 5,
       "development": 7,
       "health": 3
     },
@@ -435,7 +429,7 @@
     "Nahçıvan": {
       "education": 4,
       "military": 3,
-      "development": 4,
+      "development": 5,
       "health": 5
     },
     "Pavlodar": {
@@ -507,7 +501,7 @@
     "Sumatra": {
       "education": 3,
       "military": 1,
-      "development": 4,
+      "development": 5,
       "health": 3
     },
     "Guiyang": {
@@ -529,13 +523,13 @@
       "health": 8
     },
     "Aktöbe": {
-      "education": 2,
+      "education": 3,
       "military": 7,
       "development": 9,
       "health": 1
     },
     "Harbin": {
-      "education": 2,
+      "education": 3,
       "military": 0,
       "development": 4,
       "health": 1
@@ -550,11 +544,11 @@
       "education": 2,
       "military": 10,
       "development": 4,
-      "health": 2
+      "health": 3
     },
     "St. Petersburg": {
       "education": 2,
-      "military": 8,
+      "military": 9,
       "development": 6,
       "health": 3
     },
@@ -574,7 +568,7 @@
       "education": 2,
       "military": 6,
       "development": 7,
-      "health": 7
+      "health": 8
     },
     "Kuveyt": {
       "education": 2,
@@ -589,19 +583,19 @@
       "health": 8
     },
     "İngiltere": {
-      "education": 1,
+      "education": 2,
       "military": 1,
       "development": 10,
       "health": 10
     },
     "Şam": {
-      "education": 1,
+      "education": 2,
       "military": 2,
       "development": 1,
       "health": 1
     },
     "Ürdün": {
-      "education": 1,
+      "education": 2,
       "military": 8,
       "development": 7,
       "health": 5
@@ -620,7 +614,7 @@
     },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "education": 1,
-      "military": 5,
+      "military": 6,
       "development": 3,
       "health": 2
     },
@@ -629,6 +623,12 @@
       "military": 3,
       "development": 6,
       "health": 6
+    },
+    "Sinaloa": {
+      "education": 1,
+      "military": 3,
+      "development": 3,
+      "health": 2
     },
     "Washington DC": {
       "education": 1,
@@ -656,7 +656,7 @@
     },
     "İskoçya": {
       "education": 1,
-      "military": 6,
+      "military": 7,
       "development": 9,
       "health": 8
     },
@@ -818,7 +818,7 @@
     },
     "Kosova": {
       "education": 0,
-      "military": 7,
+      "military": 8,
       "development": 2,
       "health": 7
     },
@@ -879,8 +879,8 @@
     "Kahire": {
       "education": 0,
       "military": 5,
-      "development": 6,
-      "health": 2
+      "development": 9,
+      "health": 4
     },
     "Yakutistan": {
       "education": 0,
@@ -898,7 +898,7 @@
       "education": 0,
       "military": 4,
       "development": 2,
-      "health": 2
+      "health": 3
     },
     "Diyarbakır": {
       "education": 0,
@@ -1050,6 +1050,12 @@
       "development": 6,
       "health": 0
     },
+    "Araucanía": {
+      "education": 0,
+      "military": 0,
+      "development": 6,
+      "health": 10
+    },
     "Papua": {
       "education": 0,
       "military": 0,
@@ -1062,12 +1068,6 @@
       "development": 5,
       "health": 8
     },
-    "Araucanía": {
-      "education": 0,
-      "military": 0,
-      "development": 5,
-      "health": 10
-    },
     "Sulawesi": {
       "education": 0,
       "military": 0,
@@ -1078,7 +1078,7 @@
       "education": 0,
       "military": 0,
       "development": 4,
-      "health": 2
+      "health": 3
     },
     "Yemen": {
       "education": 0,
