@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 3,
+  "provinces_count": 2,
   "provinces": [
     {
       "name": "Burgonya",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-02T21:32:54.353Z",
-      "player_count": 102,
+      "player_count": 104,
       "scores": {
         "education": 0,
         "military": 8,
@@ -34,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 130,
+      "player_count": 150,
       "scores": {
         "education": 8,
         "military": 10,
@@ -48,30 +48,6 @@
         "petrol": 5,
         "nte": 12,
         "elmas": 18
-      }
-    },
-    {
-      "name": "Omsk",
-      "icon": "🌲",
-      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
-      "region": "Sibirya (Ob nehri)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-02T20:07:21.270Z",
-      "player_count": 119,
-      "scores": {
-        "education": 6,
-        "military": 3,
-        "development": 4,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 7,
-        "petrol": 14,
-        "nte": 8,
-        "elmas": 8
       }
     }
   ]

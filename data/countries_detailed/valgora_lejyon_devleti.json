@@ -2,9 +2,9 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
-  "treasury": 52258415,
+  "treasury": 47378850,
   "country_number": 135,
-  "player_count": 76,
+  "player_count": 77,
   "provinces_count": 2,
   "capital": {
     "name": "Moskova",
@@ -22,7 +22,7 @@
     "education": 1,
     "military": 6.5,
     "development": 6.5,
-    "health": 3.5
+    "health": 3
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 56,
+      "player_count": 58,
       "scores": {
         "education": 0,
         "military": 4,
         "development": 7,
-        "health": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 320920951,
   "country_number": 92,
-  "player_count": 314,
+  "player_count": 316,
   "provinces_count": 3,
   "capital": {
     "name": "Georgia",
@@ -22,7 +22,7 @@
     "education": 0.3,
     "military": 6.7,
     "development": 3.3,
-    "health": 2
+    "health": 1.7
   },
   "provinces": [
     {
@@ -81,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 200,
+      "player_count": 192,
       "scores": {
         "education": 1,
         "military": 9,
         "development": 3,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
