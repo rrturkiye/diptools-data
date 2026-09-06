@@ -1,31 +1,7 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 2,
+  "provinces_count": 1,
   "provinces": [
-    {
-      "name": "Burgonya",
-      "icon": "🍷",
-      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
-      "region": "Doğu (Burgundy, Rhône)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-02T21:32:54.353Z",
-      "player_count": 104,
-      "scores": {
-        "education": 0,
-        "military": 8,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 6,
-        "petrol": 5,
-        "nte": 4,
-        "elmas": 10
-      }
-    },
     {
       "name": "Guangzhou",
       "icon": null,
@@ -34,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 150,
+      "player_count": 159,
       "scores": {
         "education": 8,
         "military": 10,
