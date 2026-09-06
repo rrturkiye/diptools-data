@@ -2,27 +2,27 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Holy Nusavalon Empire",
   "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-  "treasury": 39437823,
+  "treasury": 39740543,
   "country_number": 155,
-  "player_count": 190,
-  "provinces_count": 3,
+  "player_count": 189,
+  "provinces_count": 2,
   "capital": {
     "name": "Pekin",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 30,
-    "altin": 20,
-    "petrol": 23,
-    "nte": 34,
-    "elmas": 43
+    "deri": 21,
+    "altin": 13,
+    "petrol": 13,
+    "nte": 27,
+    "elmas": 28
   },
   "average_scores": {
     "education": 0,
-    "military": 5.7,
-    "development": 4,
-    "health": 1.3
+    "military": 5,
+    "development": 4.5,
+    "health": 0
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 75,
+      "player_count": 81,
       "scores": {
         "education": 0,
         "military": 10,
@@ -71,30 +71,6 @@
         "petrol": 8,
         "nte": 17,
         "elmas": 8
-      }
-    },
-    {
-      "name": "Şenyang",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 64,
-      "scores": {
-        "education": 0,
-        "military": 7,
-        "development": 3,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 7,
-        "petrol": 10,
-        "nte": 7,
-        "elmas": 15
       }
     }
   ]

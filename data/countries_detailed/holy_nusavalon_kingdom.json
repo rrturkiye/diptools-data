@@ -2,27 +2,27 @@
   "id": "f61b1b71-6a8b-4eff-9070-61413d3837a5",
   "name": "Holy Nusavalon Kingdom",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f61b1b71-6a8b-4eff-9070-61413d3837a5-1784381850211.jpeg",
-  "treasury": 100000,
+  "treasury": 15538000,
   "country_number": 104,
-  "player_count": 14,
-  "provinces_count": 1,
+  "player_count": 15,
+  "provinces_count": 3,
   "capital": {
     "name": "Solomon Adaları",
     "icon": "🌴",
     "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 4,
-    "altin": 15,
-    "petrol": 7,
-    "nte": 13,
-    "elmas": 3
+    "deri": 17,
+    "altin": 31,
+    "petrol": 22,
+    "nte": 39,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 0,
-    "military": 10,
-    "development": 8,
-    "health": 6
+    "education": 1,
+    "military": 8.3,
+    "development": 5,
+    "health": 3.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 57,
+      "player_count": 41,
       "scores": {
         "education": 0,
         "military": 10,
@@ -47,6 +47,54 @@
         "petrol": 7,
         "nte": 13,
         "elmas": 3
+      }
+    },
+    {
+      "name": "Şenyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 65,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 15
+      }
+    },
+    {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 9,
+      "scores": {
+        "education": 3,
+        "military": 8,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
       }
     }
   ]

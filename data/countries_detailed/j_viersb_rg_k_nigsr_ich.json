@@ -2,86 +2,38 @@
   "id": "b71a8c62-8567-4dba-aa7d-56b31f1316d9",
   "name": "Jàviersbērg Kōnigsrēich",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b71a8c62-8567-4dba-aa7d-56b31f1316d9-1787344387382.png",
-  "treasury": 1658908,
+  "treasury": 2931072,
   "country_number": 105,
   "player_count": 197,
-  "provinces_count": 4,
+  "provinces_count": 1,
   "capital": {
-    "name": "Yeni Kaledonya",
-    "icon": "🪸",
-    "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
+    "name": "Guiyang",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 32,
-    "altin": 27,
-    "petrol": 22,
-    "nte": 56,
-    "elmas": 48
+    "deri": 11,
+    "altin": 5,
+    "petrol": 4,
+    "nte": 18,
+    "elmas": 10
   },
   "average_scores": {
-    "education": 4,
-    "military": 5.3,
-    "development": 2.3,
-    "health": 0.5
+    "education": 3,
+    "military": 1,
+    "development": 0,
+    "health": 0
   },
   "provinces": [
-    {
-      "name": "Yeni Kaledonya",
-      "icon": "🪸",
-      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
-      "region": "Pasifik (Fransız Toprağı)",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 10,
-      "scores": {
-        "education": 5,
-        "military": 10,
-        "development": 4,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 5,
-        "nte": 19,
-        "elmas": 4
-      }
-    },
-    {
-      "name": "Guangzhou",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 119,
-      "scores": {
-        "education": 8,
-        "military": 10,
-        "development": 4,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 12,
-        "elmas": 18
-      }
-    },
     {
       "name": "Guiyang",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 55,
+      "player_count": 54,
       "scores": {
         "education": 3,
         "military": 1,
@@ -95,30 +47,6 @@
         "petrol": 4,
         "nte": 18,
         "elmas": 10
-      }
-    },
-    {
-      "name": "Vuhan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 86,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 16
       }
     }
   ]
