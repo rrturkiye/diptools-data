@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "USA": "#0f0750",
-    "IND": "#d57120"
+    "IND": "#d57120",
+    "USA": "#0f0750"
   },
   "provinceOwners": {
     "Mora": {
@@ -758,15 +758,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
       "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
-    "Çengdu": {
-      "code": null,
-      "color": "#0d0f9c",
-      "name": "Republic of Kunming",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1787709588781.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
-    },
     "Bordo": {
       "code": null,
       "color": "#a00d0d",
@@ -775,6 +766,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3",
       "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
+    },
+    "Çengdu": {
+      "code": null,
+      "color": "#da52a6",
+      "name": "(DPRM) Democratic People's Republic Of Maharlika",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80-1788360816839.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80"
     },
     "Fuçou": {
       "code": null,
@@ -947,6 +947,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/sevilla.png?v=3",
       "countryId": "03689952-c626-4cac-9e8f-83897b11af2b"
     },
+    "Ural": {
+      "code": null,
+      "color": null,
+      "name": "Ural Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/ural.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/ural.png?v=3",
+      "countryId": "45d5ffe1-f7c1-4cb0-b479-42066e142660"
+    },
     "Balkan": {
       "code": null,
       "color": "#4e134e",
@@ -1075,7 +1084,7 @@
     },
     "Filistin": {
       "code": null,
-      "color": "#46e24e",
+      "color": "#59af0e",
       "name": "فلسطين",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/7f9146f8-8c42-44e4-a864-3652f4ffefcd-1786752058425.jpeg",
@@ -1094,7 +1103,7 @@
     "Kuala Lumpur": {
       "code": null,
       "color": "#3e7079",
-      "name": "Republik Rakyat Malaka",
+      "name": "Federation of Mahawangsa",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ec1225f6-6f40-48ae-b457-7fdc32dac273-1787322509452.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kualalumpur.png?v=3",
@@ -1126,14 +1135,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/13ec96ba-f86f-4e41-9103-9ad475be7896-1788346212199.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
       "countryId": "13ec96ba-f86f-4e41-9103-9ad475be7896"
-    },
-    "Ural": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/ural.png?v=3"
     },
     "Buenos Aires": {
       "code": null,

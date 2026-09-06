@@ -2,27 +2,27 @@
   "id": "1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80",
   "name": "(DPRM) Democratic People's Republic Of Maharlika",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80-1788360816839.jpeg",
-  "treasury": 104107171,
+  "treasury": 104757195,
   "country_number": 112,
-  "player_count": 19,
-  "provinces_count": 1,
+  "player_count": 21,
+  "provinces_count": 2,
   "capital": {
     "name": "Mindanao",
     "icon": "🌺",
     "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 7,
-    "altin": 18,
-    "petrol": 8,
-    "nte": 16,
-    "elmas": 4
+    "deri": 19,
+    "altin": 23,
+    "petrol": 22,
+    "nte": 24,
+    "elmas": 18
   },
   "average_scores": {
-    "education": 8,
-    "military": 6,
-    "development": 8,
-    "health": 8
+    "education": 4,
+    "military": 6.5,
+    "development": 4,
+    "health": 6
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 64,
+      "player_count": 76,
       "scores": {
         "education": 8,
         "military": 6,
@@ -47,6 +47,30 @@
         "petrol": 8,
         "nte": 16,
         "elmas": 4
+      }
+    },
+    {
+      "name": "Çengdu",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 82,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 0,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 5,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 14
       }
     }
   ]
