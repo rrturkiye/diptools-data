@@ -1,0 +1,53 @@
+{
+  "id": "45d5ffe1-f7c1-4cb0-b479-42066e142660",
+  "name": "Akural Hanlığı",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/45d5ffe1-f7c1-4cb0-b479-42066e142660-1788696212826.jpeg",
+  "treasury": 18758917,
+  "country_number": 187,
+  "player_count": 101,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Ural",
+    "icon": "⛰️",
+    "coat_url": "https://diplomacia.com.tr/coats/ural.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 10,
+    "altin": 16,
+    "petrol": 13,
+    "nte": 17,
+    "elmas": 8
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 5,
+    "development": 2,
+    "health": 3
+  },
+  "provinces": [
+    {
+      "name": "Ural",
+      "icon": "⛰️",
+      "coat_url": "https://diplomacia.com.tr/coats/ural.png?v=3",
+      "region": "Ural Dağları (Avrupa-Asya sınırı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 141,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 2,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 16,
+        "petrol": 13,
+        "nte": 17,
+        "elmas": 8
+      }
+    }
+  ]
+}

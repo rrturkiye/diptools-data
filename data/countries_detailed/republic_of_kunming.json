@@ -2,27 +2,27 @@
   "id": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33",
   "name": "Republic of Kunming",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1787709588781.png",
-  "treasury": 31532386,
+  "treasury": 34184924,
   "country_number": 168,
-  "player_count": 166,
-  "provinces_count": 1,
+  "player_count": 360,
+  "provinces_count": 2,
   "capital": {
     "name": "Kunming",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 9,
-    "altin": 8,
-    "petrol": 4,
-    "nte": 13,
-    "elmas": 14
+    "deri": 20,
+    "altin": 13,
+    "petrol": 8,
+    "nte": 31,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 6,
-    "military": 5,
-    "development": 7,
-    "health": 3
+    "education": 4,
+    "military": 3.5,
+    "development": 3.5,
+    "health": 1.5
   },
   "provinces": [
     {
@@ -33,10 +33,10 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 115,
+      "player_count": 117,
       "scores": {
         "education": 6,
-        "military": 5,
+        "military": 6,
         "development": 7,
         "health": 3,
         "health_world_first": false
@@ -47,6 +47,30 @@
         "petrol": 4,
         "nte": 13,
         "elmas": 14
+      }
+    },
+    {
+      "name": "Guiyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 53,
+      "scores": {
+        "education": 2,
+        "military": 1,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 18,
+        "elmas": 10
       }
     }
   ]

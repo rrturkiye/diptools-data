@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1787006568517.jpeg",
-  "treasury": 53154113,
+  "treasury": 57616692,
   "country_number": 135,
-  "player_count": 77,
-  "provinces_count": 2,
+  "player_count": 76,
+  "provinces_count": 4,
   "capital": {
     "name": "Moskova",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 13,
-    "altin": 15,
-    "petrol": 19,
-    "nte": 20,
-    "elmas": 29
+    "deri": 31,
+    "altin": 29,
+    "petrol": 41,
+    "nte": 31,
+    "elmas": 55
   },
   "average_scores": {
     "education": 1.5,
-    "military": 6.5,
+    "military": 4.8,
     "development": 6.5,
-    "health": 3.5
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 61,
+      "player_count": 64,
       "scores": {
         "education": 1,
         "military": 4,
@@ -50,6 +50,54 @@
       }
     },
     {
+      "name": "Bahreyn",
+      "icon": "🏝️",
+      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
+      "region": "Basra Körfezi Adası",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 53,
+      "scores": {
+        "education": 0,
+        "military": 6,
+        "development": 9,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 13,
+        "nte": 5,
+        "elmas": 15
+      }
+    },
+    {
+      "name": "Harbin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 81,
+      "scores": {
+        "education": 3,
+        "military": 0,
+        "development": 4,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 5,
+        "petrol": 9,
+        "nte": 6,
+        "elmas": 11
+      }
+    },
+    {
       "name": "St. Petersburg",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
@@ -57,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 45,
+      "player_count": 47,
       "scores": {
         "education": 2,
         "military": 9,
