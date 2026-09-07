@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-  "treasury": 67078135,
+  "treasury": 82181192,
   "country_number": 127,
   "player_count": 234,
-  "provinces_count": 8,
+  "provinces_count": 9,
   "capital": {
     "name": "Arnavutluk",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 91,
-    "altin": 75,
-    "petrol": 72,
-    "nte": 69,
-    "elmas": 73
+    "deri": 105,
+    "altin": 92,
+    "petrol": 81,
+    "nte": 79,
+    "elmas": 80
   },
   "average_scores": {
-    "education": 0.9,
-    "military": 7.8,
-    "development": 3.3,
-    "health": 4.4
+    "education": 0.8,
+    "military": 7.7,
+    "development": 3.1,
+    "health": 3.9
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 26,
+      "player_count": 25,
       "scores": {
         "education": 0,
         "military": 10,
         "development": 5,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 69,
+      "player_count": 40,
       "scores": {
         "education": 2,
         "military": 10,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 4,
       "scores": {
         "education": 0,
         "military": 8,
@@ -170,6 +170,30 @@
       }
     },
     {
+      "name": "Sinaloa",
+      "icon": "🌊",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 185,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 17,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 7
+      }
+    },
+    {
       "name": "Teksas",
       "icon": "🤠",
       "coat_url": "https://diplomacia.com.tr/coats/texas.png?v=3",
@@ -177,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 73,
+      "player_count": 92,
       "scores": {
         "education": 0,
         "military": 10,
