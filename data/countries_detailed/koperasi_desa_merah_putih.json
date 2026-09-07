@@ -2,27 +2,27 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1787020843687.jpeg",
-  "treasury": 7089915,
+  "treasury": 8334607,
   "country_number": 106,
   "player_count": 27,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Singapur",
     "icon": "🦁",
     "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 4,
-    "altin": 10,
-    "petrol": 12,
-    "nte": 14,
-    "elmas": 19
+    "deri": 9,
+    "altin": 30,
+    "petrol": 21,
+    "nte": 26,
+    "elmas": 23
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 7,
-    "health": 8
+    "development": 6,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 50,
+      "player_count": 52,
       "scores": {
         "education": 0,
         "military": 0,
@@ -47,6 +47,30 @@
         "petrol": 12,
         "nte": 14,
         "elmas": 19
+      }
+    },
+    {
+      "name": "Papua",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/papua.png?v=3",
+      "region": "Papua Adası",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 28,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 5,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 20,
+        "petrol": 9,
+        "nte": 12,
+        "elmas": 4
       }
     }
   ]

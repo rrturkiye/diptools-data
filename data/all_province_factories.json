@@ -366,14 +366,6 @@
         "owner_id": "af300b36-b762-4834-bbcd-7b03eea13650"
       },
       {
-        "id": "1d5f297a-f0ab-4a7b-9d97-56a741d4307e",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "King 60",
-        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
-      },
-      {
         "id": "39030e73-2927-4a96-8e03-36370ae4ad93",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -393,6 +385,14 @@
         "id": "2cc43634-3d1c-4738-8071-516eb39a655a",
         "name": "مصنع الماس كريت التابع في الفا",
         "type": "elmas",
+        "level": 1,
+        "owner_name": "King 60",
+        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
+      },
+      {
+        "id": "1d5f297a-f0ab-4a7b-9d97-56a741d4307e",
+        "name": "منجم ذهب قبرص التابع لشركه الفا",
+        "type": "altin",
         "level": 1,
         "owner_name": "King 60",
         "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
@@ -2590,20 +2590,20 @@
         "owner_id": "bcb3f48f-d462-4953-bfda-4be1f497f88f"
       },
       {
+        "id": "1ffcb14a-40f3-400f-a8c0-341429e7a690",
+        "name": "Anarco Vidrios",
+        "type": "elmas",
+        "level": 35,
+        "owner_name": "Paparulos",
+        "owner_id": "e139cbea-497e-48ff-9695-7eed98ab2ea1"
+      },
+      {
         "id": "99d8ad5f-a46f-41e3-8342-d7cec6c32474",
         "name": "TEK  Bosna Elmas Fabrikası",
         "type": "elmas",
         "level": 32,
         "owner_name": "𝗘ş𝗿𝗲𝗳 𝗧𝗲𝗸",
         "owner_id": "f94f95ef-4f34-42bd-a39c-631623ef3d24"
-      },
-      {
-        "id": "1ffcb14a-40f3-400f-a8c0-341429e7a690",
-        "name": "Anarco Vidrios",
-        "type": "elmas",
-        "level": 29,
-        "owner_name": "Paparulos",
-        "owner_id": "e139cbea-497e-48ff-9695-7eed98ab2ea1"
       },
       {
         "id": "52cbdfad-0250-4e84-87c0-2fed2ad05f0e",
@@ -3535,7 +3535,7 @@
     "factories": [
       {
         "id": "35b9beb7-8104-4655-8738-0059b460d30b",
-        "name": "🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹����🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷",
+        "name": "🇹🇷🇹🇷🇹🇷🇹🇷🇹����🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷",
         "type": "elmas",
         "level": 86,
         "owner_name": "SpecialTürk",
@@ -3718,20 +3718,20 @@
         "owner_id": null
       },
       {
+        "id": "ef5f3b36-058a-4289-86f9-d201e05a5924",
+        "name": "مصانع العاشر من رمضان",
+        "type": "deri",
+        "level": 23,
+        "owner_name": "محمد عمرو",
+        "owner_id": "bf42e3ee-22db-4295-926c-da97cfa68061"
+      },
+      {
         "id": "5b0f6808-3458-4948-82b7-aace7bd8cf0e",
         "name": "Elmas Fabrikası Selim Holding",
         "type": "elmas",
         "level": 22,
         "owner_name": "Selimm1",
         "owner_id": "96d4f324-b3bb-44be-8690-977d79d58ac8"
-      },
-      {
-        "id": "ef5f3b36-058a-4289-86f9-d201e05a5924",
-        "name": "مصانع العاشر من رمضان",
-        "type": "deri",
-        "level": 20,
-        "owner_name": "محمد عمرو",
-        "owner_id": "bf42e3ee-22db-4295-926c-da97cfa68061"
       },
       {
         "id": "fa2f62a2-5717-4321-a824-ee2962a5b68f",
@@ -4006,14 +4006,6 @@
         "owner_id": "ef41297f-7ef9-402f-b0ba-6da6b63a46ed"
       },
       {
-        "id": "a2153f51-37fb-49cc-bd37-0547aa8b64cd",
-        "name": "Fauzan Diamond Golden Arabia",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Farras Fauzan",
-        "owner_id": "a2a5b5d9-f886-41a0-a892-ff7247215093"
-      },
-      {
         "id": "b71b7ca7-3db2-4d5f-932b-824e17abcb35",
         "name": "Konsey Petrol Rafinesi",
         "type": "petrol",
@@ -4060,6 +4052,14 @@
         "level": 1,
         "owner_name": "Caner20",
         "owner_id": "414fbb19-491b-4ca5-9e5c-0b424b8cc86b"
+      },
+      {
+        "id": "a2153f51-37fb-49cc-bd37-0547aa8b64cd",
+        "name": "Z Diamond Golden Arabia",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Farras Fauzan",
+        "owner_id": "a2a5b5d9-f886-41a0-a892-ff7247215093"
       }
     ]
   },
@@ -4513,7 +4513,7 @@
         "id": "f702bf9e-ff1b-4486-9490-284a119221b2",
         "name": "35k/100LP Chengdu Diamonds Factory",
         "type": "elmas",
-        "level": 72,
+        "level": 73,
         "owner_name": "Flo D. Lionheart",
         "owner_id": "f7ec2b21-c461-4dbc-a040-a839c13f5b1b"
       },
@@ -4598,20 +4598,20 @@
         "owner_id": "ef41297f-7ef9-402f-b0ba-6da6b63a46ed"
       },
       {
+        "id": "72245ade-d284-45d3-ae4b-add258b93477",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Player692769",
+        "owner_id": "3257e0ac-75d4-4d87-986f-fe61dbe07b1e"
+      },
+      {
         "id": "9f7340ea-919d-4441-bfcf-f9f1b6567c55",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Oyuncu902397",
         "owner_id": "2988cca9-fc92-46cb-a450-7cb464dbc691"
-      },
-      {
-        "id": "82501f61-0a0b-4df8-a9d8-f6be55c4fa9f",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Player193479",
-        "owner_id": "c4594f9e-61df-4893-922c-1ff5eef548b4"
       },
       {
         "id": "412fe009-9b37-42db-addb-f537008708ed",
@@ -4726,12 +4726,12 @@
         "owner_id": "2988cca9-fc92-46cb-a450-7cb464dbc691"
       },
       {
-        "id": "72245ade-d284-45d3-ae4b-add258b93477",
+        "id": "82501f61-0a0b-4df8-a9d8-f6be55c4fa9f",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Player692769",
-        "owner_id": "3257e0ac-75d4-4d87-986f-fe61dbe07b1e"
+        "owner_name": "Player193479",
+        "owner_id": "c4594f9e-61df-4893-922c-1ff5eef548b4"
       },
       {
         "id": "960b068b-85c2-4089-89cb-0cf82e272969",
@@ -4780,14 +4780,6 @@
         "level": 1,
         "owner_name": "Oyuncu376574",
         "owner_id": "dddbfe15-d7d7-4bdc-8e0d-5022d2ebfb8d"
-      },
-      {
-        "id": "d266e1fc-9b75-430d-8f6c-025ebfeacfa4",
-        "name": "MINA DE OURO MILÊNIO",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "gustavo54",
-        "owner_id": "2d492c56-fbfa-4d2a-b0dc-f131c3e67c00"
       }
     ]
   },
@@ -6937,7 +6929,7 @@
         "id": "e0067e46-be58-45a5-94ed-dca0847ac82c",
         "name": "Apex Diamond Mine",
         "type": "elmas",
-        "level": 116,
+        "level": 117,
         "owner_name": "Brother of Ijul",
         "owner_id": "5dc2add3-2b1a-4955-b253-2d903e58c99a"
       },
@@ -8002,20 +7994,20 @@
         "owner_id": "33900972-fd62-4eb2-a4de-18c95782b098"
       },
       {
+        "id": "8cf9eadd-df0b-4c06-a9f1-d70112f20689",
+        "name": "Fábricas de diamantes Degurechaff",
+        "type": "elmas",
+        "level": 7,
+        "owner_name": "Kullanici_81368",
+        "owner_id": "c56d7bc0-6f63-4d65-8b77-91b8eca1055e"
+      },
+      {
         "id": "51b78f35-2113-4043-967b-b989787e7422",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 5,
         "owner_name": "TAHA098",
         "owner_id": "b4ce2ea1-1048-4feb-b8d7-1506e90f3350"
-      },
-      {
-        "id": "8cf9eadd-df0b-4c06-a9f1-d70112f20689",
-        "name": "Fábricas de diamantes Degurechaff",
-        "type": "elmas",
-        "level": 4,
-        "owner_name": "Kullanici_81368",
-        "owner_id": "c56d7bc0-6f63-4d65-8b77-91b8eca1055e"
       },
       {
         "id": "fe70dd43-8718-4252-a781-ee8345b0e576",
@@ -8251,7 +8243,7 @@
     "factories": [
       {
         "id": "ce701f0d-6a81-4875-8aa9-1f5701c15039",
-        "name": "La Vanguardia- $40k",
+        "name": "La Vanguardia",
         "type": "elmas",
         "level": 81,
         "owner_name": "General Güemes",
@@ -8350,7 +8342,7 @@
         "name": "FD",
         "type": "elmas",
         "level": 4,
-        "owner_name": "José Yousuan Gutiérrez",
+        "owner_name": "Kaiser Gutierrez",
         "owner_id": "926b4625-418f-448e-bf2c-6a2893967513"
       },
       {
@@ -8434,164 +8426,12 @@
         "owner_id": "0ce9fc9f-ec19-44bd-a3d3-3bd44589a885"
       },
       {
-        "id": "501523b1-23cd-4f1e-b363-626935dbd505",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "NAHU",
-        "owner_id": "72ce544e-44e7-4715-91cb-9b7b1d27fcad"
-      },
-      {
-        "id": "50eb7c80-19e9-4fcb-b42f-f86e25a9f3f3",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Alfon_cortes",
-        "owner_id": "a4609659-c9ea-42b3-8e9e-36bd268a7729"
-      },
-      {
-        "id": "3b65c1e0-56a1-4e79-ac2c-ac91db945a50",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador615570",
-        "owner_id": "7ef90ae1-f94e-434c-84ae-399f386430d3"
-      },
-      {
-        "id": "865bcb83-95ef-4a26-a9df-2b034108e0f8",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador961333",
-        "owner_id": "891491aa-02fc-4f64-a365-8d5af42528e1"
-      },
-      {
-        "id": "1468cd7d-744c-45e9-8fc0-07457fcb8f9c",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Santiago57",
-        "owner_id": "11d31cf7-34e2-4126-a26f-a381bc6a61f6"
-      },
-      {
-        "id": "5a0ec0d6-ac7a-4ae5-a553-0cc0b95c301b",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador723047",
-        "owner_id": "413bae33-5b58-45a0-874d-4c2c24266022"
-      },
-      {
-        "id": "2e430ab6-e8cf-441d-99a7-13cf1d95acc6",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador723047",
-        "owner_id": "413bae33-5b58-45a0-874d-4c2c24266022"
-      },
-      {
         "id": "0ef9312e-f397-4154-bcf6-baa002379026",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "nicco.bp",
         "owner_id": "1e75e42f-9799-4b3f-8567-1bf62fcfabf8"
-      },
-      {
-        "id": "478b0f74-88b0-4220-be75-c0b0a8115ea0",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador190407",
-        "owner_id": "cb535d01-5d7d-44d0-a5aa-a97fa5493b12"
-      },
-      {
-        "id": "f67179a5-cd15-4802-a4b4-f9a9548dc3bf",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador811360",
-        "owner_id": "e3600365-1fa2-40f7-96cb-4f0e8f182d1b"
-      },
-      {
-        "id": "79007c24-aa05-4e9c-8d3a-b284d7504a1a",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador811360",
-        "owner_id": "e3600365-1fa2-40f7-96cb-4f0e8f182d1b"
-      },
-      {
-        "id": "3d505398-2fb7-48f4-9bf3-2140adc0c1d3",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "John Little",
-        "owner_id": "43984467-6e55-4727-97d1-426316b37405"
-      },
-      {
-        "id": "9be4424e-be51-4a3e-a98c-345112484116",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador479726",
-        "owner_id": "058e8d9c-3540-490f-835e-531a5d577cdb"
-      },
-      {
-        "id": "eaaf547a-2140-41cc-9db5-8feb6b35175f",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador593545",
-        "owner_id": "5db82b8f-8036-4bd3-8c10-0f71bd96cf0e"
-      },
-      {
-        "id": "aaf5450d-f5af-43d4-95d7-5ff335926c68",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Axel_18",
-        "owner_id": "6ccc6f60-7c3a-42a3-a36c-6925ae73c2e9"
-      },
-      {
-        "id": "848e3e06-7faf-47cc-83d0-bdb6d7c3b2a6",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador985300",
-        "owner_id": "b0568dd7-4930-414d-a0b4-0ac94ab7d4b6"
-      },
-      {
-        "id": "bd66adf6-ceaf-453a-ac23-e2a1d351ba2b",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador985300",
-        "owner_id": "b0568dd7-4930-414d-a0b4-0ac94ab7d4b6"
-      },
-      {
-        "id": "ef615e55-41fd-4ede-9814-c20acec8f927",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador641515",
-        "owner_id": "44e77bb9-29b8-4ced-ab43-eb67952620e9"
-      },
-      {
-        "id": "884e8b8f-4acb-4076-bc22-344fa6ad8541",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador641515",
-        "owner_id": "44e77bb9-29b8-4ced-ab43-eb67952620e9"
-      },
-      {
-        "id": "ca24b2b0-d896-47bf-a3d1-be88a05d5acc",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Luciano Damián",
-        "owner_id": "9ce1e222-2939-4319-81a3-bdd1493880bc"
       },
       {
         "id": "1ea16e4e-403c-4224-9b90-aad38adf2111",
@@ -8608,14 +8448,6 @@
         "level": 1,
         "owner_name": "Jugador690962",
         "owner_id": "e7c8c075-990c-40e3-b562-da0fdd05aa7b"
-      },
-      {
-        "id": "329129a0-8745-4341-b578-53576d29ad04",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador366179",
-        "owner_id": "e7e6631f-7d47-4c91-97d5-0fc60b59574a"
       },
       {
         "id": "d7f605b2-c5bb-4003-a8ac-24f59bd71567",
@@ -8674,14 +8506,6 @@
         "owner_id": "9e67fb84-db73-41a3-b7dd-eae8b0176eea"
       },
       {
-        "id": "67e13066-821a-48a0-892b-d21cc2c97228",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador634210",
-        "owner_id": "10a9044d-c88d-4f19-be8c-a0c9332ef1f6"
-      },
-      {
         "id": "3e82dbcc-2e96-432c-9eb1-da8ede1404a1",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -8696,14 +8520,6 @@
         "level": 1,
         "owner_name": "Jugador463382",
         "owner_id": "aab8ba77-75c1-48d5-ad34-96dad3dc0986"
-      },
-      {
-        "id": "7fb8e477-9f27-4a3e-8337-090a9ff85029",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "SirNoir",
-        "owner_id": "7993445f-5552-4d01-8c98-922ff4280482"
       },
       {
         "id": "f24d30a8-84ea-4056-924a-44e740ecb2b0",
@@ -8746,14 +8562,6 @@
         "owner_id": "a47b33ba-81fa-41da-87bd-b239d8addcbd"
       },
       {
-        "id": "1ac97146-2eb5-455f-b07a-2f24aee7987c",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador731940",
-        "owner_id": "95e7cfad-8ca5-447a-a0a9-4e5521dce3da"
-      },
-      {
         "id": "fa3da97d-ca5f-4283-af8f-4cde72c44549",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -8770,12 +8578,12 @@
         "owner_id": "d89eae52-9e1f-40c5-a4ae-036c401fb930"
       },
       {
-        "id": "933a527f-06f9-47e6-aeb5-408b4855afff",
+        "id": "478b0f74-88b0-4220-be75-c0b0a8115ea0",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador961333",
-        "owner_id": "891491aa-02fc-4f64-a365-8d5af42528e1"
+        "owner_name": "Jugador190407",
+        "owner_id": "cb535d01-5d7d-44d0-a5aa-a97fa5493b12"
       },
       {
         "id": "4131627c-a307-44ab-9ce1-30d3bcdc3203",
@@ -8784,14 +8592,6 @@
         "level": 1,
         "owner_name": "Jugador248050",
         "owner_id": "a47b33ba-81fa-41da-87bd-b239d8addcbd"
-      },
-      {
-        "id": "bd96c022-9601-41ef-8508-e1b378bbb8a8",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador254811",
-        "owner_id": "463bec5d-e764-420c-aa29-54966952b8d6"
       },
       {
         "id": "78da82bb-9d53-4dc6-a665-2178a6e5a510",
@@ -8818,6 +8618,206 @@
         "owner_id": "2eda94d9-7d7d-4381-b672-561538bebe8b"
       },
       {
+        "id": "d05baabf-8373-4063-b5e3-ac2ed4af8a3b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador687981",
+        "owner_id": "d4e1f70f-ef13-41ec-8650-96331a48957a"
+      },
+      {
+        "id": "ca24b2b0-d896-47bf-a3d1-be88a05d5acc",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Luciano Damián",
+        "owner_id": "9ce1e222-2939-4319-81a3-bdd1493880bc"
+      },
+      {
+        "id": "bd66adf6-ceaf-453a-ac23-e2a1d351ba2b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador985300",
+        "owner_id": "b0568dd7-4930-414d-a0b4-0ac94ab7d4b6"
+      },
+      {
+        "id": "848e3e06-7faf-47cc-83d0-bdb6d7c3b2a6",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador985300",
+        "owner_id": "b0568dd7-4930-414d-a0b4-0ac94ab7d4b6"
+      },
+      {
+        "id": "aaf5450d-f5af-43d4-95d7-5ff335926c68",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Axel_18",
+        "owner_id": "6ccc6f60-7c3a-42a3-a36c-6925ae73c2e9"
+      },
+      {
+        "id": "bd96c022-9601-41ef-8508-e1b378bbb8a8",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador254811",
+        "owner_id": "463bec5d-e764-420c-aa29-54966952b8d6"
+      },
+      {
+        "id": "933a527f-06f9-47e6-aeb5-408b4855afff",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador961333",
+        "owner_id": "891491aa-02fc-4f64-a365-8d5af42528e1"
+      },
+      {
+        "id": "1ac97146-2eb5-455f-b07a-2f24aee7987c",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador731940",
+        "owner_id": "95e7cfad-8ca5-447a-a0a9-4e5521dce3da"
+      },
+      {
+        "id": "7fb8e477-9f27-4a3e-8337-090a9ff85029",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "SirNoir",
+        "owner_id": "7993445f-5552-4d01-8c98-922ff4280482"
+      },
+      {
+        "id": "67e13066-821a-48a0-892b-d21cc2c97228",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador634210",
+        "owner_id": "10a9044d-c88d-4f19-be8c-a0c9332ef1f6"
+      },
+      {
+        "id": "329129a0-8745-4341-b578-53576d29ad04",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador366179",
+        "owner_id": "e7e6631f-7d47-4c91-97d5-0fc60b59574a"
+      },
+      {
+        "id": "865bcb83-95ef-4a26-a9df-2b034108e0f8",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador961333",
+        "owner_id": "891491aa-02fc-4f64-a365-8d5af42528e1"
+      },
+      {
+        "id": "3b65c1e0-56a1-4e79-ac2c-ac91db945a50",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador615570",
+        "owner_id": "7ef90ae1-f94e-434c-84ae-399f386430d3"
+      },
+      {
+        "id": "50eb7c80-19e9-4fcb-b42f-f86e25a9f3f3",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Alfon_cortes",
+        "owner_id": "a4609659-c9ea-42b3-8e9e-36bd268a7729"
+      },
+      {
+        "id": "f67179a5-cd15-4802-a4b4-f9a9548dc3bf",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador811360",
+        "owner_id": "e3600365-1fa2-40f7-96cb-4f0e8f182d1b"
+      },
+      {
+        "id": "79007c24-aa05-4e9c-8d3a-b284d7504a1a",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador811360",
+        "owner_id": "e3600365-1fa2-40f7-96cb-4f0e8f182d1b"
+      },
+      {
+        "id": "3d505398-2fb7-48f4-9bf3-2140adc0c1d3",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "John Little",
+        "owner_id": "43984467-6e55-4727-97d1-426316b37405"
+      },
+      {
+        "id": "9be4424e-be51-4a3e-a98c-345112484116",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador479726",
+        "owner_id": "058e8d9c-3540-490f-835e-531a5d577cdb"
+      },
+      {
+        "id": "eaaf547a-2140-41cc-9db5-8feb6b35175f",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador593545",
+        "owner_id": "5db82b8f-8036-4bd3-8c10-0f71bd96cf0e"
+      },
+      {
+        "id": "501523b1-23cd-4f1e-b363-626935dbd505",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "NAHU",
+        "owner_id": "72ce544e-44e7-4715-91cb-9b7b1d27fcad"
+      },
+      {
+        "id": "1468cd7d-744c-45e9-8fc0-07457fcb8f9c",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Santiago57",
+        "owner_id": "11d31cf7-34e2-4126-a26f-a381bc6a61f6"
+      },
+      {
+        "id": "5a0ec0d6-ac7a-4ae5-a553-0cc0b95c301b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador723047",
+        "owner_id": "413bae33-5b58-45a0-874d-4c2c24266022"
+      },
+      {
+        "id": "2e430ab6-e8cf-441d-99a7-13cf1d95acc6",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador723047",
+        "owner_id": "413bae33-5b58-45a0-874d-4c2c24266022"
+      },
+      {
+        "id": "ef615e55-41fd-4ede-9814-c20acec8f927",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador641515",
+        "owner_id": "44e77bb9-29b8-4ced-ab43-eb67952620e9"
+      },
+      {
+        "id": "884e8b8f-4acb-4076-bc22-344fa6ad8541",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador641515",
+        "owner_id": "44e77bb9-29b8-4ced-ab43-eb67952620e9"
+      },
+      {
         "id": "8aa8c9d3-48eb-43e9-b0a6-c6c843f41e89",
         "name": "La Sociedad Del Anillo de Cuero",
         "type": "deri",
@@ -8834,9 +8834,9 @@
         "owner_id": null
       },
       {
-        "id": "b544685c-3001-482f-ba5f-effe2af15bfd",
+        "id": "19df9f34-62b1-4968-9c7f-8a52f0e074b0",
         "name": "Procekistan C.O.R.P",
-        "type": "nte",
+        "type": "deri",
         "level": 1,
         "owner_name": "Maleza I de Procekistan",
         "owner_id": "6477c52a-7cd1-40d4-868b-d9a0520f3345"
@@ -8850,17 +8850,17 @@
         "owner_id": "6477c52a-7cd1-40d4-868b-d9a0520f3345"
       },
       {
-        "id": "c6f8368c-ffa1-4bad-8fc4-5515303fbd01",
+        "id": "b544685c-3001-482f-ba5f-effe2af15bfd",
         "name": "Procekistan C.O.R.P",
-        "type": "altin",
+        "type": "nte",
         "level": 1,
         "owner_name": "Maleza I de Procekistan",
         "owner_id": "6477c52a-7cd1-40d4-868b-d9a0520f3345"
       },
       {
-        "id": "19df9f34-62b1-4968-9c7f-8a52f0e074b0",
+        "id": "c6f8368c-ffa1-4bad-8fc4-5515303fbd01",
         "name": "Procekistan C.O.R.P",
-        "type": "deri",
+        "type": "altin",
         "level": 1,
         "owner_name": "Maleza I de Procekistan",
         "owner_id": "6477c52a-7cd1-40d4-868b-d9a0520f3345"
@@ -8933,7 +8933,7 @@
         "id": "cb9454aa-21ab-42ae-a864-e273e214d8aa",
         "name": "NevsCorp ~ Diamante",
         "type": "elmas",
-        "level": 118,
+        "level": 119,
         "owner_name": "Emiliano Ponce",
         "owner_id": "4ddce7c7-61b8-4b73-ac74-e4b8905c6e2f"
       },
@@ -10597,7 +10597,7 @@
         "id": "89b476bd-4b03-426a-a379-36e295f583dd",
         "name": "Elmas Fabrikası",
         "type": "elmas",
-        "level": 46,
+        "level": 47,
         "owner_name": "Reinhard_Heydrich",
         "owner_id": "30561456-aad1-4f5b-84be-0601e6bc24d5"
       },
@@ -10685,9 +10685,17 @@
         "id": "7031876d-03c6-4969-8a4d-94c9b25236ab",
         "name": "Lillith Diamond mine",
         "type": "elmas",
-        "level": 9,
+        "level": 10,
         "owner_name": "Lillith",
         "owner_id": "9306b71c-85b4-4556-a9af-f76ab0130d8a"
+      },
+      {
+        "id": "96eb79ae-121b-4f3d-b9db-df9c488d8e81",
+        "name": "نقطه .",
+        "type": "elmas",
+        "level": 10,
+        "owner_name": "سالم 0",
+        "owner_id": "f0a02d5a-9ae7-4af0-ad93-edca9712c7ed"
       },
       {
         "id": "521d6a8a-73e7-48ff-9462-1cefef47cc9a",
@@ -10722,20 +10730,20 @@
         "owner_id": "f9ef02f2-cf1f-4c65-83c2-1b15aa3bdcb4"
       },
       {
-        "id": "881e32dd-00b3-49d6-a478-2af4d98efc29",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "MAX_",
-        "owner_id": "cd2de717-cab9-4d01-886e-6bbe9ac69030"
-      },
-      {
         "id": "9459c804-4c37-427d-9084-70f9572d3949",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
         "owner_name": "selvi0772",
         "owner_id": "c07eaa5c-3729-4efa-9c4e-67403aa531c3"
+      },
+      {
+        "id": "881e32dd-00b3-49d6-a478-2af4d98efc29",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "MAX_",
+        "owner_id": "cd2de717-cab9-4d01-886e-6bbe9ac69030"
       },
       {
         "id": "c8148485-3760-4920-9a1a-6be388da7fd6",
@@ -10762,28 +10770,12 @@
         "owner_id": "ee4f1841-6458-467a-937d-0bf37caefb4a"
       },
       {
-        "id": "1ca0e8a0-99fe-45a0-bd65-cd4276a7be02",
+        "id": "cf0bd5e7-e88f-4473-8f22-5639bc3ecddb",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Bahtıfelek",
-        "owner_id": "eb4385a9-1e04-4619-b435-8ad7960dd63d"
-      },
-      {
-        "id": "75af0395-ec02-456e-b47c-20700c0adeed",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Sekorpet",
-        "owner_id": "15020a98-97bb-4dc7-9ddd-bdb161d10e3e"
-      },
-      {
-        "id": "3faf3fbc-90c2-4908-8dcd-fa4f9cc05568",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "harllyson",
-        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
+        "owner_name": "𝕬𝖗𝖛𝖊𝖑𝖔𝖓",
+        "owner_id": "1d28b145-a102-446d-88b9-9f507119834e"
       },
       {
         "id": "0d781003-d109-4e36-8713-82d96a240d3d",
@@ -10794,20 +10786,36 @@
         "owner_id": "29c413df-99a8-4bdf-839d-8724401979e3"
       },
       {
+        "id": "75af0395-ec02-456e-b47c-20700c0adeed",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Sekorpet",
+        "owner_id": "15020a98-97bb-4dc7-9ddd-bdb161d10e3e"
+      },
+      {
+        "id": "1ca0e8a0-99fe-45a0-bd65-cd4276a7be02",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Bahtıfelek",
+        "owner_id": "eb4385a9-1e04-4619-b435-8ad7960dd63d"
+      },
+      {
+        "id": "3faf3fbc-90c2-4908-8dcd-fa4f9cc05568",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "harllyson",
+        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
+      },
+      {
         "id": "7193e997-96d1-4302-a46b-1383fddcac0f",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Yusuf6820",
         "owner_id": "5489bc23-6957-4a5f-b25d-050f7f7efcef"
-      },
-      {
-        "id": "cf0bd5e7-e88f-4473-8f22-5639bc3ecddb",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "𝕬𝖗𝖛𝖊𝖑𝖔𝖓",
-        "owner_id": "1d28b145-a102-446d-88b9-9f507119834e"
       },
       {
         "id": "c3cf6cc7-ef87-4e7f-8034-ba1a71c9c9a9",
@@ -10840,6 +10848,14 @@
         "level": 1,
         "owner_name": "Surət Hüseynov",
         "owner_id": "681aa3d8-05e5-4589-82e2-36888e3d0749"
+      },
+      {
+        "id": "3fbbd938-7d92-4179-bcd3-d4468ddcb291",
+        "name": "Fuhrërdiemanten",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Heinrich Maximilian",
+        "owner_id": "fc024d03-4ff5-4b6f-b394-8b234aaf7505"
       },
       {
         "id": "42d27d9b-88af-44a7-841e-65441f1f4244",
@@ -10921,7 +10937,7 @@
         "id": "697cba34-7ffa-4183-92a0-5c59676434a6",
         "name": "Elmas Fabrikası",
         "type": "elmas",
-        "level": 10,
+        "level": 11,
         "owner_name": "Anonimus",
         "owner_id": "29ed2337-4788-4d3c-ada3-9dbd03bcc585"
       },
@@ -10942,20 +10958,20 @@
         "owner_id": "7ca50d5d-4658-48e0-8b85-55e3e303752d"
       },
       {
+        "id": "cb2d4355-1d49-428e-8fea-d680fdf5188f",
+        "name": "Pendelton Gem Technologies",
+        "type": "elmas",
+        "level": 6,
+        "owner_name": "William Pendelton",
+        "owner_id": "351b197e-f759-4cd1-b173-67380df34424"
+      },
+      {
         "id": "39996519-88be-4837-9c1f-529594b9f96a",
         "name": "Mate amargo| Diamond Factory |",
         "type": "elmas",
         "level": 4,
         "owner_name": "General Shaklan Rodríguez",
         "owner_id": "cdaecff2-4ce6-4873-8e2d-309c45dd0a88"
-      },
-      {
-        "id": "cb2d4355-1d49-428e-8fea-d680fdf5188f",
-        "name": "Pendelton Gem Technologies",
-        "type": "elmas",
-        "level": 4,
-        "owner_name": "William Pendelton",
-        "owner_id": "351b197e-f759-4cd1-b173-67380df34424"
       },
       {
         "id": "d8e4c6b8-0ac3-4791-b8e4-08113da54d05",
@@ -10982,14 +10998,6 @@
         "owner_id": "276c7770-faa3-46d0-a0a7-618e0c87f366"
       },
       {
-        "id": "fe0cf00e-673d-44b7-9296-3bf71166d7a5",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Shiro",
-        "owner_id": "ff672a9d-bdcd-4439-afe6-d5793d8107ca"
-      },
-      {
         "id": "e1318b42-a36b-4adb-89c0-737cd4b9a128",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -10998,12 +11006,20 @@
         "owner_id": "65ad9aea-8763-4ffb-9a8e-b8b62a40c2b2"
       },
       {
-        "id": "1ec073d5-617d-4716-b3cc-b13f07c5a748",
+        "id": "924d02a7-1c4a-4b4b-8b8b-1966641aaedc",
         "name": "Elmas Fabrikası",
         "type": "elmas",
-        "level": 1,
-        "owner_name": "SERGIO I",
-        "owner_id": "276c7770-faa3-46d0-a0a7-618e0c87f366"
+        "level": 2,
+        "owner_name": "Alann18",
+        "owner_id": "12d67c2f-aae7-4aad-8523-b1a83cb6bd7b"
+      },
+      {
+        "id": "fe0cf00e-673d-44b7-9296-3bf71166d7a5",
+        "name": "Mi fuente de pobreza",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Shiro",
+        "owner_id": "ff672a9d-bdcd-4439-afe6-d5793d8107ca"
       },
       {
         "id": "be2a1856-8334-4698-8fe1-b0b01d40e582",
@@ -11342,12 +11358,12 @@
         "owner_id": "dc76c795-4c8f-4782-abab-6f296d66d002"
       },
       {
-        "id": "4401879d-fcaa-454a-ad81-a935b6d099b1",
+        "id": "ea3fb11a-e434-4059-a974-087787ba407e",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador478154",
-        "owner_id": "6b197d6a-36d9-4f6a-8702-6481019e68fe"
+        "owner_name": "Jugador192049",
+        "owner_id": "993c9510-6542-45ad-8bd6-75fbf1bf86e8"
       },
       {
         "id": "0989d5ea-a482-4744-9312-b8b882c6da60",
@@ -11382,12 +11398,28 @@
         "owner_id": "785c1918-ab46-4b6a-b9ef-ffaa83100c30"
       },
       {
-        "id": "924d02a7-1c4a-4b4b-8b8b-1966641aaedc",
+        "id": "667a25a5-26a2-40b0-b6e4-5446c6a3ba4a",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador347121",
-        "owner_id": "12d67c2f-aae7-4aad-8523-b1a83cb6bd7b"
+        "owner_name": "Chori0102",
+        "owner_id": "ee1b9a89-aa2e-405b-83d3-024149338c29"
+      },
+      {
+        "id": "90efe560-b9fd-4f07-85e1-07c0523f82be",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Chori0102",
+        "owner_id": "ee1b9a89-aa2e-405b-83d3-024149338c29"
+      },
+      {
+        "id": "4401879d-fcaa-454a-ad81-a935b6d099b1",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador478154",
+        "owner_id": "6b197d6a-36d9-4f6a-8702-6481019e68fe"
       },
       {
         "id": "bb73171d-1246-428a-bc6b-e500c6a0ba85",
@@ -11494,20 +11526,12 @@
         "owner_id": "849a3c20-ac07-4aab-b1ee-62b2476ecd6d"
       },
       {
-        "id": "ea3fb11a-e434-4059-a974-087787ba407e",
+        "id": "1ec073d5-617d-4716-b3cc-b13f07c5a748",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador192049",
-        "owner_id": "993c9510-6542-45ad-8bd6-75fbf1bf86e8"
-      },
-      {
-        "id": "90efe560-b9fd-4f07-85e1-07c0523f82be",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jugador365678",
-        "owner_id": "ee1b9a89-aa2e-405b-83d3-024149338c29"
+        "owner_name": "SERGIO I",
+        "owner_id": "276c7770-faa3-46d0-a0a7-618e0c87f366"
       },
       {
         "id": "46a21a40-f1a3-4203-87cd-e96551bf83fb",
@@ -12966,6 +12990,14 @@
         "owner_id": "e29bde49-5215-4040-84a1-42a2451e6f85"
       },
       {
+        "id": "c2a5a836-32de-4bee-a390-bc237ba95262",
+        "name": "30k sabit maaş",
+        "type": "elmas",
+        "level": 79,
+        "owner_name": "Mehmetuzg",
+        "owner_id": "8bd52701-0e55-4b0f-93a7-dd6a2358e275"
+      },
+      {
         "id": "09f7a3ce-9086-473f-bed4-3341d72a2e83",
         "name": "EROS OIL",
         "type": "petrol",
@@ -12985,7 +13017,7 @@
         "id": "3a7cfdb7-4588-4a73-8a61-5b66e3eadfc5",
         "name": "Zaman senide siler",
         "type": "elmas",
-        "level": 30,
+        "level": 33,
         "owner_name": "Adelya",
         "owner_id": "627a6b7a-145e-4ec7-823b-983d4789c71d"
       },
@@ -13366,14 +13398,6 @@
         "owner_id": "c1cf71be-a236-45d7-852c-2ff06b017056"
       },
       {
-        "id": "f7ef6918-dd85-4310-875e-0c2fc3229af0",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Bahlil Ganteng",
-        "owner_id": "11ea560c-f5ff-4ba1-b034-8608b191c485"
-      },
-      {
         "id": "3d8e58e9-3e39-4dd7-b367-7c41144350cd",
         "name": "Altın Madeni",
         "type": "altin",
@@ -13382,12 +13406,28 @@
         "owner_id": "c8c758e6-22c3-4595-809c-7ccfcc7a5a3a"
       },
       {
+        "id": "f7ef6918-dd85-4310-875e-0c2fc3229af0",
+        "name": "Altın Madeni",
+        "type": "altin",
+        "level": 1,
+        "owner_name": "Bahlil Ganteng",
+        "owner_id": "11ea560c-f5ff-4ba1-b034-8608b191c485"
+      },
+      {
         "id": "88d81d1b-4c10-4e68-8af3-5315fbe1cbe4",
         "name": "Deri Fabrikası",
         "type": "deri",
         "level": 1,
         "owner_name": "Bahlil Ganteng",
         "owner_id": "11ea560c-f5ff-4ba1-b034-8608b191c485"
+      },
+      {
+        "id": "2e9a3679-8cb2-49d0-a0b4-f2b7b4ba9914",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Pemain424663",
+        "owner_id": "0113c0e1-825f-4482-bf4c-6ee001474e91"
       },
       {
         "id": "43c54d6b-8ad7-427a-aafe-6908847918af",
@@ -14117,7 +14157,7 @@
         "id": "87872d02-7192-42e6-8c99-e54100294e92",
         "name": "Diamantes Baja",
         "type": "elmas",
-        "level": 28,
+        "level": 29,
         "owner_name": "PacmanJYA",
         "owner_id": "2724a963-88ec-4a60-8c73-9f1979090d19"
       },
@@ -14178,6 +14218,14 @@
         "owner_id": "a52bf77c-f593-4f85-a89b-acaf91c132fa"
       },
       {
+        "id": "ac7540da-cd70-46c7-84c6-b8a440b24ef9",
+        "name": "Cuero Baja",
+        "type": "deri",
+        "level": 3,
+        "owner_name": "PacmanJYA",
+        "owner_id": "2724a963-88ec-4a60-8c73-9f1979090d19"
+      },
+      {
         "id": "f6f11bbc-9e7a-4164-bd3f-2defd2220acb",
         "name": "1k",
         "type": "elmas",
@@ -14208,14 +14256,6 @@
         "level": 2,
         "owner_name": "Larryzz",
         "owner_id": "46d3e91d-7385-457e-996d-ec9a4be2c93b"
-      },
-      {
-        "id": "ac7540da-cd70-46c7-84c6-b8a440b24ef9",
-        "name": "Cuero Baja",
-        "type": "deri",
-        "level": 1,
-        "owner_name": "PacmanJYA",
-        "owner_id": "2724a963-88ec-4a60-8c73-9f1979090d19"
       },
       {
         "id": "44a8f4c2-eaa4-4947-8d21-076a64ba4081",
@@ -15197,7 +15237,7 @@
         "id": "0e047f56-a67e-4716-a102-306fd6e50678",
         "name": "Hüner Devlet Fabrikaları - Elmas",
         "type": "elmas",
-        "level": 59,
+        "level": 60,
         "owner_name": "Crowe",
         "owner_id": "95d12ec7-9a58-4de1-a333-735a5b92ef8e"
       },
@@ -15270,28 +15310,12 @@
         "owner_id": "fffc7c08-6780-4139-a29d-f596aead10f2"
       },
       {
-        "id": "83a688b9-0aaa-4f91-88c1-7ada7f958f26",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Luther H. Hodges",
-        "owner_id": "21610ab0-a076-4e05-97ee-2ecb02d14d39"
-      },
-      {
         "id": "696b6b0d-93df-4351-8dd4-ef1e6b88c393",
         "name": "Altın Madeni",
         "type": "altin",
         "level": 1,
         "owner_name": "Ziz",
         "owner_id": "fffc7c08-6780-4139-a29d-f596aead10f2"
-      },
-      {
-        "id": "224ed985-f55a-4c54-99de-6d393cf607d8",
-        "name": "Deri Fabrikası",
-        "type": "deri",
-        "level": 1,
-        "owner_name": "Luther H. Hodges",
-        "owner_id": "21610ab0-a076-4e05-97ee-2ecb02d14d39"
       },
       {
         "id": "017958c1-0066-4cfa-b63f-0d3d3ee7b3fd",
@@ -15316,14 +15340,6 @@
         "level": 1,
         "owner_name": "Josip Broz Tito",
         "owner_id": "f9b08d3b-ece3-4876-8d9d-be1db4d6d5f1"
-      },
-      {
-        "id": "df8174bb-c578-4367-af34-40a975901af8",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Luther H. Hodges",
-        "owner_id": "21610ab0-a076-4e05-97ee-2ecb02d14d39"
       },
       {
         "id": "a851bbe5-1893-417c-9915-f49c48bdc584",
@@ -15358,14 +15374,6 @@
         "owner_id": "19e09a3e-353d-47fe-8a02-63d7bfaad2bc"
       },
       {
-        "id": "3a8c3c80-5aee-448a-8d45-1a368560b5ff",
-        "name": "NTE Fabrikası",
-        "type": "nte",
-        "level": 1,
-        "owner_name": "Luther H. Hodges",
-        "owner_id": "21610ab0-a076-4e05-97ee-2ecb02d14d39"
-      },
-      {
         "id": "7639b77d-1829-4a01-b212-c696aaf17779",
         "name": "NTE Fabrikası",
         "type": "nte",
@@ -15380,14 +15388,6 @@
         "level": 1,
         "owner_name": "Ziz",
         "owner_id": "fffc7c08-6780-4139-a29d-f596aead10f2"
-      },
-      {
-        "id": "5f5afb7d-b1c3-4c37-8ef4-1fc935a866e5",
-        "name": "Petrol Rafinerisi",
-        "type": "petrol",
-        "level": 1,
-        "owner_name": "Luther H. Hodges",
-        "owner_id": "21610ab0-a076-4e05-97ee-2ecb02d14d39"
       }
     ]
   },
@@ -15570,20 +15570,20 @@
         "owner_id": "0c337b7a-4275-480a-87e6-a1a07a29bcb8"
       },
       {
-        "id": "a4689c38-0518-442f-903c-da0057419af4",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "MaooMaoo",
-        "owner_id": "109207b3-c7b8-4576-b2c4-d2933ae4796b"
-      },
-      {
         "id": "96accae7-4d59-4483-b2d2-309f36512efe",
         "name": "Altın Madeni",
         "type": "altin",
         "level": 1,
         "owner_name": "Elmexicano90917",
         "owner_id": "e1483d05-aa0c-471f-96e6-d36f42aa3a67"
+      },
+      {
+        "id": "a4689c38-0518-442f-903c-da0057419af4",
+        "name": "Altın Madeni",
+        "type": "altin",
+        "level": 1,
+        "owner_name": "MaooMaoo",
+        "owner_id": "109207b3-c7b8-4576-b2c4-d2933ae4796b"
       },
       {
         "id": "d549c40e-656e-470c-8476-a19d30b9320a",
@@ -15610,20 +15610,20 @@
         "owner_id": "0c337b7a-4275-480a-87e6-a1a07a29bcb8"
       },
       {
-        "id": "30026424-3619-453f-8318-82869d1e6018",
-        "name": "Elmas Fabrikası",
+        "id": "e18c74c2-af24-4a61-ae35-02a6226a97fd",
+        "name": "Diamantes JT",
         "type": "elmas",
         "level": 1,
-        "owner_name": "DaKingLand0666",
-        "owner_id": "8b0ca76e-b581-4e31-9868-1578a7edeed6"
+        "owner_name": "JACKR",
+        "owner_id": "5759ad70-2ae7-4fe9-aa0d-3dba822fef84"
       },
       {
-        "id": "7426a442-37ba-478f-ba8a-c8e1d0ebb9e3",
+        "id": "41c87283-3156-48d3-bba9-44c98ce94dbc",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Rio Garza",
-        "owner_id": "c546f430-d2ad-4aa9-b9c4-ea015a1b05af"
+        "owner_name": "Jugador168387",
+        "owner_id": "d8408c59-2fee-4398-9d43-4744932f65d3"
       },
       {
         "id": "ee449fe6-65aa-4d4d-84ef-626706988a43",
@@ -15722,14 +15722,6 @@
         "owner_id": "e60d3cbf-7cc4-4a97-bf6b-c100f4a759d8"
       },
       {
-        "id": "7487a3a5-ee03-4b37-9eea-f73bf3598200",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Enryu",
-        "owner_id": "c58f7d0a-8c28-4fb4-81af-cce743417604"
-      },
-      {
         "id": "572f21df-5673-4709-8e10-a9f2d9e4e168",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -15738,12 +15730,12 @@
         "owner_id": "e8459b2e-4206-4be2-a9a5-243279c4b7ea"
       },
       {
-        "id": "41c87283-3156-48d3-bba9-44c98ce94dbc",
+        "id": "30026424-3619-453f-8318-82869d1e6018",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador168387",
-        "owner_id": "d8408c59-2fee-4398-9d43-4744932f65d3"
+        "owner_name": "DaKingLand0666",
+        "owner_id": "8b0ca76e-b581-4e31-9868-1578a7edeed6"
       },
       {
         "id": "000e370f-3994-420e-a7bf-755501b2a7dc",
@@ -15778,6 +15770,14 @@
         "owner_id": "a014a5a8-9e95-4e27-83f4-d64c4d90d9b0"
       },
       {
+        "id": "7487a3a5-ee03-4b37-9eea-f73bf3598200",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Enryu",
+        "owner_id": "c58f7d0a-8c28-4fb4-81af-cce743417604"
+      },
+      {
         "id": "451c1525-93f3-4dde-82a1-90292b1fc89c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -15792,14 +15792,6 @@
         "level": 1,
         "owner_name": "Jugador747927",
         "owner_id": "a0e01225-be39-4886-b429-be8a90724801"
-      },
-      {
-        "id": "5a1c1667-a918-4e64-9ede-0c6874478974",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "DaKingLand0666",
-        "owner_id": "8b0ca76e-b581-4e31-9868-1578a7edeed6"
       },
       {
         "id": "8e71d841-4483-48a1-845f-091d1bf3dee4",
@@ -15818,6 +15810,14 @@
         "owner_id": "8b0ca76e-b581-4e31-9868-1578a7edeed6"
       },
       {
+        "id": "7426a442-37ba-478f-ba8a-c8e1d0ebb9e3",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Rio Garza",
+        "owner_id": "c546f430-d2ad-4aa9-b9c4-ea015a1b05af"
+      },
+      {
         "id": "a30ce283-bac4-4f7f-b0f9-1f9d1365b67a",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -15832,6 +15832,14 @@
         "level": 1,
         "owner_name": "Xuayan",
         "owner_id": "ee8488ab-53bd-4e7d-a3f4-5f66d103d8fd"
+      },
+      {
+        "id": "5a1c1667-a918-4e64-9ede-0c6874478974",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "DaKingLand0666",
+        "owner_id": "8b0ca76e-b581-4e31-9868-1578a7edeed6"
       },
       {
         "id": "d5321a4b-674f-4ad2-99c9-48d3282c8810",
@@ -16115,7 +16123,7 @@
     "factories": [
       {
         "id": "74623fc4-9edc-4991-add6-7a0f201a5e08",
-        "name": "20K💲 Sabit-KAYI BOYU",
+        "name": "26K💲 Sabit-KAYI BOYU",
         "type": "elmas",
         "level": 69,
         "owner_name": "OxyGen686",
@@ -16152,6 +16160,14 @@
         "level": 19,
         "owner_name": "II. Mehmed",
         "owner_id": "6d4a4eaa-c0f4-4150-b110-f00762e62ca3"
+      },
+      {
+        "id": "a965157d-05a7-479b-ac5e-666fa7fbf662",
+        "name": "El-Anar Mücevherat💲35k",
+        "type": "elmas",
+        "level": 16,
+        "owner_name": "Baturay el-Anari",
+        "owner_id": "0e1c5ea3-127b-48fe-a7e5-04b0a1775f85"
       },
       {
         "id": "cc4e8f15-44e3-4ee0-8663-cd36e52d6375",
@@ -16200,14 +16216,6 @@
         "level": 4,
         "owner_name": "Teymen",
         "owner_id": "61a619a6-f8de-4f3b-adba-47f37f05cc26"
-      },
-      {
-        "id": "a965157d-05a7-479b-ac5e-666fa7fbf662",
-        "name": "El-Anar Mücevherat-ı Şerife",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Baturay el-Anari",
-        "owner_id": "0e1c5ea3-127b-48fe-a7e5-04b0a1775f85"
       },
       {
         "id": "1ec4946e-b9af-496d-af9c-3eed97187f66",
@@ -17043,7 +17051,7 @@
       },
       {
         "id": "4c0837f0-1685-452c-8b24-4fd3466dcb9c",
-        "name": "مصنع الماس دمشق",
+        "name": "مصنع الماس دمشق التابع لشركه الفا",
         "type": "elmas",
         "level": 1,
         "owner_name": "King 60",
@@ -17062,20 +17070,20 @@
         "owner_id": "35300f8c-86b2-4cce-8568-7bc25703979e"
       },
       {
-        "id": "87cfae3f-112e-4532-9636-c28a79b492a2",
-        "name": "10 K Xp - 1 Million",
-        "type": "elmas",
-        "level": 97,
-        "owner_name": "Tuğrul-",
-        "owner_id": "8f6477b0-ad08-41a3-b7ae-a485c9822582"
-      },
-      {
         "id": "fbb98f86-9a0b-4256-b4bf-f1c23452a09a",
         "name": "Blackreach Oil mine",
         "type": "petrol",
         "level": 97,
         "owner_name": "King Rhaelor",
         "owner_id": "35300f8c-86b2-4cce-8568-7bc25703979e"
+      },
+      {
+        "id": "87cfae3f-112e-4532-9636-c28a79b492a2",
+        "name": "Omg",
+        "type": "elmas",
+        "level": 97,
+        "owner_name": "Tuğrul-",
+        "owner_id": "8f6477b0-ad08-41a3-b7ae-a485c9822582"
       },
       {
         "id": "05dd3fa8-7876-4d45-b389-3a4e69e6b5a3",
@@ -18365,7 +18373,7 @@
         "id": "bcfca347-4884-4b0c-b919-ce1092bd13ca",
         "name": "Pablo's Empire",
         "type": "elmas",
-        "level": 33,
+        "level": 34,
         "owner_name": "Pablo Esscobar",
         "owner_id": "c0a04218-742a-4644-ba25-0ccda24a94c8"
       },
@@ -18541,7 +18549,7 @@
         "id": "4842b829-7a6d-4258-ac49-fddebc2b6b4f",
         "name": "Sheco",
         "type": "elmas",
-        "level": 57,
+        "level": 59,
         "owner_name": "Sheco",
         "owner_id": "be669236-599c-4c6f-9a43-56b3ffe35943"
       },
@@ -18602,6 +18610,14 @@
         "owner_id": "975d53eb-e81a-4423-83e3-b917c8d9a19d"
       },
       {
+        "id": "ca224650-10fa-47dc-81d1-0dbee3ad2a7b",
+        "name": "Mystery Town Factory | M.T.F",
+        "type": "altin",
+        "level": 4,
+        "owner_name": "𓆰Alpha - P_01",
+        "owner_id": "1776a53c-5289-4e2a-b019-e842314c11b7"
+      },
+      {
         "id": "4ffaaebd-4a79-4437-a435-ade089e0c2fe",
         "name": "Süleyman ÇAKIRIN fabrikası",
         "type": "elmas",
@@ -18610,12 +18626,20 @@
         "owner_id": "2269ef49-dc94-486a-8b8c-e3919be3c6ba"
       },
       {
-        "id": "ca224650-10fa-47dc-81d1-0dbee3ad2a7b",
-        "name": "Mystery Town Factory | M.T.F",
-        "type": "altin",
-        "level": 2,
-        "owner_name": "𓆰Alpha - P_01",
-        "owner_id": "1776a53c-5289-4e2a-b019-e842314c11b7"
+        "id": "8415ccb9-695c-4ebf-8ff2-a5112b77a3d2",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "لاعب",
+        "owner_id": "f0692c3b-6beb-4394-8d7f-96f582a440b4"
+      },
+      {
+        "id": "c375c3ff-df76-40cc-b7e2-faf718a15a21",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Mr.Thor",
+        "owner_id": "275a8061-60d9-4214-93fa-7f47169cb66b"
       },
       {
         "id": "e8f491f6-d6f2-4c57-aebe-f432fad6303a",
@@ -18624,6 +18648,14 @@
         "level": 1,
         "owner_name": "ابوصقر",
         "owner_id": "21133ae1-b4e5-433b-95e0-bd1114496161"
+      },
+      {
+        "id": "6ef9759f-1020-4999-a684-87112bcd64b9",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Mr.Thor",
+        "owner_id": "275a8061-60d9-4214-93fa-7f47169cb66b"
       },
       {
         "id": "bf9ba447-e7af-4124-a5ac-db782941379e",
@@ -18642,30 +18674,6 @@
         "owner_id": "66878dd6-5a35-4335-b2c9-a4bd989c4bb9"
       },
       {
-        "id": "8415ccb9-695c-4ebf-8ff2-a5112b77a3d2",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "لاعب",
-        "owner_id": "f0692c3b-6beb-4394-8d7f-96f582a440b4"
-      },
-      {
-        "id": "6ef9759f-1020-4999-a684-87112bcd64b9",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Mr.Thor",
-        "owner_id": "275a8061-60d9-4214-93fa-7f47169cb66b"
-      },
-      {
-        "id": "c375c3ff-df76-40cc-b7e2-faf718a15a21",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Mr.Thor",
-        "owner_id": "275a8061-60d9-4214-93fa-7f47169cb66b"
-      },
-      {
         "id": "493cab73-52d1-4c09-a24f-dfebd4b62a30",
         "name": "Mordor Altın Madeni",
         "type": "altin",
@@ -18682,20 +18690,20 @@
         "owner_id": "ec48a657-b5a6-4e48-8a9e-e8d1d64ad6e7"
       },
       {
-        "id": "8dac87e9-0390-4c93-ae17-7031fb7e6e59",
-        "name": "Petrol Rafinerisi",
-        "type": "petrol",
-        "level": 1,
-        "owner_name": "Bal Porsuğu Y.G.T",
-        "owner_id": "b36f5507-9d95-4c91-97f3-df3ea1a99758"
-      },
-      {
         "id": "0ce9dcd3-a6cd-4f4a-baa6-cd0544f864e0",
         "name": "Petrol Rafinerisi",
         "type": "petrol",
         "level": 1,
         "owner_name": "Ichigoat",
         "owner_id": "9a47c409-0e4f-4325-8879-90b1a6568bc7"
+      },
+      {
+        "id": "8dac87e9-0390-4c93-ae17-7031fb7e6e59",
+        "name": "Petrol Rafinerisi",
+        "type": "petrol",
+        "level": 1,
+        "owner_name": "Bal Porsuğu Y.G.T",
+        "owner_id": "b36f5507-9d95-4c91-97f3-df3ea1a99758"
       }
     ]
   },
@@ -18705,7 +18713,7 @@
         "id": "1e96c940-fb87-4cef-b137-649e6f93a044",
         "name": "🐱 FELİS DİAMOND 💎",
         "type": "elmas",
-        "level": 80,
+        "level": 81,
         "owner_name": "BAY KEDİ",
         "owner_id": "0e0816df-2ac0-4896-a6fc-58632ad1907e"
       },
@@ -21411,7 +21419,7 @@
       },
       {
         "id": "d29f53dd-eb74-4f23-86c7-382f5a41f81f",
-        "name": "dümdüz 41k maaş işte",
+        "name": "maalesef dümdüz 38k maaş",
         "type": "elmas",
         "level": 98,
         "owner_name": "neo the chosen one",
@@ -22173,7 +22181,7 @@
         "id": "66c487b3-daad-4eb2-b834-f98459e7731e",
         "name": "🌐📈💲|Banco Master|🏛💸🥂",
         "type": "elmas",
-        "level": 8,
+        "level": 9,
         "owner_name": "Perro Vorkaro",
         "owner_id": "b8d35870-e526-4e86-9ade-74a1167d6fbd"
       },
@@ -22234,14 +22242,6 @@
         "owner_id": "24135fd4-5096-4730-a98b-5824e0ee3d13"
       },
       {
-        "id": "c4b509ca-09c7-4969-9348-143c44c67fdb",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Giocatore109994",
-        "owner_id": "d4574c32-6a36-46f9-9876-c405a2a3fd2b"
-      },
-      {
         "id": "32be7476-1b3a-4501-a7c8-8bd4350a19a6",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -22266,14 +22266,6 @@
         "owner_id": "d18ef284-1ab3-4182-9b1e-6fe12d30f94a"
       },
       {
-        "id": "6cf944af-76e3-4242-910c-add499b3e8b2",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "King 60",
-        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
-      },
-      {
         "id": "7acb7513-46a3-4195-9ac7-fb6fb5ba16ef",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -22288,6 +22280,14 @@
         "level": 1,
         "owner_name": "Roman The Great",
         "owner_id": "c4436424-188f-4c9c-ac7b-ba260f38b820"
+      },
+      {
+        "id": "c4b509ca-09c7-4969-9348-143c44c67fdb",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Giocatore109994",
+        "owner_id": "d4574c32-6a36-46f9-9876-c405a2a3fd2b"
       },
       {
         "id": "b5e2d9ba-6ed9-46df-ba47-e66741d36b8b",
@@ -22320,6 +22320,14 @@
         "level": 1,
         "owner_name": "O Abnegado",
         "owner_id": "a9213c95-d05f-4e04-86c6-baa5c454f4f4"
+      },
+      {
+        "id": "6cf944af-76e3-4242-910c-add499b3e8b2",
+        "name": "مصنع الماس بورجونيا التابع لشركه الفا",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "King 60",
+        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
       }
     ]
   },
@@ -25109,7 +25117,7 @@
         "id": "c9645b21-d8db-4c40-95cb-566f3b1361ea",
         "name": "Squig Hide",
         "type": "deri",
-        "level": 12,
+        "level": 13,
         "owner_name": "Southern Triad Goon",
         "owner_id": "e08a7602-cefd-458f-93dd-21a340eb6b30"
       },
@@ -26253,7 +26261,7 @@
         "id": "a828f33d-52ac-4e81-b72d-279f4c594ca1",
         "name": "Diamantes. Salary 100% 💎",
         "type": "elmas",
-        "level": 68,
+        "level": 69,
         "owner_name": "Sakura Kinomoto",
         "owner_id": "ed85dd58-ad8d-45b8-b3b1-ffb0222fc746"
       },
@@ -26290,20 +26298,20 @@
         "owner_id": "4e0f7ca7-5d09-4fd2-bc7d-868732e71e12"
       },
       {
+        "id": "f47a4d7c-8c00-427a-9862-e7f99787960e",
+        "name": "Diamond STR",
+        "type": "elmas",
+        "level": 47,
+        "owner_name": "Vanessa5",
+        "owner_id": "6a1ca7f5-c57d-46ea-b9db-0a6380d97975"
+      },
+      {
         "id": "c14ed757-3de7-4cfb-895d-be955442bd4b",
         "name": "K-COUROS  LTDA...",
         "type": "deri",
         "level": 46,
         "owner_name": "DRª KAROL",
         "owner_id": "f3e9c42a-4172-4a06-8ec5-9e81b626541a"
-      },
-      {
-        "id": "f47a4d7c-8c00-427a-9862-e7f99787960e",
-        "name": "Diamond STR",
-        "type": "elmas",
-        "level": 44,
-        "owner_name": "Vanessa5",
-        "owner_id": "6a1ca7f5-c57d-46ea-b9db-0a6380d97975"
       },
       {
         "id": "ef3e3f01-e11e-4ead-bad5-8993eeaf2228",
@@ -26530,6 +26538,14 @@
         "owner_id": "c584bcc1-57f5-4f67-bf19-137042470551"
       },
       {
+        "id": "b4a363e1-75bd-4675-a0a8-8d8856aa5521",
+        "name": "TUPÃ DIAMANTES",
+        "type": "elmas",
+        "level": 4,
+        "owner_name": "Gabriel Brizola",
+        "owner_id": "f35dcd85-fa0d-4db5-9d37-357d768b9041"
+      },
+      {
         "id": "2a8a4210-7842-444c-862e-d7f8d3f4ccb9",
         "name": "Hammerstein Minérios",
         "type": "elmas",
@@ -26544,14 +26560,6 @@
         "level": 3,
         "owner_name": "Nilly",
         "owner_id": "e06b09e3-7ee9-4663-bb6e-51479c2259a3"
-      },
-      {
-        "id": "b4a363e1-75bd-4675-a0a8-8d8856aa5521",
-        "name": "TUPÃ DIAMANTES",
-        "type": "elmas",
-        "level": 3,
-        "owner_name": "Gabriel Brizola",
-        "owner_id": "f35dcd85-fa0d-4db5-9d37-357d768b9041"
       },
       {
         "id": "4d0b9de3-ca4c-4db6-a9bd-4a873a471d4e",
@@ -26706,12 +26714,12 @@
         "owner_id": "7fef0d34-9866-4001-ae4b-29476d75f16f"
       },
       {
-        "id": "ea8b3460-2742-42f4-9042-b943e2361ef8",
+        "id": "6e7646ba-a1a8-4b96-b1da-d84d3f94fcc8",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Myster.Kylian",
-        "owner_id": "c4dffb32-4337-422a-9117-35448f7f2388"
+        "owner_name": "Governador junior",
+        "owner_id": "8b8236b7-fb79-422b-ab23-c1180a4faf20"
       },
       {
         "id": "eb13ff04-5f03-43a7-96b1-01d5495864f2",
@@ -26778,12 +26786,12 @@
         "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
       },
       {
-        "id": "9ce2e409-9a8d-4ae3-998f-3759f17da031",
+        "id": "ea8b3460-2742-42f4-9042-b943e2361ef8",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "GENERAL MAX",
-        "owner_id": "92381a7f-393d-4859-a947-67a115082937"
+        "owner_name": "Myster.Kylian",
+        "owner_id": "c4dffb32-4337-422a-9117-35448f7f2388"
       },
       {
         "id": "a2e298ca-f96f-4015-9cc1-29c60e572767",
@@ -27130,6 +27138,22 @@
         "owner_id": "cf9938a7-8570-4e59-a067-aa78ca4a77da"
       },
       {
+        "id": "d98880fe-8980-4745-ab8e-5ab289c97529",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador154669",
+        "owner_id": "1185d31e-9bca-4fc8-8ee3-2800251aaf45"
+      },
+      {
+        "id": "9ce2e409-9a8d-4ae3-998f-3759f17da031",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "GENERAL MAX",
+        "owner_id": "92381a7f-393d-4859-a947-67a115082937"
+      },
+      {
         "id": "65ca79f2-f38f-4e3c-9a32-0507b5eb3844",
         "name": "Evans Mineradora LTDA",
         "type": "elmas",
@@ -27178,20 +27202,12 @@
         "owner_id": "944fa4c2-b6a2-400c-9a60-210e72d358e5"
       },
       {
-        "id": "60f932e7-199a-4904-875b-1a7af22f34c1",
+        "id": "a40c5d1d-854f-43c0-818e-1a857abaa5ac",
         "name": "NTE Fabrikası",
         "type": "nte",
         "level": 1,
-        "owner_name": "Bispo Campos",
-        "owner_id": "29515ac8-607e-4f29-abe5-0aaa5f27cc0a"
-      },
-      {
-        "id": "3cfd1fc4-324d-4a8e-a17b-f86637989308",
-        "name": "NTE Fabrikası",
-        "type": "nte",
-        "level": 1,
-        "owner_name": "KeferoBR",
-        "owner_id": "fad79a6c-a38c-49f3-9f87-7c9d5009524e"
+        "owner_name": "harllyson",
+        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
       },
       {
         "id": "981a1e7a-80cb-4e4c-a1d8-1f630f722026",
@@ -27210,12 +27226,20 @@
         "owner_id": "92722275-fb9f-4aae-954c-5ad2d0af8c40"
       },
       {
-        "id": "a40c5d1d-854f-43c0-818e-1a857abaa5ac",
+        "id": "3cfd1fc4-324d-4a8e-a17b-f86637989308",
         "name": "NTE Fabrikası",
         "type": "nte",
         "level": 1,
-        "owner_name": "harllyson",
-        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
+        "owner_name": "KeferoBR",
+        "owner_id": "fad79a6c-a38c-49f3-9f87-7c9d5009524e"
+      },
+      {
+        "id": "60f932e7-199a-4904-875b-1a7af22f34c1",
+        "name": "NTE Fabrikası",
+        "type": "nte",
+        "level": 1,
+        "owner_name": "Bispo Campos",
+        "owner_id": "29515ac8-607e-4f29-abe5-0aaa5f27cc0a"
       },
       {
         "id": "4120d4d1-cbc1-42d6-814a-f237b821f0d9",
@@ -27249,7 +27273,7 @@
         "id": "972a4823-93e6-4a00-8cc1-5e4ae2dc129e",
         "name": "Diamantes de Pablo",
         "type": "elmas",
-        "level": 125,
+        "level": 126,
         "owner_name": "Sagredo",
         "owner_id": "520b53db-75a6-4187-aaa9-8d913445c5ce"
       },
@@ -27257,7 +27281,7 @@
         "id": "e46a27c8-0ace-4548-8a02-585ede7be099",
         "name": "Elemental Diamonds",
         "type": "elmas",
-        "level": 98,
+        "level": 99,
         "owner_name": "LordSunRB",
         "owner_id": "f29381c3-bcb0-40d1-b742-f885343591c7"
       },
@@ -27274,7 +27298,7 @@
         "name": "Refinería de Petróleo Malas",
         "type": "petrol",
         "level": 84,
-        "owner_name": "Lord Malas",
+        "owner_name": "DarkSouls..",
         "owner_id": "a11904a3-88f5-482e-a10c-603a58ea10c7"
       },
       {
@@ -27286,20 +27310,20 @@
         "owner_id": "a613b080-872e-443b-8762-e4a08d32c270"
       },
       {
+        "id": "6066e3b7-fb17-4b59-8fa8-7755812d0ae1",
+        "name": "JhonSS Diamantes",
+        "type": "elmas",
+        "level": 41,
+        "owner_name": "JhonSS",
+        "owner_id": "0e7ee218-435b-4142-a302-b8f359d6c8b6"
+      },
+      {
         "id": "8a0a959d-31e2-4422-bcd8-d2c34b191fd3",
         "name": "Gema Síntesis S.A",
         "type": "elmas",
         "level": 40,
         "owner_name": "Arturo León",
         "owner_id": "dc06a45b-75cc-4171-b3c1-72be8ba2d87d"
-      },
-      {
-        "id": "6066e3b7-fb17-4b59-8fa8-7755812d0ae1",
-        "name": "JhonSS Diamantes",
-        "type": "elmas",
-        "level": 40,
-        "owner_name": "JhonSS",
-        "owner_id": "0e7ee218-435b-4142-a302-b8f359d6c8b6"
       },
       {
         "id": "621da92c-f1dd-4ee3-870a-eda436bd45d8",
@@ -27382,18 +27406,10 @@
         "owner_id": null
       },
       {
-        "id": "90899c29-5593-4c80-885e-a5a8ce6a3ca2",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 22,
-        "owner_name": "JJ",
-        "owner_id": "eedf3301-b67f-4669-bcf5-6eea0bc5920c"
-      },
-      {
         "id": "f62acba5-df40-49c7-b435-fad7ece9a916",
         "name": "Gods Factory",
         "type": "elmas",
-        "level": 22,
+        "level": 24,
         "owner_name": "Gods",
         "owner_id": "1343ef40-a07e-42e6-9fd2-2b3d6b577b4f"
       },
@@ -27401,9 +27417,17 @@
         "id": "b815afd8-56d7-40f7-8460-eed5ed5fea2d",
         "name": "ALBEDO DAIMON",
         "type": "elmas",
-        "level": 20,
+        "level": 22,
         "owner_name": "WOLF_DICTADOR",
         "owner_id": "426d2cae-74b9-4e18-bbf7-4cb8452f7955"
+      },
+      {
+        "id": "90899c29-5593-4c80-885e-a5a8ce6a3ca2",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 22,
+        "owner_name": "JJ",
+        "owner_id": "eedf3301-b67f-4669-bcf5-6eea0bc5920c"
       },
       {
         "id": "f194df36-c938-4399-95d0-0b7dce9e8e87",
@@ -27450,7 +27474,7 @@
         "name": "Fábrica de cuero Malas",
         "type": "deri",
         "level": 8,
-        "owner_name": "Lord Malas",
+        "owner_name": "DarkSouls..",
         "owner_id": "a11904a3-88f5-482e-a10c-603a58ea10c7"
       },
       {
@@ -27510,6 +27534,14 @@
         "owner_id": "3d54d976-3b0f-4c3a-b3a8-80fa44a64896"
       },
       {
+        "id": "3edc47bd-951b-4557-b302-925758a92529",
+        "name": "ADAMÁS",
+        "type": "elmas",
+        "level": 3,
+        "owner_name": "Lucem Ferrem",
+        "owner_id": "134fc5f6-ad11-4937-a014-4ff203632e8c"
+      },
+      {
         "id": "f47d2c17-9e2a-4812-aad8-71ee17f6fc9e",
         "name": "Colombia Diamond",
         "type": "elmas",
@@ -27542,14 +27574,6 @@
         "owner_id": "006b4765-520e-4c4f-a950-feb4c2d52d77"
       },
       {
-        "id": "3edc47bd-951b-4557-b302-925758a92529",
-        "name": "ADAMÁS",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Lucem Ferrem",
-        "owner_id": "134fc5f6-ad11-4937-a014-4ff203632e8c"
-      },
-      {
         "id": "2e600c2c-7e7d-4866-891e-d89a770e720d",
         "name": "CERRO DE PASCO MINA ⛏️♨️🏧",
         "type": "elmas",
@@ -27558,20 +27582,12 @@
         "owner_id": "049db184-a761-4705-8892-025882092b03"
       },
       {
-        "id": "b2ae4d2c-cd8f-4605-9239-1af402b7e08e",
+        "id": "6f3243aa-2e65-44c1-9b89-49a7652cd72a",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Finitio",
-        "owner_id": "a227c818-6502-4817-a290-334d82d3322f"
-      },
-      {
-        "id": "d88824bb-7717-4429-adef-f0a2e2c6efc9",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Frente social",
-        "owner_id": "4ac9c9ef-d6b1-4320-8710-bb5ccbacd3b4"
+        "owner_name": "Etreus",
+        "owner_id": "06abbd8e-5f2f-4e04-b107-31d33b273a25"
       },
       {
         "id": "c275d290-0e8c-47bc-83d5-d276def4f714",
@@ -27582,20 +27598,28 @@
         "owner_id": "ba4f064a-c80e-4f9e-bf6d-f2af5d50f458"
       },
       {
+        "id": "d88824bb-7717-4429-adef-f0a2e2c6efc9",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Frente social",
+        "owner_id": "4ac9c9ef-d6b1-4320-8710-bb5ccbacd3b4"
+      },
+      {
+        "id": "b2ae4d2c-cd8f-4605-9239-1af402b7e08e",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Finitio",
+        "owner_id": "a227c818-6502-4817-a290-334d82d3322f"
+      },
+      {
         "id": "bbcc1bf2-e19a-485b-aba2-2b743f7156d4",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
         "owner_name": "Juantc3011",
         "owner_id": "f22e555f-b4e1-45fb-809e-ebaeeed9cec8"
-      },
-      {
-        "id": "6f3243aa-2e65-44c1-9b89-49a7652cd72a",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Etreus",
-        "owner_id": "06abbd8e-5f2f-4e04-b107-31d33b273a25"
       },
       {
         "id": "fcbabc0e-b0a4-49e1-826c-bb51c9bf57b0",
@@ -27622,20 +27646,20 @@
         "owner_id": "3f487693-1d0f-4aea-8bf1-995b3fd0145a"
       },
       {
-        "id": "5c766107-a683-4ca8-b667-0cd321a3df67",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Leo999",
-        "owner_id": "323c34b0-e5f1-4822-ad52-e860d02e0e07"
-      },
-      {
         "id": "5e972200-02c9-4b3d-aa06-45b4f1e0736a",
         "name": "Altın Madeni",
         "type": "altin",
         "level": 1,
         "owner_name": "Jairoman",
         "owner_id": "8ca47d51-e1d5-4fa6-b061-f485df7d0099"
+      },
+      {
+        "id": "5c766107-a683-4ca8-b667-0cd321a3df67",
+        "name": "Altın Madeni",
+        "type": "altin",
+        "level": 1,
+        "owner_name": "Leo999",
+        "owner_id": "323c34b0-e5f1-4822-ad52-e860d02e0e07"
       },
       {
         "id": "a11950ab-57db-4b06-a32c-9ba8de8662be",
@@ -28758,14 +28782,6 @@
         "owner_id": "2435b055-9bb0-4fd3-96c8-41345bd15206"
       },
       {
-        "id": "66dc85a4-359f-469d-902d-41ad37798162",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Dav Vantorel",
-        "owner_id": "7eb583e1-166f-4854-9930-79d76a5ec65d"
-      },
-      {
         "id": "61f264d6-d00a-4d9d-ada3-981a8dd72036",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -28834,7 +28850,7 @@
         "name": "Fábrica de ETR Malas",
         "type": "nte",
         "level": 1,
-        "owner_name": "Lord Malas",
+        "owner_name": "DarkSouls..",
         "owner_id": "a11904a3-88f5-482e-a10c-603a58ea10c7"
       },
       {
@@ -29113,7 +29129,7 @@
         "id": "e64ac948-f633-4864-a496-83c86e4b569c",
         "name": "⚗️TRM DOS PAMPAS⚗️💲SALÁRIO 125K FIXO💲",
         "type": "nte",
-        "level": 64,
+        "level": 65,
         "owner_name": "Lucas Velasques",
         "owner_id": "22763bbe-0189-4ca7-9f86-f4d9348c0f34"
       },
@@ -29233,7 +29249,7 @@
         "id": "f1138cf1-2b87-4eb9-8e74-66dfbb85707c",
         "name": "Banco Brasil forte 🇧🇷",
         "type": "elmas",
-        "level": 26,
+        "level": 27,
         "owner_name": "Diplomata cristão",
         "owner_id": "344cb40f-a159-46af-a828-eb1ef207e0a5"
       },
@@ -29406,22 +29422,6 @@
         "owner_id": "adbd9c47-9981-4902-95aa-fa6a176df96b"
       },
       {
-        "id": "6496f073-6e1c-41cd-b549-338d631d654e",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Coronel mateus",
-        "owner_id": "b88f4a71-b4e0-4aa1-bc70-3670b2d380e0"
-      },
-      {
-        "id": "4b922cb8-343b-4bc1-9257-870ae4a7286e",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "الكراهية",
-        "owner_id": "c32f7c43-aad6-49e1-9d96-bb7223fcc154"
-      },
-      {
         "id": "1da42d83-b7ad-4b20-a50a-f3d3ca71588c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -29436,6 +29436,22 @@
         "level": 2,
         "owner_name": "Cleber Brandonn",
         "owner_id": "29f8278e-dd1d-45a5-86f7-b1230c233343"
+      },
+      {
+        "id": "6496f073-6e1c-41cd-b549-338d631d654e",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Coronel mateus",
+        "owner_id": "b88f4a71-b4e0-4aa1-bc70-3670b2d380e0"
+      },
+      {
+        "id": "4b922cb8-343b-4bc1-9257-870ae4a7286e",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "الكراهية",
+        "owner_id": "c32f7c43-aad6-49e1-9d96-bb7223fcc154"
       },
       {
         "id": "035d8ab3-7077-4f11-8f26-805807f2f4dc",
@@ -30006,14 +30022,6 @@
         "owner_id": "3006a99e-8aac-4529-8b7b-9481b2d285d6"
       },
       {
-        "id": "4584abae-40b7-4c1e-ab2b-122fcd4f20d2",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador759040",
-        "owner_id": "2341989c-f5ac-4c38-b177-0d887e3ecb87"
-      },
-      {
         "id": "c1046483-bdfa-482a-a973-5a40445ec0d8",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -30254,12 +30262,12 @@
         "owner_id": "e924a413-cea8-4f83-ae0e-994fcd0472d5"
       },
       {
-        "id": "020d03ff-8216-47ad-966b-12cb940369f4",
+        "id": "306a07f7-25e9-45eb-a652-ee0aac43131e",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador378226",
-        "owner_id": "fe218d0d-cd07-464b-82a6-dad335b98a46"
+        "owner_name": "Jogador652954",
+        "owner_id": "58641e7b-37c1-44d4-be53-85431dfe71b3"
       },
       {
         "id": "8287ebf2-e036-4f04-96b4-1784c026d1c4",
@@ -30718,30 +30726,6 @@
         "owner_id": "59ca468d-2a65-4b0e-9c0e-c66041c243af"
       },
       {
-        "id": "f6e4cca1-d50f-4302-96c3-f640d95a53c8",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador267248",
-        "owner_id": "7ecff453-f0d1-4018-a49e-55ba538e9804"
-      },
-      {
-        "id": "15807ed8-e998-43c0-b103-6f3d64936342",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador722116",
-        "owner_id": "664f48d3-3680-4dfe-a643-3df0e3ef80b9"
-      },
-      {
-        "id": "50fde7cd-7118-4dff-9527-c35ce516827d",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador515960",
-        "owner_id": "f064bdca-5414-430f-9773-a17c4eb05c9f"
-      },
-      {
         "id": "13900076-81f1-4956-8b06-20a1bcfb01b2",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -30790,6 +30774,30 @@
         "owner_id": "ec5874fd-418f-4349-a085-b4a7beef0e06"
       },
       {
+        "id": "020d03ff-8216-47ad-966b-12cb940369f4",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador378226",
+        "owner_id": "fe218d0d-cd07-464b-82a6-dad335b98a46"
+      },
+      {
+        "id": "4584abae-40b7-4c1e-ab2b-122fcd4f20d2",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador759040",
+        "owner_id": "2341989c-f5ac-4c38-b177-0d887e3ecb87"
+      },
+      {
+        "id": "338bff5a-1c20-4b43-bc21-a2692b888fba",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador652954",
+        "owner_id": "58641e7b-37c1-44d4-be53-85431dfe71b3"
+      },
+      {
         "id": "7d1698a7-024f-40d3-b68d-9239fc801e35",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -30804,6 +30812,30 @@
         "level": 1,
         "owner_name": "Luan.xsp",
         "owner_id": "c236416f-ac11-4f42-8bc6-d396dd6804cf"
+      },
+      {
+        "id": "f6e4cca1-d50f-4302-96c3-f640d95a53c8",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador267248",
+        "owner_id": "7ecff453-f0d1-4018-a49e-55ba538e9804"
+      },
+      {
+        "id": "15807ed8-e998-43c0-b103-6f3d64936342",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador722116",
+        "owner_id": "664f48d3-3680-4dfe-a643-3df0e3ef80b9"
+      },
+      {
+        "id": "50fde7cd-7118-4dff-9527-c35ce516827d",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador515960",
+        "owner_id": "f064bdca-5414-430f-9773-a17c4eb05c9f"
       },
       {
         "id": "4daff377-cd95-420c-b848-6487dd156195",
@@ -31786,20 +31818,20 @@
         "owner_id": "1bc7932b-805e-4b3c-8f95-d8e27c58b738"
       },
       {
+        "id": "a3f5be61-be14-406e-9d3d-9dd2bbf1c9e9",
+        "name": "𝑪𝒂𝒍𝒅𝒆𝒓𝒐𝒏 & 𝒄𝒐. 𝑫𝒊𝒂𝒎𝒐𝒏𝒅   𝑪.𝑨",
+        "type": "elmas",
+        "level": 38,
+        "owner_name": "𝑱𝒐𝒔𝒖𝒆 𝒄𝒂𝒍𝒅𝒆𝒓𝒐𝒏",
+        "owner_id": "760b9f6e-1318-44d4-8181-93a910406efc"
+      },
+      {
         "id": "f4ad0434-f74d-4719-b596-d0cedfed792c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 38,
         "owner_name": "Dyg_argentina",
         "owner_id": "a4311091-3f47-45e8-994d-35c41be576e0"
-      },
-      {
-        "id": "a3f5be61-be14-406e-9d3d-9dd2bbf1c9e9",
-        "name": "𝑪𝒂𝒍𝒅𝒆𝒓𝒐𝒏 & 𝒄𝒐. 𝑫𝒊𝒂𝒎𝒐𝒏𝒅   𝑪.𝑨",
-        "type": "elmas",
-        "level": 36,
-        "owner_name": "𝑱𝒐𝒔𝒖𝒆 𝒄𝒂𝒍𝒅𝒆𝒓𝒐𝒏",
-        "owner_id": "760b9f6e-1318-44d4-8181-93a910406efc"
       },
       {
         "id": "9067fb39-4686-4faf-83ad-9cad892ce768",
@@ -31851,9 +31883,9 @@
       },
       {
         "id": "e349f2ab-9e09-4511-9b48-bba772335d71",
-        "name": "BANCO BANESCO 🔴🔵🟢🏦",
+        "name": "BANESCO 🔴🔵🟢🏦",
         "type": "elmas",
-        "level": 13,
+        "level": 15,
         "owner_name": "Kiyotaka Ayanokoji",
         "owner_id": "ba6384b7-ed36-44fc-942d-45092be9ea37"
       },
@@ -31922,14 +31954,6 @@
         "owner_id": "8cc3acd1-ed18-4dd2-9d40-f283433ee23d"
       },
       {
-        "id": "8af93782-1ac5-4c72-9c63-b1254dcf9fab",
-        "name": "20 K EP 15 M",
-        "type": "petrol",
-        "level": 3,
-        "owner_name": "Yâvuz Sultan Selim Han",
-        "owner_id": "0cc08cd4-5537-4e90-af52-fab1fa0d5524"
-      },
-      {
         "id": "1e85f9f2-45ac-41ca-833f-b6b7d758d394",
         "name": "[BVS] Diamonds & Associates",
         "type": "elmas",
@@ -31962,20 +31986,20 @@
         "owner_id": "3d64178f-846b-429e-9a9e-6154d0cc14d8"
       },
       {
-        "id": "fdc34b76-36f1-465d-a369-28fc0c2e8487",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "MFX Moisés",
-        "owner_id": "e0f8d7e5-4a1c-464d-8820-b813eb7f5531"
-      },
-      {
         "id": "d5d1ca41-04e9-4bb1-82a0-921f8db8a80a",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
         "owner_name": "jose64",
         "owner_id": "e93fd206-756c-4e7c-a5ec-a2571efb6984"
+      },
+      {
+        "id": "fdc34b76-36f1-465d-a369-28fc0c2e8487",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "MFX Moisés",
+        "owner_id": "e0f8d7e5-4a1c-464d-8820-b813eb7f5531"
       },
       {
         "id": "050ec381-5ceb-4744-9ed6-c9a5bb73a1a5",
@@ -32026,12 +32050,12 @@
         "owner_id": "cdc4973b-2784-4576-9000-57a0cd7d3931"
       },
       {
-        "id": "23b7c75b-1c71-4e9b-bac1-6949d4a9d734",
+        "id": "5a02de02-acb0-4df5-bc42-af506f788d15",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "benjamin5725y",
-        "owner_id": "8efd7d1c-7bc4-45a4-b774-2453d16f2e05"
+        "owner_name": "Jugador107943",
+        "owner_id": "c72d8053-7706-4106-b7de-c48b2636812e"
       },
       {
         "id": "0a0c415b-96ea-4821-8894-f9deb34055ea",
@@ -32122,12 +32146,12 @@
         "owner_id": "974b010a-86e2-4d68-abb2-5f49488c1b8b"
       },
       {
-        "id": "c058d144-80b1-4d1a-807e-d641f788c8fb",
+        "id": "23b7c75b-1c71-4e9b-bac1-6949d4a9d734",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador435627",
-        "owner_id": "b4242357-9547-4b66-b81e-690171b0f107"
+        "owner_name": "benjamin5725y",
+        "owner_id": "8efd7d1c-7bc4-45a4-b774-2453d16f2e05"
       },
       {
         "id": "8ae0eea3-9b9e-431a-b8a5-290d2334be9a",
@@ -32194,12 +32218,12 @@
         "owner_id": "7e134cd6-b931-4570-b1bc-f6083eeba7ad"
       },
       {
-        "id": "5a02de02-acb0-4df5-bc42-af506f788d15",
+        "id": "c058d144-80b1-4d1a-807e-d641f788c8fb",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador107943",
-        "owner_id": "c72d8053-7706-4106-b7de-c48b2636812e"
+        "owner_name": "Jugador435627",
+        "owner_id": "b4242357-9547-4b66-b81e-690171b0f107"
       },
       {
         "id": "77d83a8a-9598-448b-b322-9baf6cf179b0",
@@ -33145,7 +33169,7 @@
         "id": "328a359a-8cca-4fa3-8d71-afd104d1b112",
         "name": "Gusti Intan Kalimantan",
         "type": "elmas",
-        "level": 44,
+        "level": 45,
         "owner_name": "Gusti",
         "owner_id": "6de0919c-b749-45e0-bf11-607081a0d12a"
       },
@@ -33738,12 +33762,12 @@
         "owner_id": "ddfcd6f3-449c-4f26-a2b9-c7c62f183bab"
       },
       {
-        "id": "3cb046af-95aa-43ea-873a-547f681ce2d2",
+        "id": "f18f3eb1-5cce-4db5-aae5-1371835546eb",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador172989",
-        "owner_id": "af1cf354-61c8-4010-bbc5-9efe0602249b"
+        "owner_name": "ANGELUS",
+        "owner_id": "54a203ff-6ba9-4645-b197-806eb227e468"
       },
       {
         "id": "86382cc5-ea08-4bed-8e26-37fec53689da",
@@ -33770,12 +33794,12 @@
         "owner_id": "af1cf354-61c8-4010-bbc5-9efe0602249b"
       },
       {
-        "id": "afc3bd6f-90cb-4327-8c14-94f96fe2c0a5",
+        "id": "3cb046af-95aa-43ea-873a-547f681ce2d2",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jugador405010",
-        "owner_id": "6b599b22-3243-4635-a229-26e284dc2df7"
+        "owner_name": "Jugador172989",
+        "owner_id": "af1cf354-61c8-4010-bbc5-9efe0602249b"
       },
       {
         "id": "263c05ad-2390-4a70-9dde-12ac70229443",
@@ -33784,6 +33808,14 @@
         "level": 1,
         "owner_name": "Jugador554990",
         "owner_id": "19cd580a-4856-4e2c-8c1b-143a9980f69e"
+      },
+      {
+        "id": "afc3bd6f-90cb-4327-8c14-94f96fe2c0a5",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jugador405010",
+        "owner_id": "6b599b22-3243-4635-a229-26e284dc2df7"
       },
       {
         "id": "8ddfe7a0-4d5d-4078-a25c-c13dc3ae6b67",
@@ -33844,6 +33876,14 @@
         "level": 13,
         "owner_name": "Irhamovic",
         "owner_id": "18424473-3ee4-404a-b175-d90e9ea6f625"
+      },
+      {
+        "id": "025215f3-5685-4653-8024-a05cc29def1e",
+        "name": "Martin Lux Jewel",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "King Martin",
+        "owner_id": "20a47beb-4085-4f6d-be08-9cfb27c2b5e1"
       },
       {
         "id": "f3176d7f-bd30-47c1-bf81-177a487b5127",
@@ -33954,20 +33994,20 @@
         "owner_id": "ca487002-8173-49a8-8a13-82022ecffd06"
       },
       {
+        "id": "c2fd828a-679b-4a9e-b26e-55e329d1b414",
+        "name": "PT.FERRY MUCH BERLIAN",
+        "type": "elmas",
+        "level": 21,
+        "owner_name": "Ir. Ferry Much",
+        "owner_id": "db26ea54-d6e1-4f9e-89db-5607a361ded1"
+      },
+      {
         "id": "e058fb89-b856-4134-81ba-7b98273a454a",
         "name": "Soekarno's diamond grandson💎",
         "type": "elmas",
         "level": 21,
         "owner_name": "Puan Maharani",
         "owner_id": "69bd98c6-0e5d-4ede-a686-c45e048973ba"
-      },
-      {
-        "id": "c2fd828a-679b-4a9e-b26e-55e329d1b414",
-        "name": "PT.FERRY MUCH BERLIAN",
-        "type": "elmas",
-        "level": 20,
-        "owner_name": "Ir. Ferry Much",
-        "owner_id": "db26ea54-d6e1-4f9e-89db-5607a361ded1"
       },
       {
         "id": "7d06cbec-59a8-4523-ae68-d3c8dc12c470",
@@ -34186,28 +34226,12 @@
         "owner_id": "16ec2607-a5c5-4708-aa9e-8806b7a280e5"
       },
       {
-        "id": "b8d01cbb-607b-4cc3-8676-a021b4ead97f",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Ki hajar dewantara",
-        "owner_id": "bbeed430-9bd9-4965-a2c6-4c58462f9f0a"
-      },
-      {
         "id": "b26801f0-7b69-41f7-b1c7-87632b4df78d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
         "owner_name": "Pemain527492",
         "owner_id": "4cc932d1-d02e-4c13-aa8a-dd6c9f89b924"
-      },
-      {
-        "id": "a654f628-c6ca-4637-8aa3-7e869f94ff06",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Maradona",
-        "owner_id": "1579ee13-6626-4519-b9ae-5ab8b3cf67c2"
       },
       {
         "id": "0da809d8-7fc3-4284-89bd-cd63902e69b7",
@@ -34218,12 +34242,12 @@
         "owner_id": "1a917694-0751-40b6-adad-a2c1ce53e6d2"
       },
       {
-        "id": "237757f2-1422-4c8c-9c61-26dd1d52445f",
+        "id": "b8d01cbb-607b-4cc3-8676-a021b4ead97f",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Dywan",
-        "owner_id": "e7221af8-99d6-41e4-934a-f0ae861582ca"
+        "owner_name": "Ki hajar dewantara",
+        "owner_id": "bbeed430-9bd9-4965-a2c6-4c58462f9f0a"
       },
       {
         "id": "027f1e49-5b8c-4c5a-88fd-8ab3bf9405e0",
@@ -34232,6 +34256,14 @@
         "level": 2,
         "owner_name": "Skuuukzky",
         "owner_id": "a38ddd12-7626-4495-b4ff-bf57915872e4"
+      },
+      {
+        "id": "237757f2-1422-4c8c-9c61-26dd1d52445f",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Dywan",
+        "owner_id": "e7221af8-99d6-41e4-934a-f0ae861582ca"
       },
       {
         "id": "2cabe87b-1c12-484e-a5f1-c2342992d9d9",
@@ -34248,6 +34280,14 @@
         "level": 2,
         "owner_name": "arya puji pangestu",
         "owner_id": "8babab7f-70d7-40ef-baa3-655a2db2c414"
+      },
+      {
+        "id": "a654f628-c6ca-4637-8aa3-7e869f94ff06",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Maradona",
+        "owner_id": "1579ee13-6626-4519-b9ae-5ab8b3cf67c2"
       },
       {
         "id": "3eefd881-5a43-44d2-a4aa-fa3e6af93ca2",
@@ -34346,20 +34386,20 @@
         "owner_id": "dd64858c-d9f4-4654-a4e9-b79c8c44f51c"
       },
       {
-        "id": "1f769fd1-f653-4a8b-b396-6227beca36a9",
-        "name": "Deri Fabrikası",
-        "type": "deri",
-        "level": 1,
-        "owner_name": "BoyHitman.",
-        "owner_id": "d8768230-4bec-4b32-acf3-664ed6ec91f3"
-      },
-      {
         "id": "de153474-1c04-4157-a8b5-6dfd0ca3af6c",
         "name": "Deri Fabrikası",
         "type": "deri",
         "level": 1,
         "owner_name": "Renn",
         "owner_id": "64d6cd10-d689-4ea8-a9b9-c569de940681"
+      },
+      {
+        "id": "1f769fd1-f653-4a8b-b396-6227beca36a9",
+        "name": "Deri Fabrikası",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "BoyHitman.",
+        "owner_id": "d8768230-4bec-4b32-acf3-664ed6ec91f3"
       },
       {
         "id": "92640248-3735-4646-81b0-737b0a3927de",
@@ -34400,6 +34440,14 @@
         "level": 1,
         "owner_name": "Thommawan",
         "owner_id": "edb5c979-bbcd-4d25-9b4b-63b955c9cc7d"
+      },
+      {
+        "id": "d9a834ca-91a8-4ee5-a9f4-a0b26a1ca18c",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Pemain157199",
+        "owner_id": "c4bb0cc2-9cd2-40fd-9332-25c45f2e354a"
       },
       {
         "id": "eedbf09e-d905-4ad9-98ce-32f1a0dcb500",
@@ -35314,6 +35362,14 @@
         "owner_id": "4c2cdbf7-a168-4624-9df1-8f58146d8039"
       },
       {
+        "id": "9e3437e1-51cc-4c8a-a398-6d55c8ceb86a",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jarrredahlan",
+        "owner_id": "bdf7f429-a890-4bb3-b4ac-f50389cff302"
+      },
+      {
         "id": "72c9c70e-1969-4af4-b636-cac4a514aa94",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -35776,14 +35832,6 @@
         "level": 1,
         "owner_name": "ILMU PEMAHAMAN TINGKAT 10",
         "owner_id": "b2750084-024c-4267-8f24-4dad5b7657d8"
-      },
-      {
-        "id": "d9a834ca-91a8-4ee5-a9f4-a0b26a1ca18c",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Pemain157199",
-        "owner_id": "c4bb0cc2-9cd2-40fd-9332-25c45f2e354a"
       },
       {
         "id": "7aa3aad7-29ec-4707-8501-f392fc45cc41",
@@ -36849,7 +36897,7 @@
         "id": "b89d274d-7d29-46a4-b833-4b824d062067",
         "name": "Gema Austral - [GEC]",
         "type": "elmas",
-        "level": 84,
+        "level": 85,
         "owner_name": "Arkantos",
         "owner_id": "c3368757-a91d-43d9-9b5e-87bff4d29cb8"
       },
@@ -37045,7 +37093,7 @@
         "id": "1057885b-0ee0-455f-b5e2-78e042c0128d",
         "name": "Diamantes Velarianos | $1m - 10k/ep",
         "type": "elmas",
-        "level": 56,
+        "level": 57,
         "owner_name": "Vinícius Velarian",
         "owner_id": "7fef0d34-9866-4001-ae4b-29476d75f16f"
       },
@@ -37122,20 +37170,20 @@
         "owner_id": "8107987f-4454-46cf-94cd-ae7c93e17123"
       },
       {
-        "id": "59ffeb6f-c3b5-48b3-ba40-48f21261994b",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 36,
-        "owner_name": "Kayque",
-        "owner_id": "e8d6666d-db7a-4527-8b0f-ec7609cd47b4"
-      },
-      {
         "id": "8d0dfd67-2141-4cb7-a55d-d564b1298dcd",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 36,
         "owner_name": "Sanbarnoro",
         "owner_id": "b71a2279-2242-4d5d-a599-4cb777afd197"
+      },
+      {
+        "id": "59ffeb6f-c3b5-48b3-ba40-48f21261994b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 36,
+        "owner_name": "Kayque",
+        "owner_id": "e8d6666d-db7a-4527-8b0f-ec7609cd47b4"
       },
       {
         "id": "148232f4-bc2a-4640-9b16-71ff43a48549",
@@ -37170,20 +37218,20 @@
         "owner_id": "b77fcede-f995-4bfc-824c-ec7eb2e07f2f"
       },
       {
+        "id": "a1f7619f-42be-438a-8538-43d81e9576f6",
+        "name": "PetroPaulo",
+        "type": "petrol",
+        "level": 28,
+        "owner_name": "Kuwaittibo",
+        "owner_id": "4acba824-5ac9-4d65-9f65-a7b932a1b2f4"
+      },
+      {
         "id": "dae06b1f-74dd-466b-97fc-353053e8851d",
         "name": "Altın Madeni",
         "type": "altin",
         "level": 27,
         "owner_name": "Nilson",
         "owner_id": "3f2cfaae-c3d7-4f4b-be72-4fcae0631dfa"
-      },
-      {
-        "id": "a1f7619f-42be-438a-8538-43d81e9576f6",
-        "name": "PetroPaulo",
-        "type": "petrol",
-        "level": 27,
-        "owner_name": "Kuwaittibo",
-        "owner_id": "4acba824-5ac9-4d65-9f65-a7b932a1b2f4"
       },
       {
         "id": "cbe501da-cbe0-45af-8aea-1a879b96198c",
@@ -37274,6 +37322,14 @@
         "owner_id": "95bdb582-c499-4d5e-ac9b-14dad7be24ca"
       },
       {
+        "id": "1f3e213d-0790-4e29-b5fc-5860b619cf4f",
+        "name": "ELDIAN INDUSTRIES",
+        "type": "elmas",
+        "level": 19,
+        "owner_name": "𝐑 𝐘 𝐀 𝐍",
+        "owner_id": "ad7102d5-a17b-4c5f-8959-2b5ea4b59ec7"
+      },
+      {
         "id": "bf444162-7c0a-41ed-a775-7e6344909dfc",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -37296,14 +37352,6 @@
         "level": 18,
         "owner_name": "Joaquim Augusto Nabuco",
         "owner_id": "e3c07e9c-46a1-44bf-9200-e4a997270dd1"
-      },
-      {
-        "id": "1f3e213d-0790-4e29-b5fc-5860b619cf4f",
-        "name": "ELDIAN INDUSTRIES",
-        "type": "elmas",
-        "level": 18,
-        "owner_name": "𝐑 𝐘 𝐀 𝐍",
-        "owner_id": "ad7102d5-a17b-4c5f-8959-2b5ea4b59ec7"
       },
       {
         "id": "ae581423-9076-490a-8918-5fa04bfeebe7",
@@ -38754,12 +38802,12 @@
         "owner_id": "6b2f225f-8092-4c87-891c-e7a84b75328b"
       },
       {
-        "id": "2f9d18f9-9743-4d62-8a14-ceac8323be54",
+        "id": "2bed547e-4323-479f-b279-f9dcc8e203c4",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "RenanSantos",
-        "owner_id": "86e046ca-a9d5-4084-958f-583829f5246b"
+        "owner_name": "Jogador556944",
+        "owner_id": "a8fdb2a5-229b-486c-88aa-a368e7484d56"
       },
       {
         "id": "da2e0828-e3cd-4033-956c-52a43081fa7b",
@@ -39578,46 +39626,6 @@
         "owner_id": "e94224d1-5fdc-424a-8b33-76b47d8f358a"
       },
       {
-        "id": "1d37fb56-9a87-4c07-9fc6-278edcd2399c",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador395744",
-        "owner_id": "733cfe26-006c-4873-a3a1-ce28274523c7"
-      },
-      {
-        "id": "f8c531ae-76ba-4ea3-b042-2bcd0f01a2ff",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Lucas ceroci",
-        "owner_id": "c25830d4-e10c-497a-854f-5d5b7660a2b1"
-      },
-      {
-        "id": "2cc7f4c3-c9b3-4da4-9446-1adbfe9b90a4",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Roychon",
-        "owner_id": "926db375-49d1-4d67-8ce0-a854b0c8b724"
-      },
-      {
-        "id": "b641093a-9a6e-4226-a83f-1996ef1ae0f0",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Lumen_",
-        "owner_id": "392977d9-1eeb-4b81-848f-e1ba133b233e"
-      },
-      {
-        "id": "a4f5a54d-4392-4383-add6-60b5a08e27b1",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Heroísmo Patriótico",
-        "owner_id": "2932ca7a-1aec-4d20-942a-d0cabb1efba4"
-      },
-      {
         "id": "1c6bdafd-eeec-409e-b749-4ccc122b719c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -39856,6 +39864,46 @@
         "level": 1,
         "owner_name": "Jogador849091",
         "owner_id": "0de05a4b-a523-4b5b-8d65-9f7177282dd4"
+      },
+      {
+        "id": "2f9d18f9-9743-4d62-8a14-ceac8323be54",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "RenanSantos",
+        "owner_id": "86e046ca-a9d5-4084-958f-583829f5246b"
+      },
+      {
+        "id": "5a6b11d1-c53a-4980-a107-cd1ea7b65333",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador761776",
+        "owner_id": "9143654a-c407-41fd-8b45-7f6b7ee311eb"
+      },
+      {
+        "id": "d7428bea-b16d-4d44-909e-bea98bcac552",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador761776",
+        "owner_id": "9143654a-c407-41fd-8b45-7f6b7ee311eb"
+      },
+      {
+        "id": "dda5e318-a02e-4743-8d73-f48814c5e10d",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador926062",
+        "owner_id": "862d1f1d-567c-46ca-9c73-caa35333e543"
+      },
+      {
+        "id": "0362ca05-c9cd-4b97-b6fc-ec3718b36860",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador788397",
+        "owner_id": "307efea3-6125-4b5c-8857-a1c2bdda5113"
       },
       {
         "id": "6fa465e0-e0b5-48ae-8398-9a2d76616f13",
@@ -40506,6 +40554,46 @@
         "owner_id": "54d9aec6-febb-4352-9f09-f3fbd7e74532"
       },
       {
+        "id": "1d37fb56-9a87-4c07-9fc6-278edcd2399c",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador395744",
+        "owner_id": "733cfe26-006c-4873-a3a1-ce28274523c7"
+      },
+      {
+        "id": "f8c531ae-76ba-4ea3-b042-2bcd0f01a2ff",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Lucas ceroci",
+        "owner_id": "c25830d4-e10c-497a-854f-5d5b7660a2b1"
+      },
+      {
+        "id": "2cc7f4c3-c9b3-4da4-9446-1adbfe9b90a4",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Roychon",
+        "owner_id": "926db375-49d1-4d67-8ce0-a854b0c8b724"
+      },
+      {
+        "id": "b641093a-9a6e-4226-a83f-1996ef1ae0f0",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Lumen_",
+        "owner_id": "392977d9-1eeb-4b81-848f-e1ba133b233e"
+      },
+      {
+        "id": "a4f5a54d-4392-4383-add6-60b5a08e27b1",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Heroísmo Patriótico",
+        "owner_id": "2932ca7a-1aec-4d20-942a-d0cabb1efba4"
+      },
+      {
         "id": "52e4089c-92bf-474d-899d-e3fb850682d5",
         "name": "Fábrica da Dani",
         "type": "elmas",
@@ -40818,7 +40906,7 @@
         "name": "Fabrica de Diamantes COKATSUKI",
         "type": "elmas",
         "level": 54,
-        "owner_name": "Lord Malas",
+        "owner_name": "DarkSouls..",
         "owner_id": "a11904a3-88f5-482e-a10c-603a58ea10c7"
       },
       {
@@ -40833,7 +40921,7 @@
         "id": "ed4a869b-ea65-44d3-9ec2-0bb2644f2c5f",
         "name": "Tlabaja dulo",
         "type": "elmas",
-        "level": 8,
+        "level": 11,
         "owner_name": "ŊÆPØŁƏÐØĞ3431Ľ",
         "owner_id": "caf98fb3-0cdd-4d0f-8b47-617ae3541ec7"
       },
@@ -40949,7 +41037,7 @@
         "id": "a8404f87-8069-4097-881b-d2c5c9740707",
         "name": "Happy Nation   (+Bônus)",
         "type": "elmas",
-        "level": 79,
+        "level": 80,
         "owner_name": "BRAKAL",
         "owner_id": "3a4e47eb-f0a0-4578-9469-d1e69cff63f0"
       },
@@ -40978,20 +41066,20 @@
         "owner_id": "b27b5bd2-b354-43e9-bae1-44a96583ef8f"
       },
       {
+        "id": "67b8f369-91b7-449b-a4c7-bd2f614a5fa9",
+        "name": "Minérios do sul",
+        "type": "elmas",
+        "level": 46,
+        "owner_name": "A. Cardoso",
+        "owner_id": "6b1790a2-c3c2-49e7-9900-7652c14eb3d1"
+      },
+      {
         "id": "60cf6f25-5b2d-4119-85ba-fcf12b33561e",
         "name": "ÔNIX RS",
         "type": "elmas",
         "level": 46,
         "owner_name": "O Arquiteto",
         "owner_id": "eb37b5d3-601f-4e6c-a1c8-0446f46fe169"
-      },
-      {
-        "id": "67b8f369-91b7-449b-a4c7-bd2f614a5fa9",
-        "name": "Minérios do sul",
-        "type": "elmas",
-        "level": 45,
-        "owner_name": "A. Cardoso",
-        "owner_id": "6b1790a2-c3c2-49e7-9900-7652c14eb3d1"
       },
       {
         "id": "3ba25cfd-7ee9-4fcd-8eda-6e2b13e2bb74",
@@ -41306,14 +41394,6 @@
         "owner_id": "8a7187b0-a864-42b2-8dd4-efc49f9d58f3"
       },
       {
-        "id": "f7ee430f-5817-4ce8-a52c-491a20e21fcc",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Jogador337138",
-        "owner_id": "55b37b54-1889-4cbc-b17d-802d29a7c48c"
-      },
-      {
         "id": "a2eb0723-8602-45dd-9340-ac5474b9ef67",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -41330,12 +41410,36 @@
         "owner_id": "9f058b3d-4b7d-4c1d-a28b-768c631dea57"
       },
       {
+        "id": "bb920bf7-6082-476b-a851-68713f6aa653",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Viktor von Falken",
+        "owner_id": "252dd3e4-ab33-4783-a6c5-b51caded3576"
+      },
+      {
+        "id": "f7ee430f-5817-4ce8-a52c-491a20e21fcc",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Jogador337138",
+        "owner_id": "55b37b54-1889-4cbc-b17d-802d29a7c48c"
+      },
+      {
         "id": "dd7376a0-87c9-4547-9abd-95bc3d3b5840",
         "name": "Fábrica de Diamantes de Porto Alegre - FDPOA",
         "type": "elmas",
         "level": 2,
         "owner_name": "Azevedo",
         "owner_id": "b6230c83-6243-4449-8a02-b980f9e3e609"
+      },
+      {
+        "id": "64a2eb0c-6c41-4169-a8e3-3c05e38f657d",
+        "name": "Sla",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Zakos",
+        "owner_id": "986f44a4-e759-463c-90dd-9c7fcc20a538"
       },
       {
         "id": "2597c92f-480d-42d5-ab21-b8ad68d1061d",
@@ -41392,22 +41496,6 @@
         "level": 1,
         "owner_name": "Jogador108714",
         "owner_id": "8f642eee-575b-49dd-bac7-afac5333e852"
-      },
-      {
-        "id": "8c663a5d-042c-47e6-ab81-209e265e6c2e",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Yago 651",
-        "owner_id": "8eafb79d-bb57-4acb-8f12-917786a10071"
-      },
-      {
-        "id": "56d6daf6-3e8a-431c-94e0-db6ee6dcb6cf",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Guisj25c",
-        "owner_id": "90aaeb88-b28d-47f7-9263-29e9e8658e7b"
       },
       {
         "id": "bc6a344e-4d04-46e8-b300-9042b4c69b09",
@@ -41616,6 +41704,22 @@
         "level": 1,
         "owner_name": "Jogador967266",
         "owner_id": "6148d189-193a-4e0c-b3f9-6c39af1cc682"
+      },
+      {
+        "id": "3fe70a1c-c769-4b71-8320-d18dec4dbb92",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Trott Gov",
+        "owner_id": "0afa7ec6-2c60-4983-ba5c-174a786ad162"
+      },
+      {
+        "id": "683f2e44-5c49-4d5b-b052-c23cd019cd75",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Republica_sulista",
+        "owner_id": "1d78ae80-b0c8-4c16-b6de-d7f073bcce65"
       },
       {
         "id": "f6b821ac-b8c2-4077-904f-bde7ab82a4cc",
@@ -42090,28 +42194,20 @@
         "owner_id": "ad6a738d-21ba-443d-b664-42c5c701f553"
       },
       {
-        "id": "21518181-31da-455b-8239-3b40a12f37c1",
+        "id": "8c663a5d-042c-47e6-ab81-209e265e6c2e",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Partraquios",
-        "owner_id": "c60b0d50-b873-4d64-b5b3-dc8bc90ba438"
+        "owner_name": "Yago 651",
+        "owner_id": "8eafb79d-bb57-4acb-8f12-917786a10071"
       },
       {
-        "id": "899b75fc-f6c9-48a2-ac46-5ee827c83b6b",
+        "id": "56d6daf6-3e8a-431c-94e0-db6ee6dcb6cf",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador733491",
-        "owner_id": "7c557ca6-cec4-4f09-8d3a-0236047ab30e"
-      },
-      {
-        "id": "793b69d1-6589-474f-992c-d98cda54c787",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Jogador241699",
-        "owner_id": "41bd6cf9-7e71-4613-a477-d2e19f035e27"
+        "owner_name": "Guisj25c",
+        "owner_id": "90aaeb88-b28d-47f7-9263-29e9e8658e7b"
       },
       {
         "id": "3d725f1a-a384-442d-9d50-c1f5f83c5c49",
@@ -42122,12 +42218,12 @@
         "owner_id": "d0603415-70a0-4378-9e3e-e67a62ef07f7"
       },
       {
-        "id": "683f2e44-5c49-4d5b-b052-c23cd019cd75",
+        "id": "f3120c83-ae0b-4039-b342-8835e2ca0c24",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Republica_sulista",
-        "owner_id": "1d78ae80-b0c8-4c16-b6de-d7f073bcce65"
+        "owner_name": "Jogador274749",
+        "owner_id": "2b0360b2-ae59-407a-8d91-a31cd6369124"
       },
       {
         "id": "06b4c38c-078f-4fe2-bdd0-a58482a48833",
@@ -42234,20 +42330,20 @@
         "owner_id": "c60b0d50-b873-4d64-b5b3-dc8bc90ba438"
       },
       {
-        "id": "f3120c83-ae0b-4039-b342-8835e2ca0c24",
+        "id": "b82980a5-1bed-4a15-969b-29e6bc4e70f9",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador274749",
-        "owner_id": "2b0360b2-ae59-407a-8d91-a31cd6369124"
+        "owner_name": "Jogador547966",
+        "owner_id": "fc2a4c96-eae4-47c1-b54e-92805f3d8e13"
       },
       {
-        "id": "3fe70a1c-c769-4b71-8320-d18dec4dbb92",
+        "id": "52696cef-903a-4b66-91d8-bf6dceea1160",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Trott Gov",
-        "owner_id": "0afa7ec6-2c60-4983-ba5c-174a786ad162"
+        "owner_name": "Jogador867287",
+        "owner_id": "2116855c-f573-4dda-a66a-8e377cd5a4b5"
       },
       {
         "id": "4c5515ac-b911-4dbb-95f6-6ca9f64d6f7b",
@@ -42354,6 +42450,30 @@
         "owner_id": "8764d4d3-0c90-4010-b5c9-75927e4b387f"
       },
       {
+        "id": "21518181-31da-455b-8239-3b40a12f37c1",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Partraquios",
+        "owner_id": "c60b0d50-b873-4d64-b5b3-dc8bc90ba438"
+      },
+      {
+        "id": "899b75fc-f6c9-48a2-ac46-5ee827c83b6b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador733491",
+        "owner_id": "7c557ca6-cec4-4f09-8d3a-0236047ab30e"
+      },
+      {
+        "id": "793b69d1-6589-474f-992c-d98cda54c787",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador241699",
+        "owner_id": "41bd6cf9-7e71-4613-a477-d2e19f035e27"
+      },
+      {
         "id": "c45141b7-f14c-45ef-8891-49dccb2f83be",
         "name": "Fábrica Cley",
         "type": "elmas",
@@ -42386,17 +42506,17 @@
         "owner_id": "3fd7c819-602c-4fd7-a2dc-462ce6c6376e"
       },
       {
-        "id": "718cd2eb-83d3-4559-85c7-c4d60a258070",
+        "id": "42f34e38-a297-4819-9c2b-c53f6bc19310",
         "name": "INDÚSTRIAS SANTOS",
-        "type": "petrol",
+        "type": "altin",
         "level": 1,
         "owner_name": "O CONTADOR",
         "owner_id": "b27b5bd2-b354-43e9-bae1-44a96583ef8f"
       },
       {
-        "id": "42f34e38-a297-4819-9c2b-c53f6bc19310",
+        "id": "718cd2eb-83d3-4559-85c7-c4d60a258070",
         "name": "INDÚSTRIAS SANTOS",
-        "type": "altin",
+        "type": "petrol",
         "level": 1,
         "owner_name": "O CONTADOR",
         "owner_id": "b27b5bd2-b354-43e9-bae1-44a96583ef8f"
@@ -42482,14 +42602,6 @@
         "owner_id": "40b18fd9-a327-4963-aa68-20c3160143ab"
       },
       {
-        "id": "64a2eb0c-6c41-4169-a8e3-3c05e38f657d",
-        "name": "Sla",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Zakos",
-        "owner_id": "986f44a4-e759-463c-90dd-9c7fcc20a538"
-      },
-      {
         "id": "a6b7b38f-a260-4bf1-8273-47faac4d924d",
         "name": "SPX 500",
         "type": "altin",
@@ -42545,7 +42657,7 @@
         "id": "ad36c830-bdf9-4ecf-8118-16769b714a04",
         "name": "Big NTEcorp - Bahia",
         "type": "nte",
-        "level": 74,
+        "level": 75,
         "owner_name": "futurefan",
         "owner_id": "049db270-4e1b-47b2-9c63-d7588d33734d"
       },
@@ -42569,9 +42681,17 @@
         "id": "0d86ab37-e950-458a-9ba4-5c9bb260196f",
         "name": "Crocodilo Ouro BR 🐊🪙",
         "type": "altin",
-        "level": 56,
+        "level": 57,
         "owner_name": "Adriano Martins",
         "owner_id": "901d512b-cba8-4e7a-bd7b-62021c90c814"
+      },
+      {
+        "id": "77f5d20a-b970-4603-8fef-ff2faccd24b8",
+        "name": "Petróleo Nabuco",
+        "type": "petrol",
+        "level": 49,
+        "owner_name": "Joaquim Augusto Nabuco",
+        "owner_id": "e3c07e9c-46a1-44bf-9200-e4a997270dd1"
       },
       {
         "id": "a1ac0409-43e0-4c62-90d6-2c121e2b5c5c",
@@ -42580,14 +42700,6 @@
         "level": 48,
         "owner_name": "Samuel A. Leão",
         "owner_id": "379ba100-b310-40bc-8ac5-3e2bb6750e76"
-      },
-      {
-        "id": "77f5d20a-b970-4603-8fef-ff2faccd24b8",
-        "name": "Petróleo Nabuco",
-        "type": "petrol",
-        "level": 47,
-        "owner_name": "Joaquim Augusto Nabuco",
-        "owner_id": "e3c07e9c-46a1-44bf-9200-e4a997270dd1"
       },
       {
         "id": "46017ca9-297d-41ad-a334-01822ce18c6d",
@@ -42625,7 +42737,7 @@
         "id": "b4a6e199-1f05-4923-ba6f-7b845ab34f10",
         "name": "💎 FÁBRICA DE DIAMANTES BW (1) 💎",
         "type": "elmas",
-        "level": 34,
+        "level": 35,
         "owner_name": "Braw3157",
         "owner_id": "12f867d1-92d3-4dd2-b3fb-31896d3e5870"
       },
@@ -42806,6 +42918,14 @@
         "owner_id": "ce86de1b-9c7c-4e6a-8689-ad566115d70b"
       },
       {
+        "id": "63491948-c91b-4424-90de-2627d48b8fce",
+        "name": "Dino Juice Oil Company",
+        "type": "petrol",
+        "level": 7,
+        "owner_name": "Adlerland",
+        "owner_id": "055a6e04-7f0a-41ca-ab02-c9fe7a1b7f94"
+      },
+      {
         "id": "b12f1625-503c-4454-87cb-a69837ce152a",
         "name": "Grupo kaisen",
         "type": "elmas",
@@ -42886,14 +43006,6 @@
         "owner_id": "7fc8024d-e065-42a4-a4fa-c6c3cc297a04"
       },
       {
-        "id": "63491948-c91b-4424-90de-2627d48b8fce",
-        "name": "Dino Juice Oil Company",
-        "type": "petrol",
-        "level": 3,
-        "owner_name": "Adlerland",
-        "owner_id": "055a6e04-7f0a-41ca-ab02-c9fe7a1b7f94"
-      },
-      {
         "id": "7eb67c31-af40-485c-8642-0f5347a4ea1d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -42934,6 +43046,14 @@
         "owner_id": "cbe6372c-1860-4a12-8900-a4a5728855ff"
       },
       {
+        "id": "3bd9f903-2bfb-4819-8260-85a2a0b63b71",
+        "name": "Berço de ouro",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "SobaranoLucas",
+        "owner_id": "77f1d548-7d46-4934-9e6f-cda3aa16a133"
+      },
+      {
         "id": "dce8f15e-d93e-4555-9517-5eb7a7820f93",
         "name": "Crazy dimond",
         "type": "elmas",
@@ -42958,36 +43078,12 @@
         "owner_id": "cdaafefe-5353-47e2-9456-5bc65d3a67f5"
       },
       {
-        "id": "3009439c-e85a-4bb8-9783-a3ba0d5c45f0",
+        "id": "f37c8e19-b9f1-406d-95a0-38e909b91eda",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Lara Jean",
-        "owner_id": "27b8a4a3-a955-475a-9a6b-2c2e79c622f6"
-      },
-      {
-        "id": "9cc2ef38-e02b-42f1-84ac-b046c4c7da3a",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "General Augustus Barsilai",
-        "owner_id": "70d54357-8350-4467-adac-a2852212f25e"
-      },
-      {
-        "id": "8596c6f8-0fce-4fbd-b8c9-22343481dc29",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "RVDAGARENA",
-        "owner_id": "7c43b258-31c0-450d-a0b5-86e85dfd988b"
-      },
-      {
-        "id": "a6979e48-3a38-443c-a8c1-e5ee6f4d053e",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "TH_ASTRO_PVX",
-        "owner_id": "a7b934f2-8937-4515-aba8-84fe3cf6e801"
+        "owner_name": "Lord_Tayrone",
+        "owner_id": "1e0aa6cd-c586-4482-ae16-2abc2ef86977"
       },
       {
         "id": "7240cdb6-bed7-4a18-bb69-d03537003516",
@@ -42998,36 +43094,12 @@
         "owner_id": "5ffb1c73-121e-4139-bce8-a6eccd6fe917"
       },
       {
-        "id": "f37c8e19-b9f1-406d-95a0-38e909b91eda",
+        "id": "12dd761f-f7a6-4f79-aa51-5ad7266e4d1d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Lord_Tayrone",
-        "owner_id": "1e0aa6cd-c586-4482-ae16-2abc2ef86977"
-      },
-      {
-        "id": "27d5ec9d-278b-47c2-8f96-bb94b2ce3d66",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Kauanz1914",
-        "owner_id": "5ffb1c73-121e-4139-bce8-a6eccd6fe917"
-      },
-      {
-        "id": "e5596f09-984d-4880-b753-6d0e85c0e1b8",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Jogador100621",
-        "owner_id": "e4c140d7-4957-46ab-b60e-db0ea49164fb"
-      },
-      {
-        "id": "18271ff1-8803-4b78-bc2a-4d0125acc07d",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Gen. Danilo Melo",
-        "owner_id": "791632e4-dc21-411d-9b9a-f531e225f2f0"
+        "owner_name": "Liandro",
+        "owner_id": "b2f8c1f1-616a-48f2-bab8-5922fea779c3"
       },
       {
         "id": "aa76f975-4f37-4cf2-850d-f741d635efc1",
@@ -43046,12 +43118,60 @@
         "owner_id": "bbb6a02a-a6b9-4b04-8add-16924feeb084"
       },
       {
-        "id": "12dd761f-f7a6-4f79-aa51-5ad7266e4d1d",
+        "id": "27d5ec9d-278b-47c2-8f96-bb94b2ce3d66",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Liandro",
-        "owner_id": "b2f8c1f1-616a-48f2-bab8-5922fea779c3"
+        "owner_name": "Kauanz1914",
+        "owner_id": "5ffb1c73-121e-4139-bce8-a6eccd6fe917"
+      },
+      {
+        "id": "3009439c-e85a-4bb8-9783-a3ba0d5c45f0",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Lara Jean",
+        "owner_id": "27b8a4a3-a955-475a-9a6b-2c2e79c622f6"
+      },
+      {
+        "id": "e5596f09-984d-4880-b753-6d0e85c0e1b8",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Jogador100621",
+        "owner_id": "e4c140d7-4957-46ab-b60e-db0ea49164fb"
+      },
+      {
+        "id": "9cc2ef38-e02b-42f1-84ac-b046c4c7da3a",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "General Augustus Barsilai",
+        "owner_id": "70d54357-8350-4467-adac-a2852212f25e"
+      },
+      {
+        "id": "8596c6f8-0fce-4fbd-b8c9-22343481dc29",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "RVDAGARENA",
+        "owner_id": "7c43b258-31c0-450d-a0b5-86e85dfd988b"
+      },
+      {
+        "id": "18271ff1-8803-4b78-bc2a-4d0125acc07d",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Gen. Danilo Melo",
+        "owner_id": "791632e4-dc21-411d-9b9a-f531e225f2f0"
+      },
+      {
+        "id": "a6979e48-3a38-443c-a8c1-e5ee6f4d053e",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "TH_ASTRO_PVX",
+        "owner_id": "a7b934f2-8937-4515-aba8-84fe3cf6e801"
       },
       {
         "id": "d8ebab9e-5302-439c-a70f-d6b47961fb7f",
@@ -43102,14 +43222,6 @@
         "owner_id": "071e4db0-3d0d-495d-b582-a60b3600c664"
       },
       {
-        "id": "2de33cca-bae6-48b9-91fd-8554e306ffa6",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Turkistan",
-        "owner_id": "c90dbb94-a98f-4d56-b31c-809114b2df19"
-      },
-      {
         "id": "7b84c205-292e-4774-a845-22824c0435cb",
         "name": "Altın Madeni",
         "type": "altin",
@@ -43118,20 +43230,20 @@
         "owner_id": "92722275-fb9f-4aae-954c-5ad2d0af8c40"
       },
       {
-        "id": "1967aa51-fa2b-48d0-a0e0-788d10cae66a",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Urquiichan",
-        "owner_id": "a34d10c2-21cb-4889-b999-9e0d55c6ef63"
-      },
-      {
         "id": "740cacc4-e97d-4452-bb82-458301212837",
         "name": "Altın Madeni",
         "type": "altin",
         "level": 1,
         "owner_name": "Fjölnir Hjörleifr",
         "owner_id": "7ec3052d-9b93-422f-9110-311b51bf6ca8"
+      },
+      {
+        "id": "2de33cca-bae6-48b9-91fd-8554e306ffa6",
+        "name": "Altın Madeni",
+        "type": "altin",
+        "level": 1,
+        "owner_name": "Turkistan",
+        "owner_id": "c90dbb94-a98f-4d56-b31c-809114b2df19"
       },
       {
         "id": "01dc60a9-0986-4c29-a559-35747c02c8d7",
@@ -43150,12 +43262,28 @@
         "owner_id": "e8b93bb6-8f05-4f4f-9e9f-9c9bd82ee9ba"
       },
       {
+        "id": "1967aa51-fa2b-48d0-a0e0-788d10cae66a",
+        "name": "Altın Madeni",
+        "type": "altin",
+        "level": 1,
+        "owner_name": "Urquiichan",
+        "owner_id": "a34d10c2-21cb-4889-b999-9e0d55c6ef63"
+      },
+      {
         "id": "c1020a6b-039b-44a6-8278-3ca72cb257ec",
         "name": "ANIPE",
         "type": "elmas",
         "level": 1,
         "owner_name": "Terp44",
         "owner_id": "9be255c1-affd-4e46-9a20-5c7d7bf3191c"
+      },
+      {
+        "id": "56ac8c46-1e95-4071-bff4-c5791a3b0af5",
+        "name": "Argos Couro",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "Adlerland",
+        "owner_id": "055a6e04-7f0a-41ca-ab02-c9fe7a1b7f94"
       },
       {
         "id": "4b97f201-1d1a-43d9-bc11-29de7625be0b",
@@ -43190,22 +43318,6 @@
         "owner_id": "901d512b-cba8-4e7a-bd7b-62021c90c814"
       },
       {
-        "id": "defc123c-7f8e-466e-bf82-b0f3b4fcea40",
-        "name": "Deri Fabrikası",
-        "type": "deri",
-        "level": 1,
-        "owner_name": "Fjölnir Hjörleifr",
-        "owner_id": "7ec3052d-9b93-422f-9110-311b51bf6ca8"
-      },
-      {
-        "id": "023cf88b-e0f6-4612-b6e0-325e09e6c59e",
-        "name": "Deri Fabrikası",
-        "type": "deri",
-        "level": 1,
-        "owner_name": "Manoel Gomes",
-        "owner_id": "92722275-fb9f-4aae-954c-5ad2d0af8c40"
-      },
-      {
         "id": "f8fd8ddd-562d-41a8-92a6-4c06eff4db60",
         "name": "Deri Fabrikası",
         "type": "deri",
@@ -43222,12 +43334,20 @@
         "owner_id": "0542fcc3-5b40-4146-a805-3d00293c0966"
       },
       {
-        "id": "446c8cc4-9d29-4bdd-b558-b94ff8eb6744",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
+        "id": "defc123c-7f8e-466e-bf82-b0f3b4fcea40",
+        "name": "Deri Fabrikası",
+        "type": "deri",
         "level": 1,
-        "owner_name": "Jogador497259",
-        "owner_id": "1f8c9fa1-1b3d-4576-baf6-d1768c160c17"
+        "owner_name": "Fjölnir Hjörleifr",
+        "owner_id": "7ec3052d-9b93-422f-9110-311b51bf6ca8"
+      },
+      {
+        "id": "023cf88b-e0f6-4612-b6e0-325e09e6c59e",
+        "name": "Deri Fabrikası",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "Manoel Gomes",
+        "owner_id": "92722275-fb9f-4aae-954c-5ad2d0af8c40"
       },
       {
         "id": "67ed2507-d44e-461c-8981-44c8e0b4773f",
@@ -43662,12 +43782,12 @@
         "owner_id": "6ebd6c4b-9e2c-47e7-8842-dd39cf18449a"
       },
       {
-        "id": "cf1c8828-61d7-455d-bdb2-760a997653a1",
+        "id": "b2080217-94f7-443f-a2cb-693afd696b8d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador325372",
-        "owner_id": "ee9cce6a-5e1a-40dd-8ac6-24b1db2516ae"
+        "owner_name": "Jogador959108",
+        "owner_id": "875977b6-eb4d-44c0-94df-67c192d78aed"
       },
       {
         "id": "94ec4aec-9969-45f6-9722-d1a11c58d3c5",
@@ -43902,12 +44022,12 @@
         "owner_id": "0e9d8f2a-ee71-4396-8386-bf30b51de939"
       },
       {
-        "id": "b2080217-94f7-443f-a2cb-693afd696b8d",
+        "id": "fdbaeaf7-91f2-498f-8887-ddc9ae50fb23",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador959108",
-        "owner_id": "875977b6-eb4d-44c0-94df-67c192d78aed"
+        "owner_name": "Jogador464737",
+        "owner_id": "a420e8a4-e8ad-486a-98ed-5a935e17da73"
       },
       {
         "id": "f0181ad0-73f3-4246-960a-24da49f264b0",
@@ -43932,6 +44052,14 @@
         "level": 1,
         "owner_name": "Raul19",
         "owner_id": "6cb4298c-dad2-43c9-b530-aa2ae1d84459"
+      },
+      {
+        "id": "02a86888-dc3d-46be-97a4-a87bef67223f",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "dhsilvaazr",
+        "owner_id": "fa0f1c15-6236-4ad7-8b5f-b9dc754e564f"
       },
       {
         "id": "17c638f5-38f7-4451-bd3a-cb7971df5173",
@@ -44004,6 +44132,14 @@
         "level": 1,
         "owner_name": "Jogador743089",
         "owner_id": "44b466e0-d2a5-47fb-aa00-2bd5592f44af"
+      },
+      {
+        "id": "a123f480-7c0c-42b8-8e2c-b98aebf20975",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador767796",
+        "owner_id": "4c507673-99d6-49ea-8bec-bffe71f3999e"
       },
       {
         "id": "a5fd5c7f-faf0-48f5-99e2-ee8946c27068",
@@ -44478,14 +44614,6 @@
         "owner_id": "8853736d-cfcd-4fca-ba37-367239961541"
       },
       {
-        "id": "4eba6982-817d-4ebc-bf50-d3bcea3b3994",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "PresidentJK",
-        "owner_id": "b9f31ee4-03ce-4a77-8b9d-409bc28b5b66"
-      },
-      {
         "id": "24db2d0a-0312-4ed0-b0ef-c490522c7d70",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -44620,6 +44748,14 @@
         "level": 1,
         "owner_name": "Jogador816805",
         "owner_id": "c389cd58-a93f-4f18-8eda-419aefd3ac1d"
+      },
+      {
+        "id": "446c8cc4-9d29-4bdd-b558-b94ff8eb6744",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador497259",
+        "owner_id": "1f8c9fa1-1b3d-4576-baf6-d1768c160c17"
       },
       {
         "id": "a637bdbd-e439-4d20-b30e-640372b99cfa",
@@ -44822,6 +44958,14 @@
         "owner_id": "7ac03a6a-e790-4787-a5a1-9a85a5a7d8ab"
       },
       {
+        "id": "3df6aa77-1b94-4dfc-92f1-825863322564",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Jogador761307",
+        "owner_id": "2015572d-74e0-4125-9e7b-882637364355"
+      },
+      {
         "id": "f0e9347b-8551-4dba-9e0f-ce20270d2633",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -44830,12 +44974,12 @@
         "owner_id": "2e58d395-b839-486d-ba0d-4f9bd4247747"
       },
       {
-        "id": "fdbaeaf7-91f2-498f-8887-ddc9ae50fb23",
+        "id": "cf1c8828-61d7-455d-bdb2-760a997653a1",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Jogador464737",
-        "owner_id": "a420e8a4-e8ad-486a-98ed-5a935e17da73"
+        "owner_name": "Jogador325372",
+        "owner_id": "ee9cce6a-5e1a-40dd-8ac6-24b1db2516ae"
       },
       {
         "id": "9b9eb8ca-4709-4b9b-b07b-c319c26d4418",
@@ -45326,6 +45470,14 @@
         "owner_id": "9580c02a-fef8-4cbc-b1af-1bf1c4909844"
       },
       {
+        "id": "d0e5b450-e8d8-4c9e-9899-b1a7c5acd678",
+        "name": "Só diamantes!",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "APOSTOLO PAULO",
+        "owner_id": "3524ec8a-fea9-467b-841f-2970da09426e"
+      },
+      {
         "id": "197c1150-2ba9-47c2-a488-341b9657560b",
         "name": "Vanguarda Fürstenberg",
         "type": "deri",
@@ -45357,7 +45509,7 @@
         "id": "bccc6920-7424-4e40-b413-b5026fbf55ca",
         "name": "Kawasan MILITER 3M/20k LP",
         "type": "elmas",
-        "level": 62,
+        "level": 64,
         "owner_name": "MAO ZEDONG",
         "owner_id": "a48a525a-e5ea-459d-803d-42d3df704142"
       },
@@ -45373,7 +45525,7 @@
         "id": "6c9817a2-89ee-488c-bc5e-30f5addf947b",
         "name": "SCP Foundation Diamonds Factory",
         "type": "elmas",
-        "level": 35,
+        "level": 36,
         "owner_name": "O5-3 The All-Seeing Eye",
         "owner_id": "be61651b-5063-4ca7-938b-98b4ef243c01"
       },
@@ -46049,7 +46201,7 @@
         "id": "a0be33eb-837d-471c-8f57-222848f3ba23",
         "name": "Luriaz Bank Corporation",
         "type": "elmas",
-        "level": 89,
+        "level": 90,
         "owner_name": "Sir Luriaz",
         "owner_id": "5b37fafc-4574-4658-87db-383071412386"
       },
@@ -46417,7 +46569,7 @@
         "id": "f991228e-f3a7-4fb5-b581-9b7f8bb51236",
         "name": "INV DIAMOND MINE B | KL",
         "type": "elmas",
-        "level": 101,
+        "level": 102,
         "owner_name": "Inviso",
         "owner_id": "298e5e3e-e622-494d-87b6-8828085e17db"
       },
@@ -46494,6 +46646,14 @@
         "owner_id": "bf819d2b-18d2-4cae-9bd3-b4ceee9d3f15"
       },
       {
+        "id": "a5ee041c-93ee-4a0a-9507-54cb854ac9c7",
+        "name": "Permata Gedong Simunjan",
+        "type": "elmas",
+        "level": 8,
+        "owner_name": "APK122",
+        "owner_id": "c970232f-8c87-4068-ac18-ea180c774824"
+      },
+      {
         "id": "da433600-72b0-4c75-98fa-cefeabc803d2",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -46516,14 +46676,6 @@
         "level": 6,
         "owner_name": "Yorue",
         "owner_id": "12f53d5d-a921-4a73-ae6f-99247d6c32d1"
-      },
-      {
-        "id": "a5ee041c-93ee-4a0a-9507-54cb854ac9c7",
-        "name": "Permata Gedong Simunjan",
-        "type": "elmas",
-        "level": 6,
-        "owner_name": "APK122",
-        "owner_id": "c970232f-8c87-4068-ac18-ea180c774824"
       },
       {
         "id": "2a466870-9e39-4267-85b5-747432fe5c29",
@@ -46550,14 +46702,6 @@
         "owner_id": "e41b5726-3cc3-47b8-8f8f-5a4bbc037c7f"
       },
       {
-        "id": "5fc9d82d-73d8-4c61-b808-5d80c0b733cc",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "FeLis",
-        "owner_id": "e096f612-4b64-461d-91ec-8094bd7367fa"
-      },
-      {
         "id": "3ac00305-3b4d-46fa-b295-f03287547d96",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -46572,6 +46716,14 @@
         "level": 2,
         "owner_name": "Player216419",
         "owner_id": "5c5b17b2-d6c6-483f-b7c4-07b8b8cefc92"
+      },
+      {
+        "id": "5fc9d82d-73d8-4c61-b808-5d80c0b733cc",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "FeLis",
+        "owner_id": "e096f612-4b64-461d-91ec-8094bd7367fa"
       },
       {
         "id": "38b96a9c-ea4a-4919-849b-70395b014d0d",
@@ -46590,6 +46742,14 @@
         "owner_id": "aaee85ea-a14e-43a2-b1a9-1f1ac4ec0200"
       },
       {
+        "id": "60e9fd8a-746d-468e-9e03-6410ea1c4f93",
+        "name": "Deri Fabrikası",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "MikiMiki",
+        "owner_id": "aaee85ea-a14e-43a2-b1a9-1f1ac4ec0200"
+      },
+      {
         "id": "1fbe4836-2ed5-408b-a99c-430a11cc41ca",
         "name": "Deri Fabrikası",
         "type": "deri",
@@ -46598,23 +46758,7 @@
         "owner_id": "cdbf5fae-2e8a-4ed8-9e9d-6c7673773c16"
       },
       {
-        "id": "ccb6b7ec-e89e-4045-b21f-b10b5d3f2830",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "27140568",
-        "owner_id": "f1c5b132-e448-43d7-ae94-c138d5664e97"
-      },
-      {
         "id": "55d9b189-8558-47c9-9316-8e421d6a8366",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "27140568",
-        "owner_id": "f1c5b132-e448-43d7-ae94-c138d5664e97"
-      },
-      {
-        "id": "5b3b9866-79c5-49a1-a1d7-3b26aefef457",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
@@ -46670,16 +46814,16 @@
         "owner_id": "2db53abd-adef-4cf7-b994-ae3d2d10636f"
       },
       {
-        "id": "2ebc7397-a014-4d7e-9971-c663bd08c837",
+        "id": "5b3b9866-79c5-49a1-a1d7-3b26aefef457",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "KARLZ IKKI",
-        "owner_id": "4ff18b16-86b8-493b-9033-c58499f8a034"
+        "owner_name": "27140568",
+        "owner_id": "f1c5b132-e448-43d7-ae94-c138d5664e97"
       },
       {
         "id": "99bad5f8-d8cb-46b7-8683-a675dd7aaf88",
-        "name": "Elmas Fabrikası",
+        "name": "Elmas Fabrikas��",
         "type": "elmas",
         "level": 1,
         "owner_name": "VORAX",
@@ -46854,12 +46998,44 @@
         "owner_id": "f1c5b132-e448-43d7-ae94-c138d5664e97"
       },
       {
+        "id": "ccb6b7ec-e89e-4045-b21f-b10b5d3f2830",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "27140568",
+        "owner_id": "f1c5b132-e448-43d7-ae94-c138d5664e97"
+      },
+      {
+        "id": "2ebc7397-a014-4d7e-9971-c663bd08c837",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "KARLZ IKKI",
+        "owner_id": "4ff18b16-86b8-493b-9033-c58499f8a034"
+      },
+      {
         "id": "002940ef-3db8-4efc-852b-838a148797bc",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Player288447",
         "owner_id": "ecd77b7f-1b7b-42fa-8f67-e3569836271d"
+      },
+      {
+        "id": "dfe91418-25c6-4116-85d8-c45833f68ab4",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Player439246",
+        "owner_id": "9c1c7c29-5d8b-4cd3-a3c8-df5050809444"
+      },
+      {
+        "id": "2b55f672-f7df-4b02-8936-99437908450d",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Abe Amieroll the Bear",
+        "owner_id": "abc64393-2cce-4b00-a038-107312fc0f2e"
       },
       {
         "id": "d911c8c0-8567-4383-9da0-53222fc45ba6",
@@ -46900,6 +47076,14 @@
         "level": 1,
         "owner_name": "VORAX",
         "owner_id": "89247d24-c3c0-4d5b-91e6-e919c48ecda8"
+      },
+      {
+        "id": "e5fc1cc4-8ede-4958-9144-4857b3ff4306",
+        "name": "Petrol Rafinerisi",
+        "type": "petrol",
+        "level": 1,
+        "owner_name": "MikiMiki",
+        "owner_id": "aaee85ea-a14e-43a2-b1a9-1f1ac4ec0200"
       },
       {
         "id": "ce9b9741-ca52-486c-b1b4-205c86f89228",
@@ -47334,12 +47518,12 @@
         "owner_id": "92f59952-ca6a-485e-b212-bc4ee19c906c"
       },
       {
-        "id": "5d704b07-b55e-4fb0-9ddc-aca792668bef",
+        "id": "c0414cd1-88da-4071-aabb-8cb4dea542ac",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Giocatore325215",
-        "owner_id": "9115322d-8d57-43f7-8a78-0ec266824e51"
+        "owner_name": "Luigi M.",
+        "owner_id": "24b6880e-01b6-431d-8619-3fde1be6df6d"
       },
       {
         "id": "f9d62e9a-d027-4b5d-bd8f-3bd0cac71bdf",
@@ -47382,14 +47566,6 @@
         "owner_id": "db890917-25dc-4821-a74b-b3ce17121c64"
       },
       {
-        "id": "1fea3659-46d5-4e96-88a6-927324602512",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Giocatore706999",
-        "owner_id": "fc34e059-cdcb-4dc1-ab88-b491ec1058ec"
-      },
-      {
         "id": "48a8476d-ceb0-48bd-ad27-c30f0b4159e1",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -47412,6 +47588,14 @@
         "level": 1,
         "owner_name": "Giocatore603406",
         "owner_id": "014c97f1-86ad-47d5-86e6-5b39ee3ea072"
+      },
+      {
+        "id": "5d704b07-b55e-4fb0-9ddc-aca792668bef",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Giocatore325215",
+        "owner_id": "9115322d-8d57-43f7-8a78-0ec266824e51"
       },
       {
         "id": "6fe16cee-dc16-4deb-bc3b-ce552d3d6079",
@@ -48046,6 +48230,14 @@
         "owner_id": "fc34e059-cdcb-4dc1-ab88-b491ec1058ec"
       },
       {
+        "id": "1fea3659-46d5-4e96-88a6-927324602512",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Giocatore706999",
+        "owner_id": "fc34e059-cdcb-4dc1-ab88-b491ec1058ec"
+      },
+      {
         "id": "45b7a0ac-622f-4738-888b-4c07ba980e65",
         "name": "Napoli Elmas Madeni",
         "type": "elmas",
@@ -48066,7 +48258,7 @@
         "name": "Petrol Rafinerisi",
         "type": "petrol",
         "level": 1,
-        "owner_name": "Alexxis",
+        "owner_name": "AbyssWalker",
         "owner_id": "31204568-68a2-4dcd-a46d-29e48cac10fb"
       },
       {
@@ -49062,12 +49254,12 @@
         "owner_id": "a5de3bfa-ccc2-4cf5-94d0-e7258254983a"
       },
       {
-        "id": "6b7550e4-29fb-48ec-832b-a78476353950",
+        "id": "d89f44b5-2e22-4818-b6e5-a9fface0787d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Gobline de suarez",
-        "owner_id": "1e29a944-a5b6-4e80-a15d-0ebe3ac4813e"
+        "owner_name": "Viola",
+        "owner_id": "d000d832-2e31-4b07-b672-2c7ada139357"
       },
       {
         "id": "f9ba6c34-c717-4954-83e1-a5c2363be568",
@@ -49076,6 +49268,14 @@
         "level": 1,
         "owner_name": "Eleanor von Verberos",
         "owner_id": "9d367996-5efa-44c2-9394-9b5c0a660531"
+      },
+      {
+        "id": "6b7550e4-29fb-48ec-832b-a78476353950",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Gobline de suarez",
+        "owner_id": "1e29a944-a5b6-4e80-a15d-0ebe3ac4813e"
       },
       {
         "id": "dffce809-826e-4b32-a460-bdcf8f81544a",
@@ -49108,14 +49308,6 @@
         "level": 1,
         "owner_name": "Pemain192283",
         "owner_id": "185af2ae-0da8-4121-b88e-faebb757f810"
-      },
-      {
-        "id": "d89f44b5-2e22-4818-b6e5-a9fface0787d",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Viola",
-        "owner_id": "d000d832-2e31-4b07-b672-2c7ada139357"
       },
       {
         "id": "18b9ce4f-fa07-42a8-acde-c27047111ae8",
@@ -49210,6 +49402,14 @@
         "owner_id": "34ab1671-0fad-4ada-90d3-d6e279e4f48f"
       },
       {
+        "id": "4fdd77d2-a54e-433b-97c4-f0250feb2b34",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Pemain285916",
+        "owner_id": "3cb046b6-ebf5-4385-a11f-ba76afefad48"
+      },
+      {
         "id": "d6fbb5a4-3495-4be9-a8d3-5bf6d216024c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -49226,12 +49426,20 @@
         "owner_id": "07140c87-f090-4e81-9736-6955305b84a0"
       },
       {
-        "id": "2091716e-c3a4-4203-9f67-5122af95ac77",
+        "id": "ba1804b7-9c62-4a8d-9d04-172993392a43",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "VanaiCeraa27",
-        "owner_id": "c4f51f6c-e646-41de-a1df-7cd3b10ac629"
+        "owner_name": "Tigreal",
+        "owner_id": "1ae1b5ca-3cc3-43d1-9858-50782b155950"
+      },
+      {
+        "id": "8cda456c-9af6-4fce-bcff-461180f819a5",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Pemain143830",
+        "owner_id": "657e21f7-5d83-433e-9c85-603419cfd2cf"
       },
       {
         "id": "93ff63b9-c439-4f91-b92f-b534d890a25b",
@@ -49250,28 +49458,20 @@
         "owner_id": "1ea356e4-7b1f-425e-892e-08b1f755ed1e"
       },
       {
+        "id": "2091716e-c3a4-4203-9f67-5122af95ac77",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "VanaiCeraa27",
+        "owner_id": "c4f51f6c-e646-41de-a1df-7cd3b10ac629"
+      },
+      {
         "id": "0ae78a83-91ba-4787-bf62-885ec3de1321",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Nandaa",
         "owner_id": "81ed3145-34a2-4971-bdac-184f043d0413"
-      },
-      {
-        "id": "ba1804b7-9c62-4a8d-9d04-172993392a43",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Tigreal",
-        "owner_id": "1ae1b5ca-3cc3-43d1-9858-50782b155950"
-      },
-      {
-        "id": "4fdd77d2-a54e-433b-97c4-f0250feb2b34",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Pemain285916",
-        "owner_id": "3cb046b6-ebf5-4385-a11f-ba76afefad48"
       },
       {
         "id": "0ec4caef-e56f-4d9e-a45a-45bb133d65e5",
@@ -49455,7 +49655,7 @@
       },
       {
         "id": "8beb03a6-86e5-4497-86b3-25c66ceb01c5",
-        "name": "Fabbrica sociale",
+        "name": "Diamanti del proletariato",
         "type": "elmas",
         "level": 11,
         "owner_name": "CarCarlo",
@@ -49502,22 +49702,6 @@
         "owner_id": "1477d62e-54ee-46b7-89ca-543ce406c62f"
       },
       {
-        "id": "fc39443f-541f-4061-bb90-63c00f76e1c2",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Giocatore270068",
-        "owner_id": "838a932f-6474-4d79-ada5-dd1c3d02688e"
-      },
-      {
-        "id": "4ad50bdf-8e33-44ee-9c81-e99995b797c6",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Locus",
-        "owner_id": "ddb5e1f5-f108-4c3d-8076-7420c2c08ed0"
-      },
-      {
         "id": "03bb2e55-2489-4e92-8c67-38e0d4b7f2f2",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -49526,12 +49710,12 @@
         "owner_id": "7c3a983a-4920-4b3a-ac82-776691eff5fc"
       },
       {
-        "id": "54a659a7-1cbf-4641-a36f-003e241e710e",
+        "id": "fc39443f-541f-4061-bb90-63c00f76e1c2",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
-        "owner_name": "Sua Eccellenza il Cavaliere",
-        "owner_id": "cd7c53ff-59d3-4a8a-8516-2a833b2fb10e"
+        "owner_name": "Giocatore270068",
+        "owner_id": "838a932f-6474-4d79-ada5-dd1c3d02688e"
       },
       {
         "id": "2ee5b255-0cd1-48f2-9491-2d9c893a882b",
@@ -49542,12 +49726,28 @@
         "owner_id": "f734be9d-9adc-4b6c-8c17-e7842c9fc16d"
       },
       {
+        "id": "54a659a7-1cbf-4641-a36f-003e241e710e",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Sua Eccellenza il Cavaliere",
+        "owner_id": "cd7c53ff-59d3-4a8a-8516-2a833b2fb10e"
+      },
+      {
         "id": "f6eae6d2-aa0d-4f45-8edd-e5a8e1db2d9c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 2,
         "owner_name": "Garibel76",
         "owner_id": "7b906272-a225-46a3-b5d7-053a3fe60e12"
+      },
+      {
+        "id": "4ad50bdf-8e33-44ee-9c81-e99995b797c6",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Locus",
+        "owner_id": "ddb5e1f5-f108-4c3d-8076-7420c2c08ed0"
       },
       {
         "id": "11c409ae-ddc0-47c7-8be4-e8008d53f110",
@@ -49582,14 +49782,6 @@
         "owner_id": "99aeacd6-67cd-4e58-bdc2-ea8ca702eedb"
       },
       {
-        "id": "a5b0a516-17e4-4b2e-bf1e-22a0d9bff71b",
-        "name": "Altın Madeni",
-        "type": "altin",
-        "level": 1,
-        "owner_name": "Mastro X",
-        "owner_id": "030d28ae-c9e5-490e-82c9-14825c314a7b"
-      },
-      {
         "id": "fadbd253-6b17-482f-ae6c-c93eff30e933",
         "name": "Altın Madeni",
         "type": "altin",
@@ -49598,9 +49790,9 @@
         "owner_id": "8e440eb0-c80d-4504-8411-8c091c230a3b"
       },
       {
-        "id": "6ce27b2c-21d8-4bb1-a08a-e449bd5e55e9",
-        "name": "Deri Fabrikası",
-        "type": "deri",
+        "id": "a5b0a516-17e4-4b2e-bf1e-22a0d9bff71b",
+        "name": "Altın Madeni",
+        "type": "altin",
         "level": 1,
         "owner_name": "Mastro X",
         "owner_id": "030d28ae-c9e5-490e-82c9-14825c314a7b"
@@ -49620,6 +49812,14 @@
         "level": 1,
         "owner_name": "Veim",
         "owner_id": "4dcb112c-4131-4361-9840-3d8a6f73214d"
+      },
+      {
+        "id": "6ce27b2c-21d8-4bb1-a08a-e449bd5e55e9",
+        "name": "Deri Fabrikası",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "Mastro X",
+        "owner_id": "030d28ae-c9e5-490e-82c9-14825c314a7b"
       },
       {
         "id": "f3a45733-8065-4f5f-9ffa-58271f6ebdca",
@@ -49974,20 +50174,20 @@
         "owner_id": "a55ea692-333e-40c5-ad30-f1b16235f3e6"
       },
       {
+        "id": "bff2b2af-a88d-47ff-a0c8-4995e0d654fc",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Giocatore310576",
+        "owner_id": "6a1f32f9-f82d-4061-9aa6-b04cd06720bb"
+      },
+      {
         "id": "b94fd878-f709-4396-af34-a1b83fb2606d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Lorenzo1980",
         "owner_id": "14376248-5978-4604-80f2-dbada16d89e3"
-      },
-      {
-        "id": "81377458-6da1-4af3-83d6-b65a3fddab44",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Pier",
-        "owner_id": "a80846fc-09b1-4e26-a704-5b018aa9b4cf"
       },
       {
         "id": "8a8b817b-8947-4c7d-84c0-72633f9f1faa",
@@ -50030,12 +50230,12 @@
         "owner_id": "89a308aa-0aa1-4ebf-a754-bbd9bf8c20bb"
       },
       {
-        "id": "bff2b2af-a88d-47ff-a0c8-4995e0d654fc",
+        "id": "81377458-6da1-4af3-83d6-b65a3fddab44",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Giocatore310576",
-        "owner_id": "6a1f32f9-f82d-4061-9aa6-b04cd06720bb"
+        "owner_name": "Pier",
+        "owner_id": "a80846fc-09b1-4e26-a704-5b018aa9b4cf"
       },
       {
         "id": "571f5324-2ed3-4177-bbd9-81cac2198227",
@@ -53242,20 +53442,20 @@
         "owner_id": "51f79704-0f46-4cd9-8a52-8f3aa5f73c18"
       },
       {
+        "id": "0d3ccabd-6cd2-4ebe-bde7-281918dcf9c2",
+        "name": "Renç  Elmas Fabrikası",
+        "type": "elmas",
+        "level": 6,
+        "owner_name": "Rencüz",
+        "owner_id": "b9591045-5305-4442-bddc-671b23bab144"
+      },
+      {
         "id": "9813a79f-bb0e-429e-af58-e1c0223717ec",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 3,
         "owner_name": "Daryl",
         "owner_id": "270472a8-8290-4048-b304-cb897c29be67"
-      },
-      {
-        "id": "0d3ccabd-6cd2-4ebe-bde7-281918dcf9c2",
-        "name": "Renç  Elmas Fabrikası",
-        "type": "elmas",
-        "level": 3,
-        "owner_name": "Rencüz",
-        "owner_id": "b9591045-5305-4442-bddc-671b23bab144"
       },
       {
         "id": "e82f038f-f414-4f9a-aa02-70e036d4ff5e",
@@ -53290,12 +53490,12 @@
         "owner_id": "cd9c150d-6149-4723-be5d-f370fe10a0c5"
       },
       {
-        "id": "6f8e39e1-7192-4880-88e2-dcf9060d528f",
+        "id": "0a9f67b7-1814-4d6f-887a-c953d5182410",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "YÖRÜKOĞLU",
-        "owner_id": "a915fd0b-8655-4793-ac0e-b5fa88b4c57b"
+        "owner_name": "cem9",
+        "owner_id": "cd9c150d-6149-4723-be5d-f370fe10a0c5"
       },
       {
         "id": "904422eb-5046-472c-8da3-40952609ba77",
@@ -53322,14 +53522,6 @@
         "owner_id": "0df9e83b-ede2-4366-973e-abba4e5bb3ad"
       },
       {
-        "id": "0a9f67b7-1814-4d6f-887a-c953d5182410",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "cem9",
-        "owner_id": "cd9c150d-6149-4723-be5d-f370fe10a0c5"
-      },
-      {
         "id": "2eca5a80-51b3-4454-9d77-cf1f431ff64b",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -53346,20 +53538,20 @@
         "owner_id": "7c7cd60d-7eb9-4e5f-9574-f67afae183c7"
       },
       {
+        "id": "f0a925b1-418e-4e78-91b5-05e82a765589",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "TCK1923",
+        "owner_id": "c66f2c25-0818-4e1b-bc75-a8ab17367904"
+      },
+      {
         "id": "e044ebba-02e3-4921-a6f8-6fc2ac75a5cd",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "Laçın Cavadov",
         "owner_id": "f35ca966-f055-4fcc-8251-a3ce320265dc"
-      },
-      {
-        "id": "ff01cac5-d605-4c5f-82c7-144edcd1041e",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "TCK1923",
-        "owner_id": "c66f2c25-0818-4e1b-bc75-a8ab17367904"
       },
       {
         "id": "34769306-fc45-45d7-b951-47c537f5c849",
@@ -53370,6 +53562,14 @@
         "owner_id": "cd9c150d-6149-4723-be5d-f370fe10a0c5"
       },
       {
+        "id": "6f8e39e1-7192-4880-88e2-dcf9060d528f",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "YÖRÜKOĞLU",
+        "owner_id": "a915fd0b-8655-4793-ac0e-b5fa88b4c57b"
+      },
+      {
         "id": "567d21c4-97ce-4f2c-903d-b4264b14591e",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -53378,7 +53578,7 @@
         "owner_id": "1fb0909f-8862-46fa-97e5-c427dd1ffd92"
       },
       {
-        "id": "f0a925b1-418e-4e78-91b5-05e82a765589",
+        "id": "ff01cac5-d605-4c5f-82c7-144edcd1041e",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
@@ -53594,14 +53794,6 @@
         "owner_id": "b36f5507-9d95-4c91-97f3-df3ea1a99758"
       },
       {
-        "id": "c2a5a836-32de-4bee-a390-bc237ba95262",
-        "name": "30k sabit maaş",
-        "type": "elmas",
-        "level": 79,
-        "owner_name": "Mehmetuzg",
-        "owner_id": "8bd52701-0e55-4b0f-93a7-dd6a2358e275"
-      },
-      {
         "id": "a678423a-2664-4e2c-a5d4-4d76efc987a1",
         "name": "Sabit 45 K Maaş",
         "type": "elmas",
@@ -53738,6 +53930,14 @@
         "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
       },
       {
+        "id": "afc7b489-430c-4d5f-8f0e-39e8094f8487",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "harllyson",
+        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
+      },
+      {
         "id": "16db6b59-81f4-497c-a04a-218727d8170d",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -53754,20 +53954,20 @@
         "owner_id": "318721e7-7f47-410c-8ae6-9566fde7c1bd"
       },
       {
-        "id": "5001e23f-6d42-46d4-b47c-2833b7ad14e6",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "cem19",
-        "owner_id": "7658f1d5-ab42-4ed4-a8f6-39bf81dfe7c1"
-      },
-      {
         "id": "ca58b434-6620-4a11-a663-d6364079017b",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "KIPÇAK KIRGIZ",
         "owner_id": "d6f586b7-6739-4610-8867-a76e0dc02767"
+      },
+      {
+        "id": "5001e23f-6d42-46d4-b47c-2833b7ad14e6",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "cem19",
+        "owner_id": "7658f1d5-ab42-4ed4-a8f6-39bf81dfe7c1"
       },
       {
         "id": "ab63a928-680f-4d31-9323-5564d9b08a39",
@@ -53795,14 +53995,6 @@
       },
       {
         "id": "8aa24ab0-b131-4a08-ac79-66a017f472e3",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "harllyson",
-        "owner_id": "ae98bbb8-4251-46ae-bc13-6657ecb7108b"
-      },
-      {
-        "id": "afc7b489-430c-4d5f-8f0e-39e8094f8487",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
@@ -53967,7 +54159,7 @@
     "factories": [
       {
         "id": "a89a452b-e853-4682-b23e-1b8e7c5e4bc2",
-        "name": "∀ KABIL UBUD DIAMOND INDUSTRIES",
+        "name": "∀ (1) KABIL UBUD DIAMOND INDUSTRIES",
         "type": "elmas",
         "level": 103,
         "owner_name": "Zen.",
@@ -53991,7 +54183,7 @@
       },
       {
         "id": "34e0d397-21dc-4b0c-892f-fed246a78beb",
-        "name": "∀ INDIKATOR DIAMOND WORKS",
+        "name": "∀ (2) KABIL UBUD DIAMOND INDUSTRIES",
         "type": "elmas",
         "level": 37,
         "owner_name": "Zen.",
@@ -54022,7 +54214,7 @@
         "owner_id": "1f365835-fdd3-4932-ab0a-25ddd984d8d0"
       },
       {
-        "id": "d0853b99-b991-43b9-959b-b50f50066f2d",
+        "id": "ac566c35-ae28-4588-9c98-e454132237ea",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
@@ -54038,6 +54230,14 @@
         "owner_id": "1f365835-fdd3-4932-ab0a-25ddd984d8d0"
       },
       {
+        "id": "d0853b99-b991-43b9-959b-b50f50066f2d",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Kullanici_83491",
+        "owner_id": "1f365835-fdd3-4932-ab0a-25ddd984d8d0"
+      },
+      {
         "id": "a540d7fb-d1e9-4675-abf8-c6f832c957ef",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -54046,15 +54246,15 @@
         "owner_id": "1f365835-fdd3-4932-ab0a-25ddd984d8d0"
       },
       {
-        "id": "ac566c35-ae28-4588-9c98-e454132237ea",
-        "name": "Elmas Fabrikası",
+        "id": "75d0384e-ec1e-4d38-b3a6-1bdaa6c5ae91",
+        "name": "∀ INDIKATOR DIAMOND WORKS",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Kullanici_83491",
-        "owner_id": "1f365835-fdd3-4932-ab0a-25ddd984d8d0"
+        "owner_name": "Zen.",
+        "owner_id": "c13a93cc-8a75-4e1f-893b-f57b82f3a0d4"
       },
       {
-        "id": "75d0384e-ec1e-4d38-b3a6-1bdaa6c5ae91",
+        "id": "ac13f180-ee66-4373-aa9a-76f11fc73510",
         "name": "🍻 The People's Money",
         "type": "elmas",
         "level": 1,
@@ -54125,7 +54325,7 @@
         "id": "ec4e682c-0c8f-41cf-be04-932f65768fdd",
         "name": "Fatih Grubu A.Ş NTE",
         "type": "nte",
-        "level": 37,
+        "level": 38,
         "owner_name": "Fatih20",
         "owner_id": "412ea5d1-cea8-460c-8699-d5940a757e60"
       },
@@ -54763,7 +54963,7 @@
       },
       {
         "id": "7e74b162-d501-4b91-b502-c759a182fd0b",
-        "name": "Elmas Fabrikası",
+        "name": "Elmas Fabrikas��",
         "type": "elmas",
         "level": 1,
         "owner_name": "GAZİ ORHAN",
@@ -55451,7 +55651,7 @@
       },
       {
         "id": "385b1fd2-d4ac-48b3-8825-806bef9c9d89",
-        "name": "مصنع سد��م SDM💎",
+        "name": "مصنع سديم SDM����",
         "type": "elmas",
         "level": 7,
         "owner_name": "سيف الدين قطز",
@@ -55665,7 +55865,7 @@
         "id": "94a106b9-8077-494b-a298-53449c68643b",
         "name": "سونطرك",
         "type": "elmas",
-        "level": 63,
+        "level": 64,
         "owner_name": "السعيد شنڨريحة",
         "owner_id": "cb1f1431-037e-46fa-9999-6f77e255ec7a"
       },
@@ -55726,6 +55926,14 @@
         "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
       },
       {
+        "id": "894ce5b6-fe08-4010-a83a-9c86d2aac855",
+        "name": "الصناعات الكيميائية",
+        "type": "nte",
+        "level": 4,
+        "owner_name": "Ruan Ernandes",
+        "owner_id": "dcc13de5-44f6-49e5-88ab-0b64f885f445"
+      },
+      {
         "id": "1c45ba1a-d9f5-414f-9b24-42d8a4484ef8",
         "name": "زيت مشتعل",
         "type": "petrol",
@@ -55740,14 +55948,6 @@
         "level": 2,
         "owner_name": "لاعب714163",
         "owner_id": "e416579b-70ae-42bf-b357-13958b535e15"
-      },
-      {
-        "id": "894ce5b6-fe08-4010-a83a-9c86d2aac855",
-        "name": "الصناعات الكيميائية",
-        "type": "nte",
-        "level": 2,
-        "owner_name": "Ruan Ernandes",
-        "owner_id": "dcc13de5-44f6-49e5-88ab-0b64f885f445"
       },
       {
         "id": "2f2ed250-7476-4a2f-9ff2-6e28395af352",
@@ -56609,7 +56809,7 @@
         "id": "53b09273-d654-4c8a-b236-cc4bf43bccb2",
         "name": "شركة الاسدي النفطية",
         "type": "petrol",
-        "level": 44,
+        "level": 45,
         "owner_name": "الوطني",
         "owner_id": "9f5448d8-7802-401b-a064-ebf84a2e6bb7"
       },
@@ -56726,14 +56926,6 @@
         "owner_id": "af325968-0a83-41ad-9b53-28d844bbc8fd"
       },
       {
-        "id": "96eb79ae-121b-4f3d-b9db-df9c488d8e81",
-        "name": "نقطه .",
-        "type": "elmas",
-        "level": 10,
-        "owner_name": "سالم 0",
-        "owner_id": "f0a02d5a-9ae7-4af0-ad93-edca9712c7ed"
-      },
-      {
         "id": "48655877-76ee-4b1d-8b84-a3a77d06aa91",
         "name": "AMA",
         "type": "elmas",
@@ -56814,6 +57006,22 @@
         "owner_id": "7a27222f-c5dd-4f36-8f55-63401d63b7eb"
       },
       {
+        "id": "d8457adb-42a1-4afa-9f87-49c87d27cfc6",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "Klein Moretti.",
+        "owner_id": "f2ba783b-5d6d-4921-9deb-1d76eb243c61"
+      },
+      {
+        "id": "3e2ea681-cf89-4e9e-b355-32fe290fa4ad",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 2,
+        "owner_name": "عمر25",
+        "owner_id": "b0fbd7a9-d922-44e5-bb4b-edd928bbcb90"
+      },
+      {
         "id": "1a48066e-6b0b-4d4a-81b8-4dc7f72105dc",
         "name": "Elmas Fabrikası",
         "type": "elmas",
@@ -56828,22 +57036,6 @@
         "level": 2,
         "owner_name": "‫العشق",
         "owner_id": "6e57e9c6-4c65-41da-8cc1-c60630d66f21"
-      },
-      {
-        "id": "3e2ea681-cf89-4e9e-b355-32fe290fa4ad",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "عمر25",
-        "owner_id": "b0fbd7a9-d922-44e5-bb4b-edd928bbcb90"
-      },
-      {
-        "id": "d8457adb-42a1-4afa-9f87-49c87d27cfc6",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 2,
-        "owner_name": "Klein Moretti.",
-        "owner_id": "f2ba783b-5d6d-4921-9deb-1d76eb243c61"
       },
       {
         "id": "1955b0e5-f363-4fe1-93dc-a554b458b466",
@@ -56870,6 +57062,14 @@
         "owner_id": "a6b4c296-7c1a-45e0-b396-d41329447aa5"
       },
       {
+        "id": "60d0907e-85ee-4f30-af0d-81d2331e3209",
+        "name": "Deri Fabrikası",
+        "type": "deri",
+        "level": 1,
+        "owner_name": "‫العشق",
+        "owner_id": "6e57e9c6-4c65-41da-8cc1-c60630d66f21"
+      },
+      {
         "id": "bd5a960e-62b5-4411-8482-5bf8c9855b1d",
         "name": "Deri Fabrikası",
         "type": "deri",
@@ -56878,12 +57078,12 @@
         "owner_id": "a6b4c296-7c1a-45e0-b396-d41329447aa5"
       },
       {
-        "id": "60d0907e-85ee-4f30-af0d-81d2331e3209",
-        "name": "Deri Fabrikası",
-        "type": "deri",
+        "id": "404fad6c-9954-4269-96e7-c4e5c26b097b",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
         "level": 1,
-        "owner_name": "‫العشق",
-        "owner_id": "6e57e9c6-4c65-41da-8cc1-c60630d66f21"
+        "owner_name": "لاعب971697",
+        "owner_id": "7de6f9cf-441e-4ed8-ab39-198b9c28ca21"
       },
       {
         "id": "55b96e52-781f-4e2a-b175-de6fc8ff8dd6",
@@ -57263,14 +57463,6 @@
       },
       {
         "id": "5c2c6acd-9268-4138-a984-8a40e34508ca",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "لاعب971697",
-        "owner_id": "7de6f9cf-441e-4ed8-ab39-198b9c28ca21"
-      },
-      {
-        "id": "404fad6c-9954-4269-96e7-c4e5c26b097b",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
@@ -58699,7 +58891,7 @@
       },
       {
         "id": "507d0cd6-c17b-4f5d-a61d-7f8f68b10c31",
-        "name": "Elmas Fabrikas��",
+        "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
         "owner_name": "لاعب942300",
@@ -59613,7 +59805,7 @@
         "id": "9870d75d-fe40-4f90-8d51-0088688d8e66",
         "name": "PT Tumangger",
         "type": "elmas",
-        "level": 11,
+        "level": 12,
         "owner_name": "Boy Tumangger",
         "owner_id": "5c544ed7-11be-4a62-acf4-629b876357ba"
       },
@@ -62805,7 +62997,7 @@
         "id": "712ed05a-4bcd-41ad-919f-839105dba49f",
         "name": "مصنع الماس اماسيا التابع لشركه الفا",
         "type": "elmas",
-        "level": 24,
+        "level": 25,
         "owner_name": "King 60",
         "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
       },
@@ -62858,6 +63050,14 @@
         "owner_id": "28d304d2-efd1-4ee6-99fd-d7020830b1de"
       },
       {
+        "id": "f148fbd0-959a-474d-b27f-2f744aa7d1fe",
+        "name": "منجم ذهب اماسيا التابع لشركه الفا",
+        "type": "altin",
+        "level": 2,
+        "owner_name": "King 60",
+        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
+      },
+      {
         "id": "633aa0f0-3c36-433f-b92d-ae0f4edda537",
         "name": "..",
         "type": "elmas",
@@ -62880,14 +63080,6 @@
         "level": 1,
         "owner_name": "Kertele",
         "owner_id": "7a0b8aeb-9eca-48ed-978b-92b4fdb8843b"
-      },
-      {
-        "id": "09a4b06e-06ad-407c-8112-dadd082a0514",
-        "name": "Elmas Fabrikası",
-        "type": "elmas",
-        "level": 1,
-        "owner_name": "Oyuncu613779",
-        "owner_id": "4248acf4-a010-400b-974a-d280fb71ed84"
       },
       {
         "id": "1d0187e0-d4cc-4ca1-b06c-4dfcfa11d1a8",
@@ -62970,12 +63162,12 @@
         "owner_id": "672d2088-9c1d-42e5-b1d9-fa1cebc1c687"
       },
       {
-        "id": "6aebd8a1-3728-4506-8319-8e62aa69f90c",
+        "id": "35641751-df93-4f19-8d1c-0af396b90f4f",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Oyunçu432203",
-        "owner_id": "e33e8613-9ead-475f-9de7-a6822248541a"
+        "owner_name": "Oyuncu937483",
+        "owner_id": "f385c3f1-3d7a-4dda-b39f-a75619ba76b9"
       },
       {
         "id": "5cdea4d7-5170-4239-8b7b-461f8b3386f3",
@@ -63034,12 +63226,12 @@
         "owner_id": "64504c50-ce23-4e59-9b99-9079249b6188"
       },
       {
-        "id": "b06ea020-9dd1-42ef-9654-d5ae93fee303",
+        "id": "6aebd8a1-3728-4506-8319-8e62aa69f90c",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Fky",
-        "owner_id": "0b0c1cd3-c497-4b0e-80de-6ac5fd6e2c6c"
+        "owner_name": "Oyunçu432203",
+        "owner_id": "e33e8613-9ead-475f-9de7-a6822248541a"
       },
       {
         "id": "71a74af1-6a0e-45c8-b007-835066782b65",
@@ -63114,12 +63306,12 @@
         "owner_id": "1f875f7d-3856-442e-8eaa-941e63c0eda7"
       },
       {
-        "id": "35641751-df93-4f19-8d1c-0af396b90f4f",
+        "id": "b06ea020-9dd1-42ef-9654-d5ae93fee303",
         "name": "Elmas Fabrikası",
         "type": "elmas",
         "level": 1,
-        "owner_name": "Oyuncu937483",
-        "owner_id": "f385c3f1-3d7a-4dda-b39f-a75619ba76b9"
+        "owner_name": "Fky",
+        "owner_id": "0b0c1cd3-c497-4b0e-80de-6ac5fd6e2c6c"
       },
       {
         "id": "2682f0cb-ccc7-4478-b258-029dcee3180e",
@@ -63266,6 +63458,14 @@
         "owner_id": "c09f12cf-aecd-4059-a462-81a22dddd1be"
       },
       {
+        "id": "09a4b06e-06ad-407c-8112-dadd082a0514",
+        "name": "Elmas Fabrikası",
+        "type": "elmas",
+        "level": 1,
+        "owner_name": "Oyuncu613779",
+        "owner_id": "4248acf4-a010-400b-974a-d280fb71ed84"
+      },
+      {
         "id": "440bfffa-bf2e-42f6-acb1-09ab0d7d4a2d",
         "name": "NTE Fabrikası",
         "type": "nte",
@@ -63283,7 +63483,7 @@
       },
       {
         "id": "dc70efd0-668c-496d-b1eb-32c2c5106086",
-        "name": "مصفاه اماسيا",
+        "name": "مصفاه اماسيا التابع لشركه الفا",
         "type": "petrol",
         "level": 1,
         "owner_name": "King 60",
@@ -63293,14 +63493,6 @@
         "id": "c8d2e83e-df26-40eb-aa24-ede3a31925eb",
         "name": "مصنع جلد اماسيا التابع لشركه الفا",
         "type": "deri",
-        "level": 1,
-        "owner_name": "King 60",
-        "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
-      },
-      {
-        "id": "f148fbd0-959a-474d-b27f-2f744aa7d1fe",
-        "name": "منجم ذهب اماسيا التابع لشركه الفا",
-        "type": "altin",
         "level": 1,
         "owner_name": "King 60",
         "owner_id": "a0780570-aa06-4606-834a-8e09ed529b79"
@@ -63332,7 +63524,7 @@
         "id": "17defec2-ea38-4dd3-995e-4c8eacc21de2",
         "name": "CING RESOURCES| DIAMOND | 45K | DELHI",
         "type": "elmas",
-        "level": 9,
+        "level": 10,
         "owner_name": "Cing",
         "owner_id": "0a170838-94b4-45b3-8c16-678de8d8f926"
       },
@@ -63408,7 +63600,7 @@
         "id": "a7b835ce-16ae-4743-8441-7ffdad019d1f",
         "name": "Osimhen Elmas",
         "type": "elmas",
-        "level": 30,
+        "level": 31,
         "owner_name": "Tatyos Efendi",
         "owner_id": "8d95f72b-4977-436a-8098-69a69aa87034"
       },

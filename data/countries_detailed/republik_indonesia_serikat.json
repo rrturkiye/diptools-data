@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 157262487,
+  "treasury": 158831488,
   "country_number": 54,
-  "player_count": 1147,
-  "provinces_count": 7,
+  "player_count": 1157,
+  "provinces_count": 6,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 40,
-    "altin": 105,
-    "petrol": 81,
-    "nte": 93,
-    "elmas": 46
+    "deri": 35,
+    "altin": 85,
+    "petrol": 72,
+    "nte": 81,
+    "elmas": 42
   },
   "average_scores": {
-    "education": 2.4,
-    "military": 2.4,
-    "development": 4,
-    "health": 1.4
+    "education": 2.8,
+    "military": 2.8,
+    "development": 3.8,
+    "health": 1.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 608,
+      "player_count": 614,
       "scores": {
         "education": 6,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 71,
+      "player_count": 74,
       "scores": {
         "education": 0,
         "military": 8,
@@ -74,30 +74,6 @@
       }
     },
     {
-      "name": "Papua",
-      "icon": "🌿",
-      "coat_url": "https://diplomacia.com.tr/coats/papua.png?v=3",
-      "region": "Papua Adası",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 28,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 5,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 20,
-        "petrol": 9,
-        "nte": 12,
-        "elmas": 4
-      }
-    },
-    {
       "name": "Papua Yeni Gine",
       "icon": "🦜",
       "coat_url": "https://diplomacia.com.tr/coats/papuayenigine.png?v=3",
@@ -105,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 22,
       "scores": {
         "education": 0,
         "military": 0,
@@ -129,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 83,
+      "player_count": 78,
       "scores": {
         "education": 8,
         "military": 8,
@@ -177,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 145,
+      "player_count": 148,
       "scores": {
         "education": 3,
         "military": 1,
