@@ -2,27 +2,27 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 86241310,
+  "treasury": 72818113,
   "country_number": 89,
-  "player_count": 151,
-  "provinces_count": 6,
+  "player_count": 149,
+  "provinces_count": 5,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
     "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 54,
-    "altin": 91,
-    "petrol": 67,
-    "nte": 78,
-    "elmas": 57
+    "deri": 40,
+    "altin": 74,
+    "petrol": 58,
+    "nte": 68,
+    "elmas": 50
   },
   "average_scores": {
-    "education": 1,
-    "military": 5.8,
-    "development": 3.2,
-    "health": 1.5
+    "education": 1.2,
+    "military": 6,
+    "development": 3.4,
+    "health": 1.6
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 10,
       "scores": {
         "education": 0,
         "military": 6,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 35,
+      "player_count": 41,
       "scores": {
         "education": 2,
         "military": 3,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 14,
+      "player_count": 15,
       "scores": {
         "education": 0,
         "military": 9,
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Sinaloa",
-      "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 181,
-      "scores": {
-        "education": 0,
-        "military": 5,
-        "development": 2,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 17,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 7
-      }
-    },
-    {
       "name": "Yakutistan",
       "icon": "❄️",
       "coat_url": "https://diplomacia.com.tr/coats/yakutistan.png?v=3",
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 9,
+      "player_count": 8,
       "scores": {
         "education": 0,
         "military": 5,
