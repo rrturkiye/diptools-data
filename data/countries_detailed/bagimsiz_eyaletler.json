@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 1,
+  "provinces_count": 2,
   "provinces": [
     {
       "name": "Guangzhou",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 202,
+      "player_count": 205,
       "scores": {
         "education": 8,
         "military": 10,
@@ -24,6 +24,30 @@
         "petrol": 5,
         "nte": 12,
         "elmas": 18
+      }
+    },
+    {
+      "name": "Medine",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
+      "region": "Hicaz (Kutsal Şehir)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-07T21:32:05.811Z",
+      "player_count": 10,
+      "scores": {
+        "education": 3,
+        "military": 2,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 12,
+        "petrol": 10,
+        "nte": 6,
+        "elmas": 11
       }
     }
   ]

@@ -2,9 +2,9 @@
   "id": "43262e0b-726a-4a9f-8a52-44f582257946",
   "name": "Özbekistan Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
-  "treasury": 38476668,
+  "treasury": 38811945,
   "country_number": 85,
-  "player_count": 64,
+  "player_count": 65,
   "provinces_count": 2,
   "capital": {
     "name": "Semerkant",
@@ -21,8 +21,8 @@
   "average_scores": {
     "education": 2,
     "military": 6,
-    "development": 7.5,
-    "health": 7
+    "development": 7,
+    "health": 6.5
   },
   "provinces": [
     {
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 12,
       "scores": {
         "education": 1,
         "military": 6,
-        "development": 7,
-        "health": 6,
+        "development": 6,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {

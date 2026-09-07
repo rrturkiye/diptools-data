@@ -580,7 +580,7 @@
       "name": "Burgonya",
       "icon": "🍷",
       "country_id": "d6c9494a-aee3-49a8-ae43-f8b66e846477",
-      "country_name": "Burgonya Geçici Hükümeti",
+      "country_name": "Grand Duchy of Burgundy",
       "country_flag": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
       "is_independent": false,
@@ -1540,8 +1540,8 @@
       "name": "Karaganda",
       "icon": "⚒️",
       "country_id": "922aa01f-dc5e-405e-a356-97f5e50f039d",
-      "country_name": "KAZAKİSTAN GÖKTÜRK DEVLETİ",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1788024268937.jpeg",
+      "country_name": "40 KURUŞLUK KAZAKİSTAN",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788807395179.jpeg",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -1684,7 +1684,7 @@
       "name": "Kueta",
       "icon": null,
       "country_id": "168c75a4-277b-4996-b9e8-d70070be7748",
-      "country_name": "Zarghun Dominion",
+      "country_name": "40 kuruşluk devlet",
       "country_flag": "https://diplomacia.com.tr/uploads/country-flags/168c75a4-277b-4996-b9e8-d70070be7748-1786945523457.jpeg",
       "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
       "is_independent": false,
@@ -1893,7 +1893,7 @@
       "icon": "🏺",
       "country_id": "cbe20b56-34d7-4b08-abdb-b9794ee2544d",
       "country_name": "40 KURUSLUK ORESTA",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788800806133.jpeg",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788815046738.png",
       "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -1907,11 +1907,11 @@
     {
       "name": "Medine",
       "icon": "🕌",
-      "country_id": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33",
-      "country_name": "Kingdom of Hejaz",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1787604082950.jpeg",
+      "country_id": null,
+      "country_name": null,
+      "country_flag": null,
       "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
-      "is_independent": false,
+      "is_independent": true,
       "bonuses": {
         "deri": 8,
         "altin": 12,
@@ -2130,7 +2130,7 @@
     },
     {
       "name": "New York",
-      "icon": "���",
+      "icon": "🗽",
       "country_id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
       "country_name": "🌎 GLOBAL CAPITAL RESERVE",
       "country_flag": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
@@ -2181,7 +2181,7 @@
       "icon": "🌲",
       "country_id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
       "country_name": "Omsk Geçici Hükümeti",
-      "country_flag": "https://diplomacia.com.tr/coats/omsk.png?v=3",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
       "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -2387,9 +2387,9 @@
     {
       "name": "Sabah",
       "icon": "🌿",
-      "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
-      "country_name": "Republik Indonesia Serikat",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
+      "country_id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
+      "country_name": "Neo Shandong Imperium",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
       "coat_url": "https://diplomacia.com.tr/coats/sabah.png?v=3",
       "is_independent": false,
       "bonuses": {
@@ -2499,9 +2499,9 @@
     {
       "name": "Sarawak",
       "icon": "🦧",
-      "country_id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
-      "country_name": "Neo Shandong Imperium",
-      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
+      "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
+      "country_name": "Republik Indonesia Serikat",
+      "country_flag": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
       "is_independent": false,
       "bonuses": {

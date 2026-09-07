@@ -1,0 +1,53 @@
+{
+  "id": "d6c9494a-aee3-49a8-ae43-f8b66e846477",
+  "name": "Grand Duchy of Burgundy",
+  "flag_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
+  "treasury": 1000470,
+  "country_number": 190,
+  "player_count": 103,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Burgonya",
+    "icon": "🍷",
+    "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 6,
+    "petrol": 5,
+    "nte": 4,
+    "elmas": 10
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 8,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Burgonya",
+      "icon": "🍷",
+      "coat_url": "https://diplomacia.com.tr/coats/burgonya.png?v=3",
+      "region": "Doğu (Burgundy, Rhône)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 105,
+      "scores": {
+        "education": 0,
+        "military": 8,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 5,
+        "nte": 4,
+        "elmas": 10
+      }
+    }
+  ]
+}

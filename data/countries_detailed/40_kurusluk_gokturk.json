@@ -2,7 +2,7 @@
   "id": "ca984b9e-07b1-4123-8e20-dde1b2bbcbe9",
   "name": "40 KURUŞLUK GÖKTÜRK",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788800633368.jpeg",
-  "treasury": 5417794,
+  "treasury": 5520122,
   "country_number": 133,
   "player_count": 31,
   "provinces_count": 2,
@@ -20,9 +20,9 @@
   },
   "average_scores": {
     "education": 5,
-    "military": 5,
+    "military": 5.5,
     "development": 8,
-    "health": 2.5
+    "health": 2
   },
   "provinces": [
     {
@@ -33,10 +33,10 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 27,
+      "player_count": 29,
       "scores": {
         "education": 3,
-        "military": 7,
+        "military": 8,
         "development": 10,
         "health": 1,
         "health_world_first": false
@@ -62,7 +62,7 @@
         "education": 7,
         "military": 3,
         "development": 6,
-        "health": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
