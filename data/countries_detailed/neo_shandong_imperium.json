@@ -2,26 +2,26 @@
   "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
   "name": "Neo Shandong Imperium",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-  "treasury": 234245231,
+  "treasury": 248099231,
   "country_number": 109,
-  "player_count": 125,
-  "provinces_count": 2,
+  "player_count": 126,
+  "provinces_count": 3,
   "capital": {
     "name": "Şandong",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 15,
-    "altin": 19,
-    "petrol": 27,
-    "nte": 22,
-    "elmas": 21
+    "deri": 20,
+    "altin": 33,
+    "petrol": 42,
+    "nte": 37,
+    "elmas": 26
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 2.5,
-    "development": 4.5,
+    "education": 2.3,
+    "military": 4.7,
+    "development": 3.3,
     "health": 0
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 85,
+      "player_count": 81,
       "scores": {
         "education": 0,
         "military": 0,
@@ -70,6 +70,30 @@
         "altin": 12,
         "petrol": 15,
         "nte": 14,
+        "elmas": 5
+      }
+    },
+    {
+      "name": "Sarawak",
+      "icon": "🦧",
+      "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
+      "region": "Doğu Malezya (Borneo Batı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 70,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 14,
+        "petrol": 15,
+        "nte": 15,
         "elmas": 5
       }
     }
