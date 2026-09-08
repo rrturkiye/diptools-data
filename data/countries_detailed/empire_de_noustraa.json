@@ -2,9 +2,9 @@
   "id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958",
   "name": "Empire de Noustraa",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1181a04c-77ea-4cb3-8cc6-f4671d1a4958-1786945027687.jpeg",
-  "treasury": 2669584,
+  "treasury": 3204886,
   "country_number": 138,
-  "player_count": 28,
+  "player_count": 29,
   "provinces_count": 2,
   "capital": {
     "name": "Lahor",
@@ -22,7 +22,7 @@
     "education": 1,
     "military": 5.5,
     "development": 6,
-    "health": 6
+    "health": 5.5
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 35,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 7,
         "development": 9,
-        "health": 10,
+        "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 300764624,
   "country_number": 92,
-  "player_count": 286,
-  "provinces_count": 3,
+  "player_count": 285,
+  "provinces_count": 2,
   "capital": {
     "name": "Georgia",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
   },
   "total_resource_bonuses": {
-    "deri": 37,
-    "altin": 32,
-    "petrol": 24,
-    "nte": 33,
-    "elmas": 38
+    "deri": 26,
+    "altin": 19,
+    "petrol": 13,
+    "nte": 20,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 1,
-    "military": 6.7,
-    "development": 3.3,
-    "health": 1.7
+    "education": 0,
+    "military": 5.5,
+    "development": 3.5,
+    "health": 2
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 76,
+      "player_count": 74,
       "scores": {
         "education": 0,
         "military": 1,
@@ -57,10 +57,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 130,
+      "player_count": 157,
       "scores": {
         "education": 0,
-        "military": 9,
+        "military": 10,
         "development": 6,
         "health": 4,
         "health_world_first": false
@@ -71,30 +71,6 @@
         "petrol": 8,
         "nte": 10,
         "elmas": 11
-      }
-    },
-    {
-      "name": "Meksiko",
-      "icon": "🌮",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Orta Amerika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 165,
-      "scores": {
-        "education": 3,
-        "military": 10,
-        "development": 3,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 13,
-        "petrol": 11,
-        "nte": 13,
-        "elmas": 14
       }
     }
   ]

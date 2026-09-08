@@ -9,8 +9,8 @@
     "Ohio": {
       "education": 10,
       "military": 3,
-      "development": 2,
-      "health": 4
+      "development": 9,
+      "health": 8
     },
     "Bahia": {
       "education": 10,
@@ -64,7 +64,7 @@
       "education": 10,
       "military": 10,
       "development": 10,
-      "health": 9
+      "health": 10
     },
     "Fuçou": {
       "education": 10,
@@ -123,7 +123,7 @@
     "Düsseldorf": {
       "education": 9,
       "military": 7,
-      "development": 6,
+      "development": 5,
       "health": 5
     },
     "Lombardiya": {
@@ -153,7 +153,7 @@
     "Mindanao": {
       "education": 8,
       "military": 6,
-      "development": 9,
+      "development": 8,
       "health": 8
     },
     "Guangzhou": {
@@ -237,7 +237,7 @@
     "Güney Kıbrıs": {
       "education": 7,
       "military": 6,
-      "development": 8,
+      "development": 7,
       "health": 5
     },
     "Botoşani": {
@@ -286,7 +286,7 @@
       "education": 6,
       "military": 3,
       "development": 6,
-      "health": 4
+      "health": 3
     },
     "Musul": {
       "education": 6,
@@ -321,7 +321,7 @@
     "Sevilla": {
       "education": 6,
       "military": 3,
-      "development": 3,
+      "development": 2,
       "health": 3
     },
     "Kunming": {
@@ -345,7 +345,7 @@
     "Keşmir": {
       "education": 5,
       "military": 1,
-      "development": 2,
+      "development": 3,
       "health": 2
     },
     "Afyon": {
@@ -399,20 +399,20 @@
     "Bordo": {
       "education": 4,
       "military": 6,
-      "development": 4,
+      "development": 3,
       "health": 1
     },
     "Karabağ": {
       "education": 4,
       "military": 4,
-      "development": 5,
+      "development": 4,
       "health": 4
     },
     "Minnesota": {
       "education": 4,
       "military": 2,
       "development": 5,
-      "health": 5
+      "health": 4
     },
     "Nahçıvan": {
       "education": 4,
@@ -522,20 +522,14 @@
       "development": 1,
       "health": 2
     },
-    "Meksiko": {
-      "education": 3,
-      "military": 10,
-      "development": 3,
-      "health": 1
-    },
     "Aktöbe": {
-      "education": 2,
+      "education": 3,
       "military": 8,
       "development": 10,
       "health": 1
     },
     "Yeni Kaledonya": {
-      "education": 2,
+      "education": 3,
       "military": 8,
       "development": 3,
       "health": 1
@@ -589,19 +583,19 @@
       "health": 3
     },
     "Halep": {
-      "education": 1,
+      "education": 2,
       "military": 4,
-      "development": 5,
+      "development": 6,
       "health": 3
     },
     "İngiltere": {
-      "education": 1,
+      "education": 2,
       "military": 1,
       "development": 10,
       "health": 9
     },
     "Ürdün": {
-      "education": 1,
+      "education": 2,
       "military": 8,
       "development": 7,
       "health": 5
@@ -651,8 +645,14 @@
     "Karakalpakstan": {
       "education": 1,
       "military": 6,
-      "development": 7,
+      "development": 6,
       "health": 6
+    },
+    "Meksiko": {
+      "education": 1,
+      "military": 10,
+      "development": 3,
+      "health": 1
     },
     "Moskova": {
       "education": 1,
@@ -700,7 +700,7 @@
       "education": 0,
       "military": 10,
       "development": 2,
-      "health": 2
+      "health": 4
     },
     "Sarawak": {
       "education": 0,
@@ -726,6 +726,12 @@
       "development": 9,
       "health": 7
     },
+    "Jalisco": {
+      "education": 0,
+      "military": 10,
+      "development": 6,
+      "health": 4
+    },
     "Şian": {
       "education": 0,
       "military": 10,
@@ -734,15 +740,9 @@
     },
     "Pekin": {
       "education": 0,
-      "military": 10,
+      "military": 9,
       "development": 9,
       "health": 2
-    },
-    "Jalisco": {
-      "education": 0,
-      "military": 9,
-      "development": 6,
-      "health": 4
     },
     "Kaliforniya": {
       "education": 0,
@@ -844,7 +844,7 @@
       "education": 0,
       "military": 7,
       "development": 9,
-      "health": 10
+      "health": 9
     },
     "Şenyang": {
       "education": 0,
@@ -1101,7 +1101,7 @@
     "Papua Yeni Gine": {
       "education": 0,
       "military": 0,
-      "development": 3,
+      "development": 2,
       "health": 0
     },
     "Umman": {
