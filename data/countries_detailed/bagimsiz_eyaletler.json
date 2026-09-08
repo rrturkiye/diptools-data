@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 2,
+  "provinces_count": 3,
   "provinces": [
     {
       "name": "Guangzhou",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 198,
+      "player_count": 207,
       "scores": {
         "education": 8,
         "military": 10,
@@ -34,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-07T21:32:05.811Z",
-      "player_count": 151,
+      "player_count": 157,
       "scores": {
         "education": 3,
         "military": 1,
@@ -48,6 +48,30 @@
         "petrol": 10,
         "nte": 6,
         "elmas": 11
+      }
+    },
+    {
+      "name": "Paris",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "region": "Kuzey Merkez (Île-de-France)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-08T19:21:41.214Z",
+      "player_count": 133,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 4,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 6,
+        "elmas": 17
       }
     }
   ]

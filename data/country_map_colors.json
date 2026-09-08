@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "USA": "#0f0750",
-    "IND": "#d57120"
+    "IND": "#d57120",
+    "USA": "#0f0750"
   },
   "provinceOwners": {
     "Mora": {
@@ -1523,6 +1523,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
     },
+    "Paris": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3"
+    },
     "Minnesota": {
       "code": null,
       "color": "#4e134e",
@@ -1639,15 +1647,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788800344792.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/denizli.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
-    },
-    "Paris": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "IMPERIUM ROMANUM",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1788800381033.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
     },
     "Chiapas": {
       "code": null,

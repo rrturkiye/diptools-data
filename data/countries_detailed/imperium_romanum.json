@@ -2,26 +2,26 @@
   "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
   "name": "IMPERIUM ROMANUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1788800381033.jpeg",
-  "treasury": 963250,
+  "treasury": 1720807,
   "country_number": 4,
-  "player_count": 124,
-  "provinces_count": 5,
+  "player_count": 125,
+  "provinces_count": 4,
   "capital": {
     "name": "Atıray",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 43,
-    "altin": 33,
-    "petrol": 57,
-    "nte": 48,
-    "elmas": 51
+    "deri": 37,
+    "altin": 29,
+    "petrol": 54,
+    "nte": 42,
+    "elmas": 34
   },
   "average_scores": {
-    "education": 5.2,
-    "military": 6.8,
-    "development": 4.4,
+    "education": 6.3,
+    "military": 6,
+    "development": 4.3,
     "health": 3
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 11,
+      "player_count": 10,
       "scores": {
         "education": 9,
         "military": 9,
@@ -107,10 +107,10 @@
       "independence_date": null,
       "player_count": 2,
       "scores": {
-        "education": 5,
+        "education": 4,
         "military": 4,
-        "development": 5,
-        "health": 3,
+        "development": 4,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -119,30 +119,6 @@
         "petrol": 10,
         "nte": 6,
         "elmas": 12
-      }
-    },
-    {
-      "name": "Paris",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "region": "Kuzey Merkez (Île-de-France)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 14,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 4,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 6,
-        "altin": 4,
-        "petrol": 3,
-        "nte": 6,
-        "elmas": 17
       }
     }
   ]

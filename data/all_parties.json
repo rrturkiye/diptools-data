@@ -47,7 +47,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/95fbeb77-759f-4c12-a6a4-81a7426f693c.jpeg?v=1786555684984",
     "leader_name": "Bounce",
-    "member_count": 21,
+    "member_count": 22,
     "province_name": "Suudi Arabistan",
     "country_name": "40 Kuruşluk Cezira"
   },
@@ -91,19 +91,6 @@
     "country_name": "40 kuruşluk devlet"
   },
   {
-    "id": "023bcb53-fd85-46e5-9aa9-3cd9f926da5d",
-    "party_number": 4505,
-    "name": "QUETTA LİON",
-    "ideology": null,
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": null,
-    "leader_name": "İdris Koçovalı",
-    "member_count": 1,
-    "province_name": "Kueta",
-    "country_name": "40 kuruşluk devlet"
-  },
-  {
     "id": "65c90faf-e9ed-45f2-9e99-83d320f39908",
     "party_number": 2805,
     "name": "ANADOLU KARTALLARI",
@@ -112,7 +99,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/65c90faf-e9ed-45f2-9e99-83d320f39908.jpeg?v=1785534459817",
     "leader_name": "KORGENERAL",
-    "member_count": 135,
+    "member_count": 137,
     "province_name": "Ankara",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -234,14 +221,14 @@
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
   {
-    "id": "8e4fac8f-bc33-43a2-bab8-48a638f37736",
-    "party_number": 4507,
-    "name": "TÜRK SİLAHLI KUVVETLERİ",
+    "id": "76d89925-affc-41a3-a87b-4b1be8615e86",
+    "party_number": 4511,
+    "name": "Yeniyardım partisi",
     "ideology": "milliyetçilik",
-    "abbreviation": "TSK",
+    "abbreviation": null,
     "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8e4fac8f-bc33-43a2-bab8-48a638f37736.jpeg?v=1788890417926",
-    "leader_name": "SIKIYÖNETİMTÜMG Camila Andrade",
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/76d89925-affc-41a3-a87b-4b1be8615e86.jpeg?v=1788900408855",
+    "leader_name": "Hürkuş",
     "member_count": 1,
     "province_name": "Ankara",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
@@ -281,6 +268,19 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/bdd789d1-5ae9-4193-9640-1d079cb2b3aa.jpeg?v=1787698812962",
     "leader_name": "M.Arda",
+    "member_count": 1,
+    "province_name": "Adana",
+    "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
+  },
+  {
+    "id": "c635f16a-0b8f-4afe-bb63-61bfd7b5d584",
+    "party_number": 4516,
+    "name": "VATAN",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": null,
+    "leader_name": "VATAN SANA CANIM FEDA",
     "member_count": 1,
     "province_name": "Adana",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
@@ -379,9 +379,9 @@
   {
     "id": "09e46314-f5ac-45b9-8e23-7cd713dab5e1",
     "party_number": 3926,
-    "name": "Erzincan Halk Partisi",
+    "name": "Doğu Türküstan",
     "ideology": "muhafazakarlık",
-    "abbreviation": "EHP",
+    "abbreviation": "DT",
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/09e46314-f5ac-45b9-8e23-7cd713dab5e1.jpeg?v=1787508355444",
     "leader_name": "Kenan Soylu",
@@ -399,19 +399,6 @@
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/659575be-9c85-47ae-beb1-1c370d0e2560.jpeg?v=1788818774547",
     "leader_name": "II.ABDÜLHAMİD HAN",
     "member_count": 4,
-    "province_name": "Erzurum",
-    "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
-  },
-  {
-    "id": "842e3a1d-d2f7-4563-b8b0-14d7d3de48cf",
-    "party_number": 4465,
-    "name": "Erzurum Halk Partisi",
-    "ideology": "teknokrasi",
-    "abbreviation": "EHP",
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/842e3a1d-d2f7-4563-b8b0-14d7d3de48cf.jpeg?v=1788814529199",
-    "leader_name": "Papa Muro",
-    "member_count": 3,
     "province_name": "Erzurum",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -476,7 +463,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/dcf5a012-fcd8-4f77-a9d0-52270e49d2a0.jpeg?v=1787591046827",
     "leader_name": "Izumi Konata",
-    "member_count": 8,
+    "member_count": 7,
     "province_name": "İstanbul",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -606,7 +593,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/7d92e8fd-bf03-4ad0-b963-cfd0e44962a4.jpeg?v=1780734728087",
     "leader_name": "Yasin69",
-    "member_count": 8,
+    "member_count": 9,
     "province_name": "İzmir",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -684,7 +671,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e5ad98a8-cdf6-4026-8745-df4eb94ced0f.jpeg?v=1788525331953",
     "leader_name": "Ölümcül Memati",
-    "member_count": 2,
+    "member_count": 4,
     "province_name": "Musul",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -710,7 +697,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/31be7afd-9b67-497c-bf04-b1076ee2ed89.jpeg?v=1787508074066",
     "leader_name": "İbrahim1453",
-    "member_count": 26,
+    "member_count": 28,
     "province_name": "Rize",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -762,7 +749,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/397a5906-9dd2-4c70-a7d8-be7368ca0332.jpeg?v=1785804264503",
     "leader_name": "Mehmet KARAHANLI",
-    "member_count": 21,
+    "member_count": 22,
     "province_name": "Samsun",
     "country_name": "40 KURUŞLUK TÜRK TOPLULUĞU"
   },
@@ -808,13 +795,13 @@
   {
     "id": "242660f9-ca9a-4360-9e18-4a3053d794d1",
     "party_number": 4181,
-    "name": "𐱅𐰇𐰼𐰰",
+    "name": "𐱅𐰇��𐰰",
     "ideology": "milliyetçilik",
     "abbreviation": null,
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/242660f9-ca9a-4360-9e18-4a3053d794d1.jpeg?v=1788263450500",
     "leader_name": "Kuman",
-    "member_count": 32,
+    "member_count": 36,
     "province_name": "Ural",
     "country_name": "Akural Hanlığı"
   },
@@ -905,7 +892,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/4a01624c-aa16-4d48-a464-928773411b20.jpeg?v=1788791430341",
     "leader_name": "Red John",
-    "member_count": 26,
+    "member_count": 28,
     "province_name": "Astana",
     "country_name": "Astana Cumhuriyeti"
   },
@@ -918,7 +905,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d0ba298a-1601-47b5-8112-007b3a16a199.jpeg?v=1787258617578",
     "leader_name": "Eren karakuş",
-    "member_count": 17,
+    "member_count": 18,
     "province_name": "Kandahar",
     "country_name": "ASYA SELÇUKLU DEVLETİ"
   },
@@ -944,7 +931,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a40e2473-6934-4a49-9716-267687928cab.png?v=1786015337605",
     "leader_name": "AYKALLAH",
-    "member_count": 21,
+    "member_count": 22,
     "province_name": "Arnavutluk",
     "country_name": "AYKA"
   },
@@ -1066,19 +1053,6 @@
     "country_name": "AYKA"
   },
   {
-    "id": "29b4a9ff-d6cf-4470-b198-14003b95a41d",
-    "party_number": 4279,
-    "name": "El sinaloense",
-    "ideology": "milliyetçilik",
-    "abbreviation": "HDP",
-    "is_open": false,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/29b4a9ff-d6cf-4470-b198-14003b95a41d.jpeg?v=1788379058940",
-    "leader_name": "Lord Kuervo",
-    "member_count": 11,
-    "province_name": "Sinaloa",
-    "country_name": "AYKA"
-  },
-  {
     "id": "0d52b3d4-fe3f-4305-9444-ed8f38a555b8",
     "party_number": 4104,
     "name": "Partido Comunista de México",
@@ -1087,6 +1061,19 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0d52b3d4-fe3f-4305-9444-ed8f38a555b8.jpeg?v=1787894495091",
     "leader_name": "Daniel Vargas",
+    "member_count": 10,
+    "province_name": "Sinaloa",
+    "country_name": "AYKA"
+  },
+  {
+    "id": "29b4a9ff-d6cf-4470-b198-14003b95a41d",
+    "party_number": 4279,
+    "name": "El sinaloense",
+    "ideology": "milliyetçilik",
+    "abbreviation": "HDP",
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/29b4a9ff-d6cf-4470-b198-14003b95a41d.jpeg?v=1788379058940",
+    "leader_name": "Lord Kuervo",
     "member_count": 10,
     "province_name": "Sinaloa",
     "country_name": "AYKA"
@@ -1217,7 +1204,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/4babf674-2499-4e62-b694-261d9169b25b.jpeg?v=1788587756906",
     "leader_name": "Nihat18aze",
-    "member_count": 7,
+    "member_count": 8,
     "province_name": "Bakü",
     "country_name": "Azərbaycan Respublikası"
   },
@@ -1243,7 +1230,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/9dc0fb20-9b90-44c5-8444-a728190686f7.jpeg?v=1783638275725",
     "leader_name": "Elshan The Baku Fire",
-    "member_count": 14,
+    "member_count": 15,
     "province_name": "Azerbaycan",
     "country_name": "Azərbaycan Respublikası"
   },
@@ -1488,7 +1475,7 @@
     "ideology": null,
     "abbreviation": null,
     "is_open": true,
-    "logo_url": null,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/6500ad56-e96e-42de-99db-dc968fd275d0.jpeg?v=1788895860254",
     "leader_name": "Ali Hamaney",
     "member_count": 1,
     "province_name": "Bosna Hersek",
@@ -1555,20 +1542,20 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d3f35858-95cb-4d9b-8e09-5cc26100c58b.jpeg?v=1787309451969",
     "leader_name": "Fâris",
-    "member_count": 25,
+    "member_count": 27,
     "province_name": "Horasan",
     "country_name": "Büyük Selçuklu Devleti"
   },
   {
     "id": "4a0177ee-d4ea-47c4-bef9-1b784cd5c085",
     "party_number": 3313,
-    "name": "Büyük Selçuklu Hanedanl��ğı",
+    "name": "Büyük Selçuklu Hanedanlığı",
     "ideology": "monarşizm",
     "abbreviation": "BSH",
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/4a0177ee-d4ea-47c4-bef9-1b784cd5c085.jpeg?v=1786462928060",
     "leader_name": "KyraHan",
-    "member_count": 49,
+    "member_count": 51,
     "province_name": "İsfahan",
     "country_name": "Büyük Selçuklu Devleti"
   },
@@ -1586,19 +1573,6 @@
     "country_name": "Büyük Selçuklu Devleti"
   },
   {
-    "id": "366a82cb-916b-492c-8e47-53eef53f07ab",
-    "party_number": 4469,
-    "name": "House of Tylos",
-    "ideology": null,
-    "abbreviation": "HOT",
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/366a82cb-916b-492c-8e47-53eef53f07ab.jpeg?v=1788878858322",
-    "leader_name": "neo the chosen one",
-    "member_count": 4,
-    "province_name": "Katar",
-    "country_name": "Cezira Mülhak Beyliği"
-  },
-  {
     "id": "d14b8b58-294e-448f-a781-011eb0896ecf",
     "party_number": 3277,
     "name": "Zagrep Bağımsızlık Partisi",
@@ -1607,6 +1581,32 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d14b8b58-294e-448f-a781-011eb0896ecf.jpeg?v=1786382570044",
     "leader_name": "TuranVortex_24824",
+    "member_count": 2,
+    "province_name": "Katar",
+    "country_name": "Cezira Mülhak Beyliği"
+  },
+  {
+    "id": "366a82cb-916b-492c-8e47-53eef53f07ab",
+    "party_number": 4469,
+    "name": "House of Tylos",
+    "ideology": null,
+    "abbreviation": "HOT",
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/366a82cb-916b-492c-8e47-53eef53f07ab.jpeg?v=1788878858322",
+    "leader_name": "neo the chosen one",
+    "member_count": 2,
+    "province_name": "Katar",
+    "country_name": "Cezira Mülhak Beyliği"
+  },
+  {
+    "id": "48372e7a-a502-4a75-9109-7b3209f1da93",
+    "party_number": 4518,
+    "name": "BRÜNNHILDE",
+    "ideology": "milliyetçilik",
+    "abbreviation": "PRUS",
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/48372e7a-a502-4a75-9109-7b3209f1da93.jpeg?v=1788902616659",
+    "leader_name": "Prussian cat",
     "member_count": 2,
     "province_name": "Katar",
     "country_name": "Cezira Mülhak Beyliği"
@@ -1633,7 +1633,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/2c031475-7e3b-418c-9142-5385537b9d15.jpeg?v=1786000543042",
     "leader_name": "KataFate",
-    "member_count": 22,
+    "member_count": 23,
     "province_name": "Valencia",
     "country_name": "Círculo Akelarre del Mediterraneo"
   },
@@ -1880,7 +1880,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/caa646b4-1736-4a61-b3c1-cdca4365d8b7.jpeg?v=1785427820537",
     "leader_name": "Jugador265074",
-    "member_count": 16,
+    "member_count": 17,
     "province_name": "Sevilla",
     "country_name": "Estado de Madrid"
   },
@@ -1893,7 +1893,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/cffc7cbd-1a16-4d33-9525-f86190b4cecb.png?v=1787660551831",
     "leader_name": "Aslanberg",
-    "member_count": 78,
+    "member_count": 79,
     "province_name": "Berlin",
     "country_name": "Federal Republic of Germany"
   },
@@ -1918,8 +1918,8 @@
     "abbreviation": "YANAP",
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/71bf2c9f-6863-49ac-ab15-f9e641c81b74.jpeg?v=1788665221428",
-    "leader_name": "Mesut Yılmaz.",
-    "member_count": 8,
+    "leader_name": "ZaurCuma Reis",
+    "member_count": 7,
     "province_name": "Berlin",
     "country_name": "Federal Republic of Germany"
   },
@@ -2296,7 +2296,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/90ad135e-e8bd-430c-bec1-f02ff6fb84ac.jpeg?v=1787257667075",
     "leader_name": "EROS",
-    "member_count": 45,
+    "member_count": 47,
     "province_name": "Aktöbe",
     "country_name": "GÖKTÜRK KAĞANLIĞI"
   },
@@ -2325,19 +2325,6 @@
     "member_count": 1,
     "province_name": "Kostanay",
     "country_name": "GÖKTÜRK KAĞANLIĞI"
-  },
-  {
-    "id": "b24bbb77-5c5e-46ba-ac6a-3db196b353c1",
-    "party_number": 4467,
-    "name": "União Militar Imperial",
-    "ideology": "monarşizm",
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/b24bbb77-5c5e-46ba-ac6a-3db196b353c1.jpeg?v=1788879330325",
-    "leader_name": "Paulo w. Goulart",
-    "member_count": 19,
-    "province_name": "Burgonya",
-    "country_name": "Grand Duchy of Burgundy"
   },
   {
     "id": "fc92eb83-921c-4654-9a7a-941729d0ea68",
@@ -2387,7 +2374,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0261b49a-097a-49b8-9773-52ad4013a7a5.jpeg?v=1788564646325",
     "leader_name": "𝓚𝓮𝔂𝔀𝓪𝓷",
-    "member_count": 4,
+    "member_count": 2,
     "province_name": "Burgonya",
     "country_name": "Grand Duchy of Burgundy"
   },
@@ -2418,19 +2405,6 @@
     "country_name": "Grand Duchy of Burgundy"
   },
   {
-    "id": "21c6ca63-4712-40f6-a175-1142533b738a",
-    "party_number": 4386,
-    "name": "الحزب الشيوعي _ Communist Party",
-    "ideology": null,
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/21c6ca63-4712-40f6-a175-1142533b738a.jpeg?v=1788578990548",
-    "leader_name": "فيصل بن عبد العزيز آل سعود",
-    "member_count": 1,
-    "province_name": "Burgonya",
-    "country_name": "Grand Duchy of Burgundy"
-  },
-  {
     "id": "1fe36e19-3a4c-4e71-8d8a-ea3b60f2a310",
     "party_number": 3319,
     "name": "National People's Party",
@@ -2438,8 +2412,8 @@
     "abbreviation": "NPP",
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/1fe36e19-3a4c-4e71-8d8a-ea3b60f2a310.jpeg?v=1788343771630",
-    "leader_name": "Yahudi Aklı Bunada Çözüm Buldu",
-    "member_count": 18,
+    "leader_name": "Şeyh",
+    "member_count": 20,
     "province_name": "İslamabad",
     "country_name": "Greater Pakistan"
   },
@@ -2621,7 +2595,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c7b4447e-9b37-4136-8086-6d7b41d8eb5a.jpeg?v=1788634344684",
     "leader_name": "Ｔ Ｈ Ｅ 𓁹 Ｇ Ａ Ｗ Ｅ Ｘ",
-    "member_count": 7,
+    "member_count": 9,
     "province_name": "Yeni Kaledonya",
     "country_name": "Holy Nusavalon Empire"
   },
@@ -2673,7 +2647,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a45b1ce8-31db-436a-9c42-0a1df0d24e4a.jpeg?v=1784131272444",
     "leader_name": "Elina",
-    "member_count": 54,
+    "member_count": 55,
     "province_name": "Fargona",
     "country_name": "HÚNÉR IMPERIUM"
   },
@@ -2738,7 +2712,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/4322e942-f493-466c-9de7-24e341238b8a.jpeg?v=1788603687597",
     "leader_name": "عثمان الرهيب",
-    "member_count": 20,
+    "member_count": 17,
     "province_name": "Bordo",
     "country_name": "Imperi Galàctic Català"
   },
@@ -2855,7 +2829,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/5a8ec2c1-3022-4ff3-95c6-7b2af289f8b9.jpeg?v=1788855495662",
     "leader_name": "Yakup Baba",
-    "member_count": 8,
+    "member_count": 9,
     "province_name": "Daşoguz",
     "country_name": "IMPERIUM ROMANUM"
   },
@@ -2909,19 +2883,6 @@
     "leader_name": "Legmyt",
     "member_count": 1,
     "province_name": "Marsilya",
-    "country_name": "IMPERIUM ROMANUM"
-  },
-  {
-    "id": "e1c949da-53ed-4502-8266-87f579bc6391",
-    "party_number": 190,
-    "name": "Milliyetçi Demokrat Parti",
-    "ideology": null,
-    "abbreviation": "MDP",
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e1c949da-53ed-4502-8266-87f579bc6391.jpeg?v=1780398778906",
-    "leader_name": "OBED",
-    "member_count": 1,
-    "province_name": "Paris",
     "country_name": "IMPERIUM ROMANUM"
   },
   {
@@ -3076,7 +3037,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/b4d82ca4-fd18-4b0e-8d68-65339ccfed7c.jpeg?v=1786567255193",
     "leader_name": "Cazirns",
-    "member_count": 139,
+    "member_count": 148,
     "province_name": "Kahire",
     "country_name": "KEMET KINGDOM - مملكة كيميت"
   },
@@ -3297,7 +3258,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/892607ea-1cbe-4cc0-b977-c12fae1381bf.jpeg?v=1788729869157",
     "leader_name": "TheQueeN",
-    "member_count": 28,
+    "member_count": 27,
     "province_name": "Guiyang",
     "country_name": "Koperasi Desa Merah Putih"
   },
@@ -3388,7 +3349,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/fedf70da-9ded-46fb-b111-1826f29dff18.jpeg?v=1788611997898",
     "leader_name": "Kim Jong-un",
-    "member_count": 11,
+    "member_count": 12,
     "province_name": "Moldova",
     "country_name": "KUZEY KORE"
   },
@@ -3466,7 +3427,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0809114f-7ffa-4b90-8072-bfedcd455ca2.jpeg?v=1788261495736",
     "leader_name": "Southern Triad Goon",
-    "member_count": 3,
+    "member_count": 4,
     "province_name": "Ohio",
     "country_name": "Land Of the Free"
   },
@@ -3601,19 +3562,6 @@
     "country_name": "México Oriental"
   },
   {
-    "id": "63ce2642-5896-493a-bf44-f75b6202b045",
-    "party_number": 4300,
-    "name": "HUNER İMPERİUMM",
-    "ideology": "milliyetçilik",
-    "abbreviation": "HUNER",
-    "is_open": false,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/63ce2642-5896-493a-bf44-f75b6202b045.jpeg?v=1788370600773",
-    "leader_name": "Hunerin Aslanı",
-    "member_count": 1,
-    "province_name": "Meksiko",
-    "country_name": "México Oriental"
-  },
-  {
     "id": "81e391d3-5f46-442b-8010-c63b191355f7",
     "party_number": 3840,
     "name": "YOZYAR",
@@ -3622,7 +3570,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/81e391d3-5f46-442b-8010-c63b191355f7.jpeg?v=1787387230954",
     "leader_name": "Dayı",
-    "member_count": 36,
+    "member_count": 37,
     "province_name": "Şandong",
     "country_name": "Neo Shandong Imperium"
   },
@@ -3687,7 +3635,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a4d16781-9070-435d-a8d9-d65daf45661a.jpeg?v=1788800561673",
     "leader_name": "40 KURUŞLUK Y.G.T",
-    "member_count": 5,
+    "member_count": 7,
     "province_name": "Washington DC",
     "country_name": "New World Order"
   },
@@ -3713,7 +3661,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e480d6f9-f688-4cc3-ac52-3e74ee12b48b.jpeg?v=1788814658890",
     "leader_name": "Davos Seaworth",
-    "member_count": 38,
+    "member_count": 39,
     "province_name": "Omsk",
     "country_name": "Omsk Geçici Hükümeti"
   },
@@ -3739,6 +3687,19 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8d25c598-f4f4-4076-b343-9bfab265db9d.jpeg?v=1788463514441",
     "leader_name": "Shatshin",
+    "member_count": 1,
+    "province_name": "Omsk",
+    "country_name": "Omsk Geçici Hükümeti"
+  },
+  {
+    "id": "1cabecee-d312-4dbe-bd1f-c61afa875639",
+    "party_number": 4512,
+    "name": "Özgür ve Hür Düşünen Seçilmiş Masonlar partisi",
+    "ideology": "liberalizm",
+    "abbreviation": "OHM",
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/1cabecee-d312-4dbe-bd1f-c61afa875639.jpeg?v=1788894795955",
+    "leader_name": "Mayer Amchel Rotschild",
     "member_count": 1,
     "province_name": "Omsk",
     "country_name": "Omsk Geçici Hükümeti"
@@ -3861,19 +3822,6 @@
     "country_name": "Ortadoğu Selçuklu Devleti"
   },
   {
-    "id": "c24a1284-bd70-4a11-9a20-7d550dc8861e",
-    "party_number": 3821,
-    "name": "حزب العربي ليالاالسياسه",
-    "ideology": "monarşizm",
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c24a1284-bd70-4a11-9a20-7d550dc8861e.jpeg?v=1787338617072",
-    "leader_name": "ادم احمد مرسي",
-    "member_count": 2,
-    "province_name": "Ürdün",
-    "country_name": "Ortadoğu Selçuklu Devleti"
-  },
-  {
     "id": "6190c6a0-4902-40a8-98c5-4713964dfbb6",
     "party_number": 3864,
     "name": "ƏFŞARLAR İMPERİYASI",
@@ -3895,7 +3843,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a23a9af1-14f8-4301-aeb9-b7114788a09d.jpeg?v=1787914610270",
     "leader_name": "Osman Gazii",
-    "member_count": 33,
+    "member_count": 34,
     "province_name": "Halep",
     "country_name": "Osmanlı İslam Devleti"
   },
@@ -3908,7 +3856,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d3f1b287-2781-4a1b-8b5c-aa016eb4c631.jpeg?v=1788376533411",
     "leader_name": "II. Mehmed",
-    "member_count": 14,
+    "member_count": 15,
     "province_name": "Halep",
     "country_name": "Osmanlı İslam Devleti"
   },
@@ -3973,7 +3921,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a153f230-3e0a-4a63-a7d6-dfb8c48f6cb5.jpeg?v=1784355067638",
     "leader_name": "Muhsin Yazıcıoğlu",
-    "member_count": 49,
+    "member_count": 50,
     "province_name": "Semerkant",
     "country_name": "Özbekistan Cumhuriyeti"
   },
@@ -4051,7 +3999,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/fa7f04e5-adec-4bf2-a94c-c6ec9cb96494.jpeg?v=1788829128509",
     "leader_name": "Bartolome Mitre",
-    "member_count": 27,
+    "member_count": 28,
     "province_name": "Buenos Aires",
     "country_name": "República Argentina"
   },
@@ -4142,7 +4090,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/9512f740-d56b-4d18-ae2a-6507be2b0e9d.jpeg?v=1786451401218",
     "leader_name": "Rolo",
-    "member_count": 23,
+    "member_count": 24,
     "province_name": "Córdoba",
     "country_name": "República Argentina"
   },
@@ -4357,12 +4305,12 @@
   {
     "id": "722dee37-c28c-47bc-a314-525cf3214540",
     "party_number": 4499,
-    "name": "Puerto Rico En El Exilio",
+    "name": "Puerto Rico En El Exilio 🇵🇷",
     "ideology": "milliyetçilik",
     "abbreviation": "PREX",
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/722dee37-c28c-47bc-a314-525cf3214540.jpeg?v=1788881105978",
-    "leader_name": "ElJosh",
+    "leader_name": "JoshuaPR",
     "member_count": 2,
     "province_name": "Atacama",
     "country_name": "República de Chile"
@@ -4389,7 +4337,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/423e61d2-8d3f-4a09-9fa6-0ca51e7f6288.jpeg?v=1785701729856",
     "leader_name": "El Sebas",
-    "member_count": 35,
+    "member_count": 33,
     "province_name": "Kolombiya",
     "country_name": "República de Colombia."
   },
@@ -4433,19 +4381,6 @@
     "country_name": "República de Colombia."
   },
   {
-    "id": "0ab25cde-bafa-41f6-89e9-4845d06bb516",
-    "party_number": 2807,
-    "name": "Grupo Estratégico Colombiano",
-    "ideology": "monarşizm",
-    "abbreviation": "GEC",
-    "is_open": false,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0ab25cde-bafa-41f6-89e9-4845d06bb516.jpeg?v=1787952504114",
-    "leader_name": "Arkantos",
-    "member_count": 9,
-    "province_name": "Kolombiya",
-    "country_name": "República de Colombia."
-  },
-  {
     "id": "e9ceefed-6164-4a63-beed-d59dfaa50ac7",
     "party_number": 3882,
     "name": "Dominiriqueños en el exilio",
@@ -4455,6 +4390,19 @@
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e9ceefed-6164-4a63-beed-d59dfaa50ac7.jpeg?v=1787506453803",
     "leader_name": "Rafael Leonidas Trujillo",
     "member_count": 9,
+    "province_name": "Kolombiya",
+    "country_name": "República de Colombia."
+  },
+  {
+    "id": "0ab25cde-bafa-41f6-89e9-4845d06bb516",
+    "party_number": 2807,
+    "name": "Grupo Estratégico Colombiano",
+    "ideology": "monarşizm",
+    "abbreviation": "GEC",
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0ab25cde-bafa-41f6-89e9-4845d06bb516.jpeg?v=1787952504114",
+    "leader_name": "Arkantos",
+    "member_count": 8,
     "province_name": "Kolombiya",
     "country_name": "República de Colombia."
   },
@@ -4675,7 +4623,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c5599c8f-55fd-49ef-a003-660618154de7.jpeg?v=1788218179927",
     "leader_name": "Diplomata cristão",
-    "member_count": 12,
+    "member_count": 13,
     "province_name": "Brasília",
     "country_name": "República Federativa do Brasil"
   },
@@ -4766,7 +4714,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/ef286262-327d-40cb-8649-5cb74d9c50eb.jpeg?v=1786723394702",
     "leader_name": "Iury",
-    "member_count": 42,
+    "member_count": 41,
     "province_name": "Amazonas",
     "country_name": "República Federativa do Brasil"
   },
@@ -4831,7 +4779,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/07511f9b-2e75-4f25-a250-86a7da6cb58a.jpeg?v=1788607801840",
     "leader_name": "Rayan Silver",
-    "member_count": 5,
+    "member_count": 6,
     "province_name": "Amazonas",
     "country_name": "República Federativa do Brasil"
   },
@@ -4857,6 +4805,19 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/83c58bf8-9932-4fce-b036-fa5fb232955e.jpeg?v=1788798857867",
     "leader_name": "Ten. Coronel Álvares",
+    "member_count": 1,
+    "province_name": "Amazonas",
+    "country_name": "República Federativa do Brasil"
+  },
+  {
+    "id": "fa471757-488c-4849-ac64-4af413c7e3cc",
+    "party_number": 4510,
+    "name": "Supremo Tribunal Federal — STF",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/fa471757-488c-4849-ac64-4af413c7e3cc.jpeg?v=1788894308415",
+    "leader_name": "Princesa Diana",
     "member_count": 1,
     "province_name": "Amazonas",
     "country_name": "República Federativa do Brasil"
@@ -4987,7 +4948,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/56d16c7f-eada-4d81-8822-69644b7f2f3d.jpeg?v=1784766961877",
     "leader_name": "Dudu",
-    "member_count": 87,
+    "member_count": 88,
     "province_name": "Rio Grande do Sul",
     "country_name": "República Federativa do Brasil"
   },
@@ -5013,7 +4974,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/9ad70f35-7768-4a4e-a0d9-e58cded46290.jpeg?v=1786661778359",
     "leader_name": "Barão de Mauá 2",
-    "member_count": 9,
+    "member_count": 10,
     "province_name": "Rio Grande do Sul",
     "country_name": "República Federativa do Brasil"
   },
@@ -5104,7 +5065,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/7f75f9a6-060e-47fb-80d4-420ff7876643.jpeg?v=1785360173301",
     "leader_name": "Eduard Limonov",
-    "member_count": 87,
+    "member_count": 88,
     "province_name": "São Paulo",
     "country_name": "República Federativa do Brasil"
   },
@@ -5117,7 +5078,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/3ce862ad-5c68-4e9b-8aaa-e501ec173593.jpeg?v=1787425865089",
     "leader_name": "𝐑 𝐘 𝐀 𝐍",
-    "member_count": 63,
+    "member_count": 64,
     "province_name": "São Paulo",
     "country_name": "República Federativa do Brasil"
   },
@@ -5156,7 +5117,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/75ad6836-59db-409f-b249-44ef074529a2.jpeg?v=1788384622837",
     "leader_name": "Victor Velarian",
-    "member_count": 15,
+    "member_count": 16,
     "province_name": "São Paulo",
     "country_name": "República Federativa do Brasil"
   },
@@ -5174,19 +5135,6 @@
     "country_name": "República Federativa do Brasil"
   },
   {
-    "id": "76c9f7d0-4936-4e20-89ed-2f73d84631ab",
-    "party_number": 2810,
-    "name": "Anunnaki Group",
-    "ideology": "muhafazakarlık",
-    "abbreviation": null,
-    "is_open": false,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/76c9f7d0-4936-4e20-89ed-2f73d84631ab.jpeg?v=1787784919736",
-    "leader_name": "Anunnaki",
-    "member_count": 4,
-    "province_name": "São Paulo",
-    "country_name": "República Federativa do Brasil"
-  },
-  {
     "id": "8bff4dd8-6838-49ca-8b62-db32fcd1250f",
     "party_number": 3530,
     "name": "União Católica",
@@ -5195,6 +5143,19 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8bff4dd8-6838-49ca-8b62-db32fcd1250f.jpeg?v=1786846253398",
     "leader_name": "Jogador133981",
+    "member_count": 5,
+    "province_name": "São Paulo",
+    "country_name": "República Federativa do Brasil"
+  },
+  {
+    "id": "76c9f7d0-4936-4e20-89ed-2f73d84631ab",
+    "party_number": 2810,
+    "name": "Anunnaki Group",
+    "ideology": "muhafazakarlık",
+    "abbreviation": null,
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/76c9f7d0-4936-4e20-89ed-2f73d84631ab.jpeg?v=1787784919736",
+    "leader_name": "Anunnaki",
     "member_count": 4,
     "province_name": "São Paulo",
     "country_name": "República Federativa do Brasil"
@@ -5312,7 +5273,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0548169b-832c-459a-8abb-5af8a3f909ee.jpeg?v=1787608086696",
     "leader_name": "Camarada Lunastra",
-    "member_count": 44,
+    "member_count": 45,
     "province_name": "Fuçou",
     "country_name": "República Popular de Fuzhou"
   },
@@ -5416,7 +5377,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/13efa35e-412c-45f0-8766-7439d6ae3142.jpeg?v=1788541840858",
     "leader_name": "MAO ZEDONG",
-    "member_count": 28,
+    "member_count": 29,
     "province_name": "Cava",
     "country_name": "Republik Indonesia Serikat"
   },
@@ -5624,7 +5585,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a4bce509-0c8f-4ca7-8475-b35335c0c7ee.jpeg?v=1788757021413",
     "leader_name": "BoyHitman.",
-    "member_count": 5,
+    "member_count": 10,
     "province_name": "Kalimantan",
     "country_name": "Republik Indonesia Serikat"
   },
@@ -5689,7 +5650,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/a227e3ec-82cf-4149-9c9e-8aee1b8e5f07.jpeg?v=1784031051069",
     "leader_name": "Anbar",
-    "member_count": 20,
+    "member_count": 21,
     "province_name": "Sumatra",
     "country_name": "Republik Indonesia Serikat"
   },
@@ -5793,7 +5754,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/44a1ea82-833d-4105-a1ac-d1a48d52cee1.jpeg?v=1788886162531",
     "leader_name": "whit3warrior",
-    "member_count": 63,
+    "member_count": 56,
     "province_name": "Roma",
     "country_name": "Repvbblica Italiana"
   },
@@ -5936,7 +5897,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/b75a7b74-c070-4174-8e5d-47a94f960cf4.jpeg?v=1786628526628",
     "leader_name": "Fabione",
-    "member_count": 60,
+    "member_count": 61,
     "province_name": "Napoli",
     "country_name": "Repvbblica Italiana"
   },
@@ -6014,7 +5975,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/fc2fe56c-8137-4450-a936-598387464dac.jpeg?v=1786291257812",
     "leader_name": "G4Zi_1",
-    "member_count": 54,
+    "member_count": 55,
     "province_name": "Altay",
     "country_name": "STEPPE KHAGANATE"
   },
@@ -6027,7 +5988,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/0e8705c4-0525-425c-bf0c-d51f0019bdbd.jpeg",
     "leader_name": "İlteriş Doğan",
-    "member_count": 26,
+    "member_count": 29,
     "province_name": "Altay",
     "country_name": "STEPPE KHAGANATE"
   },
@@ -6053,8 +6014,21 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/04336060-f89b-4cba-bdfa-57d1904bee19.jpeg?v=1788770353275",
     "leader_name": "YILDIZ",
-    "member_count": 16,
+    "member_count": 17,
     "province_name": "Bağdat",
+    "country_name": "STEPPE KHAGANATE"
+  },
+  {
+    "id": "c969643e-b627-4b24-a090-37c84afa3f69",
+    "party_number": 4503,
+    "name": "Azərbaycan dövlət Partiyasi",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c969643e-b627-4b24-a090-37c84afa3f69.jpeg?v=1788884602640",
+    "leader_name": "Mr. Tony Stark",
+    "member_count": 5,
+    "province_name": "Kaliforniya",
     "country_name": "STEPPE KHAGANATE"
   },
   {
@@ -6079,19 +6053,6 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/b9b18105-f94f-42d9-ba82-6885eded099e.jpeg?v=1788006532541",
     "leader_name": "Solarias",
-    "member_count": 2,
-    "province_name": "Kaliforniya",
-    "country_name": "STEPPE KHAGANATE"
-  },
-  {
-    "id": "c969643e-b627-4b24-a090-37c84afa3f69",
-    "party_number": 4503,
-    "name": "Azərbaycan dövlət Partiyasi",
-    "ideology": null,
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c969643e-b627-4b24-a090-37c84afa3f69.jpeg?v=1788884602640",
-    "leader_name": "Mr. Tony Stark",
     "member_count": 2,
     "province_name": "Kaliforniya",
     "country_name": "STEPPE KHAGANATE"
@@ -6183,7 +6144,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/282d1bf4-6199-4532-9e85-47f235a0b65d.jpeg?v=1787329536165",
     "leader_name": "Necmettin_Erbakan",
-    "member_count": 35,
+    "member_count": 36,
     "province_name": "Tibet",
     "country_name": "Tibet İslam Devleti"
   },
@@ -6298,7 +6259,7 @@
     "ideology": "komünizm",
     "abbreviation": "RGB",
     "is_open": true,
-    "logo_url": null,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/4dc36ca8-979c-4ba1-a977-fd784df2f5ed.jpeg?v=1788898682849",
     "leader_name": "Orel",
     "member_count": 1,
     "province_name": "Moskova",
@@ -6313,7 +6274,7 @@
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8efa7eac-9170-4c3a-a4e7-1075819d1b9d.jpeg?v=1786182585642",
     "leader_name": "King Ragnar",
-    "member_count": 30,
+    "member_count": 29,
     "province_name": "St. Petersburg",
     "country_name": "Valgora Lejyon Devleti"
   },
@@ -6324,7 +6285,7 @@
     "ideology": "milliyetçilik",
     "abbreviation": "BR",
     "is_open": true,
-    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8adc405c-7a51-4ec8-b9b7-16d6a5477e38.jpeg?v=1788782570451",
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/8adc405c-7a51-4ec8-b9b7-16d6a5477e38.jpeg?v=1788897838429",
     "leader_name": "VLADİMİR PUTİŇ",
     "member_count": 12,
     "province_name": "St. Petersburg",
@@ -6352,20 +6313,20 @@
     "is_open": true,
     "logo_url": null,
     "leader_name": "OP",
-    "member_count": 3,
+    "member_count": 4,
     "province_name": "Fas",
     "country_name": "المملكة المغربية"
   },
   {
     "id": "d651b29a-643f-42e4-9167-4c64201ac29a",
     "party_number": 2858,
-    "name": "جامعة الدول العربية",
+    "name": "فرسان ليبيا | Knights of Libya",
     "ideology": "monarşizm",
-    "abbreviation": "LOAS",
+    "abbreviation": "KL",
     "is_open": false,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d651b29a-643f-42e4-9167-4c64201ac29a.jpeg?v=1785440265679",
     "leader_name": "Levi Ackermann",
-    "member_count": 55,
+    "member_count": 56,
     "province_name": "Libya",
     "country_name": "دولة ليبيا"
   },
@@ -6391,7 +6352,20 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e7057feb-8673-4ea8-ad7c-9e72f105bd1b.jpeg?v=1787435245779",
     "leader_name": "يحيـى ٢٩",
-    "member_count": 5,
+    "member_count": 6,
+    "province_name": "Libya",
+    "country_name": "دولة ليبيا"
+  },
+  {
+    "id": "c0fdd04e-f8db-47e4-9dd6-fd2bb85a3623",
+    "party_number": 4517,
+    "name": "حزب البعث",
+    "ideology": "komünizm",
+    "abbreviation": "PCI",
+    "is_open": true,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/c0fdd04e-f8db-47e4-9dd6-fd2bb85a3623.jpeg?v=1788901235074",
+    "leader_name": "صدام حسين",
+    "member_count": 3,
     "province_name": "Libya",
     "country_name": "دولة ليبيا"
   },
@@ -6487,19 +6461,6 @@
     "country_name": null
   },
   {
-    "id": "937da75d-b378-44c7-b712-95092ce04618",
-    "party_number": 4441,
-    "name": "Merdeka",
-    "ideology": null,
-    "abbreviation": null,
-    "is_open": true,
-    "logo_url": null,
-    "leader_name": "Prince Stevanus",
-    "member_count": 2,
-    "province_name": "Guangzhou",
-    "country_name": null
-  },
-  {
     "id": "be40a002-a814-49a8-8b30-a3ef9959ef70",
     "party_number": 4445,
     "name": "Anti Soerya Coalition",
@@ -6508,6 +6469,19 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/be40a002-a814-49a8-8b30-a3ef9959ef70.jpeg?v=1788854993299",
     "leader_name": "FireDance",
+    "member_count": 3,
+    "province_name": "Guangzhou",
+    "country_name": null
+  },
+  {
+    "id": "937da75d-b378-44c7-b712-95092ce04618",
+    "party_number": 4441,
+    "name": "Merdeka",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": null,
+    "leader_name": "Prince Stevanus",
     "member_count": 2,
     "province_name": "Guangzhou",
     "country_name": null
@@ -6530,11 +6504,11 @@
     "party_number": 4471,
     "name": "حزب العرب المتحدون",
     "ideology": "milliyetçilik",
-    "abbreviation": null,
+    "abbreviation": "UAP",
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/67699809-2bc4-44d2-ab99-47bbac90bbbc.jpeg?v=1788823344997",
     "leader_name": "Omar el dectator 2",
-    "member_count": 12,
+    "member_count": 17,
     "province_name": "Medine",
     "country_name": null
   },
@@ -6547,7 +6521,7 @@
     "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d2a036ec-9b20-4eb3-874f-6c142bbc0024.jpeg?v=1788875555536",
     "leader_name": "كيلوا زوليدك",
-    "member_count": 10,
+    "member_count": 11,
     "province_name": "Medine",
     "country_name": null
   },
@@ -6570,10 +6544,36 @@
     "name": "Medine Baas Partisi",
     "ideology": "milliyetçilik",
     "abbreviation": "MBP",
-    "is_open": false,
+    "is_open": true,
     "logo_url": "https://diplomacia.com.tr/uploads/party-logos/3a24ba9c-42d6-4d86-ac6f-8b13d53a7d0a.jpeg?v=1788882952832",
     "leader_name": "Naoya",
-    "member_count": 5,
+    "member_count": 7,
+    "province_name": "Medine",
+    "country_name": null
+  },
+  {
+    "id": "f007d67c-4d9e-496a-9e24-2a9f6b0f290c",
+    "party_number": 4519,
+    "name": "طوفان الفراعنة - Pharaohs Storm",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": false,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/f007d67c-4d9e-496a-9e24-2a9f6b0f290c.jpeg?v=1788903056133",
+    "leader_name": "طــوفــان الـقيصــر",
+    "member_count": 3,
+    "province_name": "Medine",
+    "country_name": null
+  },
+  {
+    "id": "fda13bf4-545a-4738-8526-e40101195b4e",
+    "party_number": 4514,
+    "name": "DÜRÜST SİYASET PARTİSİ",
+    "ideology": "milliyetçilik",
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/fda13bf4-545a-4738-8526-e40101195b4e.jpeg?v=1788897542690",
+    "leader_name": "KIPÇAK KIRGIZ",
+    "member_count": 2,
     "province_name": "Medine",
     "country_name": null
   },
@@ -6588,6 +6588,45 @@
     "leader_name": "P E L İ G R O",
     "member_count": 1,
     "province_name": "Medine",
+    "country_name": null
+  },
+  {
+    "id": "d8ad5509-9b01-46a0-9c68-bec87ca8d2da",
+    "party_number": 4513,
+    "name": "UNIÃO IMPERIAL",
+    "ideology": "monarşizm",
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/d8ad5509-9b01-46a0-9c68-bec87ca8d2da.jpeg?v=1788896606332",
+    "leader_name": "Almirante Tamandaré",
+    "member_count": 10,
+    "province_name": "Paris",
+    "country_name": null
+  },
+  {
+    "id": "e1c949da-53ed-4502-8266-87f579bc6391",
+    "party_number": 190,
+    "name": "Milliyetçi Demokrat Parti",
+    "ideology": null,
+    "abbreviation": "MDP",
+    "is_open": true,
+    "logo_url": "https://diplomacia.com.tr/uploads/party-logos/e1c949da-53ed-4502-8266-87f579bc6391.jpeg?v=1780398778906",
+    "leader_name": "OBED",
+    "member_count": 6,
+    "province_name": "Paris",
+    "country_name": null
+  },
+  {
+    "id": "57f9f068-7bd7-44b9-8689-022657909ab4",
+    "party_number": 4515,
+    "name": "Sigma sigma boy sigma boooy",
+    "ideology": null,
+    "abbreviation": null,
+    "is_open": true,
+    "logo_url": null,
+    "leader_name": "Hiram Boratav -Made İn China-",
+    "member_count": 1,
+    "province_name": "Paris",
     "country_name": null
   }
 ]
