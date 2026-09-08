@@ -2,26 +2,26 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Holy Nusavalon Empire",
   "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-  "treasury": 46581426,
+  "treasury": 47580911,
   "country_number": 155,
   "player_count": 180,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Pekin",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 13,
-    "petrol": 13,
-    "nte": 27,
-    "elmas": 28
+    "deri": 25,
+    "altin": 22,
+    "petrol": 18,
+    "nte": 46,
+    "elmas": 32
   },
   "average_scores": {
-    "education": 0,
-    "military": 5,
-    "development": 4.5,
+    "education": 0.7,
+    "military": 6,
+    "development": 4,
     "health": 1
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 101,
+      "player_count": 102,
       "scores": {
         "education": 0,
         "military": 10,
@@ -71,6 +71,30 @@
         "petrol": 8,
         "nte": 17,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 2,
+        "military": 8,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
       }
     }
   ]
