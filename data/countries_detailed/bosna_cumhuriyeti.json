@@ -2,27 +2,27 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-  "treasury": 41226787,
+  "treasury": 42478306,
   "country_number": 113,
-  "player_count": 59,
-  "provinces_count": 4,
+  "player_count": 57,
+  "provinces_count": 3,
   "capital": {
     "name": "Bosna Hersek",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 41,
-    "altin": 36,
-    "petrol": 33,
-    "nte": 32,
-    "elmas": 30
+    "deri": 30,
+    "altin": 26,
+    "petrol": 24,
+    "nte": 24,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 5.5,
+    "education": 5,
     "military": 7,
     "development": 5.3,
-    "health": 5.3
+    "health": 5.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 57,
+      "player_count": 72,
       "scores": {
         "education": 10,
         "military": 9,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 14,
       "scores": {
         "education": 5,
         "military": 3,
@@ -94,30 +94,6 @@
         "altin": 11,
         "petrol": 8,
         "nte": 10,
-        "elmas": 8
-      }
-    },
-    {
-      "name": "Temeşvar",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 12,
-      "scores": {
-        "education": 7,
-        "military": 7,
-        "development": 5,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 10,
-        "petrol": 9,
-        "nte": 8,
         "elmas": 8
       }
     }

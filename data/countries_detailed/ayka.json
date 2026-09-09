@@ -2,14 +2,14 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-  "treasury": 17617636,
+  "treasury": 21819893,
   "country_number": 127,
-  "player_count": 339,
+  "player_count": 342,
   "provinces_count": 9,
   "capital": {
-    "name": "Arnavutluk",
+    "name": "Kosova",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 105,
@@ -26,14 +26,38 @@
   },
   "provinces": [
     {
-      "name": "Arnavutluk",
+      "name": "Kosova",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
+      "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 27,
+      "player_count": 12,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 2,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 10,
+        "petrol": 4,
+        "nte": 10,
+        "elmas": 5
+      }
+    },
+    {
+      "name": "Arnavutluk",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 10,
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 16,
+      "player_count": 14,
       "scores": {
         "education": 2,
         "military": 11,
@@ -122,30 +146,6 @@
       }
     },
     {
-      "name": "Kosova",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 15,
-      "scores": {
-        "education": 0,
-        "military": 7,
-        "development": 2,
-        "health": 6,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 10,
-        "petrol": 4,
-        "nte": 10,
-        "elmas": 5
-      }
-    },
-    {
       "name": "Minnesota",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
@@ -177,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 258,
+      "player_count": 232,
       "scores": {
         "education": 0,
         "military": 10,
@@ -201,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 83,
+      "player_count": 108,
       "scores": {
         "education": 0,
         "military": 10,

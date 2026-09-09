@@ -2,26 +2,26 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 5024238,
+  "treasury": 16391852,
   "country_number": 189,
-  "player_count": 152,
-  "provinces_count": 1,
+  "player_count": 159,
+  "provinces_count": 2,
   "capital": {
     "name": "Omsk",
     "icon": "🌲",
     "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 7,
-    "petrol": 14,
-    "nte": 8,
-    "elmas": 8
+    "deri": 22,
+    "altin": 17,
+    "petrol": 23,
+    "nte": 16,
+    "elmas": 16
   },
   "average_scores": {
-    "education": 6,
-    "military": 3,
-    "development": 6,
+    "education": 6.5,
+    "military": 5,
+    "development": 5.5,
     "health": 4
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 176,
+      "player_count": 178,
       "scores": {
         "education": 6,
         "military": 3,
@@ -45,6 +45,30 @@
         "deri": 11,
         "altin": 7,
         "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Temeşvar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 16,
+      "scores": {
+        "education": 7,
+        "military": 7,
+        "development": 5,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 10,
+        "petrol": 9,
         "nte": 8,
         "elmas": 8
       }
