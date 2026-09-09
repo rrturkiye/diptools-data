@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 83804723,
+  "treasury": 84323265,
   "country_number": 135,
-  "player_count": 76,
-  "provinces_count": 4,
+  "player_count": 77,
+  "provinces_count": 3,
   "capital": {
     "name": "Moskova",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 31,
-    "altin": 29,
-    "petrol": 41,
-    "nte": 31,
-    "elmas": 55
+    "deri": 24,
+    "altin": 22,
+    "petrol": 32,
+    "nte": 21,
+    "elmas": 43
   },
   "average_scores": {
     "education": 1,
-    "military": 4.5,
+    "military": 3.3,
     "development": 6.3,
-    "health": 3.8
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 60,
+      "player_count": 58,
       "scores": {
         "education": 1,
         "military": 4,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 47,
+      "player_count": 48,
       "scores": {
         "education": 0,
         "military": 6,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 48,
+      "player_count": 41,
       "scores": {
         "education": 2,
         "military": 0,
@@ -95,30 +95,6 @@
         "petrol": 9,
         "nte": 6,
         "elmas": 11
-      }
-    },
-    {
-      "name": "St. Petersburg",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
-      "region": "Kuzeybatı (Baltık kıyısı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 50,
-      "scores": {
-        "education": 1,
-        "military": 8,
-        "development": 6,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 7,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 12
       }
     }
   ]

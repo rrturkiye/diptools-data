@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
   "treasury": 7003720,
   "country_number": 157,
-  "player_count": 60,
-  "provinces_count": 1,
+  "player_count": 50,
+  "provinces_count": 2,
   "capital": {
     "name": "Kuveyt",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 3,
-    "altin": 8,
-    "petrol": 17,
-    "nte": 4,
-    "elmas": 15
+    "deri": 14,
+    "altin": 13,
+    "petrol": 21,
+    "nte": 22,
+    "elmas": 25
   },
   "average_scores": {
-    "education": 1,
-    "military": 1,
-    "development": 5,
-    "health": 3
+    "education": 4,
+    "military": 4.5,
+    "development": 3,
+    "health": 1.5
   },
   "provinces": [
     {
@@ -38,7 +38,7 @@
         "education": 1,
         "military": 1,
         "development": 5,
-        "health": 3,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -47,6 +47,30 @@
         "petrol": 17,
         "nte": 4,
         "elmas": 15
+      }
+    },
+    {
+      "name": "Guiyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 49,
+      "scores": {
+        "education": 7,
+        "military": 8,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 18,
+        "elmas": 10
       }
     }
   ]

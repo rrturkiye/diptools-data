@@ -2,27 +2,27 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1788849164804.jpeg",
-  "treasury": 63854361,
+  "treasury": 64926361,
   "country_number": 106,
-  "player_count": 136,
-  "provinces_count": 4,
+  "player_count": 137,
+  "provinces_count": 3,
   "capital": {
     "name": "Singapur",
     "icon": "🦁",
     "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 29,
-    "altin": 41,
-    "petrol": 33,
-    "nte": 51,
-    "elmas": 49
+    "deri": 18,
+    "altin": 36,
+    "petrol": 29,
+    "nte": 33,
+    "elmas": 39
   },
   "average_scores": {
-    "education": 1.8,
-    "military": 2,
-    "development": 3.5,
-    "health": 2.3
+    "education": 0,
+    "military": 0,
+    "development": 4.3,
+    "health": 2.7
   },
   "provinces": [
     {
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Guiyang",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 57,
-      "scores": {
-        "education": 7,
-        "military": 8,
-        "development": 1,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 5,
-        "petrol": 4,
-        "nte": 18,
-        "elmas": 10
-      }
-    },
-    {
       "name": "Papua",
       "icon": "🌿",
       "coat_url": "https://diplomacia.com.tr/coats/papua.png?v=3",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 33,
+      "player_count": 34,
       "scores": {
         "education": 0,
         "military": 0,
@@ -105,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 168,
+      "player_count": 157,
       "scores": {
         "education": 0,
         "military": 0,
