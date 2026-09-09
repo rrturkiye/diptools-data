@@ -4,25 +4,25 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
   "treasury": 302804624,
   "country_number": 92,
-  "player_count": 281,
-  "provinces_count": 2,
+  "player_count": 280,
+  "provinces_count": 1,
   "capital": {
     "name": "Georgia",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/georgia.png"
   },
   "total_resource_bonuses": {
-    "deri": 26,
-    "altin": 19,
-    "petrol": 13,
-    "nte": 20,
-    "elmas": 24
+    "deri": 9,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 10,
+    "elmas": 13
   },
   "average_scores": {
     "education": 0,
-    "military": 5.5,
-    "development": 3.5,
-    "health": 2
+    "military": 1,
+    "development": 1,
+    "health": 0
   },
   "provinces": [
     {
@@ -47,30 +47,6 @@
         "petrol": 5,
         "nte": 10,
         "elmas": 13
-      }
-    },
-    {
-      "name": "Jalisco",
-      "icon": "🎺",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Batı Meksika (Guadalajara)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 165,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 6,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 17,
-        "altin": 12,
-        "petrol": 8,
-        "nte": 10,
-        "elmas": 11
       }
     }
   ]

@@ -2,26 +2,26 @@
   "id": "4bb0bb5c-9fc0-497b-ad20-eaa24840eba7",
   "name": "México Oriental",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4bb0bb5c-9fc0-497b-ad20-eaa24840eba7-1787593503893.jpeg",
-  "treasury": 176832555,
+  "treasury": 177985295,
   "country_number": 165,
-  "player_count": 151,
-  "provinces_count": 2,
+  "player_count": 153,
+  "provinces_count": 1,
   "capital": {
     "name": "Chiapas",
     "icon": "🌿",
     "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 25,
-    "petrol": 24,
-    "nte": 25,
-    "elmas": 20
+    "deri": 10,
+    "altin": 12,
+    "petrol": 13,
+    "nte": 12,
+    "elmas": 6
   },
   "average_scores": {
-    "education": 5,
+    "education": 9,
     "military": 10,
-    "development": 2,
+    "development": 1,
     "health": 1
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 113,
+      "player_count": 127,
       "scores": {
         "education": 9,
         "military": 10,
@@ -47,30 +47,6 @@
         "petrol": 13,
         "nte": 12,
         "elmas": 6
-      }
-    },
-    {
-      "name": "Meksiko",
-      "icon": "🌮",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Orta Amerika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 186,
-      "scores": {
-        "education": 1,
-        "military": 10,
-        "development": 3,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 13,
-        "petrol": 11,
-        "nte": 13,
-        "elmas": 14
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 3,
+  "provinces_count": 4,
   "provinces": [
     {
       "name": "Guangzhou",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 235,
+      "player_count": 234,
       "scores": {
         "education": 8,
         "military": 10,
@@ -27,6 +27,30 @@
       }
     },
     {
+      "name": "Jalisco",
+      "icon": "🎺",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-09T15:15:36.479Z",
+      "player_count": 158,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 12,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 11
+      }
+    },
+    {
       "name": "Medine",
       "icon": "🕌",
       "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
@@ -34,7 +58,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-07T21:32:05.811Z",
-      "player_count": 159,
+      "player_count": 157,
       "scores": {
         "education": 3,
         "military": 1,
@@ -58,7 +82,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-08T19:21:41.214Z",
-      "player_count": 182,
+      "player_count": 193,
       "scores": {
         "education": 0,
         "military": 10,

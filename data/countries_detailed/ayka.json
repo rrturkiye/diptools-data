@@ -2,7 +2,7 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1786687136019.png",
-  "treasury": 21819893,
+  "treasury": 40739650,
   "country_number": 127,
   "player_count": 342,
   "provinces_count": 9,
@@ -12,17 +12,17 @@
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 105,
-    "altin": 92,
-    "petrol": 81,
-    "nte": 79,
-    "elmas": 80
+    "deri": 102,
+    "altin": 88,
+    "petrol": 83,
+    "nte": 82,
+    "elmas": 87
   },
   "average_scores": {
-    "education": 0.7,
+    "education": 0.8,
     "military": 8.1,
-    "development": 3,
-    "health": 3.9
+    "development": 3.1,
+    "health": 4
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 33,
+      "player_count": 32,
       "scores": {
         "education": 0,
         "military": 10,
@@ -129,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 2,
+      "player_count": 3,
       "scores": {
         "education": 0,
         "military": 8,
@@ -146,6 +146,30 @@
       }
     },
     {
+      "name": "Meksiko",
+      "icon": "🌮",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Orta Amerika",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 210,
+      "scores": {
+        "education": 1,
+        "military": 10,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 13,
+        "petrol": 11,
+        "nte": 13,
+        "elmas": 14
+      }
+    },
+    {
       "name": "Minnesota",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
@@ -158,7 +182,7 @@
         "education": 4,
         "military": 2,
         "development": 5,
-        "health": 4,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -170,30 +194,6 @@
       }
     },
     {
-      "name": "Sinaloa",
-      "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 232,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 1,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 17,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 7
-      }
-    },
-    {
       "name": "Teksas",
       "icon": "🤠",
       "coat_url": "https://diplomacia.com.tr/coats/texas.png?v=3",
@@ -201,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 108,
+      "player_count": 83,
       "scores": {
         "education": 0,
         "military": 10,

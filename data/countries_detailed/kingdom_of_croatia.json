@@ -2,27 +2,27 @@
   "id": "86ab9188-3b20-4d6d-a081-77659c900a9b",
   "name": "Kingdom of Croatia",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1788349386206.jpeg",
-  "treasury": 1395207,
+  "treasury": 17046207,
   "country_number": 149,
   "player_count": 34,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Hırvatistan",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 8,
-    "altin": 7,
-    "petrol": 8,
-    "nte": 7,
-    "elmas": 10
+    "deri": 18,
+    "altin": 18,
+    "petrol": 16,
+    "nte": 17,
+    "elmas": 18
   },
   "average_scores": {
-    "education": 6,
-    "military": 5,
-    "development": 5,
-    "health": 5
+    "education": 3,
+    "military": 6,
+    "development": 4,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 32,
+      "player_count": 35,
       "scores": {
         "education": 6,
         "military": 5,
@@ -47,6 +47,30 @@
         "petrol": 8,
         "nte": 7,
         "elmas": 10
+      }
+    },
+    {
+      "name": "Sırbistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 20,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 3,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 11,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 8
       }
     }
   ]
