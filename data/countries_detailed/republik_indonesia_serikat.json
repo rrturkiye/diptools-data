@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 212661482,
+  "treasury": 217424237,
   "country_number": 54,
-  "player_count": 1198,
-  "provinces_count": 5,
+  "player_count": 1200,
+  "provinces_count": 6,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 30,
-    "altin": 73,
-    "petrol": 57,
-    "nte": 67,
-    "elmas": 37
+    "deri": 35,
+    "altin": 85,
+    "petrol": 72,
+    "nte": 81,
+    "elmas": 42
   },
   "average_scores": {
-    "education": 1.8,
-    "military": 1.8,
-    "development": 4.4,
-    "health": 1.8
+    "education": 2.5,
+    "military": 2,
+    "development": 3.8,
+    "health": 1.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 660,
+      "player_count": 663,
       "scores": {
         "education": 6,
         "military": 0,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 29,
+      "player_count": 32,
       "scores": {
         "education": 0,
         "military": 0,
@@ -95,6 +95,30 @@
         "petrol": 11,
         "nte": 14,
         "elmas": 3
+      }
+    },
+    {
+      "name": "Sabah",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/sabah.png?v=3",
+      "region": "Doğu Malezya (Borneo Kuzey)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 65,
+      "scores": {
+        "education": 6,
+        "military": 3,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 12,
+        "petrol": 15,
+        "nte": 14,
+        "elmas": 5
       }
     },
     {
@@ -129,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 150,
+      "player_count": 153,
       "scores": {
         "education": 3,
         "military": 1,
