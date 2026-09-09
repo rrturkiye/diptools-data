@@ -4,12 +4,12 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
   "treasury": 7003720,
   "country_number": 157,
-  "player_count": 50,
+  "player_count": 83,
   "provinces_count": 2,
   "capital": {
-    "name": "Kuveyt",
-    "icon": "🛢️",
-    "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3"
+    "name": "Guiyang",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
     "deri": 14,
@@ -19,23 +19,47 @@
     "elmas": 25
   },
   "average_scores": {
-    "education": 4,
-    "military": 4.5,
+    "education": 3.5,
+    "military": 4,
     "development": 3,
     "health": 1.5
   },
   "provinces": [
     {
+      "name": "Guiyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 80,
+      "scores": {
+        "education": 7,
+        "military": 7,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 18,
+        "elmas": 10
+      }
+    },
+    {
       "name": "Kuveyt",
       "icon": "🛢️",
       "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
       "region": "Basra Körfezi Başı",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
       "player_count": 11,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 1,
         "development": 5,
         "health": 2,
@@ -47,30 +71,6 @@
         "petrol": 17,
         "nte": 4,
         "elmas": 15
-      }
-    },
-    {
-      "name": "Guiyang",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 49,
-      "scores": {
-        "education": 7,
-        "military": 8,
-        "development": 1,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 5,
-        "petrol": 4,
-        "nte": 18,
-        "elmas": 10
       }
     }
   ]
