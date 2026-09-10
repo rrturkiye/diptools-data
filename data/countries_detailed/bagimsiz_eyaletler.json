@@ -1,29 +1,149 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 5,
+  "provinces_count": 15,
   "provinces": [
     {
-      "name": "Guangzhou",
+      "name": "Belém",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
+      "coat_url": "https://diplomacia.com.tr/coats/belem.png?v=3",
+      "region": "Kuzey Brezilya",
       "is_capital": false,
       "is_independent": true,
-      "independence_date": "2026-09-06T16:03:22.834Z",
-      "player_count": 172,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 10,
       "scores": {
-        "education": 8,
-        "military": 10,
-        "development": 4,
+        "education": 0,
+        "military": 0,
+        "development": 0,
         "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
         "deri": 8,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 12,
-        "elmas": 18
+        "altin": 12,
+        "petrol": 6,
+        "nte": 16,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Bingazi",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 5,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 5,
+        "petrol": 18,
+        "nte": 5,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "Curitiba",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/curitiba.png?v=3",
+      "region": "Güney Brezilya",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 1,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 5,
+        "petrol": 6,
+        "nte": 8,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Floransa",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/floransa.png?v=3",
+      "region": "Avrupa",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 13,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 10,
+        "petrol": 4,
+        "nte": 5,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Fortaleza",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
+      "region": "Kuzeydoğu Brezilya",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 1,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "İskenderiye",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3",
+      "region": "Kuzey Mısır",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 31,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 5,
+        "petrol": 12,
+        "nte": 7,
+        "elmas": 13
       }
     },
     {
@@ -34,7 +154,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T15:15:36.479Z",
-      "player_count": 160,
+      "player_count": 167,
       "scores": {
         "education": 0,
         "military": 10,
@@ -51,6 +171,30 @@
       }
     },
     {
+      "name": "Marakeş",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/fas.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 14,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Medine",
       "icon": "🕌",
       "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
@@ -58,7 +202,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-07T21:32:05.811Z",
-      "player_count": 177,
+      "player_count": 184,
       "scores": {
         "education": 2,
         "military": 1,
@@ -75,6 +219,54 @@
       }
     },
     {
+      "name": "Oran",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/cezayir.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 5,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 6,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Palermo",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/palermo.png?v=3",
+      "region": "Avrupa",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 7,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 5,
+        "petrol": 8,
+        "nte": 6,
+        "elmas": 6
+      }
+    },
+    {
       "name": "Paris",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
@@ -82,7 +274,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-08T19:21:41.214Z",
-      "player_count": 196,
+      "player_count": 195,
       "scores": {
         "education": 0,
         "military": 10,
@@ -99,6 +291,30 @@
       }
     },
     {
+      "name": "Rio de Janeiro",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/riodejaneiro.png?v=3",
+      "region": "Güneydoğu Brezilya",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 10,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 16,
+        "nte": 7,
+        "elmas": 12
+      }
+    },
+    {
       "name": "St. Petersburg",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
@@ -106,7 +322,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T18:13:45.425Z",
-      "player_count": 230,
+      "player_count": 237,
       "scores": {
         "education": 1,
         "military": 8,
@@ -120,6 +336,30 @@
         "petrol": 9,
         "nte": 10,
         "elmas": 12
+      }
+    },
+    {
+      "name": "Venedik",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/venedik.png?v=3",
+      "region": "Avrupa",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-10T17:10:34.550Z",
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 6,
+        "nte": 7,
+        "elmas": 14
       }
     }
   ]

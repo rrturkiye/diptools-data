@@ -1,0 +1,125 @@
+{
+  "id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481",
+  "name": "Azteca İmparatorluğu",
+  "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+  "treasury": 846000,
+  "country_number": 193,
+  "player_count": 5,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Monterrey",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 37,
+    "altin": 37,
+    "petrol": 30,
+    "nte": 34,
+    "elmas": 42
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Monterrey",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Kuzeydoğu Meksika",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 3,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 7,
+        "petrol": 13,
+        "nte": 10,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Acapulco",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Güney Meksika (Pasifik)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 0,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 13,
+        "petrol": 5,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Guadalajara",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 1,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 7,
+        "elmas": 10
+      }
+    },
+    {
+      "name": "Tijuana",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Baja Kaliforniya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 1,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 11
+      }
+    }
+  ]
+}

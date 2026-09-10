@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "Peru",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1788976534469.png",
-  "treasury": 57750908,
+  "treasury": 70722421,
   "country_number": 127,
-  "player_count": 327,
-  "provinces_count": 9,
+  "player_count": 477,
+  "provinces_count": 10,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 102,
-    "altin": 88,
-    "petrol": 83,
-    "nte": 82,
-    "elmas": 87
+    "deri": 112,
+    "altin": 100,
+    "petrol": 96,
+    "nte": 94,
+    "elmas": 93
   },
   "average_scores": {
-    "education": 0.7,
+    "education": 1.4,
     "military": 8.1,
-    "development": 3.1,
-    "health": 3.7
+    "development": 2.9,
+    "health": 3.4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 12,
       "scores": {
         "education": 0,
         "military": 7,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 23,
       "scores": {
         "education": 0,
         "military": 10,
@@ -98,6 +98,30 @@
       }
     },
     {
+      "name": "Chiapas",
+      "icon": "🌿",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Güneydoğu Meksika",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 130,
+      "scores": {
+        "education": 8,
+        "military": 8,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 12,
+        "petrol": 13,
+        "nte": 12,
+        "elmas": 6
+      }
+    },
+    {
       "name": "Colorado",
       "icon": "🏔️",
       "coat_url": "https://diplomacia.com.tr/coats/colorado.png?v=3",
@@ -105,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 19,
       "scores": {
         "education": 2,
         "military": 11,
@@ -153,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 260,
+      "player_count": 240,
       "scores": {
         "education": 0,
         "military": 10,
