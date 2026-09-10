@@ -110,7 +110,7 @@
     },
     "Lombardiya": {
       "education": 9,
-      "military": 4,
+      "military": 3,
       "development": 9,
       "health": 10
     },
@@ -201,7 +201,7 @@
     "Temeşvar": {
       "education": 8,
       "military": 7,
-      "development": 6,
+      "development": 7,
       "health": 4
     },
     "Filistin": {
@@ -226,7 +226,7 @@
       "education": 7,
       "military": 5,
       "development": 4,
-      "health": 2
+      "health": 3
     },
     "Kandahar": {
       "education": 7,
@@ -296,7 +296,7 @@
     },
     "Musul": {
       "education": 6,
-      "military": 4,
+      "military": 3,
       "development": 1,
       "health": 4
     },
@@ -362,7 +362,7 @@
     },
     "Huzistan": {
       "education": 5,
-      "military": 3,
+      "military": 6,
       "development": 5,
       "health": 10
     },
@@ -422,7 +422,7 @@
     },
     "Nahçıvan": {
       "education": 4,
-      "military": 4,
+      "military": 3,
       "development": 5,
       "health": 5
     },
@@ -450,26 +450,20 @@
       "development": 1,
       "health": 2
     },
-    "New York": {
-      "education": 4,
-      "military": 1,
-      "development": 4,
-      "health": 3
-    },
     "Amasya": {
-      "education": 3,
+      "education": 4,
       "military": 5,
       "development": 10,
       "health": 10
     },
     "İstanbul": {
-      "education": 3,
+      "education": 4,
       "military": 3,
       "development": 8,
       "health": 6
     },
     "Pavlodar": {
-      "education": 3,
+      "education": 4,
       "military": 2,
       "development": 4,
       "health": 1
@@ -489,7 +483,7 @@
     "Altay": {
       "education": 3,
       "military": 6,
-      "development": 3,
+      "development": 4,
       "health": 0
     },
     "Erzincan": {
@@ -521,6 +515,12 @@
       "military": 2,
       "development": 6,
       "health": 6
+    },
+    "New York": {
+      "education": 3,
+      "military": 1,
+      "development": 3,
+      "health": 2
     },
     "Aktöbe": {
       "education": 2,
@@ -573,7 +573,7 @@
     "Halep": {
       "education": 2,
       "military": 7,
-      "development": 7,
+      "development": 6,
       "health": 4
     },
     "İngiltere": {
@@ -639,7 +639,7 @@
     "Karakalpakstan": {
       "education": 1,
       "military": 6,
-      "development": 7,
+      "development": 6,
       "health": 5
     },
     "Şincan": {
@@ -653,6 +653,12 @@
       "military": 2,
       "development": 6,
       "health": 7
+    },
+    "Umman": {
+      "education": 1,
+      "military": 1,
+      "development": 2,
+      "health": 1
     },
     "Valencia": {
       "education": 1,
@@ -858,12 +864,6 @@
       "development": 9,
       "health": 7
     },
-    "Solomon Adaları": {
-      "education": 0,
-      "military": 6,
-      "development": 4,
-      "health": 2
-    },
     "Alaska": {
       "education": 0,
       "military": 5,
@@ -899,6 +899,12 @@
       "military": 5,
       "development": 4,
       "health": 1
+    },
+    "Solomon Adaları": {
+      "education": 0,
+      "military": 4,
+      "development": 3,
+      "health": 2
     },
     "Diyarbakır": {
       "education": 0,
@@ -1056,17 +1062,17 @@
       "development": 7,
       "health": 8
     },
-    "Araucanía": {
-      "education": 0,
-      "military": 0,
-      "development": 7,
-      "health": 10
-    },
     "Santiago": {
       "education": 0,
       "military": 0,
-      "development": 6,
+      "development": 7,
       "health": 8
+    },
+    "Araucanía": {
+      "education": 0,
+      "military": 0,
+      "development": 6,
+      "health": 10
     },
     "Pennsylvania": {
       "education": 0,
@@ -1095,7 +1101,7 @@
     "Herat": {
       "education": 0,
       "military": 0,
-      "development": 3,
+      "development": 4,
       "health": 2
     },
     "Yemen": {
@@ -1105,12 +1111,6 @@
       "health": 1
     },
     "Papua Yeni Gine": {
-      "education": 0,
-      "military": 0,
-      "development": 2,
-      "health": 0
-    },
-    "Umman": {
       "education": 0,
       "military": 0,
       "development": 2,

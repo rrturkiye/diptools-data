@@ -2,27 +2,27 @@
   "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
   "name": "Imperi Galàctic Català",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-  "treasury": 3743434,
+  "treasury": 12080821,
   "country_number": 99,
-  "player_count": 235,
-  "provinces_count": 2,
+  "player_count": 236,
+  "provinces_count": 3,
   "capital": {
     "name": "Barcelona",
     "icon": "🎨",
     "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 22,
-    "altin": 10,
-    "petrol": 15,
-    "nte": 14,
-    "elmas": 26
+    "deri": 28,
+    "altin": 17,
+    "petrol": 19,
+    "nte": 20,
+    "elmas": 46
   },
   "average_scores": {
-    "education": 2,
-    "military": 8,
-    "development": 6,
-    "health": 4.5
+    "education": 2.3,
+    "military": 5.7,
+    "development": 5,
+    "health": 3.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 143,
+      "player_count": 146,
       "scores": {
         "education": 0,
         "military": 9,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 81,
+      "player_count": 76,
       "scores": {
         "education": 4,
         "military": 7,
@@ -71,6 +71,30 @@
         "petrol": 8,
         "nte": 5,
         "elmas": 11
+      }
+    },
+    {
+      "name": "New York",
+      "icon": "🗽",
+      "coat_url": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "region": "Kuzeydoğu (Atlantik Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 17,
+      "scores": {
+        "education": 3,
+        "military": 1,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 20
       }
     }
   ]

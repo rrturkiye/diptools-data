@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "USA": "#0f0750",
-    "IND": "#d57120"
+    "IND": "#d57120",
+    "USA": "#0f0750"
   },
   "provinceOwners": {
     "Mora": {
@@ -258,7 +258,7 @@
     },
     "Astana": {
       "code": null,
-      "color": "#ec9b32",
+      "color": "#07075a",
       "name": "Astana Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788370989018.jpeg",
@@ -509,7 +509,7 @@
     },
     "Kueta": {
       "code": null,
-      "color": "#a3a7c2",
+      "color": "#4cb4f0",
       "name": "40 kuruşluk devlet",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/168c75a4-277b-4996-b9e8-d70070be7748-1786945523457.jpeg",
@@ -555,9 +555,9 @@
     "Mary": {
       "code": null,
       "color": "#1498b3",
-      "name": "ORESTA  GÖKTÜRK DEVLETİ",
+      "name": "Aladeron",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788815046738.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789046865872.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "countryId": "cbe20b56-34d7-4b08-abdb-b9794ee2544d"
     },
@@ -686,15 +686,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/alaska.png?v=3",
       "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
-    },
-    "New York": {
-      "code": null,
-      "color": "#a3c0c2",
-      "name": "🌎 GLOBAL CAPITAL RESERVE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
-      "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
     "Guangzhou": {
       "code": null,
@@ -856,6 +847,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
       "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
       "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
+    },
+    "New York": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Imperi Galàctic Català",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
     },
     "Ermenistan": {
       "code": null,
@@ -1028,15 +1028,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
       "countryId": "7f0c0ac2-db98-4d71-a9ca-95051310492e"
     },
-    "Sabah": {
-      "code": null,
-      "color": "#e39c16",
-      "name": "Republik Indonesia Serikat",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/sabah.png?v=3",
-      "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
-    },
     "Kolombiya": {
       "code": null,
       "color": "#d4af35",
@@ -1046,14 +1037,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "countryId": "bdb0966b-bd04-401b-8d01-8621df11c96b"
     },
-    "Solomon Adaları": {
+    "Sabah": {
       "code": null,
-      "color": "#e39c16",
-      "name": "Republik Indonesia Serikat",
+      "color": "#3e7079",
+      "name": "Federation of Mahawangsa",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
-      "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1390cf4d-aec6-4029-960c-6662c587bde7-1788694967002.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/sabah.png?v=3",
+      "countryId": "1390cf4d-aec6-4029-960c-6662c587bde7"
     },
     "Azerbaycan": {
       "code": null,
@@ -1143,6 +1134,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/13ec96ba-f86f-4e41-9103-9ad475be7896-1788346212199.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/huzistan.png?v=3",
       "countryId": "13ec96ba-f86f-4e41-9103-9ad475be7896"
+    },
+    "Solomon Adaları": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Holy Nusavalon Empire",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
     },
     "Buenos Aires": {
       "code": null,
@@ -1288,7 +1288,7 @@
       "coatUrl": "https://diplomacia.com.tr/coats/erzincan.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
-    "Kuzey Kıbrıs Türk Cumhuriyeti": {
+    "Kuzey K��brıs Türk Cumhuriyeti": {
       "code": null,
       "color": "#4e134e",
       "name": "Kıbrıs kutsal Latin İmparatorluğu",
