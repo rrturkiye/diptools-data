@@ -2,27 +2,27 @@
   "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
   "name": "Basileia Romaion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-  "treasury": 250006413,
+  "treasury": 6628,
   "country_number": 37,
-  "player_count": 47,
-  "provinces_count": 5,
+  "player_count": 45,
+  "provinces_count": 4,
   "capital": {
     "name": "Atina",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 37,
-    "altin": 44,
-    "petrol": 37,
-    "nte": 34,
-    "elmas": 55
+    "deri": 29,
+    "altin": 33,
+    "petrol": 31,
+    "nte": 26,
+    "elmas": 44
   },
   "average_scores": {
-    "education": 2.2,
-    "military": 3.2,
-    "development": 0.4,
-    "health": 0.4
+    "education": 2.8,
+    "military": 4,
+    "development": 0.5,
+    "health": 0.5
   },
   "provinces": [
     {
@@ -98,30 +98,6 @@
       }
     },
     {
-      "name": "Sofya",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 7,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 11,
-        "petrol": 6,
-        "nte": 8,
-        "elmas": 11
-      }
-    },
-    {
       "name": "Varna",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/varna.png?v=3",
@@ -129,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 9,
       "scores": {
         "education": 0,
         "military": 1,

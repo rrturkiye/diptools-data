@@ -2,9 +2,9 @@
   "id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481",
   "name": "Azteca İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-  "treasury": 846000,
+  "treasury": 300846000,
   "country_number": 193,
-  "player_count": 5,
+  "player_count": 12,
   "provinces_count": 4,
   "capital": {
     "name": "Monterrey",
@@ -16,7 +16,7 @@
     "altin": 37,
     "petrol": 30,
     "nte": 34,
-    "elmas": 42
+    "elmas": 50
   },
   "average_scores": {
     "education": 0,
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 4,
       "scores": {
         "education": 0,
         "military": 0,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1,
+      "player_count": 0,
       "scores": {
         "education": 0,
         "military": 0,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1,
+      "player_count": 6,
       "scores": {
         "education": 0,
         "military": 0,
@@ -118,7 +118,7 @@
         "altin": 8,
         "petrol": 7,
         "nte": 9,
-        "elmas": 11
+        "elmas": 19
       }
     }
   ]

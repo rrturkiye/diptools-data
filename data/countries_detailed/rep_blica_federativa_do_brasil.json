@@ -2,9 +2,9 @@
   "id": "4ee14c46-59af-4800-aec7-8c5b07029828",
   "name": "República Federativa do Brasil",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4ee14c46-59af-4800-aec7-8c5b07029828-1782883631599.png",
-  "treasury": 330405649,
+  "treasury": 331437003,
   "country_number": 57,
-  "player_count": 4193,
+  "player_count": 4195,
   "provinces_count": 5,
   "capital": {
     "name": "Brasília",
@@ -16,13 +16,13 @@
     "altin": 56,
     "petrol": 48,
     "nte": 77,
-    "elmas": 56
+    "elmas": 70
   },
   "average_scores": {
     "education": 9.8,
     "military": 8.2,
     "development": 9.4,
-    "health": 9.4
+    "health": 9.6
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 739,
+      "player_count": 738,
       "scores": {
         "education": 10,
         "military": 10,
         "development": 9,
-        "health": 9,
+        "health": 10,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -46,7 +46,7 @@
         "altin": 10,
         "petrol": 7,
         "nte": 15,
-        "elmas": 13
+        "elmas": 19
       }
     },
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 336,
+      "player_count": 325,
       "scores": {
         "education": 9,
         "military": 10,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1076,
+      "player_count": 1068,
       "scores": {
         "education": 10,
         "military": 10,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 691,
+      "player_count": 680,
       "scores": {
         "education": 10,
         "military": 9,
@@ -118,7 +118,7 @@
         "altin": 8,
         "petrol": 8,
         "nte": 11,
-        "elmas": 10
+        "elmas": 18
       }
     },
     {
@@ -129,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 1441,
+      "player_count": 1439,
       "scores": {
         "education": 10,
         "military": 2,

@@ -2,9 +2,9 @@
   "id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
   "name": "República Argentina",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
-  "treasury": 142804153,
+  "treasury": 144812603,
   "country_number": 103,
-  "player_count": 938,
+  "player_count": 941,
   "provinces_count": 4,
   "capital": {
     "name": "Buenos Aires",
@@ -16,12 +16,12 @@
     "altin": 44,
     "petrol": 44,
     "nte": 42,
-    "elmas": 34
+    "elmas": 41
   },
   "average_scores": {
     "education": 4.5,
     "military": 6.3,
-    "development": 8,
+    "development": 7.8,
     "health": 7.8
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 241,
+      "player_count": 240,
       "scores": {
         "education": 8,
         "military": 6,
@@ -46,7 +46,7 @@
         "altin": 8,
         "petrol": 9,
         "nte": 9,
-        "elmas": 12
+        "elmas": 19
       }
     },
     {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 206,
+      "player_count": 208,
       "scores": {
         "education": 7,
         "military": 6,
@@ -109,7 +109,7 @@
       "scores": {
         "education": 2,
         "military": 6,
-        "development": 8,
+        "development": 7,
         "health": 8,
         "health_world_first": false
       },
