@@ -2,27 +2,27 @@
   "id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
   "name": "Repvbblica Italiana",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
-  "treasury": 585376148,
+  "treasury": 497966445,
   "country_number": 119,
-  "player_count": 1097,
-  "provinces_count": 3,
+  "player_count": 1072,
+  "provinces_count": 4,
   "capital": {
     "name": "Roma",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/roma.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 38,
-    "altin": 18,
-    "petrol": 22,
-    "nte": 19,
-    "elmas": 39
+    "deri": 43,
+    "altin": 21,
+    "petrol": 32,
+    "nte": 25,
+    "elmas": 51
   },
   "average_scores": {
-    "education": 9,
-    "military": 5.7,
-    "development": 8.3,
-    "health": 10
+    "education": 7.8,
+    "military": 5.3,
+    "development": 7.3,
+    "health": 8
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 354,
+      "player_count": 344,
       "scores": {
         "education": 9,
         "military": 5,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 417,
+      "player_count": 409,
       "scores": {
         "education": 9,
         "military": 4,
@@ -74,6 +74,30 @@
       }
     },
     {
+      "name": "Marsilya",
+      "icon": "☀️",
+      "coat_url": "https://diplomacia.com.tr/coats/marsilya.png?v=3",
+      "region": "Güney (Akdeniz + Pireneler)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 3,
+      "scores": {
+        "education": 4,
+        "military": 4,
+        "development": 4,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 3,
+        "petrol": 10,
+        "nte": 6,
+        "elmas": 12
+      }
+    },
+    {
       "name": "Napoli",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/napoli.png?v=3",
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 329,
+      "player_count": 323,
       "scores": {
         "education": 9,
         "military": 8,
