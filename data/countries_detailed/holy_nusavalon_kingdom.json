@@ -20,9 +20,9 @@
   },
   "average_scores": {
     "education": 0,
-    "military": 7.5,
+    "military": 8,
     "development": 4.5,
-    "health": 2.5
+    "health": 3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 114,
+      "player_count": 113,
       "scores": {
         "education": 0,
         "military": 8,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 59,
+      "player_count": 57,
       "scores": {
         "education": 0,
-        "military": 7,
+        "military": 8,
         "development": 6,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -1,0 +1,53 @@
+{
+  "id": "80343a70-3a5d-4cea-a836-2fde6c4b5307",
+  "name": "Medine Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
+  "treasury": 5009725,
+  "country_number": 194,
+  "player_count": 193,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Medine",
+    "icon": "🕌",
+    "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 8,
+    "altin": 12,
+    "petrol": 10,
+    "nte": 6,
+    "elmas": 11
+  },
+  "average_scores": {
+    "education": 1,
+    "military": 1,
+    "development": 1,
+    "health": 2
+  },
+  "provinces": [
+    {
+      "name": "Medine",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
+      "region": "Hicaz (Kutsal Şehir)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 184,
+      "scores": {
+        "education": 1,
+        "military": 1,
+        "development": 1,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 12,
+        "petrol": 10,
+        "nte": 6,
+        "elmas": 11
+      }
+    }
+  ]
+}

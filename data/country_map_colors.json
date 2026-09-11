@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mora": {
@@ -257,7 +257,7 @@
     },
     "Astana": {
       "code": null,
-      "color": "#7a0b4a",
+      "color": "#750b47",
       "name": "Astana Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789046622093.jpeg",
@@ -506,15 +506,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kueta.png?v=3",
       "countryId": "168c75a4-277b-4996-b9e8-d70070be7748"
     },
-    "Hırvatistan": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Bosna Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
-      "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
-    },
     "Diyarbakır": {
       "code": null,
       "color": "#4e134e",
@@ -658,6 +649,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
+    },
+    "Hırvatistan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Kingdom of Croatia",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1788349386206.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
+      "countryId": "86ab9188-3b20-4d6d-a081-77659c900a9b"
     },
     "Kalimantan": {
       "code": null,
@@ -1431,6 +1431,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
     },
+    "Medine": {
+      "code": null,
+      "color": "#eccb13",
+      "name": "Medine Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/medine.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/medine.png?v=3",
+      "countryId": "80343a70-3a5d-4cea-a836-2fde6c4b5307"
+    },
     "Papua": {
       "code": null,
       "color": "#e39c16",
@@ -1503,14 +1512,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
-    "Medine": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/medine.png?v=3"
-    },
     "Şincan": {
       "code": null,
       "color": "#f471b3",
@@ -1576,7 +1577,7 @@
     "Tahran": {
       "code": null,
       "color": "#16163c",
-      "name": "Büyük Selçuklu Devleti",
+      "name": "Büy��k Selçuklu Devleti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
       "coatUrl": "https://diplomacia.com.tr/coats/tahran.png?v=3",

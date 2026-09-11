@@ -2,27 +2,27 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-  "treasury": 68059949,
+  "treasury": 68531161,
   "country_number": 113,
-  "player_count": 55,
-  "provinces_count": 4,
+  "player_count": 54,
+  "provinces_count": 3,
   "capital": {
     "name": "Bosna Hersek",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 29,
-    "petrol": 38,
-    "nte": 29,
-    "elmas": 32
+    "deri": 31,
+    "altin": 22,
+    "petrol": 30,
+    "nte": 22,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 6.5,
-    "military": 4.5,
-    "development": 5.3,
-    "health": 5
+    "education": 7,
+    "military": 5,
+    "development": 6,
+    "health": 5.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 87,
+      "player_count": 85,
       "scores": {
         "education": 10,
         "military": 9,
@@ -47,30 +47,6 @@
         "petrol": 7,
         "nte": 9,
         "elmas": 6
-      }
-    },
-    {
-      "name": "Hırvatistan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 42,
-      "scores": {
-        "education": 5,
-        "military": 3,
-        "development": 3,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 7,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 10
       }
     },
     {
