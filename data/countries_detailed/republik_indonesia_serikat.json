@@ -2,26 +2,26 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 278076336,
+  "treasury": 284551630,
   "country_number": 54,
-  "player_count": 1203,
-  "provinces_count": 7,
+  "player_count": 1215,
+  "provinces_count": 8,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 40,
-    "altin": 107,
-    "petrol": 81,
-    "nte": 94,
-    "elmas": 73
+    "deri": 44,
+    "altin": 122,
+    "petrol": 88,
+    "nte": 107,
+    "elmas": 76
   },
   "average_scores": {
-    "education": 1.1,
-    "military": 2.3,
-    "development": 3.7,
+    "education": 1,
+    "military": 2.4,
+    "development": 3.5,
     "health": 1.3
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 642,
+      "player_count": 652,
       "scores": {
         "education": 5,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 76,
+      "player_count": 79,
       "scores": {
         "education": 0,
         "military": 8,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 19,
+      "player_count": 18,
       "scores": {
         "education": 0,
         "military": 0,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 39,
+      "player_count": 35,
       "scores": {
         "education": 0,
         "military": 0,
@@ -146,6 +146,30 @@
       }
     },
     {
+      "name": "Solomon Adaları",
+      "icon": "🌴",
+      "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
+      "region": "Pasifik (Melanezya)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 10,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 15,
+        "petrol": 7,
+        "nte": 13,
+        "elmas": 3
+      }
+    },
+    {
       "name": "Sulawesi",
       "icon": "🐚",
       "coat_url": "https://diplomacia.com.tr/coats/sulawesi.png?v=3",
@@ -153,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 48,
+      "player_count": 49,
       "scores": {
         "education": 0,
         "military": 0,
@@ -177,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 151,
+      "player_count": 150,
       "scores": {
         "education": 3,
         "military": 1,

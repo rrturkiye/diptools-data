@@ -2,27 +2,27 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 15137489,
+  "treasury": 15664121,
   "country_number": 189,
-  "player_count": 195,
-  "provinces_count": 1,
+  "player_count": 191,
+  "provinces_count": 2,
   "capital": {
     "name": "Temeşvar",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 10,
-    "petrol": 9,
-    "nte": 8,
-    "elmas": 8
+    "deri": 23,
+    "altin": 20,
+    "petrol": 18,
+    "nte": 18,
+    "elmas": 17
   },
   "average_scores": {
-    "education": 7,
-    "military": 7,
-    "development": 6,
-    "health": 4
+    "education": 3.5,
+    "military": 5,
+    "development": 4,
+    "health": 2.5
   },
   "provinces": [
     {
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 53,
+      "player_count": 50,
       "scores": {
         "education": 7,
         "military": 7,
-        "development": 6,
+        "development": 7,
         "health": 4,
         "health_world_first": false
       },
@@ -47,6 +47,30 @@
         "petrol": 9,
         "nte": 8,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Horasan",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
+      "region": "Kuzeydoğu (Afganistan sınırı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 9
       }
     }
   ]

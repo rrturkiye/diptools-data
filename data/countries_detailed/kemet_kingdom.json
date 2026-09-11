@@ -2,27 +2,27 @@
   "id": "9803c555-a7db-4519-8652-0697dfad5c94",
   "name": "KEMET KINGDOM - مملكة كيميت",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1786631953484.jpeg",
-  "treasury": 8303311,
+  "treasury": 29929804,
   "country_number": 61,
-  "player_count": 68,
-  "provinces_count": 3,
+  "player_count": 107,
+  "provinces_count": 4,
   "capital": {
     "name": "Kahire",
     "icon": "🏛️",
     "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 25,
-    "altin": 32,
-    "petrol": 29,
-    "nte": 27,
-    "elmas": 41
+    "deri": 33,
+    "altin": 38,
+    "petrol": 36,
+    "nte": 31,
+    "elmas": 47
   },
   "average_scores": {
-    "education": 1.3,
-    "military": 4.7,
-    "development": 8,
-    "health": 4.7
+    "education": 3,
+    "military": 4.8,
+    "development": 7,
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 49,
+      "player_count": 50,
       "scores": {
         "education": 0,
         "military": 6,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 18,
       "scores": {
         "education": 4,
         "military": 2,
@@ -74,6 +74,30 @@
       }
     },
     {
+      "name": "Filistin",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3",
+      "region": "Filistin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 29,
+      "scores": {
+        "education": 6,
+        "military": 5,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 4,
+        "elmas": 6
+      }
+    },
+    {
       "name": "İsrail",
       "icon": "✡️",
       "coat_url": "https://diplomacia.com.tr/coats/israel.png?v=3",
@@ -81,12 +105,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 75,
+      "player_count": 72,
       "scores": {
-        "education": 0,
+        "education": 2,
         "military": 6,
         "development": 10,
-        "health": 7,
+        "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -1,7 +1,31 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 16,
+  "provinces_count": 17,
   "provinces": [
+    {
+      "name": "Balkan",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Batı Türkmenistan (Hazar Kıyısı)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-11T15:42:24.290Z",
+      "player_count": 53,
+      "scores": {
+        "education": 6,
+        "military": 9,
+        "development": 3,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 16,
+        "nte": 13,
+        "elmas": 8
+      }
+    },
     {
       "name": "Belém",
       "icon": null,
@@ -10,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 34,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 0,
@@ -34,7 +58,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 38,
+      "player_count": 45,
       "scores": {
         "education": 0,
         "military": 0,
@@ -58,7 +82,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 47,
+      "player_count": 50,
       "scores": {
         "education": 0,
         "military": 0,
@@ -82,7 +106,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 29,
+      "player_count": 41,
       "scores": {
         "education": 0,
         "military": 0,
@@ -106,7 +130,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 26,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 0,
@@ -130,7 +154,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 165,
+      "player_count": 191,
       "scores": {
         "education": 0,
         "military": 0,
@@ -154,7 +178,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T15:15:36.479Z",
-      "player_count": 171,
+      "player_count": 169,
       "scores": {
         "education": 0,
         "military": 10,
@@ -178,7 +202,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 23,
+      "player_count": 31,
       "scores": {
         "education": 0,
         "military": 0,
@@ -202,7 +226,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-07T21:32:05.811Z",
-      "player_count": 187,
+      "player_count": 185,
       "scores": {
         "education": 2,
         "military": 1,
@@ -226,7 +250,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 38,
+      "player_count": 42,
       "scores": {
         "education": 0,
         "military": 0,
@@ -250,7 +274,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 28,
+      "player_count": 33,
       "scores": {
         "education": 0,
         "military": 0,
@@ -274,7 +298,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-08T19:21:41.214Z",
-      "player_count": 190,
+      "player_count": 206,
       "scores": {
         "education": 0,
         "military": 10,
@@ -298,7 +322,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 43,
+      "player_count": 47,
       "scores": {
         "education": 0,
         "military": 0,
@@ -322,7 +346,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T18:24:35.835Z",
-      "player_count": 166,
+      "player_count": 197,
       "scores": {
         "education": 0,
         "military": 0,
@@ -346,7 +370,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T18:13:45.425Z",
-      "player_count": 238,
+      "player_count": 241,
       "scores": {
         "education": 1,
         "military": 8,
@@ -370,7 +394,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 37,
+      "player_count": 34,
       "scores": {
         "education": 0,
         "military": 0,

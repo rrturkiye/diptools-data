@@ -2,27 +2,27 @@
   "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
   "name": "Büyük Selçuklu Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
-  "treasury": 9560094,
+  "treasury": 10561968,
   "country_number": 114,
   "player_count": 51,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Tahran",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 29,
-    "altin": 25,
-    "petrol": 34,
-    "nte": 29,
-    "elmas": 33
+    "deri": 17,
+    "altin": 15,
+    "petrol": 25,
+    "nte": 19,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 1.7,
-    "military": 1.7,
-    "development": 6,
-    "health": 5.7
+    "education": 2.5,
+    "military": 1,
+    "development": 8.5,
+    "health": 8
   },
   "provinces": [
     {
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Horasan",
-      "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
-      "region": "Kuzeydoğu (Afganistan sınırı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 4,
-      "scores": {
-        "education": 0,
-        "military": 3,
-        "development": 1,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 12,
-        "altin": 10,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 9
-      }
-    },
-    {
       "name": "İsfahan",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 31,
+      "player_count": 29,
       "scores": {
         "education": 0,
         "military": 2,

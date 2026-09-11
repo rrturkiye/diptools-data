@@ -1,0 +1,53 @@
+{
+  "id": "922aa01f-dc5e-405e-a356-97f5e50f039d",
+  "name": "Veluca Shadow Un��t",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/922aa01f-dc5e-405e-a356-97f5e50f039d-1789025991752.jpeg",
+  "treasury": 1022318,
+  "country_number": 82,
+  "player_count": 26,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Karaganda",
+    "icon": "⚒️",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 14,
+    "altin": 15,
+    "petrol": 10,
+    "nte": 16,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 4,
+    "military": 3,
+    "development": 1,
+    "health": 2
+  },
+  "provinces": [
+    {
+      "name": "Karaganda",
+      "icon": "⚒️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Orta Kazakistan (Sanayi)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 5,
+      "scores": {
+        "education": 4,
+        "military": 3,
+        "development": 1,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 15,
+        "petrol": 10,
+        "nte": 16,
+        "elmas": 7
+      }
+    }
+  ]
+}

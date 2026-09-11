@@ -185,7 +185,7 @@
     },
     "Halep": {
       "code": null,
-      "color": "#144824",
+      "color": "#edc821",
       "name": "Osmanlı İmparatorluğu",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/984d1038-b1f0-4530-8cf4-e7d00c4a52c7-1788804062063.png",
@@ -257,10 +257,10 @@
     },
     "Astana": {
       "code": null,
-      "color": "#07075a",
+      "color": "#47062b",
       "name": "Astana Cumhuriyeti",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1788370989018.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789046622093.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
       "countryId": "e2327468-0be9-4d02-8eaf-129e4ef07386"
     },
@@ -515,15 +515,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
     },
-    "Pekin": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Holy Nusavalon Empire",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
-    },
     "Diyarbakır": {
       "code": null,
       "color": "#4e134e",
@@ -538,7 +529,7 @@
       "color": "#4e134e",
       "name": "Cosa Nostra",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1786911269273.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1789041788889.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kuzeymakedonya.png?v=3",
       "countryId": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6"
     },
@@ -550,6 +541,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1788465447182.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moldova.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
+    },
+    "Pekin": {
+      "code": null,
+      "color": null,
+      "name": "Holy Nusavalon Kingdom",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f61b1b71-6a8b-4eff-9070-61413d3837a5-1784381850211.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "f61b1b71-6a8b-4eff-9070-61413d3837a5"
     },
     "Şian": {
       "code": null,
@@ -947,32 +947,40 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ural.png?v=3",
       "countryId": "45d5ffe1-f7c1-4cb0-b479-42066e142660"
     },
-    "Solomon Adaları": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Holy Nusavalon Empire",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
-    },
-    "Yeni Kaledonya": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Holy Nusavalon Empire",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
-    },
     "Balkan": {
       "code": null,
-      "color": "#4e134e",
-      "name": "IMPERIUM ROMANUM",
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
+    },
+    "Filistin": {
+      "code": null,
+      "color": "#892a2a",
+      "name": "KEMET KINGDOM - مملكة كيميت",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1788800381033.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
-      "countryId": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1786631953484.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/palestine.png?v=3",
+      "countryId": "9803c555-a7db-4519-8652-0697dfad5c94"
+    },
+    "Solomon Adaları": {
+      "code": null,
+      "color": "#e39c16",
+      "name": "Republik Indonesia Serikat",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
+      "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
+    },
+    "Bretonya": {
+      "code": null,
+      "color": "#a3c0c2",
+      "name": "🌎 GLOBAL CAPITAL RESERVE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
+      "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
     "Kosova": {
       "code": null,
@@ -1028,14 +1036,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/izmir.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
-    "Bretonya": {
+    "Yeni Kaledonya": {
       "code": null,
-      "color": "#0b4d8e",
-      "name": "Karachi Pirates ⚔️",
+      "color": "#a00d0d",
+      "name": "Holy Nusavalon Empire",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/7f0c0ac2-db98-4d71-a9ca-95051310492e-1788198598195.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
-      "countryId": "7f0c0ac2-db98-4d71-a9ca-95051310492e"
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
     },
     "Kolombiya": {
       "code": null,
@@ -1081,15 +1089,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/singapur.png?v=3",
       "countryId": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
-    },
-    "Filistin": {
-      "code": null,
-      "color": "#59af0e",
-      "name": "فلسطين",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/7f9146f8-8c42-44e4-a864-3652f4ffefcd-1786752058425.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/palestine.png?v=3",
-      "countryId": "7f9146f8-8c42-44e4-a864-3652f4ffefcd"
     },
     "Kuala Lumpur": {
       "code": null,
@@ -1264,7 +1263,7 @@
     "Atacama": {
       "code": null,
       "color": "#921616",
-      "name": "Chile Kawai",
+      "name": "República Centroamericana de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/atacama.png?v=3",
@@ -1336,7 +1335,7 @@
     "Santiago": {
       "code": null,
       "color": "#921616",
-      "name": "Chile Kawai",
+      "name": "República Centroamericana de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/santiago.png?v=3",
@@ -1345,7 +1344,7 @@
     "Araucanía": {
       "code": null,
       "color": "#921616",
-      "name": "Chile Kawai",
+      "name": "República Centroamericana de Chile",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/araucania.png?v=3",
@@ -1423,6 +1422,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/jawa.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
     },
+    "İç Moğolistan": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Holy Nusavalon Empire",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
+    },
     "Papua": {
       "code": null,
       "color": "#e39c16",
@@ -1459,15 +1467,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
       "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
-    "İç Moğolistan": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Holy Nusavalon Empire",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
-    },
     "Sibirya": {
       "code": null,
       "color": "#4876c7",
@@ -1485,6 +1484,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
+    },
+    "Horasan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "The Kingdom of Westeros",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
+      "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
     },
     "Harbin": {
       "code": null,
@@ -1565,15 +1573,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/eskisehir.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
-    "Horasan": {
-      "code": null,
-      "color": "#16163c",
-      "name": "Büyük Selçuklu Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
-      "countryId": "da5b016b-6b16-4f93-9c97-ca8042b989bf"
-    },
     "Tahran": {
       "code": null,
       "color": "#16163c",
@@ -1632,7 +1631,7 @@
       "color": null,
       "name": "New World Order",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6141cf0d-2203-4c0f-9bc2-152a0ec033bd-1789022098120.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/coats/washington.png",
       "coatUrl": "https://diplomacia.com.tr/coats/washington.png?v=3",
       "countryId": "6141cf0d-2203-4c0f-9bc2-152a0ec033bd"
     },
