@@ -2,14 +2,14 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Holy Nusavalon Empire",
   "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-  "treasury": 2947300,
+  "treasury": 4263708,
   "country_number": 155,
-  "player_count": 116,
+  "player_count": 114,
   "provinces_count": 4,
   "capital": {
-    "name": "Pekin",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+    "name": "Yeni Kaledonya",
+    "icon": "🪸",
+    "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 29,
@@ -26,11 +26,59 @@
   },
   "provinces": [
     {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 2,
+        "military": 8,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
+      }
+    },
+    {
+      "name": "İç Moğolistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 3,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Pekin",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
       "player_count": 61,
@@ -50,30 +98,6 @@
       }
     },
     {
-      "name": "İç Moğolistan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 2,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 15,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 17,
-        "elmas": 8
-      }
-    },
-    {
       "name": "Solomon Adaları",
       "icon": "🌴",
       "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 11,
+      "player_count": 12,
       "scores": {
         "education": 0,
         "military": 4,
@@ -95,30 +119,6 @@
         "petrol": 7,
         "nte": 13,
         "elmas": 3
-      }
-    },
-    {
-      "name": "Yeni Kaledonya",
-      "icon": "🪸",
-      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
-      "region": "Pasifik (Fransız Toprağı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 7,
-      "scores": {
-        "education": 2,
-        "military": 8,
-        "development": 2,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 5,
-        "nte": 19,
-        "elmas": 4
       }
     }
   ]

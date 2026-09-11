@@ -5,24 +5,24 @@
   "treasury": 6843,
   "country_number": 37,
   "player_count": 43,
-  "provinces_count": 4,
+  "provinces_count": 5,
   "capital": {
     "name": "Atina",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 29,
-    "altin": 33,
-    "petrol": 31,
-    "nte": 26,
-    "elmas": 44
+    "deri": 46,
+    "altin": 38,
+    "petrol": 37,
+    "nte": 37,
+    "elmas": 54
   },
   "average_scores": {
-    "education": 2.8,
-    "military": 3.8,
-    "development": 0.5,
-    "health": 0.5
+    "education": 3,
+    "military": 3.4,
+    "development": 1.2,
+    "health": 1.2
   },
   "provinces": [
     {
@@ -71,6 +71,30 @@
         "petrol": 8,
         "nte": 4,
         "elmas": 12
+      }
+    },
+    {
+      "name": "Minnesota",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
+      "region": "Kuzey Orta (Great Lakes)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 4,
+        "military": 2,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 5,
+        "petrol": 6,
+        "nte": 11,
+        "elmas": 10
       }
     },
     {
