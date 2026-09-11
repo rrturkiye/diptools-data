@@ -1,0 +1,53 @@
+{
+  "id": "984d1038-b1f0-4530-8cf4-e7d00c4a52c7",
+  "name": "Osmanlı İmparatorluğu",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/984d1038-b1f0-4530-8cf4-e7d00c4a52c7-1788804062063.png",
+  "treasury": 2544340,
+  "country_number": 188,
+  "player_count": 193,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Halep",
+    "icon": "🕌",
+    "coat_url": "https://diplomacia.com.tr/coats/aleppo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 13,
+    "altin": 7,
+    "petrol": 11,
+    "nte": 7,
+    "elmas": 9
+  },
+  "average_scores": {
+    "education": 1,
+    "military": 7,
+    "development": 6,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Halep",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
+      "region": "Kuzey ve Doğu Suriye",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 186,
+      "scores": {
+        "education": 1,
+        "military": 7,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 7,
+        "petrol": 11,
+        "nte": 7,
+        "elmas": 9
+      }
+    }
+  ]
+}

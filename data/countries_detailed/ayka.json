@@ -2,9 +2,9 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 106517442,
+  "treasury": 116314046,
   "country_number": 127,
-  "player_count": 413,
+  "player_count": 412,
   "provinces_count": 9,
   "capital": {
     "name": "Kosova",
@@ -19,10 +19,10 @@
     "elmas": 83
   },
   "average_scores": {
-    "education": 1,
-    "military": 8.8,
+    "education": 0.9,
+    "military": 8.7,
     "development": 2.2,
-    "health": 3.1
+    "health": 3
   },
   "provinces": [
     {
@@ -86,7 +86,7 @@
         "education": 0,
         "military": 8,
         "development": 3,
-        "health": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 102,
+      "player_count": 100,
       "scores": {
         "education": 7,
         "military": 8,
@@ -129,9 +129,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 13,
       "scores": {
-        "education": 2,
+        "education": 1,
         "military": 11,
         "development": 4,
         "health": 2,
@@ -153,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 2,
       "scores": {
         "education": 0,
         "military": 8,
@@ -177,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 152,
+      "player_count": 147,
       "scores": {
         "education": 0,
         "military": 10,
@@ -201,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 19,
       "scores": {
         "education": 0,
         "military": 10,
@@ -228,7 +228,7 @@
       "player_count": 3,
       "scores": {
         "education": 0,
-        "military": 7,
+        "military": 6,
         "development": 2,
         "health": 4,
         "health_world_first": false
