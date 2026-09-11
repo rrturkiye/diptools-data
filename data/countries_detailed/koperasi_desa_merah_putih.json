@@ -2,27 +2,27 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
-  "treasury": 72716529,
+  "treasury": 74026691,
   "country_number": 106,
   "player_count": 163,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Singapur",
     "icon": "🦁",
     "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 13,
-    "altin": 16,
-    "petrol": 20,
-    "nte": 21,
-    "elmas": 35
+    "deri": 16,
+    "altin": 24,
+    "petrol": 37,
+    "nte": 25,
+    "elmas": 50
   },
   "average_scores": {
     "education": 0,
-    "military": 0,
-    "development": 3.5,
-    "health": 4
+    "military": 0.3,
+    "development": 3.7,
+    "health": 3.3
   },
   "provinces": [
     {
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Kuveyt",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
+      "region": "Basra Körfezi Başı",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 13,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 4,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 3,
+        "altin": 8,
+        "petrol": 17,
+        "nte": 4,
+        "elmas": 15
+      }
+    },
+    {
       "name": "Vuhan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 166,
+      "player_count": 163,
       "scores": {
         "education": 0,
         "military": 0,

@@ -5,24 +5,24 @@
   "treasury": 7003720,
   "country_number": 157,
   "player_count": 100,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
     "name": "Guiyang",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 14,
-    "altin": 13,
-    "petrol": 21,
-    "nte": 22,
-    "elmas": 25
+    "deri": 11,
+    "altin": 5,
+    "petrol": 4,
+    "nte": 18,
+    "elmas": 10
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 4,
-    "development": 2.5,
-    "health": 1.5
+    "education": 7,
+    "military": 7,
+    "development": 1,
+    "health": 1
   },
   "provinces": [
     {
@@ -47,30 +47,6 @@
         "petrol": 4,
         "nte": 18,
         "elmas": 10
-      }
-    },
-    {
-      "name": "Kuveyt",
-      "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
-      "region": "Basra Körfezi Başı",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 14,
-      "scores": {
-        "education": 0,
-        "military": 1,
-        "development": 4,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 3,
-        "altin": 8,
-        "petrol": 17,
-        "nte": 4,
-        "elmas": 15
       }
     }
   ]
