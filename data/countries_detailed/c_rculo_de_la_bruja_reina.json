@@ -1,0 +1,77 @@
+{
+  "id": "03689952-c626-4cac-9e8f-83897b11af2b",
+  "name": "Círculo de la Bruja Reina",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/03689952-c626-4cac-9e8f-83897b11af2b-1786879189376.png",
+  "treasury": 18606855,
+  "country_number": 98,
+  "player_count": 176,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Şian",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 24,
+    "altin": 19,
+    "petrol": 22,
+    "nte": 22,
+    "elmas": 22
+  },
+  "average_scores": {
+    "education": 2.5,
+    "military": 6,
+    "development": 1,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Şian",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 0,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 16,
+        "nte": 9,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Sevilla",
+      "icon": "💃",
+      "coat_url": "https://diplomacia.com.tr/coats/sevilla.png?v=3",
+      "region": "Güney İspanya (Endülüs)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 103,
+      "scores": {
+        "education": 5,
+        "military": 3,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 13,
+        "petrol": 6,
+        "nte": 13,
+        "elmas": 9
+      }
+    }
+  ]
+}

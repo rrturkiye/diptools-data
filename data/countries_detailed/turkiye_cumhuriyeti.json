@@ -2,7 +2,7 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "Türkiye Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-  "treasury": 149887101,
+  "treasury": 155116795,
   "country_number": 130,
   "player_count": 510,
   "provinces_count": 19,
@@ -12,14 +12,14 @@
     "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 217,
-    "altin": 155,
-    "petrol": 139,
-    "nte": 186,
-    "elmas": 192
+    "deri": 207,
+    "altin": 143,
+    "petrol": 133,
+    "nte": 178,
+    "elmas": 173
   },
   "average_scores": {
-    "education": 2.4,
+    "education": 2.6,
     "military": 4.1,
     "development": 3.9,
     "health": 4.8
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 100,
+      "player_count": 87,
       "scores": {
         "education": 4,
         "military": 9,
-        "development": 7,
+        "development": 6,
         "health": 6,
         "health_world_first": false
       },
@@ -57,9 +57,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 19,
+      "player_count": 14,
       "scores": {
-        "education": 1,
+        "education": 2,
         "military": 2,
         "development": 5,
         "health": 5,
@@ -105,9 +105,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 90,
+      "player_count": 105,
       "scores": {
-        "education": 3,
+        "education": 4,
         "military": 5,
         "development": 10,
         "health": 10,
@@ -131,7 +131,7 @@
       "independence_date": null,
       "player_count": 6,
       "scores": {
-        "education": 3,
+        "education": 4,
         "military": 4,
         "development": 2,
         "health": 5,
@@ -155,7 +155,7 @@
       "independence_date": null,
       "player_count": 17,
       "scores": {
-        "education": 3,
+        "education": 4,
         "military": 4,
         "development": 1,
         "health": 2,
@@ -297,12 +297,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 109,
+      "player_count": 108,
       "scores": {
         "education": 3,
         "military": 3,
         "development": 8,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -316,12 +316,12 @@
     {
       "name": "İzmir",
       "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/izmir.png?v=3",
+      "coat_url": null,
       "region": "Ege (Batı Kıyısı)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 38,
+      "player_count": 46,
       "scores": {
         "education": 0,
         "military": 8,
@@ -330,11 +330,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 10,
-        "altin": 12,
-        "petrol": 6,
-        "nte": 8,
-        "elmas": 19
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
@@ -371,7 +371,7 @@
       "independence_date": null,
       "player_count": 13,
       "scores": {
-        "education": 1,
+        "education": 2,
         "military": 4,
         "development": 3,
         "health": 5,
