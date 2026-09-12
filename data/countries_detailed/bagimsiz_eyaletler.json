@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 16,
+  "provinces_count": 17,
   "provinces": [
     {
       "name": "Balkan",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-11T15:42:24.290Z",
-      "player_count": 201,
+      "player_count": 204,
       "scores": {
         "education": 5,
         "military": 9,
@@ -34,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 46,
+      "player_count": 50,
       "scores": {
         "education": 0,
         "military": 0,
@@ -58,7 +58,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 57,
+      "player_count": 61,
       "scores": {
         "education": 0,
         "military": 0,
@@ -82,7 +82,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 68,
+      "player_count": 71,
       "scores": {
         "education": 0,
         "military": 0,
@@ -106,7 +106,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 64,
+      "player_count": 75,
       "scores": {
         "education": 0,
         "military": 0,
@@ -130,7 +130,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 71,
+      "player_count": 70,
       "scores": {
         "education": 0,
         "military": 0,
@@ -154,7 +154,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 210,
+      "player_count": 207,
       "scores": {
         "education": 0,
         "military": 0,
@@ -178,7 +178,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T15:15:36.479Z",
-      "player_count": 157,
+      "player_count": 158,
       "scores": {
         "education": 0,
         "military": 10,
@@ -202,7 +202,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 48,
+      "player_count": 49,
       "scores": {
         "education": 0,
         "military": 0,
@@ -219,6 +219,30 @@
       }
     },
     {
+      "name": "Omsk",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
+      "region": "Sibirya (Ob nehri)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-12T11:59:41.299Z",
+      "player_count": 210,
+      "scores": {
+        "education": 6,
+        "military": 3,
+        "development": 5,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 7,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Oran",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/cezayir.png?v=3",
@@ -226,7 +250,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 53,
+      "player_count": 52,
       "scores": {
         "education": 0,
         "military": 0,
@@ -274,7 +298,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-08T19:21:41.214Z",
-      "player_count": 206,
+      "player_count": 210,
       "scores": {
         "education": 0,
         "military": 10,
@@ -298,7 +322,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 74,
+      "player_count": 80,
       "scores": {
         "education": 0,
         "military": 0,
@@ -322,7 +346,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T18:24:35.835Z",
-      "player_count": 209,
+      "player_count": 210,
       "scores": {
         "education": 0,
         "military": 0,
@@ -346,7 +370,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-09T18:13:45.425Z",
-      "player_count": 243,
+      "player_count": 244,
       "scores": {
         "education": 0,
         "military": 8,
@@ -370,7 +394,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 41,
+      "player_count": 44,
       "scores": {
         "education": 0,
         "military": 0,

@@ -5,59 +5,35 @@
   "treasury": 31220707,
   "country_number": 149,
   "player_count": 29,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
-    "name": "Sırbistan",
+    "name": "Hırvatistan",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 18,
-    "altin": 18,
-    "petrol": 16,
-    "nte": 17,
-    "elmas": 18
+    "deri": 8,
+    "altin": 7,
+    "petrol": 8,
+    "nte": 7,
+    "elmas": 10
   },
   "average_scores": {
-    "education": 1,
-    "military": 4,
-    "development": 2.5,
-    "health": 2.5
+    "education": 2,
+    "military": 2,
+    "development": 2,
+    "health": 2
   },
   "provinces": [
-    {
-      "name": "Sırbistan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
-      "region": null,
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 29,
-      "scores": {
-        "education": 0,
-        "military": 6,
-        "development": 3,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 11,
-        "petrol": 8,
-        "nte": 10,
-        "elmas": 8
-      }
-    },
     {
       "name": "Hırvatistan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/hirvatistan.png?v=3",
       "region": null,
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 40,
+      "player_count": 39,
       "scores": {
         "education": 2,
         "military": 2,

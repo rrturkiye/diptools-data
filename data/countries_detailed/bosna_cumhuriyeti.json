@@ -2,7 +2,7 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-  "treasury": 70500982,
+  "treasury": 77716239,
   "country_number": 113,
   "player_count": 51,
   "provinces_count": 3,
@@ -12,17 +12,17 @@
     "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 31,
-    "altin": 22,
-    "petrol": 30,
-    "nte": 22,
+    "deri": 30,
+    "altin": 26,
+    "petrol": 24,
+    "nte": 24,
     "elmas": 22
   },
   "average_scores": {
-    "education": 6.7,
-    "military": 5,
-    "development": 6,
-    "health": 5.3
+    "education": 4.7,
+    "military": 5.7,
+    "development": 5,
+    "health": 5
   },
   "provinces": [
     {
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Omsk",
-      "icon": "🌲",
-      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
-      "region": "Sibirya (Ob nehri)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 167,
-      "scores": {
-        "education": 6,
-        "military": 3,
-        "development": 5,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 7,
-        "petrol": 14,
-        "nte": 8,
-        "elmas": 8
-      }
-    },
-    {
       "name": "Şam",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/sam.png?v=3",
@@ -94,6 +70,30 @@
         "altin": 6,
         "petrol": 9,
         "nte": 5,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Sırbistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 26,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 11,
+        "petrol": 8,
+        "nte": 10,
         "elmas": 8
       }
     }

@@ -1,0 +1,77 @@
+{
+  "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
+  "name": "Istana Nusavalon",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
+  "treasury": 5981281,
+  "country_number": 155,
+  "player_count": 98,
+  "provinces_count": 2,
+  "capital": {
+    "name": "İç Moğolistan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+  },
+  "total_resource_bonuses": {
+    "deri": 19,
+    "altin": 15,
+    "petrol": 13,
+    "nte": 36,
+    "elmas": 12
+  },
+  "average_scores": {
+    "education": 0.5,
+    "military": 4,
+    "development": 1,
+    "health": 0.5
+  },
+  "provinces": [
+    {
+      "name": "İç Moğolistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 8
+      }
+    },
+    {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 1,
+        "military": 8,
+        "development": 2,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
+      }
+    }
+  ]
+}

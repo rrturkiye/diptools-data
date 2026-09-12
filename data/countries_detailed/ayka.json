@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 105706837,
+  "treasury": 113196342,
   "country_number": 127,
-  "player_count": 395,
-  "provinces_count": 9,
+  "player_count": 393,
+  "provinces_count": 8,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 95,
-    "altin": 95,
-    "petrol": 90,
-    "nte": 83,
-    "elmas": 83
+    "deri": 83,
+    "altin": 78,
+    "petrol": 79,
+    "nte": 71,
+    "elmas": 72
   },
   "average_scores": {
     "education": 0.9,
-    "military": 8.3,
+    "military": 8.1,
     "development": 1.8,
-    "health": 2.8
+    "health": 2.9
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 23,
+      "player_count": 25,
       "scores": {
         "education": 0,
         "military": 10,
@@ -85,7 +85,7 @@
       "scores": {
         "education": 0,
         "military": 7,
-        "development": 2,
+        "development": 3,
         "health": 3,
         "health_world_first": false
       },
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Colorado",
-      "icon": "🏔️",
-      "coat_url": "https://diplomacia.com.tr/coats/colorado.png?v=3",
-      "region": "İç Batı (Kayalık Dağlar)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 21,
-      "scores": {
-        "education": 1,
-        "military": 10,
-        "development": 3,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 12,
-        "altin": 17,
-        "petrol": 11,
-        "nte": 12,
-        "elmas": 11
-      }
-    },
-    {
       "name": "Karadağ",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/karadag.png?v=3",
@@ -177,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 140,
+      "player_count": 139,
       "scores": {
         "education": 0,
         "military": 9,
