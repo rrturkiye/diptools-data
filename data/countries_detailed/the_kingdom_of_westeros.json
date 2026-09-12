@@ -2,14 +2,14 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 33968666,
+  "treasury": 4155406,
   "country_number": 189,
-  "player_count": 198,
+  "player_count": 199,
   "provinces_count": 2,
   "capital": {
-    "name": "Horasan",
-    "icon": "🌾",
-    "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3"
+    "name": "Temeşvar",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 23,
@@ -19,24 +19,48 @@
     "elmas": 17
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 5,
-    "development": 5.5,
+    "education": 6.5,
+    "military": 6.5,
+    "development": 5,
     "health": 2.5
   },
   "provinces": [
+    {
+      "name": "Temeşvar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 54,
+      "scores": {
+        "education": 7,
+        "military": 7,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 8
+      }
+    },
     {
       "name": "Horasan",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
       "region": "Kuzeydoğu (Afganistan sınırı)",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 6,
+      "player_count": 5,
       "scores": {
-        "education": 0,
-        "military": 3,
+        "education": 6,
+        "military": 6,
         "development": 4,
         "health": 1,
         "health_world_first": false
@@ -47,30 +71,6 @@
         "petrol": 9,
         "nte": 10,
         "elmas": 9
-      }
-    },
-    {
-      "name": "Temeşvar",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 56,
-      "scores": {
-        "education": 7,
-        "military": 7,
-        "development": 7,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 10,
-        "petrol": 9,
-        "nte": 8,
-        "elmas": 8
       }
     }
   ]

@@ -2,9 +2,9 @@
   "id": "80343a70-3a5d-4cea-a836-2fde6c4b5307",
   "name": "Medine Geçici Hükümeti",
   "flag_url": "https://diplomacia.com.tr/coats/medine.png?v=3",
-  "treasury": 5442566,
+  "treasury": 5502956,
   "country_number": 194,
-  "player_count": 195,
+  "player_count": 190,
   "provinces_count": 1,
   "capital": {
     "name": "Medine",
@@ -22,7 +22,7 @@
     "education": 2,
     "military": 1,
     "development": 1,
-    "health": 2
+    "health": 1
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 191,
+      "player_count": 189,
       "scores": {
         "education": 2,
         "military": 1,
         "development": 1,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
