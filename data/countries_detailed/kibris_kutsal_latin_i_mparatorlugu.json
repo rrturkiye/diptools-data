@@ -19,10 +19,10 @@
     "elmas": 19
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 5,
+    "education": 3,
+    "military": 4.5,
     "development": 4,
-    "health": 3
+    "health": 2.5
   },
   "provinces": [
     {
@@ -36,7 +36,7 @@
       "player_count": 2,
       "scores": {
         "education": 0,
-        "military": 5,
+        "military": 4,
         "development": 2,
         "health": 1,
         "health_world_first": false
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 6,
       "scores": {
-        "education": 7,
+        "education": 6,
         "military": 5,
         "development": 6,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {

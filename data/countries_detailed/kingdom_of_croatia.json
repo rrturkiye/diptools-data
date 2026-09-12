@@ -2,7 +2,7 @@
   "id": "86ab9188-3b20-4d6d-a081-77659c900a9b",
   "name": "Kingdom of Croatia",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/86ab9188-3b20-4d6d-a081-77659c900a9b-1788349386206.jpeg",
-  "treasury": 31220707,
+  "treasury": 0,
   "country_number": 149,
   "player_count": 29,
   "provinces_count": 1,
@@ -19,10 +19,10 @@
     "elmas": 10
   },
   "average_scores": {
-    "education": 3,
+    "education": 2,
     "military": 2,
-    "development": 2,
-    "health": 2
+    "development": 5,
+    "health": 10
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 41,
+      "player_count": 42,
       "scores": {
-        "education": 3,
+        "education": 2,
         "military": 2,
-        "development": 2,
-        "health": 2,
+        "development": 5,
+        "health": 10,
         "health_world_first": false
       },
       "resource_bonuses": {
