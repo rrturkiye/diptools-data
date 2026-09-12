@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 289938404,
+  "treasury": 293020029,
   "country_number": 54,
   "player_count": 1221,
-  "provinces_count": 8,
+  "provinces_count": 7,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 44,
-    "altin": 122,
-    "petrol": 88,
-    "nte": 107,
-    "elmas": 76
+    "deri": 39,
+    "altin": 108,
+    "petrol": 73,
+    "nte": 92,
+    "elmas": 71
   },
   "average_scores": {
-    "education": 1,
-    "military": 2.4,
-    "development": 3.5,
-    "health": 1.3
+    "education": 1.1,
+    "military": 1.7,
+    "development": 3.9,
+    "health": 1.4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 653,
+      "player_count": 651,
       "scores": {
         "education": 5,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 78,
+      "player_count": 77,
       "scores": {
         "education": 0,
         "military": 8,
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Sarawak",
-      "icon": "🦧",
-      "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
-      "region": "Doğu Malezya (Borneo Batı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 101,
-      "scores": {
-        "education": 0,
-        "military": 7,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 14,
-        "petrol": 15,
-        "nte": 15,
-        "elmas": 5
-      }
-    },
-    {
       "name": "Solomon Adaları",
       "icon": "🌴",
       "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 11,
+      "player_count": 14,
       "scores": {
         "education": 0,
         "military": 3,
@@ -177,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 48,
+      "player_count": 49,
       "scores": {
         "education": 0,
         "military": 0,

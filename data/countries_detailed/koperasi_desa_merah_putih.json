@@ -2,27 +2,27 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
-  "treasury": 10944550,
+  "treasury": 3915923,
   "country_number": 106,
   "player_count": 162,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Singapur",
     "icon": "🦁",
     "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 16,
-    "altin": 24,
-    "petrol": 37,
-    "nte": 25,
-    "elmas": 50
+    "deri": 13,
+    "altin": 16,
+    "petrol": 20,
+    "nte": 21,
+    "elmas": 35
   },
   "average_scores": {
     "education": 0,
-    "military": 0.3,
+    "military": 0,
     "development": 5,
-    "health": 4
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 39,
+      "player_count": 40,
       "scores": {
         "education": 0,
         "military": 0,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Kuveyt",
-      "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3",
-      "region": "Basra Körfezi Başı",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 15,
-      "scores": {
-        "education": 0,
-        "military": 1,
-        "development": 5,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 3,
-        "altin": 8,
-        "petrol": 17,
-        "nte": 4,
-        "elmas": 15
-      }
-    },
-    {
       "name": "Vuhan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 158,
+      "player_count": 157,
       "scores": {
         "education": 0,
         "military": 0,

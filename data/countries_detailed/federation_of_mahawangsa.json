@@ -2,27 +2,27 @@
   "id": "1390cf4d-aec6-4029-960c-6662c587bde7",
   "name": "Federation of Mahawangsa",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1390cf4d-aec6-4029-960c-6662c587bde7-1788694967002.png",
-  "treasury": 58065611,
+  "treasury": 59451213,
   "country_number": 107,
   "player_count": 260,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Kuala Lumpur",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/kualalumpur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 12,
-    "altin": 24,
-    "petrol": 27,
-    "nte": 32,
-    "elmas": 24
+    "deri": 17,
+    "altin": 38,
+    "petrol": 42,
+    "nte": 47,
+    "elmas": 29
   },
   "average_scores": {
-    "education": 2.5,
-    "military": 4,
-    "development": 3.5,
-    "health": 3.5
+    "education": 1.7,
+    "military": 5,
+    "development": 2.7,
+    "health": 4.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 172,
+      "player_count": 167,
       "scores": {
         "education": 0,
         "military": 5,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 98,
+      "player_count": 96,
       "scores": {
         "education": 5,
         "military": 3,
         "development": 1,
-        "health": 0,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -70,6 +70,30 @@
         "altin": 12,
         "petrol": 15,
         "nte": 14,
+        "elmas": 5
+      }
+    },
+    {
+      "name": "Sarawak",
+      "icon": "🦧",
+      "coat_url": "https://diplomacia.com.tr/coats/sarawak.png?v=3",
+      "region": "Doğu Malezya (Borneo Batı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 107,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 14,
+        "petrol": 15,
+        "nte": 15,
         "elmas": 5
       }
     }
