@@ -5,24 +5,24 @@
   "treasury": 186719000,
   "country_number": 104,
   "player_count": 107,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
     "name": "Şenyang",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 15,
-    "altin": 14,
-    "petrol": 15,
-    "nte": 17,
-    "elmas": 35
+    "deri": 9,
+    "altin": 7,
+    "petrol": 10,
+    "nte": 7,
+    "elmas": 15
   },
   "average_scores": {
     "education": 0,
-    "military": 7.5,
-    "development": 4.5,
-    "health": 2.5
+    "military": 8,
+    "development": 3,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 116,
+      "player_count": 120,
       "scores": {
         "education": 0,
         "military": 8,
@@ -47,30 +47,6 @@
         "petrol": 10,
         "nte": 7,
         "elmas": 15
-      }
-    },
-    {
-      "name": "Pekin",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 53,
-      "scores": {
-        "education": 0,
-        "military": 7,
-        "development": 6,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 6,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 10,
-        "elmas": 20
       }
     }
   ]

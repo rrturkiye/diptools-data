@@ -2,27 +2,27 @@
   "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
   "name": "Imperi Galàctic Català",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-  "treasury": 16674550,
+  "treasury": 23942323,
   "country_number": 99,
-  "player_count": 220,
-  "provinces_count": 3,
+  "player_count": 420,
+  "provinces_count": 4,
   "capital": {
     "name": "Barcelona",
     "icon": "🎨",
     "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 28,
-    "altin": 17,
-    "petrol": 19,
-    "nte": 20,
-    "elmas": 46
+    "deri": 32,
+    "altin": 21,
+    "petrol": 22,
+    "nte": 25,
+    "elmas": 61
   },
   "average_scores": {
-    "education": 2,
-    "military": 5.7,
-    "development": 5,
-    "health": 3.7
+    "education": 2.5,
+    "military": 5.8,
+    "development": 4,
+    "health": 3.3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 133,
+      "player_count": 131,
       "scores": {
         "education": 0,
         "military": 9,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 80,
+      "player_count": 85,
       "scores": {
         "education": 4,
         "military": 7,
@@ -81,9 +81,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 23,
       "scores": {
-        "education": 2,
+        "education": 3,
         "military": 1,
         "development": 3,
         "health": 2,
@@ -95,6 +95,30 @@
         "petrol": 4,
         "nte": 6,
         "elmas": 20
+      }
+    },
+    {
+      "name": "Washington DC",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/washington.png?v=3",
+      "region": "Doğu Kıyısı (Atlantik)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 203,
+      "scores": {
+        "education": 3,
+        "military": 6,
+        "development": 1,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 5,
+        "elmas": 15
       }
     }
   ]

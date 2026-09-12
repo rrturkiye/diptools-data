@@ -2,27 +2,27 @@
   "id": "13ec96ba-f86f-4e41-9103-9ad475be7896",
   "name": "Türk İslam İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/13ec96ba-f86f-4e41-9103-9ad475be7896-1789061814868.jpeg",
-  "treasury": 7875362,
+  "treasury": 8460635,
   "country_number": 181,
-  "player_count": 200,
-  "provinces_count": 1,
+  "player_count": 180,
+  "provinces_count": 2,
   "capital": {
     "name": "Huzistan",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/huzistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 5,
-    "altin": 6,
-    "petrol": 18,
-    "nte": 7,
-    "elmas": 9
+    "deri": 15,
+    "altin": 15,
+    "petrol": 28,
+    "nte": 15,
+    "elmas": 20
   },
   "average_scores": {
-    "education": 5,
-    "military": 9,
-    "development": 4,
-    "health": 10
+    "education": 2.5,
+    "military": 5.5,
+    "development": 6,
+    "health": 9.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 194,
+      "player_count": 173,
       "scores": {
         "education": 5,
         "military": 9,
@@ -47,6 +47,30 @@
         "petrol": 18,
         "nte": 7,
         "elmas": 9
+      }
+    },
+    {
+      "name": "İsfahan",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
+      "region": "Orta İran (Tarihi Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 30,
+      "scores": {
+        "education": 0,
+        "military": 2,
+        "development": 8,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 9,
+        "petrol": 10,
+        "nte": 8,
+        "elmas": 11
       }
     }
   ]
