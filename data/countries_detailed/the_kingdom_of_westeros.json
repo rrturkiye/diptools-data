@@ -2,9 +2,9 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 8496289,
+  "treasury": 8916020,
   "country_number": 189,
-  "player_count": 202,
+  "player_count": 203,
   "provinces_count": 3,
   "capital": {
     "name": "Temeşvar",
@@ -20,8 +20,8 @@
   },
   "average_scores": {
     "education": 4.3,
-    "military": 5.3,
-    "development": 4,
+    "military": 5,
+    "development": 3.7,
     "health": 2
   },
   "provinces": [
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 56,
+      "player_count": 58,
       "scores": {
         "education": 7,
         "military": 7,
-        "development": 7,
+        "development": 6,
         "health": 4,
         "health_world_first": false
       },
@@ -57,10 +57,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 6,
       "scores": {
         "education": 6,
-        "military": 6,
+        "military": 5,
         "development": 4,
         "health": 1,
         "health_world_first": false
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 27,
+      "player_count": 29,
       "scores": {
         "education": 0,
         "military": 3,
