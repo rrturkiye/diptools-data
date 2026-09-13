@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mora": {
@@ -59,7 +59,7 @@
     "Bakü": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Azərbaycan Respublikası",
+      "name": "Şimali Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/baku.png?v=3",
@@ -95,7 +95,7 @@
     "Belh": {
       "code": null,
       "color": "#f471b3",
-      "name": "Húnér Jr.",
+      "name": "H��nér Jr.",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1786705649263.png",
       "coatUrl": "https://diplomacia.com.tr/coats/belh.png?v=3",
@@ -142,7 +142,7 @@
       "color": "#1fad39",
       "name": "ASYA SELÇUKLU DEVLETİ",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1789132226640.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1789226052910.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kandahar.png?v=3",
       "countryId": "c42dd359-c4ba-4d3e-836e-f544d8d3285c"
     },
@@ -239,7 +239,7 @@
     "Nahçıvan": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Azərbaycan Respublikası",
+      "name": "Şimali Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/nahcivan.png?v=3",
@@ -266,7 +266,7 @@
     "Karabağ": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Azərbaycan Respublikası",
+      "name": "Şimali Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karabag.png?v=3",
@@ -653,7 +653,7 @@
     "Ürdün": {
       "code": null,
       "color": "#71b3f4",
-      "name": "Ortadoğu Selçuklu Devleti",
+      "name": "Ortadoğu Sel��uklu Devleti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7-1787239876586.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
@@ -1045,6 +1045,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/izmir.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
+    "St. Petersburg": {
+      "code": null,
+      "color": "#191934",
+      "name": "St. Petersburg Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "countryId": "9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6"
+    },
     "Kolombiya": {
       "code": null,
       "color": "#611515",
@@ -1066,7 +1075,7 @@
     "Azerbaycan": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Azərbaycan Respublikası",
+      "name": "Şimali Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/azerbaycan.png?v=3",
@@ -1134,14 +1143,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
       "coatUrl": "https://diplomacia.com.tr/coats/munchen.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
-    },
-    "St. Petersburg": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3"
     },
     "Huzistan": {
       "code": null,
@@ -1515,7 +1516,7 @@
     "Paris": {
       "code": null,
       "color": "#889339",
-      "name": "Paris Geçici Hükümeti",
+      "name": "جمهورية العرب المتحدون",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
@@ -1556,6 +1557,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1789080701565.png",
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
+    },
+    "Ohio": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/ohio.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
     "Teksas": {
       "code": null,
@@ -1724,15 +1734,6 @@
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/illinois.png?v=3",
-      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
-    },
-    "Ohio": {
-      "code": "USA",
-      "color": "#0f0750",
-      "name": "Land Of the Free",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/ohio.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
     "Kolkata": {

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-13T17:23:25.276Z",
-  "total_countries": 82,
+  "updated_at": "2026-09-13T20:27:25.352Z",
+  "total_countries": 83,
   "total_provinces": 208,
   "countries": [
     {
       "id": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33",
       "name": "Abbasid Empire",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1789020552404.jpeg",
-      "treasury": 1104714,
+      "treasury": 2112144,
       "country_number": 151,
       "player_count": 26,
       "provinces_count": 1,
@@ -60,9 +60,9 @@
       "id": "45d5ffe1-f7c1-4cb0-b479-42066e142660",
       "name": "Akural Hanlığı",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/45d5ffe1-f7c1-4cb0-b479-42066e142660-1788696212826.jpeg",
-      "treasury": 22844687,
+      "treasury": 22945757,
       "country_number": 187,
-      "player_count": 203,
+      "player_count": 204,
       "provinces_count": 1,
       "capital": {
         "name": "Ural",
@@ -91,7 +91,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 216,
+          "player_count": 219,
           "scores": {
             "education": 8,
             "military": 6,
@@ -115,7 +115,7 @@
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789046865872.jpeg",
       "treasury": 16387436,
       "country_number": 91,
-      "player_count": 34,
+      "player_count": 33,
       "provinces_count": 1,
       "capital": {
         "name": "Mary",
@@ -166,9 +166,9 @@
       "id": "47ae6714-b10c-44d0-88ac-882b22cbea09",
       "name": "Anadolu Selçuklu Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/47ae6714-b10c-44d0-88ac-882b22cbea09-1787485958680.jpeg",
-      "treasury": 252581,
+      "treasury": 564212,
       "country_number": 154,
-      "player_count": 37,
+      "player_count": 38,
       "provinces_count": 1,
       "capital": {
         "name": "Güney Azerbaycan",
@@ -197,7 +197,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 34,
+          "player_count": 39,
           "scores": {
             "education": 9,
             "military": 10,
@@ -219,9 +219,9 @@
       "id": "e2327468-0be9-4d02-8eaf-129e4ef07386",
       "name": "Astana Cumhuriyeti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789046622093.jpeg",
-      "treasury": 11100335,
+      "treasury": 4662285,
       "country_number": 182,
-      "player_count": 180,
+      "player_count": 181,
       "provinces_count": 1,
       "capital": {
         "name": "Astana",
@@ -250,7 +250,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 177,
+          "player_count": 178,
           "scores": {
             "education": 8,
             "military": 5,
@@ -271,8 +271,8 @@
     {
       "id": "c42dd359-c4ba-4d3e-836e-f544d8d3285c",
       "name": "ASYA SELÇUKLU DEVLETİ",
-      "flag_url": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1789132226640.jpeg",
-      "treasury": 187005,
+      "flag_url": "https://diplomacia.com.tr/uploads/country-flags/c42dd359-c4ba-4d3e-836e-f544d8d3285c-1789226052910.jpeg",
+      "treasury": 191822,
       "country_number": 146,
       "player_count": 20,
       "provinces_count": 1,
@@ -303,7 +303,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 9,
+          "player_count": 8,
           "scores": {
             "education": 7,
             "military": 6,
@@ -325,9 +325,9 @@
       "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
       "name": "AYKA",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "treasury": 158042630,
+      "treasury": 162183827,
       "country_number": 127,
-      "player_count": 357,
+      "player_count": 370,
       "provinces_count": 8,
       "capital": {
         "name": "Kosova",
@@ -356,7 +356,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 10,
+          "player_count": 19,
           "scores": {
             "education": 0,
             "military": 7,
@@ -380,7 +380,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 23,
+          "player_count": 24,
           "scores": {
             "education": 0,
             "military": 10,
@@ -500,7 +500,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 19,
+          "player_count": 20,
           "scores": {
             "education": 0,
             "military": 10,
@@ -543,137 +543,12 @@
       ]
     },
     {
-      "id": "313a641c-f6ae-4553-aeae-318e78b093ec",
-      "name": "Azərbaycan Respublikası",
-      "flag_url": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
-      "treasury": 27355053,
-      "country_number": 65,
-      "player_count": 194,
-      "provinces_count": 4,
-      "capital": {
-        "name": "Bakü",
-        "icon": "🛢️",
-        "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3"
-      },
-      "total_resource_bonuses": {
-        "deri": 39,
-        "altin": 46,
-        "petrol": 40,
-        "nte": 44,
-        "elmas": 34
-      },
-      "average_scores": {
-        "education": 4.8,
-        "military": 4.3,
-        "development": 5.8,
-        "health": 6.5
-      },
-      "provinces": [
-        {
-          "name": "Bakü",
-          "icon": "🛢️",
-          "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3",
-          "region": "Hazar Kıyısı (Azerbaycan Başkenti)",
-          "is_capital": true,
-          "is_independent": false,
-          "independence_date": null,
-          "player_count": 57,
-          "scores": {
-            "education": 8,
-            "military": 6,
-            "development": 7,
-            "health": 9,
-            "health_world_first": false
-          },
-          "resource_bonuses": {
-            "deri": 6,
-            "altin": 8,
-            "petrol": 16,
-            "nte": 9,
-            "elmas": 13
-          }
-        },
-        {
-          "name": "Azerbaycan",
-          "icon": "🌾",
-          "coat_url": "https://diplomacia.com.tr/coats/azerbaycan.png?v=3",
-          "region": "Batı Azerbaycan",
-          "is_capital": false,
-          "is_independent": false,
-          "independence_date": null,
-          "player_count": 29,
-          "scores": {
-            "education": 3,
-            "military": 3,
-            "development": 8,
-            "health": 8,
-            "health_world_first": false
-          },
-          "resource_bonuses": {
-            "deri": 12,
-            "altin": 12,
-            "petrol": 13,
-            "nte": 11,
-            "elmas": 10
-          }
-        },
-        {
-          "name": "Karabağ",
-          "icon": "⛰️",
-          "coat_url": "https://diplomacia.com.tr/coats/karabag.png?v=3",
-          "region": "Dağlık Karabağ",
-          "is_capital": false,
-          "is_independent": false,
-          "independence_date": null,
-          "player_count": 21,
-          "scores": {
-            "education": 4,
-            "military": 4,
-            "development": 4,
-            "health": 4,
-            "health_world_first": false
-          },
-          "resource_bonuses": {
-            "deri": 11,
-            "altin": 16,
-            "petrol": 5,
-            "nte": 10,
-            "elmas": 6
-          }
-        },
-        {
-          "name": "Nahçıvan",
-          "icon": "🏔️",
-          "coat_url": "https://diplomacia.com.tr/coats/nahcivan.png?v=3",
-          "region": "Nahçıvan Özerk Bölgesi (Eksklav)",
-          "is_capital": false,
-          "is_independent": false,
-          "independence_date": null,
-          "player_count": 20,
-          "scores": {
-            "education": 4,
-            "military": 4,
-            "development": 4,
-            "health": 5,
-            "health_world_first": false
-          },
-          "resource_bonuses": {
-            "deri": 10,
-            "altin": 10,
-            "petrol": 6,
-            "nte": 14,
-            "elmas": 5
-          }
-        }
-      ]
-    },
-    {
       "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
       "name": "Basileia Romaion",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
       "treasury": 75078129,
       "country_number": 37,
-      "player_count": 44,
+      "player_count": 43,
       "provinces_count": 5,
       "capital": {
         "name": "Atina",
@@ -820,9 +695,9 @@
       "id": "84b5882d-a580-482e-a265-c518df28c8ee",
       "name": "Bosna Cumhuriyeti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-      "treasury": 41491615,
+      "treasury": 41901102,
       "country_number": 113,
-      "player_count": 51,
+      "player_count": 50,
       "provinces_count": 2,
       "capital": {
         "name": "Bosna Hersek",
@@ -851,7 +726,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 85,
+          "player_count": 87,
           "scores": {
             "education": 10,
             "military": 9,
@@ -897,7 +772,7 @@
       "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
       "name": "Büyük Selçuklu Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1785410504241.png",
-      "treasury": 15180142,
+      "treasury": 15234061,
       "country_number": 114,
       "player_count": 42,
       "provinces_count": 1,
@@ -950,7 +825,7 @@
       "id": "d42e931d-92f1-4c3b-bb0e-3bf8325b5c87",
       "name": "Cezira Mülhak Beyliği",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d42e931d-92f1-4c3b-bb0e-3bf8325b5c87-1788774575942.jpeg",
-      "treasury": 35971032,
+      "treasury": 36899690,
       "country_number": 73,
       "player_count": 87,
       "provinces_count": 1,
@@ -981,7 +856,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 41,
+          "player_count": 42,
           "scores": {
             "education": 9,
             "military": 10,
@@ -1003,7 +878,7 @@
       "id": "d787f333-dd2a-4403-9f70-44b03d6e4a22",
       "name": "Cezira Sultanlığı",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d787f333-dd2a-4403-9f70-44b03d6e4a22-1788906654219.jpeg",
-      "treasury": 17550184,
+      "treasury": 19930134,
       "country_number": 76,
       "player_count": 22,
       "provinces_count": 4,
@@ -1034,7 +909,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 92,
+          "player_count": 94,
           "scores": {
             "education": 0,
             "military": 7,
@@ -1058,7 +933,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 111,
+          "player_count": 112,
           "scores": {
             "education": 0,
             "military": 11,
@@ -1128,9 +1003,9 @@
       "id": "dc266d20-3045-4c2d-8185-2022a532c0b7",
       "name": "Círculo Akelarre del Cantábrico",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
-      "treasury": 43970509,
+      "treasury": 44624362,
       "country_number": 100,
-      "player_count": 150,
+      "player_count": 153,
       "provinces_count": 2,
       "capital": {
         "name": "Galicia",
@@ -1159,7 +1034,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 123,
+          "player_count": 126,
           "scores": {
             "education": 3,
             "military": 1,
@@ -1205,9 +1080,9 @@
       "id": "31c78b4e-e502-4aab-afd2-179e000f4729",
       "name": "Círculo Akelarre del Mediterraneo",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/31c78b4e-e502-4aab-afd2-179e000f4729-1786370145395.png",
-      "treasury": 15659625,
+      "treasury": 913901,
       "country_number": 95,
-      "player_count": 139,
+      "player_count": 140,
       "provinces_count": 1,
       "capital": {
         "name": "Valencia",
@@ -1236,7 +1111,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 133,
+          "player_count": 134,
           "scores": {
             "education": 0,
             "military": 4,
@@ -1260,7 +1135,7 @@
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1789259599151.png",
       "treasury": 18606855,
       "country_number": 98,
-      "player_count": 165,
+      "player_count": 166,
       "provinces_count": 2,
       "capital": {
         "name": "Şian",
@@ -1313,7 +1188,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 102,
+          "player_count": 103,
           "scores": {
             "education": 5,
             "military": 3,
@@ -1390,7 +1265,7 @@
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
       "treasury": 1140005,
       "country_number": 162,
-      "player_count": 80,
+      "player_count": 82,
       "provinces_count": 1,
       "capital": {
         "name": "Madrid",
@@ -1419,7 +1294,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 144,
+          "player_count": 146,
           "scores": {
             "education": 6,
             "military": 0,
@@ -1441,9 +1316,9 @@
       "id": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6",
       "name": "Cosa Nostra",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1789041788889.jpeg",
-      "treasury": 116484503,
+      "treasury": 116805264,
       "country_number": 148,
-      "player_count": 34,
+      "player_count": 37,
       "provinces_count": 1,
       "capital": {
         "name": "Kuzey Makedonya",
@@ -1472,7 +1347,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 32,
+          "player_count": 33,
           "scores": {
             "education": 0,
             "military": 1,
@@ -1494,9 +1369,9 @@
       "id": "7b977dca-f0cc-4aab-bc96-66264c484368",
       "name": "Dämonenkult von Verberos",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
-      "treasury": 53030292,
+      "treasury": 53109854,
       "country_number": 157,
-      "player_count": 118,
+      "player_count": 120,
       "provinces_count": 1,
       "capital": {
         "name": "Guiyang",
@@ -1525,7 +1400,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 110,
+          "player_count": 109,
           "scores": {
             "education": 7,
             "military": 7,
@@ -1547,7 +1422,7 @@
       "id": "2e50163f-e948-4512-aaeb-2bb93ff2dcc2",
       "name": "DEMOCRATIC REPUBLIC OF MAYNILA",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/2e50163f-e948-4512-aaeb-2bb93ff2dcc2-1788780311292.png",
-      "treasury": 3350024,
+      "treasury": 4071635,
       "country_number": 110,
       "player_count": 23,
       "provinces_count": 1,
@@ -1600,9 +1475,9 @@
       "id": "1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80",
       "name": "(DPRM) Democratic People's Republic Of Maharlika",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80-1788360816839.jpeg",
-      "treasury": 147539409,
+      "treasury": 148414062,
       "country_number": 112,
-      "player_count": 182,
+      "player_count": 183,
       "provinces_count": 2,
       "capital": {
         "name": "Mindanao",
@@ -1655,7 +1530,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 160,
+          "player_count": 161,
           "scores": {
             "education": 0,
             "military": 6,
@@ -1677,9 +1552,9 @@
       "id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
       "name": "💪🏼El norte recuerda 🇲🇽",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a84d25c-5b26-4b3d-ab1b-b0200e774900-1786485453505.png",
-      "treasury": 82187043,
+      "treasury": 82204115,
       "country_number": 92,
-      "player_count": 167,
+      "player_count": 168,
       "provinces_count": 1,
       "capital": {
         "name": "Georgia",
@@ -1708,7 +1583,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": "2026-08-14T09:09:36.169Z",
-          "player_count": 31,
+          "player_count": 32,
           "scores": {
             "education": 0,
             "military": 1,
@@ -1730,7 +1605,7 @@
       "id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958",
       "name": "Empire de Noustraa",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1181a04c-77ea-4cb3-8cc6-f4671d1a4958-1786945027687.jpeg",
-      "treasury": 24401414,
+      "treasury": 24960870,
       "country_number": 138,
       "player_count": 50,
       "provinces_count": 2,
@@ -1807,9 +1682,9 @@
       "id": "6311fc78-bb94-48a2-8d87-e67ae4374888",
       "name": "Federal Republic of Germany",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6311fc78-bb94-48a2-8d87-e67ae4374888-1787644859555.png",
-      "treasury": 249316817,
+      "treasury": 235827972,
       "country_number": 30,
-      "player_count": 261,
+      "player_count": 264,
       "provinces_count": 5,
       "capital": {
         "name": "Berlin",
@@ -1838,7 +1713,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 108,
+          "player_count": 110,
           "scores": {
             "education": 5,
             "military": 5,
@@ -1910,7 +1785,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 46,
+          "player_count": 47,
           "scores": {
             "education": 8,
             "military": 3,
@@ -1956,9 +1831,9 @@
       "id": "1390cf4d-aec6-4029-960c-6662c587bde7",
       "name": "Federation of Mahawangsa",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1390cf4d-aec6-4029-960c-6662c587bde7-1788694967002.png",
-      "treasury": 82538664,
+      "treasury": 83118035,
       "country_number": 107,
-      "player_count": 288,
+      "player_count": 289,
       "provinces_count": 3,
       "capital": {
         "name": "Kuala Lumpur",
@@ -1987,7 +1862,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 174,
+          "player_count": 175,
           "scores": {
             "education": 0,
             "military": 5,
@@ -2011,7 +1886,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 101,
+          "player_count": 102,
           "scores": {
             "education": 6,
             "military": 3,
@@ -2035,7 +1910,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 116,
+          "player_count": 115,
           "scores": {
             "education": 0,
             "military": 7,
@@ -2057,9 +1932,9 @@
       "id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
       "name": "🌎 GLOBAL CAPITAL RESERVE",
       "flag_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
-      "treasury": 46070603,
+      "treasury": 46072641,
       "country_number": 171,
-      "player_count": 82,
+      "player_count": 83,
       "provinces_count": 2,
       "capital": {
         "name": "Normandiya",
@@ -2074,7 +1949,7 @@
         "elmas": 18
       },
       "average_scores": {
-        "education": 3.5,
+        "education": 3,
         "military": 8,
         "development": 0.5,
         "health": 0
@@ -2090,7 +1965,7 @@
           "independence_date": null,
           "player_count": 58,
           "scores": {
-            "education": 7,
+            "education": 6,
             "military": 8,
             "development": 1,
             "health": 0,
@@ -2112,7 +1987,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 6,
+          "player_count": 7,
           "scores": {
             "education": 0,
             "military": 8,
@@ -2134,13 +2009,13 @@
       "id": "ca984b9e-07b1-4123-8e20-dde1b2bbcbe9",
       "name": "GÖKTÜRK KAĞANLIĞI",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ca984b9e-07b1-4123-8e20-dde1b2bbcbe9-1788821557341.jpeg",
-      "treasury": 80593915,
+      "treasury": 80920312,
       "country_number": 133,
       "player_count": 30,
       "provinces_count": 2,
       "capital": {
         "name": "Aktöbe",
-        "icon": "⛏��",
+        "icon": "⛏️",
         "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
       },
       "total_resource_bonuses": {
@@ -2159,13 +2034,13 @@
       "provinces": [
         {
           "name": "Aktöbe",
-          "icon": "⛏��",
+          "icon": "⛏️",
           "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
           "region": "Batı Kazakistan",
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 37,
+          "player_count": 34,
           "scores": {
             "education": 2,
             "military": 8,
@@ -2211,9 +2086,9 @@
       "id": "d6c9494a-aee3-49a8-ae43-f8b66e846477",
       "name": "Grand Duchy of Burgundy",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d6c9494a-aee3-49a8-ae43-f8b66e846477-1788735506121.png",
-      "treasury": 677679,
+      "treasury": 797974,
       "country_number": 190,
-      "player_count": 203,
+      "player_count": 207,
       "provinces_count": 1,
       "capital": {
         "name": "Burgonya",
@@ -2242,7 +2117,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 197,
+          "player_count": 214,
           "scores": {
             "education": 0,
             "military": 7,
@@ -2264,7 +2139,7 @@
       "id": "9e83332a-b932-4a97-a26c-8e274a60161b",
       "name": "Great Hunnic State",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9e83332a-b932-4a97-a26c-8e274a60161b-1785187693659.jpeg",
-      "treasury": 13918347,
+      "treasury": 14243229,
       "country_number": 77,
       "player_count": 37,
       "provinces_count": 1,
@@ -2283,7 +2158,7 @@
       "average_scores": {
         "education": 9,
         "military": 9,
-        "development": 9,
+        "development": 8,
         "health": 9
       },
       "provinces": [
@@ -2295,11 +2170,11 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 24,
+          "player_count": 23,
           "scores": {
             "education": 9,
             "military": 9,
-            "development": 9,
+            "development": 8,
             "health": 9,
             "health_world_first": false
           },
@@ -2317,9 +2192,9 @@
       "id": "9a906c31-293d-4a49-ade4-4f145842a99e",
       "name": "Great Kingdom of Cendana",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
-      "treasury": 30350671,
+      "treasury": 30549040,
       "country_number": 156,
-      "player_count": 146,
+      "player_count": 147,
       "provinces_count": 1,
       "capital": {
         "name": "Vuhan",
@@ -2348,7 +2223,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 160,
+          "player_count": 161,
           "scores": {
             "education": 0,
             "military": 0,
@@ -2370,9 +2245,9 @@
       "id": "5cfa95cf-118b-4a9f-8c30-c9197b8d9da3",
       "name": "Guangzhou Geçici Hükümeti",
       "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "treasury": 588540,
+      "treasury": 599868,
       "country_number": 191,
-      "player_count": 192,
+      "player_count": 190,
       "provinces_count": 1,
       "capital": {
         "name": "Kuveyt",
@@ -2423,9 +2298,9 @@
       "id": "80343a70-3a5d-4cea-a836-2fde6c4b5307",
       "name": "Holy Kingdom Of Hyarmen",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/80343a70-3a5d-4cea-a836-2fde6c4b5307-1789208753809.jpeg",
-      "treasury": 29706723,
+      "treasury": 29884685,
       "country_number": 194,
-      "player_count": 203,
+      "player_count": 202,
       "provinces_count": 1,
       "capital": {
         "name": "Medine",
@@ -2454,7 +2329,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 207,
+          "player_count": 209,
           "scores": {
             "education": 2,
             "military": 1,
@@ -2507,7 +2382,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 121,
+          "player_count": 122,
           "scores": {
             "education": 0,
             "military": 8,
@@ -2582,7 +2457,7 @@
       "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
       "name": "HÚNÉR IMPERIUM",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1784394284047.png",
-      "treasury": 18281410,
+      "treasury": 19282895,
       "country_number": 86,
       "player_count": 33,
       "provinces_count": 3,
@@ -2613,7 +2488,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 17,
+          "player_count": 16,
           "scores": {
             "education": 9,
             "military": 0,
@@ -2661,7 +2536,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 28,
+          "player_count": 26,
           "scores": {
             "education": 0,
             "military": 9,
@@ -2685,7 +2560,7 @@
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1786705649263.png",
       "treasury": 3824,
       "country_number": 142,
-      "player_count": 24,
+      "player_count": 25,
       "provinces_count": 1,
       "capital": {
         "name": "Belh",
@@ -2736,7 +2611,7 @@
       "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
       "name": "Imperi Galàctic Català",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-      "treasury": 37697221,
+      "treasury": 38092430,
       "country_number": 99,
       "player_count": 347,
       "provinces_count": 4,
@@ -2767,7 +2642,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 129,
+          "player_count": 130,
           "scores": {
             "education": 0,
             "military": 9,
@@ -2861,9 +2736,9 @@
       "id": "ec1225f6-6f40-48ae-b457-7fdc32dac273",
       "name": "Imperium Albionis",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ec1225f6-6f40-48ae-b457-7fdc32dac273-1787770179143.jpeg",
-      "treasury": 175305872,
+      "treasury": 176422283,
       "country_number": 121,
-      "player_count": 228,
+      "player_count": 230,
       "provinces_count": 4,
       "capital": {
         "name": "Galler",
@@ -2892,7 +2767,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 44,
+          "player_count": 45,
           "scores": {
             "education": 1,
             "military": 1,
@@ -2916,7 +2791,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 72,
+          "player_count": 70,
           "scores": {
             "education": 1,
             "military": 1,
@@ -2940,7 +2815,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 62,
+          "player_count": 63,
           "scores": {
             "education": 1,
             "military": 9,
@@ -2964,7 +2839,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 43,
+          "player_count": 44,
           "scores": {
             "education": 10,
             "military": 1,
@@ -2986,9 +2861,9 @@
       "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
       "name": "IMPERIUM ROMANUM",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1788800381033.jpeg",
-      "treasury": 4567020,
+      "treasury": 4571202,
       "country_number": 4,
-      "player_count": 105,
+      "player_count": 100,
       "provinces_count": 2,
       "capital": {
         "name": "Atıray",
@@ -3041,7 +2916,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 3,
+          "player_count": 2,
           "scores": {
             "education": 6,
             "military": 2,
@@ -3063,7 +2938,7 @@
       "id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
       "name": "INDIA - भारत",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6a63810e-77fb-4804-ae7f-2eb1962e2bef-1788198268805.png",
-      "treasury": 33171776,
+      "treasury": 14705841,
       "country_number": 180,
       "player_count": 197,
       "provinces_count": 4,
@@ -3082,7 +2957,7 @@
       "average_scores": {
         "education": 0,
         "military": 0,
-        "development": 2,
+        "development": 2.3,
         "health": 2.3
       },
       "provinces": [
@@ -3094,11 +2969,11 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": "2026-08-30T15:08:47.539Z",
-          "player_count": 81,
+          "player_count": 83,
           "scores": {
             "education": 0,
             "military": 0,
-            "development": 8,
+            "development": 9,
             "health": 9,
             "health_world_first": false
           },
@@ -3142,7 +3017,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": "2026-08-30T15:08:47.539Z",
-          "player_count": 45,
+          "player_count": 46,
           "scores": {
             "education": 0,
             "military": 0,
@@ -3188,7 +3063,7 @@
       "id": "ebf00276-bc41-4857-9def-6f02f0db09ae",
       "name": "İslam Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
-      "treasury": 21493294,
+      "treasury": 21537515,
       "country_number": 88,
       "player_count": 38,
       "provinces_count": 2,
@@ -3265,9 +3140,9 @@
       "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
       "name": "Istana Nusavalon",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-      "treasury": 5253417,
+      "treasury": 5949961,
       "country_number": 155,
-      "player_count": 93,
+      "player_count": 90,
       "provinces_count": 2,
       "capital": {
         "name": "Pekin",
@@ -3296,7 +3171,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 50,
+          "player_count": 52,
           "scores": {
             "education": 0,
             "military": 5,
@@ -3342,9 +3217,9 @@
       "id": "1c15ff51-6ea7-43f7-9c9b-9099c5ba8270",
       "name": "Jalisco Geçici Hükümeti",
       "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "treasury": 62906,
+      "treasury": 339024,
       "country_number": 196,
-      "player_count": 65,
+      "player_count": 66,
       "provinces_count": 1,
       "capital": {
         "name": "Jalisco",
@@ -3373,7 +3248,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 139,
+          "player_count": 138,
           "scores": {
             "education": 0,
             "military": 10,
@@ -3393,9 +3268,9 @@
     },
     {
       "id": "7f0c0ac2-db98-4d71-a9ca-95051310492e",
-      "name": "Karachi Pirates ⚔���",
+      "name": "Karachi Pirates ⚔️",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7f0c0ac2-db98-4d71-a9ca-95051310492e-1788198598195.png",
-      "treasury": 6576795,
+      "treasury": 7098629,
       "country_number": 144,
       "player_count": 20,
       "provinces_count": 1,
@@ -3448,7 +3323,7 @@
       "id": "9803c555-a7db-4519-8652-0697dfad5c94",
       "name": "KEMET KINGDOM - مملكة كيميت",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1786631953484.jpeg",
-      "treasury": 111353669,
+      "treasury": 77731871,
       "country_number": 61,
       "player_count": 90,
       "provinces_count": 4,
@@ -3466,9 +3341,9 @@
       },
       "average_scores": {
         "education": 3,
-        "military": 5,
+        "military": 5.3,
         "development": 6.8,
-        "health": 4.8
+        "health": 5
       },
       "provinces": [
         {
@@ -3479,7 +3354,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 50,
+          "player_count": 52,
           "scores": {
             "education": 0,
             "military": 6,
@@ -3503,7 +3378,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 17,
+          "player_count": 18,
           "scores": {
             "education": 4,
             "military": 2,
@@ -3551,12 +3426,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 70,
+          "player_count": 73,
           "scores": {
             "education": 2,
-            "military": 7,
+            "military": 8,
             "development": 10,
-            "health": 9,
+            "health": 10,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -3593,7 +3468,7 @@
         "education": 3,
         "military": 2,
         "development": 5,
-        "health": 10
+        "health": 9
       },
       "provinces": [
         {
@@ -3604,12 +3479,12 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 42,
+          "player_count": 43,
           "scores": {
             "education": 3,
             "military": 2,
             "development": 5,
-            "health": 10,
+            "health": 9,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -3626,7 +3501,7 @@
       "id": "1ae658e0-7301-42da-a440-3c5582ce4114",
       "name": "Kıbrıs kutsal Latin İmparatorluğu",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1789145904271.jpeg",
-      "treasury": 20741326,
+      "treasury": 20757018,
       "country_number": 134,
       "player_count": 21,
       "provinces_count": 2,
@@ -3643,7 +3518,7 @@
         "elmas": 19
       },
       "average_scores": {
-        "education": 3.5,
+        "education": 3,
         "military": 5,
         "development": 4,
         "health": 3
@@ -3657,7 +3532,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 2,
+          "player_count": 1,
           "scores": {
             "education": 0,
             "military": 5,
@@ -3683,7 +3558,7 @@
           "independence_date": null,
           "player_count": 5,
           "scores": {
-            "education": 7,
+            "education": 6,
             "military": 5,
             "development": 6,
             "health": 5,
@@ -3703,7 +3578,7 @@
       "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
       "name": "Koperasi Desa Merah Putih",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
-      "treasury": 14573031,
+      "treasury": 16392872,
       "country_number": 106,
       "player_count": 170,
       "provinces_count": 2,
@@ -3734,7 +3609,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 50,
+          "player_count": 49,
           "scores": {
             "education": 0,
             "military": 0,
@@ -3758,7 +3633,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 185,
+          "player_count": 188,
           "scores": {
             "education": 5,
             "military": 9,
@@ -3881,9 +3756,9 @@
       "id": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
       "name": "Land Of the Free",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-      "treasury": 133727407,
+      "treasury": 136308767,
       "country_number": 136,
-      "player_count": 477,
+      "player_count": 481,
       "provinces_count": 4,
       "capital": {
         "name": "Florida",
@@ -3912,7 +3787,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": "2026-08-14T09:09:36.169Z",
-          "player_count": 119,
+          "player_count": 123,
           "scores": {
             "education": 0,
             "military": 0,
@@ -3936,7 +3811,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": "2026-08-14T09:09:36.169Z",
-          "player_count": 133,
+          "player_count": 135,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4006,9 +3881,9 @@
       "id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481",
       "name": "Nación Azteca",
       "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "treasury": 146162300,
+      "treasury": 146640553,
       "country_number": 193,
-      "player_count": 85,
+      "player_count": 92,
       "provinces_count": 4,
       "capital": {
         "name": "Monterrey",
@@ -4037,7 +3912,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 33,
+          "player_count": 34,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4061,7 +3936,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 11,
+          "player_count": 13,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4085,7 +3960,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 14,
+          "player_count": 16,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4109,7 +3984,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 36,
+          "player_count": 38,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4131,7 +4006,7 @@
       "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
       "name": "Neo Shandong Imperium",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-      "treasury": 282795706,
+      "treasury": 284935099,
       "country_number": 109,
       "player_count": 188,
       "provinces_count": 2,
@@ -4208,9 +4083,9 @@
       "id": "f4d3dba9-f069-45cf-a77b-26cb8289bed3",
       "name": "ORDER OF CİRCLE",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f4d3dba9-f069-45cf-a77b-26cb8289bed3-1789080770629.jpeg",
-      "treasury": 25484,
+      "treasury": 9543953,
       "country_number": 166,
-      "player_count": 68,
+      "player_count": 69,
       "provinces_count": 1,
       "capital": {
         "name": "Şincan",
@@ -4239,7 +4114,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 71,
+          "player_count": 75,
           "scores": {
             "education": 1,
             "military": 1,
@@ -4261,7 +4136,7 @@
       "id": "b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7",
       "name": "Ortadoğu Selçuklu Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b9faaaa0-b98b-4d3d-846e-cfe6ffdcddf7-1787239876586.jpeg",
-      "treasury": 17867446,
+      "treasury": 18052012,
       "country_number": 152,
       "player_count": 50,
       "provinces_count": 1,
@@ -4292,7 +4167,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 58,
+          "player_count": 57,
           "scores": {
             "education": 1,
             "military": 9,
@@ -4314,9 +4189,9 @@
       "id": "984d1038-b1f0-4530-8cf4-e7d00c4a52c7",
       "name": "Osmanlı İslam Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/984d1038-b1f0-4530-8cf4-e7d00c4a52c7-1788804062063.png",
-      "treasury": 6275830,
+      "treasury": 6458799,
       "country_number": 188,
-      "player_count": 203,
+      "player_count": 204,
       "provinces_count": 1,
       "capital": {
         "name": "Halep",
@@ -4345,7 +4220,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 181,
+          "player_count": 183,
           "scores": {
             "education": 1,
             "military": 7,
@@ -4367,7 +4242,7 @@
       "id": "43262e0b-726a-4a9f-8a52-44f582257946",
       "name": "Özbekistan Cumhuriyeti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
-      "treasury": 40961694,
+      "treasury": 41387544,
       "country_number": 85,
       "player_count": 74,
       "provinces_count": 2,
@@ -4441,59 +4316,6 @@
       ]
     },
     {
-      "id": "a0c05e2a-f704-4959-9a74-d76ad6be2984",
-      "name": "Paris Geçici Hükümeti",
-      "flag_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "treasury": 14308082,
-      "country_number": 195,
-      "player_count": 203,
-      "provinces_count": 1,
-      "capital": {
-        "name": "Paris",
-        "icon": "🏛️",
-        "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3"
-      },
-      "total_resource_bonuses": {
-        "deri": 6,
-        "altin": 4,
-        "petrol": 3,
-        "nte": 6,
-        "elmas": 17
-      },
-      "average_scores": {
-        "education": 6,
-        "military": 10,
-        "development": 4,
-        "health": 3
-      },
-      "provinces": [
-        {
-          "name": "Paris",
-          "icon": "🏛️",
-          "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
-          "region": "Kuzey Merkez (Île-de-France)",
-          "is_capital": true,
-          "is_independent": false,
-          "independence_date": null,
-          "player_count": 214,
-          "scores": {
-            "education": 6,
-            "military": 10,
-            "development": 4,
-            "health": 3,
-            "health_world_first": false
-          },
-          "resource_bonuses": {
-            "deri": 6,
-            "altin": 4,
-            "petrol": 3,
-            "nte": 6,
-            "elmas": 17
-          }
-        }
-      ]
-    },
-    {
       "id": "4d973d67-468d-4c16-bba9-c8433a2c2e7b",
       "name": "Pawon Rothmere",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1788962633076.png",
@@ -4550,9 +4372,9 @@
       "id": "168c75a4-277b-4996-b9e8-d70070be7748",
       "name": "QUETTA",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/168c75a4-277b-4996-b9e8-d70070be7748-1786945523457.jpeg",
-      "treasury": 2122689,
+      "treasury": 2174664,
       "country_number": 140,
-      "player_count": 21,
+      "player_count": 19,
       "provinces_count": 1,
       "capital": {
         "name": "Kueta",
@@ -4603,9 +4425,9 @@
       "id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
       "name": "República Argentina",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
-      "treasury": 252704782,
+      "treasury": 262295178,
       "country_number": 103,
-      "player_count": 873,
+      "player_count": 878,
       "provinces_count": 4,
       "capital": {
         "name": "Buenos Aires",
@@ -4622,7 +4444,7 @@
       "average_scores": {
         "education": 4.3,
         "military": 6.8,
-        "development": 7.5,
+        "development": 7.8,
         "health": 7
       },
       "provinces": [
@@ -4634,11 +4456,11 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 231,
+          "player_count": 232,
           "scores": {
             "education": 8,
             "military": 7,
-            "development": 9,
+            "development": 10,
             "health": 7,
             "health_world_first": false
           },
@@ -4658,7 +4480,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 206,
+          "player_count": 208,
           "scores": {
             "education": 1,
             "military": 8,
@@ -4706,7 +4528,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 205,
+          "player_count": 209,
           "scores": {
             "education": 2,
             "military": 6,
@@ -4728,9 +4550,9 @@
       "id": "16fb3540-85c0-46fc-a143-f72db2337f86",
       "name": "República de Chile",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
-      "treasury": 123326881,
+      "treasury": 124510249,
       "country_number": 132,
-      "player_count": 142,
+      "player_count": 143,
       "provinces_count": 3,
       "capital": {
         "name": "Santiago",
@@ -4759,7 +4581,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 67,
+          "player_count": 62,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4783,7 +4605,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 52,
+          "player_count": 53,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4807,7 +4629,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 45,
+          "player_count": 43,
           "scores": {
             "education": 0,
             "military": 0,
@@ -4829,9 +4651,9 @@
       "id": "bdb0966b-bd04-401b-8d01-8621df11c96b",
       "name": "República de Colombia.",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1788924568994.png",
-      "treasury": 27790384,
+      "treasury": 27846952,
       "country_number": 102,
-      "player_count": 490,
+      "player_count": 492,
       "provinces_count": 1,
       "capital": {
         "name": "Kolombiya",
@@ -4860,7 +4682,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 472,
+          "player_count": 474,
           "scores": {
             "education": 10,
             "military": 10,
@@ -4882,7 +4704,7 @@
       "id": "3eef23ef-fce7-411d-a72e-bb855139843d",
       "name": "República De Venezuela",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3eef23ef-fce7-411d-a72e-bb855139843d-1788966658588.jpeg",
-      "treasury": 10813595,
+      "treasury": 11078444,
       "country_number": 101,
       "player_count": 115,
       "provinces_count": 1,
@@ -4913,7 +4735,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 122,
+          "player_count": 123,
           "scores": {
             "education": 10,
             "military": 10,
@@ -4935,9 +4757,9 @@
       "id": "4ee14c46-59af-4800-aec7-8c5b07029828",
       "name": "República Federativa do Brasil",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4ee14c46-59af-4800-aec7-8c5b07029828-1782883631599.png",
-      "treasury": 349378312,
+      "treasury": 353125773,
       "country_number": 57,
-      "player_count": 3318,
+      "player_count": 3334,
       "provinces_count": 5,
       "capital": {
         "name": "Brasília",
@@ -4955,7 +4777,7 @@
         "education": 9.8,
         "military": 8.4,
         "development": 9.4,
-        "health": 9.4
+        "health": 9.2
       },
       "provinces": [
         {
@@ -4966,12 +4788,12 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 575,
+          "player_count": 578,
           "scores": {
             "education": 10,
             "military": 10,
             "development": 9,
-            "health": 9,
+            "health": 10,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -4990,12 +4812,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 279,
+          "player_count": 283,
           "scores": {
             "education": 9,
             "military": 10,
             "development": 10,
-            "health": 10,
+            "health": 9,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -5014,12 +4836,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 848,
+          "player_count": 856,
           "scores": {
             "education": 10,
             "military": 10,
             "development": 10,
-            "health": 10,
+            "health": 9,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -5038,7 +4860,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 515,
+          "player_count": 516,
           "scores": {
             "education": 10,
             "military": 9,
@@ -5062,7 +4884,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 1197,
+          "player_count": 1205,
           "scores": {
             "education": 10,
             "military": 3,
@@ -5084,9 +4906,9 @@
       "id": "8f70a139-5ba3-4e60-b236-bbcf57c8dc39",
       "name": "República Popular de Fuzhou",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8f70a139-5ba3-4e60-b236-bbcf57c8dc39-1788161352813.jpeg",
-      "treasury": 15475459,
+      "treasury": 15893706,
       "country_number": 158,
-      "player_count": 97,
+      "player_count": 98,
       "provinces_count": 1,
       "capital": {
         "name": "Fuçou",
@@ -5115,7 +4937,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 78,
+          "player_count": 84,
           "scores": {
             "education": 10,
             "military": 10,
@@ -5137,7 +4959,7 @@
       "id": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33",
       "name": "Republic Of Kunming",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1789080701565.png",
-      "treasury": 14495218,
+      "treasury": 14873110,
       "country_number": 168,
       "player_count": 101,
       "provinces_count": 1,
@@ -5190,9 +5012,9 @@
       "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
       "name": "Republik Indonesia Serikat",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-      "treasury": 309785640,
+      "treasury": 311663000,
       "country_number": 54,
-      "player_count": 1196,
+      "player_count": 1195,
       "provinces_count": 8,
       "capital": {
         "name": "Cava",
@@ -5245,7 +5067,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 75,
+          "player_count": 74,
           "scores": {
             "education": 0,
             "military": 8,
@@ -5317,7 +5139,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 11,
+          "player_count": 10,
           "scores": {
             "education": 0,
             "military": 2,
@@ -5411,9 +5233,9 @@
       "id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
       "name": "Repvbblica Italiana",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
-      "treasury": 596201304,
+      "treasury": 597992517,
       "country_number": 119,
-      "player_count": 860,
+      "player_count": 866,
       "provinces_count": 4,
       "capital": {
         "name": "Roma",
@@ -5442,7 +5264,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 291,
+          "player_count": 292,
           "scores": {
             "education": 9,
             "military": 6,
@@ -5466,7 +5288,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 319,
+          "player_count": 320,
           "scores": {
             "education": 9,
             "military": 4,
@@ -5490,12 +5312,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 15,
+          "player_count": 12,
           "scores": {
             "education": 9,
             "military": 4,
             "development": 7,
-            "health": 10,
+            "health": 9,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -5514,12 +5336,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 265,
+          "player_count": 269,
           "scores": {
             "education": 9,
             "military": 8,
             "development": 8,
-            "health": 9,
+            "health": 10,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -5536,9 +5358,9 @@
       "id": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
       "name": "Ruhi Çenet Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789219677039.jpeg",
-      "treasury": 2875436,
+      "treasury": 3151586,
       "country_number": 137,
-      "player_count": 23,
+      "player_count": 22,
       "provinces_count": 2,
       "capital": {
         "name": "İslamabad",
@@ -5613,7 +5435,7 @@
       "id": "223ccc4c-71c4-4410-8021-4e43df700a7c",
       "name": "Shafiq Kingdom",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/223ccc4c-71c4-4410-8021-4e43df700a7c-1784510143633.png",
-      "treasury": 235737,
+      "treasury": 371181,
       "country_number": 111,
       "player_count": 21,
       "provinces_count": 1,
@@ -5663,12 +5485,137 @@
       ]
     },
     {
+      "id": "313a641c-f6ae-4553-aeae-318e78b093ec",
+      "name": "Şimali Azərbaycan Respublikası",
+      "flag_url": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
+      "treasury": 27981529,
+      "country_number": 65,
+      "player_count": 196,
+      "provinces_count": 4,
+      "capital": {
+        "name": "Bakü",
+        "icon": "🛢️",
+        "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3"
+      },
+      "total_resource_bonuses": {
+        "deri": 39,
+        "altin": 46,
+        "petrol": 40,
+        "nte": 44,
+        "elmas": 34
+      },
+      "average_scores": {
+        "education": 4.8,
+        "military": 4.3,
+        "development": 5.8,
+        "health": 6.5
+      },
+      "provinces": [
+        {
+          "name": "Bakü",
+          "icon": "🛢️",
+          "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3",
+          "region": "Hazar Kıyısı (Azerbaycan Başkenti)",
+          "is_capital": true,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 58,
+          "scores": {
+            "education": 8,
+            "military": 6,
+            "development": 7,
+            "health": 9,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 6,
+            "altin": 8,
+            "petrol": 16,
+            "nte": 9,
+            "elmas": 13
+          }
+        },
+        {
+          "name": "Azerbaycan",
+          "icon": "🌾",
+          "coat_url": "https://diplomacia.com.tr/coats/azerbaycan.png?v=3",
+          "region": "Batı Azerbaycan",
+          "is_capital": false,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 28,
+          "scores": {
+            "education": 3,
+            "military": 3,
+            "development": 8,
+            "health": 8,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 12,
+            "altin": 12,
+            "petrol": 13,
+            "nte": 11,
+            "elmas": 10
+          }
+        },
+        {
+          "name": "Karabağ",
+          "icon": "⛰️",
+          "coat_url": "https://diplomacia.com.tr/coats/karabag.png?v=3",
+          "region": "Dağlık Karabağ",
+          "is_capital": false,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 22,
+          "scores": {
+            "education": 4,
+            "military": 4,
+            "development": 4,
+            "health": 4,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 11,
+            "altin": 16,
+            "petrol": 5,
+            "nte": 10,
+            "elmas": 6
+          }
+        },
+        {
+          "name": "Nahçıvan",
+          "icon": "🏔️",
+          "coat_url": "https://diplomacia.com.tr/coats/nahcivan.png?v=3",
+          "region": "Nahçıvan Özerk Bölgesi (Eksklav)",
+          "is_capital": false,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 20,
+          "scores": {
+            "education": 4,
+            "military": 4,
+            "development": 4,
+            "health": 5,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 10,
+            "altin": 10,
+            "petrol": 6,
+            "nte": 14,
+            "elmas": 5
+          }
+        }
+      ]
+    },
+    {
       "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
       "name": "STEPPE KHAGANATE",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "treasury": 15320742,
+      "treasury": 16180745,
       "country_number": 89,
-      "player_count": 80,
+      "player_count": 81,
       "provinces_count": 7,
       "capital": {
         "name": "Altay",
@@ -5685,7 +5632,7 @@
       "average_scores": {
         "education": 0.6,
         "military": 6.9,
-        "development": 3.7,
+        "development": 3.9,
         "health": 1.3
       },
       "provinces": [
@@ -5749,7 +5696,7 @@
           "scores": {
             "education": 2,
             "military": 4,
-            "development": 6,
+            "development": 7,
             "health": 4,
             "health_world_first": false
           },
@@ -5793,7 +5740,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 45,
+          "player_count": 44,
           "scores": {
             "education": 0,
             "military": 10,
@@ -5860,12 +5807,65 @@
       ]
     },
     {
+      "id": "9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6",
+      "name": "St. Petersburg Geçici Hükümeti",
+      "flag_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "treasury": 5237219,
+      "country_number": 197,
+      "player_count": 206,
+      "provinces_count": 1,
+      "capital": {
+        "name": "St. Petersburg",
+        "icon": "🏛️",
+        "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3"
+      },
+      "total_resource_bonuses": {
+        "deri": 7,
+        "altin": 7,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 12
+      },
+      "average_scores": {
+        "education": 0,
+        "military": 8,
+        "development": 5,
+        "health": 2
+      },
+      "provinces": [
+        {
+          "name": "St. Petersburg",
+          "icon": "🏛️",
+          "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+          "region": "Kuzeybatı (Baltık kıyısı)",
+          "is_capital": true,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 257,
+          "scores": {
+            "education": 0,
+            "military": 8,
+            "development": 5,
+            "health": 2,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 7,
+            "altin": 7,
+            "petrol": 9,
+            "nte": 10,
+            "elmas": 12
+          }
+        }
+      ]
+    },
+    {
       "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
       "name": "The Kingdom of Westeros",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-      "treasury": 8916020,
+      "treasury": 322650,
       "country_number": 189,
-      "player_count": 203,
+      "player_count": 204,
       "provinces_count": 3,
       "capital": {
         "name": "Temeşvar",
@@ -5882,7 +5882,7 @@
       "average_scores": {
         "education": 4.3,
         "military": 5,
-        "development": 3.7,
+        "development": 4,
         "health": 2
       },
       "provinces": [
@@ -5894,11 +5894,11 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 58,
+          "player_count": 59,
           "scores": {
             "education": 7,
             "military": 7,
-            "development": 6,
+            "development": 7,
             "health": 4,
             "health_world_first": false
           },
@@ -5918,7 +5918,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 6,
+          "player_count": 7,
           "scores": {
             "education": 6,
             "military": 5,
@@ -5942,7 +5942,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 29,
+          "player_count": 28,
           "scores": {
             "education": 0,
             "military": 3,
@@ -5964,7 +5964,7 @@
       "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
       "name": "Thema Hellados",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-      "treasury": 14274630,
+      "treasury": 14414331,
       "country_number": 126,
       "player_count": 13,
       "provinces_count": 3,
@@ -6043,7 +6043,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 13,
+          "player_count": 12,
           "scores": {
             "education": 0,
             "military": 3,
@@ -6065,9 +6065,9 @@
       "id": "f0e121c3-3e6c-46da-bad6-cc4d77f6318c",
       "name": "Tibet İslam Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f0e121c3-3e6c-46da-bad6-cc4d77f6318c-1787586723655.jpeg",
-      "treasury": 6844377,
+      "treasury": 131930,
       "country_number": 167,
-      "player_count": 87,
+      "player_count": 88,
       "provinces_count": 1,
       "capital": {
         "name": "Tibet",
@@ -6096,7 +6096,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 83,
+          "player_count": 85,
           "scores": {
             "education": 1,
             "military": 1,
@@ -6118,9 +6118,9 @@
       "id": "13ec96ba-f86f-4e41-9103-9ad475be7896",
       "name": "Türk İslam İmparatorluğu",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/13ec96ba-f86f-4e41-9103-9ad475be7896-1789061814868.jpeg",
-      "treasury": 19242693,
+      "treasury": 19940197,
       "country_number": 181,
-      "player_count": 179,
+      "player_count": 180,
       "provinces_count": 2,
       "capital": {
         "name": "Huzistan",
@@ -6149,7 +6149,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 167,
+          "player_count": 168,
           "scores": {
             "education": 5,
             "military": 9,
@@ -6195,9 +6195,9 @@
       "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "name": "Türkiye Cumhuriyeti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "treasury": 191470614,
+      "treasury": 193333336,
       "country_number": 130,
-      "player_count": 507,
+      "player_count": 500,
       "provinces_count": 19,
       "capital": {
         "name": "Ankara",
@@ -6215,7 +6215,7 @@
         "education": 2.7,
         "military": 4.2,
         "development": 3.9,
-        "health": 4.8
+        "health": 4.7
       },
       "provinces": [
         {
@@ -6226,7 +6226,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 93,
+          "player_count": 86,
           "scores": {
             "education": 4,
             "military": 9,
@@ -6250,7 +6250,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 18,
+          "player_count": 19,
           "scores": {
             "education": 2,
             "military": 2,
@@ -6274,7 +6274,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 14,
+          "player_count": 15,
           "scores": {
             "education": 4,
             "military": 4,
@@ -6298,12 +6298,12 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 68,
+          "player_count": 67,
           "scores": {
             "education": 4,
             "military": 5,
             "development": 10,
-            "health": 10,
+            "health": 9,
             "health_world_first": false
           },
           "resource_bonuses": {
@@ -6346,7 +6346,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 18,
+          "player_count": 20,
           "scores": {
             "education": 4,
             "military": 5,
@@ -6394,7 +6394,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 17,
+          "player_count": 18,
           "scores": {
             "education": 8,
             "military": 10,
@@ -6490,7 +6490,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 103,
+          "player_count": 100,
           "scores": {
             "education": 3,
             "military": 3,
@@ -6514,7 +6514,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 74,
+          "player_count": 65,
           "scores": {
             "education": 0,
             "military": 8,
@@ -6610,7 +6610,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 7,
+          "player_count": 6,
           "scores": {
             "education": 0,
             "military": 1,
@@ -6680,9 +6680,9 @@
       "id": "71d78e68-4461-42a1-b362-2650312d08e5",
       "name": "Valgora Lejyon Devleti",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-      "treasury": 68716215,
+      "treasury": 71113192,
       "country_number": 135,
-      "player_count": 66,
+      "player_count": 65,
       "provinces_count": 3,
       "capital": {
         "name": "Moskova",
@@ -6711,7 +6711,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 62,
+          "player_count": 60,
           "scores": {
             "education": 0,
             "military": 4,
@@ -6735,7 +6735,7 @@
           "is_capital": false,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 42,
+          "player_count": 41,
           "scores": {
             "education": 0,
             "military": 6,
@@ -6812,7 +6812,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 3,
+          "player_count": 4,
           "scores": {
             "education": 4,
             "military": 3,
@@ -6834,9 +6834,9 @@
       "id": "4f148395-cec7-4b2d-b00a-71b6855c4209",
       "name": "الجزائر",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4f148395-cec7-4b2d-b00a-71b6855c4209-1786111345979.jpeg",
-      "treasury": 36429173,
+      "treasury": 37060468,
       "country_number": 125,
-      "player_count": 617,
+      "player_count": 619,
       "provinces_count": 2,
       "capital": {
         "name": "Cezayir",
@@ -6865,7 +6865,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 375,
+          "player_count": 358,
           "scores": {
             "education": 4,
             "military": 10,
@@ -6911,9 +6911,9 @@
       "id": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7",
       "name": "المملكة المغربية",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f01c0b18-8dad-4cab-b719-9b960f5ba8d7-1787943415271.png",
-      "treasury": 175183774,
+      "treasury": 175779436,
       "country_number": 123,
-      "player_count": 299,
+      "player_count": 298,
       "provinces_count": 1,
       "capital": {
         "name": "Rabat",
@@ -6942,7 +6942,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 285,
+          "player_count": 287,
           "scores": {
             "education": 10,
             "military": 9,
@@ -6961,12 +6961,65 @@
       ]
     },
     {
+      "id": "a0c05e2a-f704-4959-9a74-d76ad6be2984",
+      "name": "جمهورية العرب المتحدون",
+      "flag_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "treasury": 14796800,
+      "country_number": 195,
+      "player_count": 203,
+      "provinces_count": 1,
+      "capital": {
+        "name": "Paris",
+        "icon": "🏛️",
+        "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3"
+      },
+      "total_resource_bonuses": {
+        "deri": 6,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 6,
+        "elmas": 17
+      },
+      "average_scores": {
+        "education": 7,
+        "military": 10,
+        "development": 4,
+        "health": 3
+      },
+      "provinces": [
+        {
+          "name": "Paris",
+          "icon": "🏛️",
+          "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+          "region": "Kuzey Merkez (Île-de-France)",
+          "is_capital": true,
+          "is_independent": false,
+          "independence_date": null,
+          "player_count": 210,
+          "scores": {
+            "education": 7,
+            "military": 10,
+            "development": 4,
+            "health": 3,
+            "health_world_first": false
+          },
+          "resource_bonuses": {
+            "deri": 6,
+            "altin": 4,
+            "petrol": 3,
+            "nte": 6,
+            "elmas": 17
+          }
+        }
+      ]
+    },
+    {
       "id": "3588e2c7-1763-433d-be15-5742fe2471f4",
       "name": "دولة ليبيا",
       "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3588e2c7-1763-433d-be15-5742fe2471f4-1786851002483.jpeg",
-      "treasury": 2673010,
+      "treasury": 2673996,
       "country_number": 122,
-      "player_count": 334,
+      "player_count": 332,
       "provinces_count": 1,
       "capital": {
         "name": "Trablus",
@@ -6995,7 +7048,7 @@
           "is_capital": true,
           "is_independent": false,
           "independence_date": null,
-          "player_count": 301,
+          "player_count": 303,
           "scores": {
             "education": 9,
             "military": 5,
@@ -7023,7 +7076,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-11T15:42:24.290Z",
-      "player_count": 204,
+      "player_count": 206,
       "scores": {
         "education": 5,
         "military": 9,
@@ -7047,7 +7100,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 84,
+      "player_count": 86,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7071,7 +7124,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 88,
+      "player_count": 90,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7119,7 +7172,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 101,
+      "player_count": 106,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7143,7 +7196,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 90,
+      "player_count": 96,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7167,7 +7220,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 211,
+      "player_count": 215,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7215,7 +7268,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-12T11:59:41.299Z",
-      "player_count": 374,
+      "player_count": 375,
       "scores": {
         "education": 6,
         "military": 3,
@@ -7239,7 +7292,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 59,
+      "player_count": 62,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7263,7 +7316,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 58,
+      "player_count": 57,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7287,7 +7340,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 137,
+      "player_count": 145,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7311,7 +7364,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T18:24:35.835Z",
-      "player_count": 214,
+      "player_count": 211,
       "scores": {
         "education": 0,
         "military": 0,
@@ -7328,30 +7381,6 @@
       }
     },
     {
-      "name": "St. Petersburg",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
-      "region": "Kuzeybatı (Baltık kıyısı)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-09T18:13:45.425Z",
-      "player_count": 253,
-      "scores": {
-        "education": 0,
-        "military": 8,
-        "development": 5,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 7,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 12
-      }
-    },
-    {
       "name": "Venedik",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/venedik.png?v=3",
@@ -7359,7 +7388,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-10T17:10:34.550Z",
-      "player_count": 107,
+      "player_count": 110,
       "scores": {
         "education": 0,
         "military": 0,

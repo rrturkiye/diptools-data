@@ -1,0 +1,53 @@
+{
+  "id": "9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6",
+  "name": "St. Petersburg Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+  "treasury": 5237219,
+  "country_number": 197,
+  "player_count": 206,
+  "provinces_count": 1,
+  "capital": {
+    "name": "St. Petersburg",
+    "icon": "🏛️",
+    "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 7,
+    "altin": 7,
+    "petrol": 9,
+    "nte": 10,
+    "elmas": 12
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 8,
+    "development": 5,
+    "health": 2
+  },
+  "provinces": [
+    {
+      "name": "St. Petersburg",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "region": "Kuzeybatı (Baltık kıyısı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 257,
+      "scores": {
+        "education": 0,
+        "military": 8,
+        "development": 5,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 7,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 12
+      }
+    }
+  ]
+}
