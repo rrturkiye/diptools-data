@@ -2,7 +2,7 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-  "treasury": 88414265,
+  "treasury": 40150698,
   "country_number": 113,
   "player_count": 51,
   "provinces_count": 3,
@@ -22,7 +22,7 @@
     "education": 5,
     "military": 5.7,
     "development": 5,
-    "health": 5
+    "health": 5.3
   },
   "provinces": [
     {
@@ -33,13 +33,13 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 83,
+      "player_count": 87,
       "scores": {
         "education": 10,
         "military": 9,
         "development": 10,
-        "health": 10,
-        "health_world_first": false
+        "health": 11,
+        "health_world_first": true
       },
       "resource_bonuses": {
         "deri": 9,

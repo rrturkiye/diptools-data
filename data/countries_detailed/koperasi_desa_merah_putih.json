@@ -2,7 +2,7 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
-  "treasury": 5397890,
+  "treasury": 20703563,
   "country_number": 106,
   "player_count": 167,
   "provinces_count": 2,
@@ -12,16 +12,16 @@
     "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 13,
-    "altin": 16,
-    "petrol": 20,
-    "nte": 21,
-    "elmas": 35
+    "deri": 12,
+    "altin": 17,
+    "petrol": 17,
+    "nte": 26,
+    "elmas": 37
   },
   "average_scores": {
-    "education": 0,
-    "military": 0,
-    "development": 5,
+    "education": 2.5,
+    "military": 4.5,
+    "development": 6,
     "health": 5
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 47,
+      "player_count": 48,
       "scores": {
         "education": 0,
         "military": 0,
@@ -50,27 +50,27 @@
       }
     },
     {
-      "name": "Vuhan",
+      "name": "Guangzhou",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 159,
+      "player_count": 181,
       "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
+        "education": 5,
+        "military": 9,
+        "development": 2,
         "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 16
+        "deri": 8,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 18
       }
     }
   ]

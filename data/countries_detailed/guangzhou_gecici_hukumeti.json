@@ -2,27 +2,27 @@
   "id": "5cfa95cf-118b-4a9f-8c30-c9197b8d9da3",
   "name": "Guangzhou Geçici Hükümeti",
   "flag_url": "https://diplomacia.com.tr/coats/china.png?v=3",
-  "treasury": 4244173,
+  "treasury": 4555524,
   "country_number": 191,
-  "player_count": 192,
-  "provinces_count": 2,
+  "player_count": 194,
+  "provinces_count": 1,
   "capital": {
     "name": "Kuveyt",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/kuveyt.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 15,
-    "petrol": 22,
-    "nte": 16,
-    "elmas": 33
+    "deri": 3,
+    "altin": 8,
+    "petrol": 17,
+    "nte": 4,
+    "elmas": 15
   },
   "average_scores": {
-    "education": 4,
-    "military": 5.5,
-    "development": 4,
-    "health": 1
+    "education": 0,
+    "military": 1,
+    "development": 5,
+    "health": 2
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 18,
       "scores": {
         "education": 0,
         "military": 1,
@@ -47,30 +47,6 @@
         "petrol": 17,
         "nte": 4,
         "elmas": 15
-      }
-    },
-    {
-      "name": "Guangzhou",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 179,
-      "scores": {
-        "education": 8,
-        "military": 10,
-        "development": 3,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 12,
-        "elmas": 18
       }
     }
   ]
