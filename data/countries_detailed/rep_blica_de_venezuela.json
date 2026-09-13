@@ -2,38 +2,38 @@
   "id": "3eef23ef-fce7-411d-a72e-bb855139843d",
   "name": "República De Venezuela",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3eef23ef-fce7-411d-a72e-bb855139843d-1788966658588.jpeg",
-  "treasury": 11078444,
+  "treasury": 11285395,
   "country_number": 101,
-  "player_count": 115,
-  "provinces_count": 1,
+  "player_count": 114,
+  "provinces_count": 3,
   "capital": {
-    "name": "Venezuela",
+    "name": "Karakas",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 10,
-    "altin": 17,
-    "petrol": 19,
-    "nte": 9,
-    "elmas": 4
+    "deri": 21,
+    "altin": 37,
+    "petrol": 46,
+    "nte": 30,
+    "elmas": 21
   },
   "average_scores": {
-    "education": 10,
-    "military": 10,
-    "development": 10,
-    "health": 10
+    "education": 3.3,
+    "military": 3.3,
+    "development": 3.3,
+    "health": 3.3
   },
   "provinces": [
     {
-      "name": "Venezuela",
+      "name": "Karakas",
       "icon": "🛢️",
       "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3",
       "region": "Güney Amerika (Karaib Kıyısı)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 123,
+      "player_count": 117,
       "scores": {
         "education": 10,
         "military": 10,
@@ -47,6 +47,54 @@
         "petrol": 19,
         "nte": 9,
         "elmas": 4
+      }
+    },
+    {
+      "name": "Guayana",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3",
+      "region": "Güney Amerika (Karaib Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 2,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 15,
+        "petrol": 8,
+        "nte": 15,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "Maracaibo",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/venezuela.png?v=3",
+      "region": "Güney Amerika (Karaib Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 1,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 5,
+        "petrol": 19,
+        "nte": 6,
+        "elmas": 8
       }
     }
   ]

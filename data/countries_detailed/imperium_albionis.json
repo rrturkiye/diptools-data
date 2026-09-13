@@ -2,9 +2,9 @@
   "id": "ec1225f6-6f40-48ae-b457-7fdc32dac273",
   "name": "Imperium Albionis",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ec1225f6-6f40-48ae-b457-7fdc32dac273-1787770179143.jpeg",
-  "treasury": 176422283,
+  "treasury": 177411073,
   "country_number": 121,
-  "player_count": 230,
+  "player_count": 223,
   "provinces_count": 4,
   "capital": {
     "name": "Galler",
@@ -19,10 +19,10 @@
     "elmas": 47
   },
   "average_scores": {
-    "education": 3.3,
+    "education": 3,
     "military": 3,
-    "development": 8,
-    "health": 8.8
+    "development": 8.3,
+    "health": 8.5
   },
   "provinces": [
     {
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 45,
+      "player_count": 44,
       "scores": {
         "education": 1,
         "military": 1,
-        "development": 4,
+        "development": 5,
         "health": 8,
         "health_world_first": false
       },
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 70,
+      "player_count": 69,
       "scores": {
         "education": 1,
         "military": 1,
@@ -81,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 63,
+      "player_count": 60,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 9,
         "development": 9,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 44,
+      "player_count": 41,
       "scores": {
         "education": 10,
         "military": 1,

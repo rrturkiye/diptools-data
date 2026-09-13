@@ -2,9 +2,9 @@
   "id": "1ae658e0-7301-42da-a440-3c5582ce4114",
   "name": "Kıbrıs kutsal Latin İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1789145904271.jpeg",
-  "treasury": 20757018,
+  "treasury": 20766020,
   "country_number": 134,
-  "player_count": 21,
+  "player_count": 20,
   "provinces_count": 2,
   "capital": {
     "name": "Kuzey Kıbrıs Türk Cumhuriyeti",
@@ -21,8 +21,8 @@
   "average_scores": {
     "education": 3,
     "military": 5,
-    "development": 4,
-    "health": 3
+    "development": 4.5,
+    "health": 2.5
   },
   "provinces": [
     {
@@ -37,7 +37,7 @@
       "scores": {
         "education": 0,
         "military": 5,
-        "development": 2,
+        "development": 3,
         "health": 1,
         "health_world_first": false
       },
@@ -62,7 +62,7 @@
         "education": 6,
         "military": 5,
         "development": 6,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
