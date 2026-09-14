@@ -2,27 +2,27 @@
   "id": "7b977dca-f0cc-4aab-bc96-66264c484368",
   "name": "Dämonenkult von Verberos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
-  "treasury": 53952079,
+  "treasury": 61230860,
   "country_number": 157,
-  "player_count": 119,
-  "provinces_count": 1,
+  "player_count": 122,
+  "provinces_count": 2,
   "capital": {
     "name": "Guiyang",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 5,
-    "petrol": 4,
-    "nte": 18,
-    "elmas": 10
+    "deri": 19,
+    "altin": 12,
+    "petrol": 9,
+    "nte": 30,
+    "elmas": 28
   },
   "average_scores": {
-    "education": 7,
-    "military": 7,
+    "education": 5,
+    "military": 6.5,
     "development": 1,
-    "health": 1
+    "health": 0.5
   },
   "provinces": [
     {
@@ -47,6 +47,30 @@
         "petrol": 4,
         "nte": 18,
         "elmas": 10
+      }
+    },
+    {
+      "name": "Guangzhou",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 190,
+      "scores": {
+        "education": 3,
+        "military": 6,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 12,
+        "elmas": 18
       }
     }
   ]
