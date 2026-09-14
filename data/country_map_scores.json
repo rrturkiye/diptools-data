@@ -210,6 +210,12 @@
       "development": 5,
       "health": 5
     },
+    "Guayana": {
+      "education": 7,
+      "military": 6,
+      "development": 1,
+      "health": 2
+    },
     "Maracaibo": {
       "education": 7,
       "military": 5,
@@ -265,7 +271,7 @@
       "health": 1
     },
     "Kostanay": {
-      "education": 7,
+      "education": 6,
       "military": 2,
       "development": 5,
       "health": 2
@@ -332,7 +338,7 @@
     },
     "Filistin": {
       "education": 5,
-      "military": 5,
+      "military": 4,
       "development": 4,
       "health": 3
     },
@@ -340,7 +346,7 @@
       "education": 5,
       "military": 3,
       "development": 1,
-      "health": 6
+      "health": 7
     },
     "Balkan": {
       "education": 5,
@@ -463,7 +469,7 @@
       "health": 2
     },
     "Amasya": {
-      "education": 4,
+      "education": 3,
       "military": 5,
       "development": 10,
       "health": 9
@@ -523,13 +529,13 @@
       "health": 1
     },
     "New York": {
-      "education": 3,
+      "education": 2,
       "military": 1,
       "development": 3,
       "health": 2
     },
     "Washington DC": {
-      "education": 3,
+      "education": 2,
       "military": 6,
       "development": 2,
       "health": 1
@@ -548,7 +554,7 @@
     },
     "Bağdat": {
       "education": 2,
-      "military": 4,
+      "military": 3,
       "development": 7,
       "health": 4
     },
@@ -635,12 +641,6 @@
       "military": 1,
       "development": 5,
       "health": 8
-    },
-    "Guayana": {
-      "education": 1,
-      "military": 1,
-      "development": 0,
-      "health": 1
     },
     "Halep": {
       "education": 1,
@@ -867,7 +867,7 @@
     "Sibirya": {
       "education": 0,
       "military": 5,
-      "development": 10,
+      "development": 9,
       "health": 7
     },
     "Alaska": {
@@ -884,7 +884,7 @@
     },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "education": 0,
-      "military": 5,
+      "military": 4,
       "development": 3,
       "health": 1
     },
@@ -932,7 +932,7 @@
     },
     "Samsun": {
       "education": 0,
-      "military": 3,
+      "military": 2,
       "development": 5,
       "health": 5
     },
@@ -1026,17 +1026,17 @@
       "development": 0,
       "health": 0
     },
+    "Singapur": {
+      "education": 0,
+      "military": 0,
+      "development": 10,
+      "health": 10
+    },
     "Tijuana": {
       "education": 0,
       "military": 0,
       "development": 10,
       "health": 7
-    },
-    "Singapur": {
-      "education": 0,
-      "military": 0,
-      "development": 9,
-      "health": 10
     },
     "Delhi": {
       "education": 0,
