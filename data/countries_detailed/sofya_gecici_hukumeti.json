@@ -1,22 +1,22 @@
 {
-  "id": "fd131b6a-8186-4ea2-9f9b-b0edd1c078cf",
-  "name": "Venedik Geçici Hükümeti",
-  "flag_url": "https://diplomacia.com.tr/coats/venedik.png?v=3",
-  "treasury": 1773298,
-  "country_number": 208,
-  "player_count": 96,
+  "id": "8830e4de-eb49-4c17-9217-0947f6da0746",
+  "name": "Sofya Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+  "treasury": 122945,
+  "country_number": 209,
+  "player_count": 209,
   "provinces_count": 1,
   "capital": {
-    "name": "Venedik",
+    "name": "Sofya",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/venedik.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 8,
-    "altin": 6,
+    "altin": 11,
     "petrol": 6,
-    "nte": 7,
-    "elmas": 14
+    "nte": 8,
+    "elmas": 11
   },
   "average_scores": {
     "education": 0,
@@ -26,14 +26,14 @@
   },
   "provinces": [
     {
-      "name": "Venedik",
+      "name": "Sofya",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/venedik.png?v=3",
-      "region": "Avrupa",
+      "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+      "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 98,
+      "player_count": 215,
       "scores": {
         "education": 0,
         "military": 0,
@@ -43,10 +43,10 @@
       },
       "resource_bonuses": {
         "deri": 8,
-        "altin": 6,
+        "altin": 11,
         "petrol": 6,
-        "nte": 7,
-        "elmas": 14
+        "nte": 8,
+        "elmas": 11
       }
     }
   ]

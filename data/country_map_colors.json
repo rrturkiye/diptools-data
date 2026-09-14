@@ -13,14 +13,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/mora.png?v=3",
       "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451"
     },
-    "Sofya": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/sofya.png?v=3"
-    },
     "Katar": {
       "code": null,
       "color": "#1f1f2e",
@@ -59,7 +51,7 @@
     "Bakü": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Şimali Azərbaycan Respublikası",
+      "name": "Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/baku.png?v=3",
@@ -227,10 +219,19 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
       "countryId": "43262e0b-726a-4a9f-8a52-44f582257946"
     },
+    "Sofya": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Sofya Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/sofya.png?v=3",
+      "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746"
+    },
     "Nahçıvan": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Şimali Azərbaycan Respublikası",
+      "name": "Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/nahcivan.png?v=3",
@@ -257,7 +258,7 @@
     "Karabağ": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Şimali Azərbaycan Respublikası",
+      "name": "Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karabag.png?v=3",
@@ -266,9 +267,9 @@
     "Astana": {
       "code": null,
       "color": "#750b47",
-      "name": "Astana Cumhuriyeti",
+      "name": "KUZEY KRALLIĞI",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789046622093.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789331212378.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
       "countryId": "e2327468-0be9-4d02-8eaf-129e4ef07386"
     },
@@ -1021,9 +1022,9 @@
     "St. Petersburg": {
       "code": null,
       "color": "#191934",
-      "name": "St. Petersburg Geçici Hükümeti",
+      "name": "RUSSIAN FEDERATION",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6-1789324872142.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
       "countryId": "9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6"
     },
@@ -1039,7 +1040,7 @@
     "Azerbaycan": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Şimali Azərbaycan Respublikası",
+      "name": "Azərbaycan Respublikası",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/azerbaycan.png?v=3",
@@ -1189,15 +1190,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
       "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
     },
-    "Galicia": {
-      "code": null,
-      "color": "#4876c7",
-      "name": "Círculo Akelarre del Cantábrico",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/galicia.png?v=3",
-      "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
-    },
     "Cali": {
       "code": null,
       "color": "#e1bc14",
@@ -1287,6 +1279,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mendoza.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
+    },
+    "Galicia": {
+      "code": null,
+      "color": "#4876c7",
+      "name": "Círculo Akelarre del Cantábrico",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/galicia.png?v=3",
+      "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
     },
     "Atacama": {
       "code": null,
@@ -1504,15 +1505,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
       "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
     },
-    "Sibirya": {
-      "code": null,
-      "color": "#4876c7",
-      "name": "Círculo Akelarre del Cantábrico",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
-      "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
-    },
     "Kafkasya": {
       "code": null,
       "color": "#4e134e",
@@ -1521,15 +1513,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
-    },
-    "Paris": {
-      "code": null,
-      "color": "#889339",
-      "name": "جمهورية العرب المتحدون",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/a0c05e2a-f704-4959-9a74-d76ad6be2984-1789252758677.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "countryId": "a0c05e2a-f704-4959-9a74-d76ad6be2984"
     },
     "Harbin": {
       "code": null,
@@ -1648,6 +1631,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/bukres.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
     },
+    "Paris": {
+      "code": null,
+      "color": "#1d3faf",
+      "name": "Grand Duchy of Burgundy",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d6c9494a-aee3-49a8-ae43-f8b66e846477-1788735506121.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "countryId": "d6c9494a-aee3-49a8-ae43-f8b66e846477"
+    },
     "Aktöbe": {
       "code": null,
       "color": "#18b0ec",
@@ -1683,6 +1675,15 @@
       "flagUrl": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
       "countryId": "a87549d7-feed-479d-a728-9d1842d7738b"
+    },
+    "Sibirya": {
+      "code": null,
+      "color": "#4876c7",
+      "name": "Círculo Akelarre del Cantábrico",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
+      "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
     },
     "Moskova": {
       "code": null,
@@ -1848,7 +1849,7 @@
     },
     "Floransa": {
       "code": null,
-      "color": null,
+      "color": "#064626",
       "name": "Floransa Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/floransa.png?v=3",
@@ -1857,7 +1858,7 @@
     },
     "Palermo": {
       "code": null,
-      "color": "#e0e713",
+      "color": "#1b4309",
       "name": "Palermo Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/palermo.png?v=3",
@@ -1866,7 +1867,7 @@
     },
     "Marakeş": {
       "code": null,
-      "color": null,
+      "color": "#0e48a4",
       "name": "Marakeş Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
@@ -1884,7 +1885,7 @@
     },
     "Bingazi": {
       "code": null,
-      "color": null,
+      "color": "#87892a",
       "name": "Bingazi Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/libya.png?v=3",
@@ -1893,7 +1894,7 @@
     },
     "Oran": {
       "code": null,
-      "color": null,
+      "color": "#1f7b0a",
       "name": "Oran Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/cezayir.png?v=3",
@@ -1902,7 +1903,7 @@
     },
     "Venedik": {
       "code": null,
-      "color": "#2a6489",
+      "color": "#064626",
       "name": "Venedik Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/venedik.png?v=3",

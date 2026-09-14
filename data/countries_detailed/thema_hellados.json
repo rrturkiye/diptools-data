@@ -2,7 +2,7 @@
   "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
   "name": "Thema Hellados",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-  "treasury": 15263188,
+  "treasury": 15408712,
   "country_number": 126,
   "player_count": 12,
   "provinces_count": 3,
@@ -22,7 +22,7 @@
     "education": 2.3,
     "military": 2,
     "development": 2.3,
-    "health": 1
+    "health": 0.7
   },
   "provinces": [
     {
@@ -81,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 11,
       "scores": {
         "education": 0,
         "military": 3,
         "development": 5,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {

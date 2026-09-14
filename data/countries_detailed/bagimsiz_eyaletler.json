@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 3,
+  "provinces_count": 2,
   "provinces": [
     {
       "name": "Balkan",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-11T15:42:24.290Z",
-      "player_count": 204,
+      "player_count": 207,
       "scores": {
         "education": 5,
         "military": 9,
@@ -34,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-12T11:59:41.299Z",
-      "player_count": 394,
+      "player_count": 400,
       "scores": {
         "education": 6,
         "military": 3,
@@ -48,30 +48,6 @@
         "petrol": 14,
         "nte": 8,
         "elmas": 8
-      }
-    },
-    {
-      "name": "Sofya",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/sofya.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-10T18:24:35.835Z",
-      "player_count": 213,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 11,
-        "petrol": 6,
-        "nte": 8,
-        "elmas": 11
       }
     }
   ]

@@ -2,9 +2,9 @@
   "id": "b1854c75-e10c-41b8-8838-5edb3ad3471a",
   "name": "Curitiba Geçici Hükümeti",
   "flag_url": "https://diplomacia.com.tr/coats/curitiba.png?v=3",
-  "treasury": 0,
+  "treasury": 17746076,
   "country_number": 205,
-  "player_count": 113,
+  "player_count": 116,
   "provinces_count": 1,
   "capital": {
     "name": "Curitiba",
@@ -19,10 +19,10 @@
     "elmas": 10
   },
   "average_scores": {
-    "education": 0,
+    "education": 8,
     "military": 0,
-    "development": 0,
-    "health": 0
+    "development": 4,
+    "health": 6
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 120,
+      "player_count": 122,
       "scores": {
-        "education": 0,
+        "education": 8,
         "military": 0,
-        "development": 0,
-        "health": 0,
+        "development": 4,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
