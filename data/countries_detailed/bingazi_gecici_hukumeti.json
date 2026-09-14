@@ -1,0 +1,53 @@
+{
+  "id": "4d9479f0-e62e-4921-b04d-f3b418776f22",
+  "name": "Bingazi Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
+  "treasury": 0,
+  "country_number": 204,
+  "player_count": 105,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Bingazi",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 5,
+    "altin": 5,
+    "petrol": 18,
+    "nte": 5,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Bingazi",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 97,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 5,
+        "petrol": 18,
+        "nte": 5,
+        "elmas": 7
+      }
+    }
+  ]
+}

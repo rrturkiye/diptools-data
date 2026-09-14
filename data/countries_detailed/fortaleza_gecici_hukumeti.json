@@ -1,0 +1,53 @@
+{
+  "id": "a87549d7-feed-479d-a728-9d1842d7738b",
+  "name": "Fortaleza Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
+  "treasury": 0,
+  "country_number": 207,
+  "player_count": 103,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Fortaleza",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/fortaleza.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 12,
+    "altin": 6,
+    "petrol": 8,
+    "nte": 7,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Fortaleza",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
+      "region": "Kuzeydoğu Brezilya",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 107,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 7
+      }
+    }
+  ]
+}

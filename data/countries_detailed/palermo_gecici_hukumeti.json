@@ -1,0 +1,53 @@
+{
+  "id": "76556b7e-4548-4a94-9c75-3e27caea487f",
+  "name": "Palermo Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/palermo.png?v=3",
+  "treasury": 27662,
+  "country_number": 201,
+  "player_count": 67,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Palermo",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/palermo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 7,
+    "altin": 5,
+    "petrol": 8,
+    "nte": 6,
+    "elmas": 6
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Palermo",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/palermo.png?v=3",
+      "region": "Avrupa",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 60,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 5,
+        "petrol": 8,
+        "nte": 6,
+        "elmas": 6
+      }
+    }
+  ]
+}

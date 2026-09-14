@@ -1,0 +1,53 @@
+{
+  "id": "a61a74e4-fa80-4a6d-b5a9-1f5c816702ca",
+  "name": "İskenderiye Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/cairo.png?v=3",
+  "treasury": 11500000,
+  "country_number": 203,
+  "player_count": 211,
+  "provinces_count": 1,
+  "capital": {
+    "name": "İskenderiye",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 6,
+    "altin": 5,
+    "petrol": 12,
+    "nte": 7,
+    "elmas": 13
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "İskenderiye",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3",
+      "region": "Kuzey Mısır",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 223,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 5,
+        "petrol": 12,
+        "nte": 7,
+        "elmas": 13
+      }
+    }
+  ]
+}

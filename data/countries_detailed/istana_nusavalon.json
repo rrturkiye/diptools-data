@@ -2,27 +2,27 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Istana Nusavalon",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-  "treasury": 10159881,
+  "treasury": 11717686,
   "country_number": 155,
-  "player_count": 85,
-  "provinces_count": 2,
+  "player_count": 84,
+  "provinces_count": 1,
   "capital": {
     "name": "Pekin",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 13,
-    "petrol": 13,
-    "nte": 27,
-    "elmas": 28
+    "deri": 6,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 10,
+    "elmas": 20
   },
   "average_scores": {
     "education": 0,
-    "military": 2.5,
-    "development": 5,
-    "health": 5
+    "military": 5,
+    "development": 10,
+    "health": 10
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 53,
+      "player_count": 48,
       "scores": {
         "education": 0,
         "military": 5,
@@ -47,30 +47,6 @@
         "petrol": 5,
         "nte": 10,
         "elmas": 20
-      }
-    },
-    {
-      "name": "İç Moğolistan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 3,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 15,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 17,
-        "elmas": 8
       }
     }
   ]

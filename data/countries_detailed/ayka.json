@@ -2,9 +2,9 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 180999860,
+  "treasury": 168614816,
   "country_number": 127,
-  "player_count": 357,
+  "player_count": 356,
   "provinces_count": 8,
   "capital": {
     "name": "Kosova",
@@ -20,9 +20,9 @@
   },
   "average_scores": {
     "education": 0.9,
-    "military": 8.1,
+    "military": 8.3,
     "development": 2.1,
-    "health": 2.9
+    "health": 2.8
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 15,
+      "player_count": 10,
       "scores": {
         "education": 0,
         "military": 7,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 62,
+      "player_count": 60,
       "scores": {
         "education": 7,
         "military": 7,
@@ -153,10 +153,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 116,
+      "player_count": 212,
       "scores": {
         "education": 0,
-        "military": 9,
+        "military": 10,
         "development": 1,
         "health": 0,
         "health_world_first": false
@@ -177,12 +177,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 22,
+      "player_count": 20,
       "scores": {
         "education": 0,
         "military": 10,
         "development": 2,
-        "health": 3,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {

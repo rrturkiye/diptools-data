@@ -2,26 +2,26 @@
   "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
   "name": "Neo Shandong Imperium",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-  "treasury": 295420088,
+  "treasury": 297171139,
   "country_number": 109,
-  "player_count": 187,
-  "provinces_count": 1,
+  "player_count": 190,
+  "provinces_count": 2,
   "capital": {
     "name": "Şandong",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 10,
-    "altin": 7,
-    "petrol": 12,
-    "nte": 8,
-    "elmas": 16
+    "deri": 25,
+    "altin": 13,
+    "petrol": 20,
+    "nte": 25,
+    "elmas": 24
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 7,
+    "development": 3.5,
     "health": 0
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 134,
+      "player_count": 138,
       "scores": {
         "education": 0,
         "military": 0,
@@ -47,6 +47,30 @@
         "petrol": 12,
         "nte": 8,
         "elmas": 16
+      }
+    },
+    {
+      "name": "İç Moğolistan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 17,
+        "elmas": 8
       }
     }
   ]

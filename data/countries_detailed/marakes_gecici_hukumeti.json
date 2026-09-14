@@ -1,0 +1,53 @@
+{
+  "id": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c",
+  "name": "Marakeş Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/fas.png?v=3",
+  "treasury": 0,
+  "country_number": 202,
+  "player_count": 85,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Marakeş",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/fas.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 15,
+    "altin": 7,
+    "petrol": 5,
+    "nte": 14,
+    "elmas": 8
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Marakeş",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/fas.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 61,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 14,
+        "elmas": 8
+      }
+    }
+  ]
+}

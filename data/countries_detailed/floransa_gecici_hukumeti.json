@@ -1,0 +1,53 @@
+{
+  "id": "97b3ef36-d11a-4463-bd74-21cea671c079",
+  "name": "Floransa Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/floransa.png?v=3",
+  "treasury": 5000,
+  "country_number": 200,
+  "player_count": 140,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Floransa",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/floransa.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 16,
+    "altin": 10,
+    "petrol": 4,
+    "nte": 5,
+    "elmas": 13
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 0,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Floransa",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/floransa.png?v=3",
+      "region": "Avrupa",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 108,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 10,
+        "petrol": 4,
+        "nte": 5,
+        "elmas": 13
+      }
+    }
+  ]
+}

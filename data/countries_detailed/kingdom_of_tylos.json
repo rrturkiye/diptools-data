@@ -1,76 +1,76 @@
 {
-  "id": "d42e931d-92f1-4c3b-bb0e-3bf8325b5c87",
+  "id": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
   "name": "Kingdom of Tylos",
-  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d42e931d-92f1-4c3b-bb0e-3bf8325b5c87-1787161670078.jpeg",
-  "treasury": 38965485,
-  "country_number": 73,
-  "player_count": 97,
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789398804147.jpeg",
+  "treasury": 6935375,
+  "country_number": 137,
+  "player_count": 23,
   "provinces_count": 2,
   "capital": {
-    "name": "Katar",
-    "icon": "🏙️",
-    "coat_url": "https://diplomacia.com.tr/coats/katar.png?v=3"
+    "name": "İslamabad",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/islamabad.png"
   },
   "total_resource_bonuses": {
-    "deri": 7,
-    "altin": 17,
-    "petrol": 29,
-    "nte": 9,
-    "elmas": 31
+    "deri": 19,
+    "altin": 14,
+    "petrol": 7,
+    "nte": 21,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 4.5,
-    "military": 7.5,
-    "development": 9.5,
-    "health": 8
+    "education": 6.5,
+    "military": 4.5,
+    "development": 7,
+    "health": 5
   },
   "provinces": [
     {
-      "name": "Katar",
-      "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/katar.png?v=3",
-      "region": "Basra Körfezi Yarımadası",
+      "name": "İslamabad",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/islamabad.png",
+      "region": "Asya",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 44,
+      "player_count": 11,
       "scores": {
-        "education": 9,
-        "military": 9,
-        "development": 10,
-        "health": 10,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 3,
-        "altin": 8,
-        "petrol": 16,
-        "nte": 4,
-        "elmas": 16
-      }
-    },
-    {
-      "name": "Bahreyn",
-      "icon": "🏝️",
-      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
-      "region": "Basra Körfezi Adası",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 54,
-      "scores": {
-        "education": 0,
-        "military": 6,
-        "development": 9,
+        "education": 8,
+        "military": 8,
+        "development": 7,
         "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 4,
+        "deri": 6,
+        "altin": 5,
+        "petrol": 4,
+        "nte": 7,
+        "elmas": 16
+      }
+    },
+    {
+      "name": "Keşmir",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kesmir.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 7,
+      "scores": {
+        "education": 5,
+        "military": 1,
+        "development": 7,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
         "altin": 9,
-        "petrol": 13,
-        "nte": 5,
-        "elmas": 15
+        "petrol": 3,
+        "nte": 14,
+        "elmas": 8
       }
     }
   ]
