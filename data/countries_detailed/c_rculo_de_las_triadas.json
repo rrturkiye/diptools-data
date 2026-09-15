@@ -2,38 +2,62 @@
   "id": "9ea8d076-8268-4d8e-9f36-1341f555a017",
   "name": "Círculo de las Triadas",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
-  "treasury": 4155693,
+  "treasury": 4634667,
   "country_number": 162,
-  "player_count": 93,
-  "provinces_count": 1,
+  "player_count": 94,
+  "provinces_count": 2,
   "capital": {
-    "name": "Madrid",
-    "icon": "👑",
-    "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3"
+    "name": "Galicia",
+    "icon": "🌊",
+    "coat_url": "https://diplomacia.com.tr/coats/galicia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 10,
-    "altin": 7,
-    "petrol": 4,
-    "nte": 8,
-    "elmas": 15
+    "deri": 25,
+    "altin": 18,
+    "petrol": 11,
+    "nte": 18,
+    "elmas": 23
   },
   "average_scores": {
-    "education": 5,
-    "military": 0,
-    "development": 6,
-    "health": 4
+    "education": 3.5,
+    "military": 0.5,
+    "development": 6.5,
+    "health": 5
   },
   "provinces": [
+    {
+      "name": "Galicia",
+      "icon": "🌊",
+      "coat_url": "https://diplomacia.com.tr/coats/galicia.png?v=3",
+      "region": "Kuzey İspanya (Kuzeybatı)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 114,
+      "scores": {
+        "education": 2,
+        "military": 1,
+        "development": 7,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 11,
+        "petrol": 7,
+        "nte": 10,
+        "elmas": 8
+      }
+    },
     {
       "name": "Madrid",
       "icon": "👑",
       "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
       "region": "İspanya Başkenti (Orta İspanya)",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 129,
+      "player_count": 128,
       "scores": {
         "education": 5,
         "military": 0,
