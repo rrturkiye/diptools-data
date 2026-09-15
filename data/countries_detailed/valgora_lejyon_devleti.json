@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 96604539,
+  "treasury": 101136756,
   "country_number": 135,
   "player_count": 64,
-  "provinces_count": 3,
+  "provinces_count": 4,
   "capital": {
     "name": "Moskova",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 24,
-    "altin": 22,
-    "petrol": 32,
-    "nte": 21,
-    "elmas": 43
+    "deri": 39,
+    "altin": 33,
+    "petrol": 46,
+    "nte": 37,
+    "elmas": 50
   },
   "average_scores": {
-    "education": 0.3,
-    "military": 3,
-    "development": 7,
-    "health": 4.7
+    "education": 0.8,
+    "military": 4.5,
+    "development": 7.8,
+    "health": 3.8
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 68,
+      "player_count": 63,
       "scores": {
         "education": 0,
         "military": 4,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Aktöbe",
+      "icon": "⛏️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Batı Kazakistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 27,
+      "scores": {
+        "education": 2,
+        "military": 8,
+        "development": 10,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 11,
+        "petrol": 14,
+        "nte": 16,
+        "elmas": 7
+      }
+    },
+    {
       "name": "Bahreyn",
       "icon": "🏝️",
       "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
@@ -57,10 +81,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 42,
+      "player_count": 41,
       "scores": {
         "education": 0,
-        "military": 5,
+        "military": 6,
         "development": 9,
         "health": 6,
         "health_world_first": false

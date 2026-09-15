@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 560173280,
+  "treasury": 599349017,
   "country_number": 127,
-  "player_count": 328,
-  "provinces_count": 9,
+  "player_count": 321,
+  "provinces_count": 10,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 93,
-    "altin": 85,
-    "petrol": 86,
-    "nte": 84,
-    "elmas": 86
+    "deri": 110,
+    "altin": 97,
+    "petrol": 94,
+    "nte": 94,
+    "elmas": 97
   },
   "average_scores": {
-    "education": 1.9,
-    "military": 7.2,
-    "development": 2.2,
-    "health": 2.9
+    "education": 1.7,
+    "military": 7.3,
+    "development": 2.1,
+    "health": 2.7
   },
   "provinces": [
     {
@@ -36,7 +36,7 @@
       "player_count": 8,
       "scores": {
         "education": 0,
-        "military": 6,
+        "military": 7,
         "development": 2,
         "health": 5,
         "health_world_first": false
@@ -85,7 +85,7 @@
       "scores": {
         "education": 0,
         "military": 7,
-        "development": 3,
+        "development": 2,
         "health": 3,
         "health_world_first": false
       },
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 54,
+      "player_count": 53,
       "scores": {
         "education": 7,
         "military": 7,
@@ -122,6 +122,30 @@
       }
     },
     {
+      "name": "Jalisco",
+      "icon": "🎺",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 157,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 12,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 11
+      }
+    },
+    {
       "name": "Karadağ",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/karadag.png?v=3",
@@ -132,7 +156,7 @@
       "player_count": 2,
       "scores": {
         "education": 0,
-        "military": 7,
+        "military": 8,
         "development": 2,
         "health": 3,
         "health_world_first": false
@@ -153,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 179,
+      "player_count": 143,
       "scores": {
         "education": 0,
         "military": 10,
@@ -177,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 129,
+      "player_count": 118,
       "scores": {
         "education": 10,
         "military": 2,
@@ -228,8 +252,8 @@
       "player_count": 3,
       "scores": {
         "education": 0,
-        "military": 6,
-        "development": 2,
+        "military": 7,
+        "development": 1,
         "health": 3,
         "health_world_first": false
       },
