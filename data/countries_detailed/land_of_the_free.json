@@ -2,27 +2,27 @@
   "id": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
   "name": "Land Of the Free",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-  "treasury": 159381559,
+  "treasury": 161273739,
   "country_number": 136,
-  "player_count": 466,
-  "provinces_count": 4,
+  "player_count": 452,
+  "provinces_count": 3,
   "capital": {
     "name": "Florida",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/florida.png"
   },
   "total_resource_bonuses": {
-    "deri": 38,
-    "altin": 27,
-    "petrol": 36,
-    "nte": 41,
-    "elmas": 61
+    "deri": 28,
+    "altin": 20,
+    "petrol": 29,
+    "nte": 28,
+    "elmas": 47
   },
   "average_scores": {
-    "education": 2.5,
-    "military": 0.8,
-    "development": 5.5,
-    "health": 5.5
+    "education": 0,
+    "military": 0,
+    "development": 5,
+    "health": 5.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 106,
+      "player_count": 104,
       "scores": {
         "education": 0,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 151,
+      "player_count": 148,
       "scores": {
         "education": 0,
         "military": 0,
@@ -74,30 +74,6 @@
       }
     },
     {
-      "name": "Ohio",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/ohio.png",
-      "region": "Amerika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 131,
-      "scores": {
-        "education": 10,
-        "military": 3,
-        "development": 7,
-        "health": 6,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 7,
-        "nte": 13,
-        "elmas": 14
-      }
-    },
-    {
       "name": "Pennsylvania",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/pennsylvania.png",
@@ -105,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 111,
+      "player_count": 107,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 6,
-        "health": 6,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {

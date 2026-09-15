@@ -2,26 +2,26 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 3609505,
+  "treasury": 14267973,
   "country_number": 189,
-  "player_count": 209,
-  "provinces_count": 2,
+  "player_count": 227,
+  "provinces_count": 3,
   "capital": {
     "name": "Temeşvar",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 23,
-    "altin": 20,
-    "petrol": 18,
-    "nte": 18,
-    "elmas": 17
+    "deri": 32,
+    "altin": 28,
+    "petrol": 33,
+    "nte": 36,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 6.5,
-    "military": 6,
-    "development": 5.5,
+    "education": 4.3,
+    "military": 4.3,
+    "development": 5,
     "health": 3
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 56,
+      "player_count": 58,
       "scores": {
         "education": 7,
         "military": 7,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 15,
+      "player_count": 14,
       "scores": {
         "education": 6,
         "military": 5,
@@ -71,6 +71,30 @@
         "petrol": 9,
         "nte": 10,
         "elmas": 9
+      }
+    },
+    {
+      "name": "Kueta",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 16,
+      "scores": {
+        "education": 0,
+        "military": 1,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 15,
+        "nte": 18,
+        "elmas": 5
       }
     }
   ]

@@ -1,0 +1,125 @@
+{
+  "id": "9803c555-a7db-4519-8652-0697dfad5c94",
+  "name": "الامبراطوريه المصرية - Egyptian Empire",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
+  "treasury": 70755760,
+  "country_number": 61,
+  "player_count": 90,
+  "provinces_count": 4,
+  "capital": {
+    "name": "Kahire",
+    "icon": "🏛️",
+    "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 33,
+    "altin": 38,
+    "petrol": 36,
+    "nte": 31,
+    "elmas": 47
+  },
+  "average_scores": {
+    "education": 2.3,
+    "military": 4.8,
+    "development": 7,
+    "health": 5
+  },
+  "provinces": [
+    {
+      "name": "Kahire",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/cairo.png?v=3",
+      "region": "Kuzey Mısır",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 58,
+      "scores": {
+        "education": 0,
+        "military": 6,
+        "development": 8,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 10,
+        "petrol": 11,
+        "nte": 8,
+        "elmas": 18
+      }
+    },
+    {
+      "name": "Asvan",
+      "icon": "🌅",
+      "coat_url": "https://diplomacia.com.tr/coats/aswan.png?v=3",
+      "region": "Güney Mısır",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 21,
+      "scores": {
+        "education": 3,
+        "military": 2,
+        "development": 6,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 15,
+        "petrol": 9,
+        "nte": 11,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "Filistin",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3",
+      "region": "Filistin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 22,
+      "scores": {
+        "education": 5,
+        "military": 4,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 4,
+        "elmas": 6
+      }
+    },
+    {
+      "name": "İsrail",
+      "icon": "✡️",
+      "coat_url": "https://diplomacia.com.tr/coats/israel.png?v=3",
+      "region": "İsrail",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 74,
+      "scores": {
+        "education": 1,
+        "military": 7,
+        "development": 10,
+        "health": 9,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 17
+      }
+    }
+  ]
+}
