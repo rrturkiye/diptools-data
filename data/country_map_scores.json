@@ -10,7 +10,7 @@
       "education": 10,
       "military": 2,
       "development": 5,
-      "health": 4
+      "health": 3
     },
     "Bahia": {
       "education": 10,
@@ -20,7 +20,7 @@
     },
     "Bogota": {
       "education": 10,
-      "military": 10,
+      "military": 9,
       "development": 10,
       "health": 10
     },
@@ -66,8 +66,14 @@
       "development": 9,
       "health": 8
     },
-    "Bosna Hersek": {
+    "Buenos Aires": {
       "education": 10,
+      "military": 10,
+      "development": 10,
+      "health": 10
+    },
+    "Bosna Hersek": {
+      "education": 9,
       "military": 9,
       "development": 10,
       "health": 11
@@ -75,7 +81,7 @@
     "Güney Azerbaycan": {
       "education": 9,
       "military": 10,
-      "development": 9,
+      "development": 10,
       "health": 10
     },
     "Fargona": {
@@ -120,6 +126,12 @@
       "development": 7,
       "health": 10
     },
+    "Roma": {
+      "education": 9,
+      "military": 6,
+      "development": 7,
+      "health": 10
+    },
     "Napoli": {
       "education": 9,
       "military": 8,
@@ -127,16 +139,10 @@
       "health": 10
     },
     "Düsseldorf": {
-      "education": 9,
+      "education": 8,
       "military": 8,
       "development": 5,
       "health": 5
-    },
-    "Roma": {
-      "education": 9,
-      "military": 6,
-      "development": 7,
-      "health": 10
     },
     "Atıray": {
       "education": 8,
@@ -167,12 +173,6 @@
       "military": 5,
       "development": 6,
       "health": 7
-    },
-    "Buenos Aires": {
-      "education": 8,
-      "military": 7,
-      "development": 10,
-      "health": 8
     },
     "Medellin": {
       "education": 8,
@@ -208,7 +208,7 @@
       "education": 7,
       "military": 3,
       "development": 8,
-      "health": 9
+      "health": 8
     },
     "Ural": {
       "education": 7,
@@ -225,14 +225,14 @@
     "Maracaibo": {
       "education": 7,
       "military": 5,
-      "development": 1,
+      "development": 2,
       "health": 4
     },
     "Guayana": {
       "education": 7,
       "military": 6,
       "development": 1,
-      "health": 2
+      "health": 4
     },
     "Ermenistan": {
       "education": 7,
@@ -360,16 +360,16 @@
       "development": 6,
       "health": 4
     },
-    "Şam": {
-      "education": 5,
-      "military": 3,
-      "development": 3,
-      "health": 4
-    },
     "Filistin": {
       "education": 5,
       "military": 4,
       "development": 4,
+      "health": 4
+    },
+    "Şam": {
+      "education": 5,
+      "military": 3,
+      "development": 3,
       "health": 4
     },
     "Balkan": {
@@ -382,7 +382,7 @@
       "education": 5,
       "military": 9,
       "development": 5,
-      "health": 10
+      "health": 9
     },
     "Cava": {
       "education": 5,
@@ -400,7 +400,7 @@
       "education": 5,
       "military": 5,
       "development": 9,
-      "health": 9
+      "health": 8
     },
     "Karabağ": {
       "education": 4,
@@ -442,7 +442,7 @@
       "education": 4,
       "military": 8,
       "development": 5,
-      "health": 3
+      "health": 2
     },
     "Afyon": {
       "education": 4,
@@ -644,14 +644,14 @@
     },
     "Belém": {
       "education": 1,
-      "military": 0,
+      "military": 1,
       "development": 3,
       "health": 2
     },
     "İngiltere": {
       "education": 1,
       "military": 4,
-      "development": 9,
+      "development": 10,
       "health": 9
     },
     "Harbin": {
@@ -770,7 +770,7 @@
     },
     "İskoçya": {
       "education": 0,
-      "military": 9,
+      "military": 8,
       "development": 9,
       "health": 7
     },
@@ -868,7 +868,7 @@
       "education": 0,
       "military": 6,
       "development": 0,
-      "health": 3
+      "health": 2
     },
     "Pekin": {
       "education": 0,
@@ -1018,7 +1018,7 @@
       "education": 0,
       "military": 1,
       "development": 7,
-      "health": 9
+      "health": 8
     },
     "Perm": {
       "education": 0,
@@ -1163,6 +1163,12 @@
       "military": 0,
       "development": 1,
       "health": 0
+    },
+    "Rio de Janeiro": {
+      "education": 0,
+      "military": 0,
+      "development": 1,
+      "health": 1
     }
   }
 }
