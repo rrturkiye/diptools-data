@@ -1,51 +1,51 @@
 {
-  "id": "3588e2c7-1763-433d-be15-5742fe2471f4",
-  "name": "دولة ليبيا",
-  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3588e2c7-1763-433d-be15-5742fe2471f4-1786851002483.jpeg",
-  "treasury": 2762384,
-  "country_number": 122,
-  "player_count": 305,
+  "id": "4d9479f0-e62e-4921-b04d-f3b418776f22",
+  "name": "مملكة بنغازي العربية",
+  "flag_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
+  "treasury": 3669400,
+  "country_number": 204,
+  "player_count": 121,
   "provinces_count": 1,
   "capital": {
-    "name": "Trablus",
+    "name": "Bingazi",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 6,
+    "deri": 5,
     "altin": 5,
-    "petrol": 17,
-    "nte": 6,
+    "petrol": 18,
+    "nte": 5,
     "elmas": 7
   },
   "average_scores": {
-    "education": 9,
-    "military": 5,
-    "development": 6,
-    "health": 4
+    "education": 4,
+    "military": 2,
+    "development": 1,
+    "health": 1
   },
   "provinces": [
     {
-      "name": "Trablus",
+      "name": "Bingazi",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 275,
+      "player_count": 113,
       "scores": {
-        "education": 9,
-        "military": 5,
-        "development": 6,
-        "health": 4,
+        "education": 4,
+        "military": 2,
+        "development": 1,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 6,
+        "deri": 5,
         "altin": 5,
-        "petrol": 17,
-        "nte": 6,
+        "petrol": 18,
+        "nte": 5,
         "elmas": 7
       }
     }

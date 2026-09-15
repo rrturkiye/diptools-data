@@ -2,24 +2,24 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 599349017,
+  "treasury": 200162399,
   "country_number": 127,
-  "player_count": 321,
-  "provinces_count": 10,
+  "player_count": 317,
+  "provinces_count": 9,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 110,
-    "altin": 97,
-    "petrol": 94,
-    "nte": 94,
-    "elmas": 97
+    "deri": 101,
+    "altin": 87,
+    "petrol": 84,
+    "nte": 87,
+    "elmas": 85
   },
   "average_scores": {
-    "education": 1.7,
+    "education": 1.9,
     "military": 7.3,
     "development": 2.1,
     "health": 2.7
@@ -74,30 +74,6 @@
       }
     },
     {
-      "name": "Batum",
-      "icon": "⚓",
-      "coat_url": "https://diplomacia.com.tr/coats/batum.png?v=3",
-      "region": "Karadeniz Kıyısı (Acara)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 5,
-      "scores": {
-        "education": 0,
-        "military": 7,
-        "development": 2,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 10,
-        "petrol": 10,
-        "nte": 7,
-        "elmas": 12
-      }
-    },
-    {
       "name": "Chiapas",
       "icon": "🌿",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
@@ -105,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 53,
+      "player_count": 51,
       "scores": {
         "education": 7,
         "military": 7,
@@ -129,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 157,
+      "player_count": 126,
       "scores": {
         "education": 0,
         "military": 5,
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 2,
+      "player_count": 1,
       "scores": {
         "education": 0,
         "military": 8,
@@ -177,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 143,
+      "player_count": 118,
       "scores": {
         "education": 0,
         "military": 10,
@@ -201,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 118,
+      "player_count": 113,
       "scores": {
         "education": 10,
         "military": 2,
@@ -225,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 16,
+      "player_count": 15,
       "scores": {
         "education": 0,
         "military": 10,
