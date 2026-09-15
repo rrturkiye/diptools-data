@@ -2,9 +2,9 @@
   "id": "2480a407-5540-4a9e-98d7-8253f3fb53e1",
   "name": "🌎 GLOBAL CAPITAL RESERVE",
   "flag_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
-  "treasury": 46083261,
+  "treasury": 46085032,
   "country_number": 171,
-  "player_count": 88,
+  "player_count": 90,
   "provinces_count": 2,
   "capital": {
     "name": "Normandiya",
@@ -21,7 +21,7 @@
   "average_scores": {
     "education": 3,
     "military": 8,
-    "development": 1,
+    "development": 0.5,
     "health": 0
   },
   "provinces": [
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 62,
+      "player_count": 63,
       "scores": {
         "education": 6,
         "military": 8,
-        "development": 2,
+        "development": 1,
         "health": 0,
         "health_world_first": false
       },
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 11,
+      "player_count": 12,
       "scores": {
         "education": 0,
         "military": 8,
