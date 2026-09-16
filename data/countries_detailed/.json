@@ -1,52 +1,52 @@
 {
-  "id": "4d9479f0-e62e-4921-b04d-f3b418776f22",
-  "name": "مملكة بنغازي العربية",
-  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d9479f0-e62e-4921-b04d-f3b418776f22-1789419688540.png",
-  "treasury": 3798641,
-  "country_number": 204,
-  "player_count": 123,
+  "id": "07d2672b-4aac-49d3-8587-b3a3c2002bf7",
+  "name": "ولاية وهران",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1789411824812.png",
+  "treasury": 6069174,
+  "country_number": 206,
+  "player_count": 99,
   "provinces_count": 1,
   "capital": {
-    "name": "Bingazi",
+    "name": "Oran",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/cezayir.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 5,
-    "altin": 5,
-    "petrol": 18,
-    "nte": 5,
-    "elmas": 7
+    "deri": 7,
+    "altin": 6,
+    "petrol": 14,
+    "nte": 8,
+    "elmas": 8
   },
   "average_scores": {
-    "education": 4,
-    "military": 2,
+    "education": 0,
+    "military": 0,
     "development": 1,
     "health": 1
   },
   "provinces": [
     {
-      "name": "Bingazi",
+      "name": "Oran",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/libya.png?v=3",
+      "coat_url": "https://diplomacia.com.tr/coats/cezayir.png?v=3",
       "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 115,
+      "player_count": 85,
       "scores": {
-        "education": 4,
-        "military": 2,
+        "education": 0,
+        "military": 0,
         "development": 1,
         "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 5,
-        "altin": 5,
-        "petrol": 18,
-        "nte": 5,
-        "elmas": 7
+        "deri": 7,
+        "altin": 6,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
       }
     }
   ]
