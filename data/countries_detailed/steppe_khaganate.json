@@ -2,9 +2,9 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 4728839,
+  "treasury": 5431200,
   "country_number": 89,
-  "player_count": 161,
+  "player_count": 159,
   "provinces_count": 7,
   "capital": {
     "name": "Altay",
@@ -19,10 +19,10 @@
     "elmas": 68
   },
   "average_scores": {
-    "education": 0.6,
+    "education": 0.4,
     "military": 6.7,
     "development": 4.9,
-    "health": 2.1
+    "health": 2
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 6,
+      "player_count": 5,
       "scores": {
         "education": 0,
         "military": 4,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 39,
+      "player_count": 37,
       "scores": {
         "education": 2,
         "military": 3,
@@ -129,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 32,
+      "player_count": 35,
       "scores": {
         "education": 0,
         "military": 9,
@@ -153,12 +153,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 90,
+      "player_count": 86,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 10,
         "development": 3,
-        "health": 1,
+        "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {

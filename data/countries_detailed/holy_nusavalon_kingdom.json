@@ -22,7 +22,7 @@
     "education": 0,
     "military": 5,
     "development": 3,
-    "health": 2.5
+    "health": 2
   },
   "provinces": [
     {
@@ -38,7 +38,7 @@
         "education": 0,
         "military": 2,
         "development": 2,
-        "health": 1,
+        "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 127,
+      "player_count": 125,
       "scores": {
         "education": 0,
         "military": 8,

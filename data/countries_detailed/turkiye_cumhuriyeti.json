@@ -2,26 +2,26 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "Türkiye Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-  "treasury": 39252012,
+  "treasury": 41691088,
   "country_number": 130,
-  "player_count": 517,
-  "provinces_count": 19,
+  "player_count": 519,
+  "provinces_count": 18,
   "capital": {
     "name": "Ankara",
     "icon": "🌿",
     "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 217,
-    "altin": 155,
-    "petrol": 139,
-    "nte": 186,
-    "elmas": 192
+    "deri": 207,
+    "altin": 140,
+    "petrol": 134,
+    "nte": 173,
+    "elmas": 182
   },
   "average_scores": {
-    "education": 2.4,
-    "military": 3.8,
-    "development": 4.3,
+    "education": 2.1,
+    "military": 3.2,
+    "development": 4.2,
     "health": 4.7
   },
   "provinces": [
@@ -35,9 +35,9 @@
       "independence_date": null,
       "player_count": 82,
       "scores": {
-        "education": 4,
+        "education": 3,
         "military": 8,
-        "development": 7,
+        "development": 6,
         "health": 5,
         "health_world_first": false
       },
@@ -57,9 +57,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 12,
       "scores": {
-        "education": 1,
+        "education": 0,
         "military": 1,
         "development": 5,
         "health": 5,
@@ -83,8 +83,8 @@
       "independence_date": null,
       "player_count": 13,
       "scores": {
-        "education": 4,
-        "military": 4,
+        "education": 3,
+        "military": 3,
         "development": 2,
         "health": 5,
         "health_world_first": false
@@ -105,9 +105,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 70,
+      "player_count": 71,
       "scores": {
-        "education": 4,
+        "education": 3,
         "military": 5,
         "development": 11,
         "health": 10,
@@ -129,12 +129,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 4,
       "scores": {
-        "education": 4,
+        "education": 3,
         "military": 3,
         "development": 2,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -153,9 +153,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 34,
+      "player_count": 36,
       "scores": {
-        "education": 4,
+        "education": 3,
         "military": 4,
         "development": 1,
         "health": 2,
@@ -194,30 +194,6 @@
       }
     },
     {
-      "name": "Ermenistan",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
-      "region": "Güney Kafkasya (Ermenistan)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 24,
-      "scores": {
-        "education": 7,
-        "military": 10,
-        "development": 5,
-        "health": 5,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 15,
-        "petrol": 5,
-        "nte": 13,
-        "elmas": 10
-      }
-    },
-    {
       "name": "Erzincan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/erzincan.png",
@@ -228,7 +204,7 @@
       "player_count": 4,
       "scores": {
         "education": 1,
-        "military": 4,
+        "military": 3,
         "development": 2,
         "health": 5,
         "health_world_first": false
@@ -275,7 +251,7 @@
       "independence_date": null,
       "player_count": 13,
       "scores": {
-        "education": 6,
+        "education": 5,
         "military": 4,
         "development": 2,
         "health": 5,
@@ -297,7 +273,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 102,
+      "player_count": 99,
       "scores": {
         "education": 3,
         "military": 3,
@@ -321,7 +297,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 61,
+      "player_count": 62,
       "scores": {
         "education": 0,
         "military": 8,
@@ -372,8 +348,8 @@
       "player_count": 8,
       "scores": {
         "education": 1,
-        "military": 4,
-        "development": 4,
+        "military": 3,
+        "development": 3,
         "health": 5,
         "health_world_first": false
       },
@@ -395,7 +371,7 @@
       "independence_date": null,
       "player_count": 7,
       "scores": {
-        "education": 6,
+        "education": 5,
         "military": 3,
         "development": 1,
         "health": 4,
@@ -420,7 +396,7 @@
       "player_count": 2,
       "scores": {
         "education": 0,
-        "military": 1,
+        "military": 0,
         "development": 1,
         "health": 0,
         "health_world_first": false
@@ -443,9 +419,9 @@
       "independence_date": null,
       "player_count": 16,
       "scores": {
-        "education": 1,
+        "education": 7,
         "military": 4,
-        "development": 3,
+        "development": 4,
         "health": 5,
         "health_world_first": false
       },
