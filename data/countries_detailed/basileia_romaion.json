@@ -5,23 +5,23 @@
   "treasury": 766059729,
   "country_number": 37,
   "player_count": 40,
-  "provinces_count": 4,
+  "provinces_count": 3,
   "capital": {
     "name": "Minnesota",
     "icon": "🌾",
     "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 30,
-    "petrol": 30,
-    "nte": 28,
-    "elmas": 41
+    "deri": 32,
+    "altin": 22,
+    "petrol": 21,
+    "nte": 23,
+    "elmas": 32
   },
   "average_scores": {
-    "education": 0.8,
-    "military": 2.3,
-    "development": 1.3,
+    "education": 1,
+    "military": 3,
+    "development": 1.7,
     "health": 1.3
   },
   "provinces": [
@@ -62,7 +62,7 @@
         "education": 0,
         "military": 7,
         "development": 1,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -95,30 +95,6 @@
         "petrol": 7,
         "nte": 8,
         "elmas": 10
-      }
-    },
-    {
-      "name": "Varna",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/varna.png?v=3",
-      "region": null,
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 8,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 8,
-        "petrol": 9,
-        "nte": 5,
-        "elmas": 9
       }
     }
   ]
