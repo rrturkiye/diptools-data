@@ -2,27 +2,27 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1788726213813.png",
-  "treasury": 19615828,
+  "treasury": 20107359,
   "country_number": 189,
   "player_count": 224,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Temeşvar",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 32,
-    "altin": 28,
-    "petrol": 33,
-    "nte": 36,
-    "elmas": 22
+    "deri": 23,
+    "altin": 20,
+    "petrol": 18,
+    "nte": 18,
+    "elmas": 17
   },
   "average_scores": {
-    "education": 4.3,
-    "military": 4,
-    "development": 5,
-    "health": 3.7
+    "education": 7,
+    "military": 6,
+    "development": 5.5,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,9 +33,9 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 60,
+      "player_count": 61,
       "scores": {
-        "education": 7,
+        "education": 8,
         "military": 7,
         "development": 7,
         "health": 7,
@@ -71,30 +71,6 @@
         "petrol": 9,
         "nte": 10,
         "elmas": 9
-      }
-    },
-    {
-      "name": "Kueta",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
-      "region": "Asya",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 17,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 4,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 8,
-        "petrol": 15,
-        "nte": 18,
-        "elmas": 5
       }
     }
   ]

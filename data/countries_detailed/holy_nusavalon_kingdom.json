@@ -4,12 +4,12 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f61b1b71-6a8b-4eff-9070-61413d3837a5-1784381850211.jpeg",
   "treasury": 186719000,
   "country_number": 104,
-  "player_count": 121,
+  "player_count": 122,
   "provinces_count": 2,
   "capital": {
-    "name": "Şenyang",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+    "name": "Solomon Adaları",
+    "icon": "🌴",
+    "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 13,
@@ -21,43 +21,19 @@
   "average_scores": {
     "education": 0,
     "military": 5,
-    "development": 2.5,
+    "development": 3,
     "health": 2.5
   },
   "provinces": [
-    {
-      "name": "Şenyang",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 130,
-      "scores": {
-        "education": 0,
-        "military": 8,
-        "development": 3,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 7,
-        "petrol": 10,
-        "nte": 7,
-        "elmas": 15
-      }
-    },
     {
       "name": "Solomon Adaları",
       "icon": "🌴",
       "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
       "region": "Pasifik (Melanezya)",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 9,
+      "player_count": 10,
       "scores": {
         "education": 0,
         "military": 2,
@@ -71,6 +47,30 @@
         "petrol": 7,
         "nte": 13,
         "elmas": 3
+      }
+    },
+    {
+      "name": "Şenyang",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 127,
+      "scores": {
+        "education": 0,
+        "military": 8,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 7,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 15
       }
     }
   ]

@@ -2,27 +2,27 @@
   "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
   "name": "Thema Hellados",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-  "treasury": 16484196,
+  "treasury": 7146572,
   "country_number": 126,
   "player_count": 12,
-  "provinces_count": 3,
+  "provinces_count": 4,
   "capital": {
     "name": "Mora",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 25,
-    "altin": 17,
-    "petrol": 15,
-    "nte": 26,
-    "elmas": 34
+    "deri": 32,
+    "altin": 25,
+    "petrol": 22,
+    "nte": 35,
+    "elmas": 47
   },
   "average_scores": {
-    "education": 2,
-    "military": 1.7,
-    "development": 2.3,
-    "health": 1
+    "education": 4.5,
+    "military": 2,
+    "development": 1.8,
+    "health": 0.8
   },
   "provinces": [
     {
@@ -35,7 +35,7 @@
       "independence_date": null,
       "player_count": 1,
       "scores": {
-        "education": 6,
+        "education": 7,
         "military": 2,
         "development": 1,
         "health": 1,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Atina",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/atina.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 11,
+        "military": 3,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 8,
+        "petrol": 7,
+        "nte": 9,
+        "elmas": 13
+      }
+    },
+    {
       "name": "Girit ve Adalar",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/giritveadalar.png?v=3",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 3,
+      "player_count": 2,
       "scores": {
         "education": 0,
         "military": 0,
