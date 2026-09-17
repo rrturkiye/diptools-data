@@ -741,15 +741,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "f61b1b71-6a8b-4eff-9070-61413d3837a5"
     },
-    "Şanghay": {
-      "code": null,
-      "color": "#e39c16",
-      "name": "Neo Shandong Imperium",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
-    },
     "Atina": {
       "code": null,
       "color": "#4e134e",
@@ -865,6 +856,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
       "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
+    },
+    "Şanghay": {
+      "code": null,
+      "color": "#a50d0d",
+      "name": "Great Kingdom of Cendana",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
     },
     "Meksiko": {
       "code": null,
@@ -1166,7 +1166,7 @@
     "Barcelona": {
       "code": null,
       "color": "#a00d0d",
-      "name": "Imperi Galàctic Català",
+      "name": "Imperi Gal��ctic Català",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
@@ -1631,15 +1631,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
       "countryId": "a87549d7-feed-479d-a728-9d1842d7738b"
     },
-    "Ohio": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/ohio.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
     "Sibirya": {
       "code": null,
       "color": "#4876c7",
@@ -1729,6 +1720,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
+    },
+    "Ohio": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/ohio.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
     "Pennsylvania": {
       "code": "USA",
