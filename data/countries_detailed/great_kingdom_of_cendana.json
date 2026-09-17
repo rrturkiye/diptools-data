@@ -2,12 +2,12 @@
   "id": "9a906c31-293d-4a49-ade4-4f145842a99e",
   "name": "Great Kingdom of Cendana",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
-  "treasury": 66679539,
+  "treasury": 68294342,
   "country_number": 156,
-  "player_count": 147,
+  "player_count": 145,
   "provinces_count": 2,
   "capital": {
-    "name": "Vuhan",
+    "name": "Şanghay",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
@@ -26,38 +26,14 @@
   },
   "provinces": [
     {
-      "name": "Vuhan",
+      "name": "Şanghay",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 165,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 0,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 16
-      }
-    },
-    {
-      "name": "Şanghay",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 111,
+      "player_count": 115,
       "scores": {
         "education": 0,
         "military": 1,
@@ -71,6 +47,30 @@
         "petrol": 6,
         "nte": 9,
         "elmas": 19
+      }
+    },
+    {
+      "name": "Vuhan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 163,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 16
       }
     }
   ]

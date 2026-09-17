@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mora": {
@@ -12,6 +12,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/mora.png?v=3",
       "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451"
+    },
+    "Lübnan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
     "Katar": {
       "code": null,
@@ -229,15 +238,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/suudiarabistan.png?v=3",
       "countryId": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
     },
-    "Lübnan": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
-    },
     "Karabağ": {
       "code": null,
       "color": "#0eaf1c",
@@ -444,6 +444,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/brasilia.png?v=3",
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828"
     },
+    "Şanghay": {
+      "code": null,
+      "color": "#a50d0d",
+      "name": "Great Kingdom of Cendana",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
+    },
     "Daşoguz": {
       "code": null,
       "color": "#4e134e",
@@ -461,6 +470,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/roma.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
+    },
+    "Selanik": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
     "İslamabad": {
       "code": null,
@@ -839,15 +857,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/guneykibris.png?v=3",
       "countryId": "1ae658e0-7301-42da-a440-3c5582ce4114"
     },
-    "Selanik": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
-    },
     "New York": {
       "code": null,
       "color": "#a00d0d",
@@ -856,15 +865,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
       "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
-    },
-    "Şanghay": {
-      "code": null,
-      "color": "#a50d0d",
-      "name": "Great Kingdom of Cendana",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
     },
     "Meksiko": {
       "code": null,
@@ -1166,7 +1166,7 @@
     "Barcelona": {
       "code": null,
       "color": "#a00d0d",
-      "name": "Imperi Gal��ctic Català",
+      "name": "Imperi Galàctic Català",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
@@ -1184,9 +1184,9 @@
     "Manila": {
       "code": null,
       "color": "#201dc3",
-      "name": "DEMOCRATIC REPUBLIC OF MAYNILA",
+      "name": "United Kingdom of Maynila",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/2e50163f-e948-4512-aaeb-2bb93ff2dcc2-1788780311292.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/2e50163f-e948-4512-aaeb-2bb93ff2dcc2-1789627399455.png",
       "coatUrl": "https://diplomacia.com.tr/coats/manila.png?v=3",
       "countryId": "2e50163f-e948-4512-aaeb-2bb93ff2dcc2"
     },
@@ -1397,6 +1397,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/hamburg.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
+    "Vuhan": {
+      "code": null,
+      "color": "#a50d0d",
+      "name": "Great Kingdom of Cendana",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
+    },
     "Botoşani": {
       "code": null,
       "color": "#4e134e",
@@ -1423,15 +1432,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jawa.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
-    },
-    "Vuhan": {
-      "code": null,
-      "color": "#a50d0d",
-      "name": "Great Kingdom of Cendana",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9a906c31-293d-4a49-ade4-4f145842a99e-1787798565787.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "9a906c31-293d-4a49-ade4-4f145842a99e"
     },
     "Medine": {
       "code": null,
@@ -1487,6 +1487,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
+    "Minnesota": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
+    },
     "Harbin": {
       "code": null,
       "color": "#151a38",
@@ -1522,15 +1531,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/70fb37a0-f17b-4cce-ab6a-d52f739e7c33-1789080701565.png",
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
-    },
-    "Minnesota": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a"
     },
     "Teksas": {
       "code": null,

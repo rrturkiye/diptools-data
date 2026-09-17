@@ -7,9 +7,9 @@
   "player_count": 38,
   "provinces_count": 3,
   "capital": {
-    "name": "Minnesota",
-    "icon": "🌾",
-    "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3"
+    "name": "Selanik",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 32,
@@ -26,26 +26,26 @@
   },
   "provinces": [
     {
-      "name": "Minnesota",
-      "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
-      "region": "Kuzey Orta (Great Lakes)",
+      "name": "Selanik",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "region": null,
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 2,
+      "player_count": 9,
       "scores": {
-        "education": 3,
+        "education": 0,
         "military": 1,
-        "development": 4,
-        "health": 3,
+        "development": 0,
+        "health": 0,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 17,
-        "altin": 5,
-        "petrol": 6,
-        "nte": 11,
+        "deri": 8,
+        "altin": 12,
+        "petrol": 7,
+        "nte": 8,
         "elmas": 10
       }
     },
@@ -74,26 +74,26 @@
       }
     },
     {
-      "name": "Selanik",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
-      "region": null,
+      "name": "Minnesota",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
+      "region": "Kuzey Orta (Great Lakes)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 9,
+      "player_count": 2,
       "scores": {
-        "education": 0,
+        "education": 3,
         "military": 1,
-        "development": 0,
-        "health": 0,
+        "development": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 12,
-        "petrol": 7,
-        "nte": 8,
+        "deri": 17,
+        "altin": 5,
+        "petrol": 6,
+        "nte": 11,
         "elmas": 10
       }
     }
