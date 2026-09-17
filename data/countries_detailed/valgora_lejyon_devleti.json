@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 13598255,
+  "treasury": 16240755,
   "country_number": 135,
-  "player_count": 67,
-  "provinces_count": 4,
+  "player_count": 66,
+  "provinces_count": 3,
   "capital": {
     "name": "Moskova",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 33,
-    "petrol": 46,
-    "nte": 37,
-    "elmas": 50
+    "deri": 35,
+    "altin": 24,
+    "petrol": 33,
+    "nte": 32,
+    "elmas": 35
   },
   "average_scores": {
-    "education": 0.8,
-    "military": 4.3,
-    "development": 7.5,
-    "health": 3.8
+    "education": 1,
+    "military": 3.7,
+    "development": 7.3,
+    "health": 3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 74,
+      "player_count": 63,
       "scores": {
         "education": 0,
         "military": 4,
@@ -57,10 +57,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 44,
+      "player_count": 45,
       "scores": {
         "education": 2,
-        "military": 8,
+        "military": 7,
         "development": 10,
         "health": 1,
         "health_world_first": false
@@ -74,30 +74,6 @@
       }
     },
     {
-      "name": "Bahreyn",
-      "icon": "🏝️",
-      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
-      "region": "Basra Körfezi Adası",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 38,
-      "scores": {
-        "education": 0,
-        "military": 5,
-        "development": 8,
-        "health": 6,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 13,
-        "nte": 5,
-        "elmas": 15
-      }
-    },
-    {
       "name": "Harbin",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
@@ -105,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 7,
+      "player_count": 6,
       "scores": {
         "education": 1,
         "military": 0,

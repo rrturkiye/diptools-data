@@ -2,7 +2,7 @@
   "id": "8830e4de-eb49-4c17-9217-0947f6da0746",
   "name": "THEMA VANDORA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
-  "treasury": 2694480,
+  "treasury": 2809011,
   "country_number": 209,
   "player_count": 215,
   "provinces_count": 2,
@@ -19,10 +19,10 @@
     "elmas": 20
   },
   "average_scores": {
-    "education": 4,
-    "military": 0.5,
+    "education": 4.5,
+    "military": 1,
     "development": 3,
-    "health": 1
+    "health": 1.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 220,
+      "player_count": 219,
       "scores": {
         "education": 8,
         "military": 1,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 7,
       "scores": {
-        "education": 0,
-        "military": 0,
+        "education": 1,
+        "military": 1,
         "development": 2,
-        "health": 0,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -2,9 +2,9 @@
   "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
   "name": "ANARCHIA INVICTA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1789591231741.jpeg",
-  "treasury": 4779223,
+  "treasury": 4838447,
   "country_number": 4,
-  "player_count": 82,
+  "player_count": 79,
   "provinces_count": 2,
   "capital": {
     "name": "Atıray",
@@ -22,7 +22,7 @@
     "education": 6.5,
     "military": 5.5,
     "development": 3.5,
-    "health": 3
+    "health": 2.5
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 14,
+      "player_count": 10,
       "scores": {
         "education": 8,
         "military": 10,
         "development": 6,
-        "health": 4,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {

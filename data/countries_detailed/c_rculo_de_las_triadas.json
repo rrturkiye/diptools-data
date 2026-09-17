@@ -2,27 +2,27 @@
   "id": "9ea8d076-8268-4d8e-9f36-1341f555a017",
   "name": "Círculo de las Triadas",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/9ea8d076-8268-4d8e-9f36-1341f555a017-1787654859388.jpeg",
-  "treasury": 14377727,
+  "treasury": 15372784,
   "country_number": 162,
   "player_count": 102,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
     "name": "Galicia",
     "icon": "🌊",
     "coat_url": "https://diplomacia.com.tr/coats/galicia.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 25,
-    "altin": 18,
-    "petrol": 11,
-    "nte": 18,
-    "elmas": 23
+    "deri": 15,
+    "altin": 11,
+    "petrol": 7,
+    "nte": 10,
+    "elmas": 8
   },
   "average_scores": {
-    "education": 4,
-    "military": 0.5,
-    "development": 6.5,
-    "health": 5
+    "education": 3,
+    "military": 1,
+    "development": 7,
+    "health": 6
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 113,
+      "player_count": 111,
       "scores": {
         "education": 3,
         "military": 1,
@@ -47,30 +47,6 @@
         "petrol": 7,
         "nte": 10,
         "elmas": 8
-      }
-    },
-    {
-      "name": "Madrid",
-      "icon": "👑",
-      "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
-      "region": "İspanya Başkenti (Orta İspanya)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 115,
-      "scores": {
-        "education": 5,
-        "military": 0,
-        "development": 6,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 7,
-        "petrol": 4,
-        "nte": 8,
-        "elmas": 15
       }
     }
   ]
