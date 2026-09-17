@@ -2,14 +2,14 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "Valgora Lejyon Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 16240755,
+  "treasury": 312204,
   "country_number": 135,
-  "player_count": 66,
+  "player_count": 65,
   "provinces_count": 3,
   "capital": {
-    "name": "Moskova",
-    "icon": "🏙️",
-    "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
+    "name": "Aktöbe",
+    "icon": "⛏️",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 35,
@@ -26,38 +26,14 @@
   },
   "provinces": [
     {
-      "name": "Moskova",
-      "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
-      "region": "Batı Merkez (Başkent)",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 63,
-      "scores": {
-        "education": 0,
-        "military": 4,
-        "development": 9,
-        "health": 7,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 6,
-        "altin": 8,
-        "petrol": 10,
-        "nte": 10,
-        "elmas": 17
-      }
-    },
-    {
       "name": "Aktöbe",
       "icon": "⛏️",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
       "region": "Batı Kazakistan",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 45,
+      "player_count": 37,
       "scores": {
         "education": 2,
         "military": 7,
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 6,
+      "player_count": 8,
       "scores": {
         "education": 1,
         "military": 0,
@@ -95,6 +71,30 @@
         "petrol": 9,
         "nte": 6,
         "elmas": 11
+      }
+    },
+    {
+      "name": "Moskova",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
+      "region": "Batı Merkez (Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 62,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 9,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 10,
+        "elmas": 17
       }
     }
   ]
