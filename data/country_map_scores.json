@@ -597,7 +597,7 @@
     "Washington DC": {
       "education": 1,
       "military": 5,
-      "development": 2,
+      "development": 1,
       "health": 2
     },
     "Medine": {
@@ -621,7 +621,7 @@
     "Aktöbe": {
       "education": 1,
       "military": 8,
-      "development": 10,
+      "development": 9,
       "health": 1
     },
     "Ürdün": {
@@ -729,7 +729,7 @@
     "Teksas": {
       "education": 0,
       "military": 10,
-      "development": 2,
+      "development": 1,
       "health": 2
     },
     "Colorado": {
@@ -984,7 +984,7 @@
       "development": 4,
       "health": 3
     },
-    "Solomon Adaları": {
+    "Solomon Adalar��": {
       "education": 0,
       "military": 2,
       "development": 2,
@@ -1059,7 +1059,7 @@
     "Tijuana": {
       "education": 0,
       "military": 0,
-      "development": 9,
+      "development": 10,
       "health": 7
     },
     "Santiago": {
@@ -1152,6 +1152,12 @@
       "development": 2,
       "health": 0
     },
+    "Oran": {
+      "education": 0,
+      "military": 0,
+      "development": 2,
+      "health": 1
+    },
     "Varna": {
       "education": 0,
       "military": 0,
@@ -1181,12 +1187,6 @@
       "military": 0,
       "development": 1,
       "health": 0
-    },
-    "Oran": {
-      "education": 0,
-      "military": 0,
-      "development": 1,
-      "health": 1
     }
   }
 }
