@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "HUNNER IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 6510680,
+  "treasury": 7808192,
   "country_number": 135,
   "player_count": 61,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Aktöbe",
     "icon": "⛏️",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 35,
-    "altin": 24,
-    "petrol": 33,
-    "nte": 32,
-    "elmas": 35
+    "deri": 21,
+    "altin": 19,
+    "petrol": 24,
+    "nte": 26,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 0.7,
-    "military": 3.7,
-    "development": 7.3,
-    "health": 2.3
+    "education": 1,
+    "military": 5.5,
+    "development": 9.5,
+    "health": 3.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 29,
+      "player_count": 32,
       "scores": {
         "education": 2,
         "military": 7,
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Harbin",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 6,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 3,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 5,
-        "petrol": 9,
-        "nte": 6,
-        "elmas": 11
-      }
-    },
-    {
       "name": "Moskova",
       "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
@@ -81,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 60,
+      "player_count": 55,
       "scores": {
         "education": 0,
         "military": 4,
