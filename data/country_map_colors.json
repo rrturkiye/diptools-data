@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "USA": "#0f0750",
-    "IND": "#d57120"
+    "IND": "#d57120",
+    "USA": "#0f0750"
   },
   "provinceOwners": {
     "Mora": {
@@ -507,6 +507,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/islamabad.png?v=3",
       "countryId": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e"
     },
+    "New York": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
+    },
     "Diyarbakır": {
       "code": null,
       "color": "#4e134e",
@@ -866,15 +875,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/guneykibris.png?v=3",
       "countryId": "1ae658e0-7301-42da-a440-3c5582ce4114"
     },
-    "New York": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Imperi Galàctic Català",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/newyork.png?v=3",
-      "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
-    },
     "Meksiko": {
       "code": null,
       "color": "#4e134e",
@@ -968,7 +968,7 @@
     "Filistin": {
       "code": null,
       "color": "#892a2a",
-      "name": "الامب��اطوريه المصرية - Egyptian Empire",
+      "name": "الامبراطوريه المصرية - Egyptian Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/palestine.png?v=3",
@@ -1541,6 +1541,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
     },
+    "Teksas": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
+    },
     "Moskova": {
       "code": null,
       "color": "#151a38",
@@ -1550,15 +1559,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
-    "Teksas": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
     "Eskişehir": {
       "code": null,
       "color": "#4e134e",
@@ -1567,6 +1567,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/eskisehir.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
+    },
+    "Paris": {
+      "code": null,
+      "color": "#a3c0c2",
+      "name": "🌎 GLOBAL CAPITAL RESERVE",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
     },
     "Tahran": {
       "code": null,
@@ -1579,7 +1588,7 @@
     },
     "İç Moğolistan": {
       "code": null,
-      "color": "#e39c16",
+      "color": "#690c0c",
       "name": "Neo Shandong Imperium",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
@@ -1612,15 +1621,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1788465447182.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/bukres.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
-    },
-    "Paris": {
-      "code": null,
-      "color": "#1d3faf",
-      "name": "Grand Duchy of Burgundy",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d6c9494a-aee3-49a8-ae43-f8b66e846477-1788735506121.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/paris.png?v=3",
-      "countryId": "d6c9494a-aee3-49a8-ae43-f8b66e846477"
     },
     "Kostanay": {
       "code": null,
@@ -1714,7 +1714,7 @@
     },
     "Şandong": {
       "code": null,
-      "color": "#e39c16",
+      "color": "#690c0c",
       "name": "Neo Shandong Imperium",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",

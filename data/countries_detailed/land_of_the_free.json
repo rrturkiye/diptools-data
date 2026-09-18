@@ -2,27 +2,27 @@
   "id": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
   "name": "Land Of the Free",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-  "treasury": 187315861,
+  "treasury": 209209871,
   "country_number": 136,
-  "player_count": 384,
-  "provinces_count": 4,
+  "player_count": 372,
+  "provinces_count": 6,
   "capital": {
     "name": "Florida",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/florida.png"
   },
   "total_resource_bonuses": {
-    "deri": 38,
-    "altin": 27,
-    "petrol": 36,
-    "nte": 41,
-    "elmas": 61
+    "deri": 63,
+    "altin": 40,
+    "petrol": 58,
+    "nte": 56,
+    "elmas": 93
   },
   "average_scores": {
-    "education": 2.5,
-    "military": 0.3,
-    "development": 5.5,
-    "health": 4.8
+    "education": 1.8,
+    "military": 1.7,
+    "development": 4.3,
+    "health": 3.7
   },
   "provinces": [
     {
@@ -38,7 +38,7 @@
         "education": 0,
         "military": 0,
         "development": 4,
-        "health": 6,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 130,
+      "player_count": 126,
       "scores": {
         "education": 0,
         "military": 0,
@@ -74,6 +74,30 @@
       }
     },
     {
+      "name": "New York",
+      "icon": "🗽",
+      "coat_url": "https://diplomacia.com.tr/coats/newyork.png?v=3",
+      "region": "Kuzeydoğu (Atlantik Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 15,
+      "scores": {
+        "education": 1,
+        "military": 0,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 6,
+        "elmas": 20
+      }
+    },
+    {
       "name": "Ohio",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/ohio.png",
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 151,
+      "player_count": 148,
       "scores": {
         "education": 10,
         "military": 1,
@@ -105,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 91,
+      "player_count": 88,
       "scores": {
         "education": 0,
         "military": 0,
@@ -119,6 +143,30 @@
         "petrol": 8,
         "nte": 12,
         "elmas": 16
+      }
+    },
+    {
+      "name": "Teksas",
+      "icon": "🤠",
+      "coat_url": "https://diplomacia.com.tr/coats/texas.png?v=3",
+      "region": "Güney Orta (Körfez kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 11,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 1,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 19,
+        "altin": 6,
+        "petrol": 18,
+        "nte": 9,
+        "elmas": 12
       }
     }
   ]

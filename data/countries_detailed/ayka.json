@@ -2,26 +2,26 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 249792819,
+  "treasury": 250703463,
   "country_number": 127,
-  "player_count": 268,
-  "provinces_count": 8,
+  "player_count": 250,
+  "provinces_count": 7,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 91,
-    "altin": 80,
-    "petrol": 77,
-    "nte": 74,
-    "elmas": 71
+    "deri": 72,
+    "altin": 74,
+    "petrol": 59,
+    "nte": 65,
+    "elmas": 59
   },
   "average_scores": {
-    "education": 0.9,
-    "military": 7.3,
-    "development": 2,
+    "education": 1,
+    "military": 6.7,
+    "development": 2.1,
     "health": 2.3
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 7,
       "scores": {
         "education": 0,
         "military": 6,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 95,
+      "player_count": 84,
       "scores": {
         "education": 0,
         "military": 5,
@@ -132,7 +132,7 @@
       "player_count": 1,
       "scores": {
         "education": 0,
-        "military": 7,
+        "military": 6,
         "development": 3,
         "health": 3,
         "health_world_first": false
@@ -153,7 +153,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 82,
+      "player_count": 79,
       "scores": {
         "education": 0,
         "military": 9,
@@ -167,30 +167,6 @@
         "petrol": 11,
         "nte": 13,
         "elmas": 14
-      }
-    },
-    {
-      "name": "Teksas",
-      "icon": "🤠",
-      "coat_url": "https://diplomacia.com.tr/coats/texas.png?v=3",
-      "region": "Güney Orta (Körfez kıyısı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 11,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 1,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 19,
-        "altin": 6,
-        "petrol": 18,
-        "nte": 9,
-        "elmas": 12
       }
     },
     {
