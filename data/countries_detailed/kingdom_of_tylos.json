@@ -2,27 +2,27 @@
   "id": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
   "name": "Kingdom of Tylos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789668888817.jpeg",
-  "treasury": 41742173,
+  "treasury": 46802763,
   "country_number": 137,
   "player_count": 16,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "İslamabad",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/islamabad.png"
   },
   "total_resource_bonuses": {
-    "deri": 19,
-    "altin": 14,
-    "petrol": 7,
-    "nte": 21,
-    "elmas": 24
+    "deri": 28,
+    "altin": 22,
+    "petrol": 22,
+    "nte": 39,
+    "elmas": 29
   },
   "average_scores": {
-    "education": 6,
-    "military": 5.5,
-    "development": 7,
-    "health": 5
+    "education": 4.3,
+    "military": 4,
+    "development": 5.3,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 10,
       "scores": {
         "education": 8,
         "military": 11,
@@ -61,7 +61,7 @@
       "scores": {
         "education": 4,
         "military": 0,
-        "development": 7,
+        "development": 6,
         "health": 4,
         "health_world_first": false
       },
@@ -71,6 +71,30 @@
         "petrol": 3,
         "nte": 14,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Kueta",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 13,
+      "scores": {
+        "education": 1,
+        "military": 1,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 15,
+        "nte": 18,
+        "elmas": 5
       }
     }
   ]

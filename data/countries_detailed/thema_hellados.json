@@ -2,27 +2,27 @@
   "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
   "name": "Thema Hellados",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-  "treasury": 7623539,
+  "treasury": 22287275,
   "country_number": 126,
-  "player_count": 13,
-  "provinces_count": 3,
+  "player_count": 38,
+  "provinces_count": 4,
   "capital": {
     "name": "Mora",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 25,
-    "altin": 17,
-    "petrol": 15,
-    "nte": 26,
-    "elmas": 34
+    "deri": 36,
+    "altin": 23,
+    "petrol": 24,
+    "nte": 34,
+    "elmas": 44
   },
   "average_scores": {
-    "education": 2,
-    "military": 4,
-    "development": 2.3,
-    "health": 1
+    "education": 3,
+    "military": 3.8,
+    "development": 2.8,
+    "health": 1.3
   },
   "provinces": [
     {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 10,
       "scores": {
         "education": 0,
         "military": 10,
@@ -95,6 +95,30 @@
         "petrol": 5,
         "nte": 16,
         "elmas": 17
+      }
+    },
+    {
+      "name": "Kandahar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kandahar.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 17,
+      "scores": {
+        "education": 6,
+        "military": 3,
+        "development": 4,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 6,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 10
       }
     }
   ]

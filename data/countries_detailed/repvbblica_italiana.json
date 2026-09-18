@@ -2,27 +2,27 @@
   "id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
   "name": "Repvbblica Italiana",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4a6883c8-3539-49f8-8f9b-5b83e2c04fc6-1786722028789.jpeg",
-  "treasury": 664924751,
+  "treasury": 668331691,
   "country_number": 119,
-  "player_count": 774,
-  "provinces_count": 4,
+  "player_count": 787,
+  "provinces_count": 5,
   "capital": {
     "name": "Roma",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/roma.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 43,
-    "altin": 21,
-    "petrol": 32,
-    "nte": 25,
-    "elmas": 51
+    "deri": 47,
+    "altin": 30,
+    "petrol": 45,
+    "nte": 30,
+    "elmas": 66
   },
   "average_scores": {
-    "education": 9,
-    "military": 5.5,
+    "education": 7.2,
+    "military": 5.4,
     "development": 7.8,
-    "health": 9.3
+    "health": 8.8
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 264,
+      "player_count": 267,
       "scores": {
         "education": 9,
         "military": 6,
         "development": 8,
-        "health": 9,
+        "health": 10,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Bahreyn",
+      "icon": "🏝️",
+      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
+      "region": "Basra Körfezi Adası",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 127,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 8,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 13,
+        "nte": 5,
+        "elmas": 15
+      }
+    },
+    {
       "name": "Lombardiya",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/lombardiya.png?v=3",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 245,
+      "player_count": 247,
       "scores": {
         "education": 9,
         "military": 4,
@@ -105,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 235,
+      "player_count": 237,
       "scores": {
         "education": 9,
         "military": 8,

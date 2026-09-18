@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 250703463,
+  "treasury": 251379118,
   "country_number": 127,
-  "player_count": 250,
-  "provinces_count": 7,
+  "player_count": 238,
+  "provinces_count": 6,
   "capital": {
     "name": "Kosova",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/kosova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 72,
-    "altin": 74,
-    "petrol": 59,
-    "nte": 65,
-    "elmas": 59
+    "deri": 61,
+    "altin": 61,
+    "petrol": 48,
+    "nte": 52,
+    "elmas": 45
   },
   "average_scores": {
-    "education": 1,
-    "military": 6.7,
-    "development": 2.1,
-    "health": 2.3
+    "education": 1.2,
+    "military": 6.3,
+    "development": 2.3,
+    "health": 2.7
   },
   "provinces": [
     {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 41,
+      "player_count": 37,
       "scores": {
         "education": 7,
         "military": 6,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 84,
+      "player_count": 90,
       "scores": {
         "education": 0,
         "military": 5,
@@ -143,30 +143,6 @@
         "petrol": 6,
         "nte": 6,
         "elmas": 7
-      }
-    },
-    {
-      "name": "Meksiko",
-      "icon": "🌮",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Orta Amerika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 79,
-      "scores": {
-        "education": 0,
-        "military": 9,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 13,
-        "petrol": 11,
-        "nte": 13,
-        "elmas": 14
       }
     },
     {

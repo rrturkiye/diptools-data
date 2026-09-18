@@ -2,27 +2,27 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Istana Nusavalon",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-  "treasury": 27042578,
+  "treasury": 27990173,
   "country_number": 155,
-  "player_count": 78,
-  "provinces_count": 1,
+  "player_count": 80,
+  "provinces_count": 2,
   "capital": {
     "name": "Pekin",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 6,
-    "altin": 7,
-    "petrol": 5,
-    "nte": 10,
-    "elmas": 20
+    "deri": 17,
+    "altin": 20,
+    "petrol": 16,
+    "nte": 23,
+    "elmas": 34
   },
   "average_scores": {
     "education": 0,
-    "military": 5,
-    "development": 10,
-    "health": 10
+    "military": 7,
+    "development": 5.5,
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 50,
+      "player_count": 52,
       "scores": {
         "education": 0,
         "military": 5,
@@ -47,6 +47,30 @@
         "petrol": 5,
         "nte": 10,
         "elmas": 20
+      }
+    },
+    {
+      "name": "Meksiko",
+      "icon": "🌮",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Orta Amerika",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 74,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 13,
+        "petrol": 11,
+        "nte": 13,
+        "elmas": 14
       }
     }
   ]

@@ -2,27 +2,27 @@
   "id": "fd131b6a-8186-4ea2-9f9b-b0edd1c078cf",
   "name": "Esperia Veneta",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/fd131b6a-8186-4ea2-9f9b-b0edd1c078cf-1789406879007.jpeg",
-  "treasury": 66048037,
+  "treasury": 67647124,
   "country_number": 208,
-  "player_count": 187,
-  "provinces_count": 2,
+  "player_count": 199,
+  "provinces_count": 1,
   "capital": {
     "name": "Venedik",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/venedik.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 12,
-    "altin": 15,
-    "petrol": 19,
-    "nte": 12,
-    "elmas": 29
+    "deri": 8,
+    "altin": 6,
+    "petrol": 6,
+    "nte": 7,
+    "elmas": 14
   },
   "average_scores": {
     "education": 0,
-    "military": 2.5,
-    "development": 4,
-    "health": 3
+    "military": 0,
+    "development": 0,
+    "health": 0
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 86,
+      "player_count": 88,
       "scores": {
         "education": 0,
         "military": 0,
@@ -47,30 +47,6 @@
         "petrol": 6,
         "nte": 7,
         "elmas": 14
-      }
-    },
-    {
-      "name": "Bahreyn",
-      "icon": "🏝️",
-      "coat_url": "https://diplomacia.com.tr/coats/bahreyn.png?v=3",
-      "region": "Basra Körfezi Adası",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 118,
-      "scores": {
-        "education": 0,
-        "military": 5,
-        "development": 8,
-        "health": 6,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 13,
-        "nte": 5,
-        "elmas": 15
       }
     }
   ]

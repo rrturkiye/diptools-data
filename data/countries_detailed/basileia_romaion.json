@@ -2,27 +2,27 @@
   "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
   "name": "Basileia Romaion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-  "treasury": 766060791,
+  "treasury": 766070968,
   "country_number": 37,
   "player_count": 37,
-  "provinces_count": 4,
+  "provinces_count": 3,
   "capital": {
     "name": "Selanik",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 30,
-    "petrol": 28,
-    "nte": 32,
-    "elmas": 45
+    "deri": 22,
+    "altin": 25,
+    "petrol": 22,
+    "nte": 21,
+    "elmas": 35
   },
   "average_scores": {
-    "education": 3.3,
-    "military": 2.5,
-    "development": 1.3,
-    "health": 1
+    "education": 3.7,
+    "military": 3,
+    "development": 0.3,
+    "health": 0.3
   },
   "provinces": [
     {
@@ -95,30 +95,6 @@
         "petrol": 8,
         "nte": 4,
         "elmas": 12
-      }
-    },
-    {
-      "name": "Minnesota",
-      "icon": "🌾",
-      "coat_url": "https://diplomacia.com.tr/coats/minnesota.png?v=3",
-      "region": "Kuzey Orta (Great Lakes)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 2,
-      "scores": {
-        "education": 2,
-        "military": 1,
-        "development": 4,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 17,
-        "altin": 5,
-        "petrol": 6,
-        "nte": 11,
-        "elmas": 10
       }
     }
   ]

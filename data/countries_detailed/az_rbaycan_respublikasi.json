@@ -2,27 +2,27 @@
   "id": "313a641c-f6ae-4553-aeae-318e78b093ec",
   "name": "Azərbaycan Respublikası",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
-  "treasury": 20877373,
+  "treasury": 77457182,
   "country_number": 65,
-  "player_count": 195,
-  "provinces_count": 4,
+  "player_count": 241,
+  "provinces_count": 5,
   "capital": {
     "name": "Bakü",
     "icon": "🛢️",
     "coat_url": "https://diplomacia.com.tr/coats/baku.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 46,
-    "petrol": 40,
-    "nte": 44,
-    "elmas": 34
+    "deri": 51,
+    "altin": 54,
+    "petrol": 50,
+    "nte": 53,
+    "elmas": 44
   },
   "average_scores": {
-    "education": 5.5,
-    "military": 5.5,
-    "development": 6,
-    "health": 5.5
+    "education": 6.2,
+    "military": 6,
+    "development": 6.2,
+    "health": 5.4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 46,
+      "player_count": 49,
       "scores": {
         "education": 8,
         "military": 5,
@@ -74,14 +74,38 @@
       }
     },
     {
+      "name": "Güney Azerbaycan",
+      "icon": "🏔️",
+      "coat_url": "https://diplomacia.com.tr/coats/guneyazerbaycan.png?v=3",
+      "region": "Kuzeybatı (Azerbaycan, Hazar)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 52,
+      "scores": {
+        "education": 9,
+        "military": 8,
+        "development": 7,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 9,
+        "elmas": 10
+      }
+    },
+    {
       "name": "Karabağ",
-      "icon": "⛰���",
+      "icon": "⛰️",
       "coat_url": "https://diplomacia.com.tr/coats/karabag.png?v=3",
       "region": "Dağlık Karabağ",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 47,
+      "player_count": 45,
       "scores": {
         "education": 6,
         "military": 10,
