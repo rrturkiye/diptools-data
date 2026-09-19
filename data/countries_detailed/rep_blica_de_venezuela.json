@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3eef23ef-fce7-411d-a72e-bb855139843d-1788966658588.jpeg",
   "treasury": 20372548,
   "country_number": 101,
-  "player_count": 108,
+  "player_count": 105,
   "provinces_count": 3,
   "capital": {
     "name": "Karakas",
@@ -19,9 +19,9 @@
     "elmas": 21
   },
   "average_scores": {
-    "education": 8.7,
+    "education": 8,
     "military": 7.3,
-    "development": 4.3,
+    "development": 4.7,
     "health": 6
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 95,
+      "player_count": 91,
       "scores": {
         "education": 10,
         "military": 10,
@@ -57,9 +57,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 4,
+      "player_count": 5,
       "scores": {
-        "education": 8,
+        "education": 7,
         "military": 5,
         "development": 1,
         "health": 4,
@@ -83,9 +83,9 @@
       "independence_date": null,
       "player_count": 18,
       "scores": {
-        "education": 8,
+        "education": 7,
         "military": 7,
-        "development": 2,
+        "development": 3,
         "health": 4,
         "health_world_first": false
       },

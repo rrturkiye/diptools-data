@@ -148,15 +148,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/tunus.png?v=3",
       "countryId": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7"
     },
-    "Karaganda": {
-      "code": null,
-      "color": "#151a38",
-      "name": "HUNNER IMPERIUM",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Şımkent": {
       "code": null,
       "color": "#eccb13",
@@ -258,7 +249,7 @@
     },
     "Batum": {
       "code": null,
-      "color": null,
+      "color": "#47ec22",
       "name": "Batum Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
@@ -336,6 +327,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/sumatra.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
+    },
+    "Karaganda": {
+      "code": null,
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
     "Doğu Timor": {
       "code": null,
@@ -573,7 +573,7 @@
     },
     "Mary": {
       "code": null,
-      "color": "#7c1314",
+      "color": "#0e5311",
       "name": "Türkmenistan Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789825373842.png",
@@ -1433,15 +1433,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/jawa.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
     },
-    "Aktöbe": {
-      "code": null,
-      "color": "#151a38",
-      "name": "HUNNER IMPERIUM",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Medine": {
       "code": null,
       "color": "#bfaf4f",
@@ -1550,15 +1541,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/texas.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
-    "Moskova": {
-      "code": null,
-      "color": "#151a38",
-      "name": "HUNNER IMPERIUM",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Minnesota": {
       "code": "USA",
       "color": "#0f0750",
@@ -1622,6 +1604,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
     },
+    "Aktöbe": {
+      "code": null,
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
+    },
     "Curitiba": {
       "code": null,
       "color": "#c61010",
@@ -1657,6 +1648,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
       "coatUrl": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
       "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7"
+    },
+    "Moskova": {
+      "code": null,
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
     "Amasya": {
       "code": null,
@@ -1849,7 +1849,7 @@
     },
     "Belém": {
       "code": null,
-      "color": "#1a5e17",
+      "color": "#174115",
       "name": "Estado do Grão-Pará",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dda9313f-d3bf-4dac-bbdb-05e1ef36fc62-1789418877520.jpeg",
