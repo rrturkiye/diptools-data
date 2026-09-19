@@ -2,9 +2,9 @@
   "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
   "name": "ANARCHIA INVICTA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1789591231741.jpeg",
-  "treasury": 2387593,
+  "treasury": 6693891,
   "country_number": 4,
-  "player_count": 291,
+  "player_count": 292,
   "provinces_count": 3,
   "capital": {
     "name": "Atıray",
@@ -22,14 +22,14 @@
     "education": 5.7,
     "military": 8.3,
     "development": 3,
-    "health": 2.3
+    "health": 2.7
   },
   "provinces": [
     {
       "name": "Atıray",
       "icon": "🛢️",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "region": "Hazar Kıyıs�� (Kazakistan)",
+      "region": "Hazar Kıyısı (Kazakistan)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
@@ -38,7 +38,7 @@
         "education": 8,
         "military": 10,
         "development": 5,
-        "health": 3,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 6,
+      "player_count": 5,
       "scores": {
         "education": 5,
         "military": 8,

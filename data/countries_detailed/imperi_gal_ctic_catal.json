@@ -2,13 +2,13 @@
   "id": "5985531f-4376-4cd3-a053-08cc78f39d5e",
   "name": "Imperi Galàctic Català",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/5985531f-4376-4cd3-a053-08cc78f39d5e-1785882246033.jpeg",
-  "treasury": 34929210,
+  "treasury": 35359635,
   "country_number": 99,
   "player_count": 234,
   "provinces_count": 3,
   "capital": {
     "name": "Barcelona",
-    "icon": "🎨",
+    "icon": "���",
     "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3"
   },
   "total_resource_bonuses": {
@@ -22,12 +22,12 @@
     "education": 1.7,
     "military": 6.7,
     "development": 4.3,
-    "health": 3
+    "health": 3.3
   },
   "provinces": [
     {
       "name": "Barcelona",
-      "icon": "🎨",
+      "icon": "���",
       "coat_url": "https://diplomacia.com.tr/coats/barcelona.png?v=3",
       "region": "Kuzey İspanya (Katalonya & Aragón)",
       "is_capital": true,
@@ -86,7 +86,7 @@
         "education": 1,
         "military": 5,
         "development": 1,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {

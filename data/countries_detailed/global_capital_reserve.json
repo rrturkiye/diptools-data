@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
   "treasury": 57299208,
   "country_number": 171,
-  "player_count": 100,
+  "player_count": 101,
   "provinces_count": 3,
   "capital": {
     "name": "Normandiya",
@@ -21,7 +21,7 @@
   "average_scores": {
     "education": 3,
     "military": 7,
-    "development": 1,
+    "development": 0.7,
     "health": 0.3
   },
   "provinces": [
@@ -85,7 +85,7 @@
       "scores": {
         "education": 3,
         "military": 8,
-        "development": 2,
+        "development": 1,
         "health": 1,
         "health_world_first": false
       },

@@ -2,9 +2,9 @@
   "id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481",
   "name": "Nación Azteca",
   "flag_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-  "treasury": 129080245,
+  "treasury": 109396490,
   "country_number": 193,
-  "player_count": 211,
+  "player_count": 217,
   "provinces_count": 4,
   "capital": {
     "name": "Monterrey",
@@ -19,10 +19,10 @@
     "elmas": 50
   },
   "average_scores": {
-    "education": 0,
+    "education": 2.5,
     "military": 2.5,
-    "development": 2.5,
-    "health": 1.8
+    "development": 3.5,
+    "health": 3.3
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 64,
+      "player_count": 65,
       "scores": {
-        "education": 0,
+        "education": 5,
         "military": 0,
-        "development": 0,
-        "health": 0,
+        "development": 2,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -62,7 +62,7 @@
         "education": 0,
         "military": 0,
         "development": 0,
-        "health": 0,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -81,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 52,
+      "player_count": 53,
       "scores": {
-        "education": 0,
+        "education": 5,
         "military": 0,
-        "development": 0,
-        "health": 0,
+        "development": 2,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 90,
+      "player_count": 94,
       "scores": {
         "education": 0,
         "military": 10,
