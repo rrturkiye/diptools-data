@@ -2,14 +2,14 @@
   "id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361",
   "name": "ANARCHIA INVICTA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/6018c0c2-7c4d-4acd-a086-1b6a2c178361-1789591231741.jpeg",
-  "treasury": 18196893,
+  "treasury": 22208182,
   "country_number": 4,
-  "player_count": 292,
+  "player_count": 291,
   "provinces_count": 3,
   "capital": {
-    "name": "Atıray",
+    "name": "Balkan",
     "icon": "🛢️",
-    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 32,
@@ -26,38 +26,14 @@
   },
   "provinces": [
     {
-      "name": "Atıray",
-      "icon": "🛢️",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "region": "Hazar Kıyıs�� (Kazakistan)",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 8,
-      "scores": {
-        "education": 8,
-        "military": 10,
-        "development": 5,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 9,
-        "petrol": 17,
-        "nte": 12,
-        "elmas": 8
-      }
-    },
-    {
       "name": "Balkan",
       "icon": "🛢️",
       "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "region": "Batı Türkmenistan (Hazar Kıyısı)",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 215,
+      "player_count": 214,
       "scores": {
         "education": 4,
         "military": 7,
@@ -74,6 +50,30 @@
       }
     },
     {
+      "name": "Atıray",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Hazar Kıyısı (Kazakistan)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 9,
+      "scores": {
+        "education": 8,
+        "military": 10,
+        "development": 5,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 9,
+        "petrol": 17,
+        "nte": 12,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Daşoguz",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 7,
+      "player_count": 5,
       "scores": {
         "education": 5,
         "military": 8,

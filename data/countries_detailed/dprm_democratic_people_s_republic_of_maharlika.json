@@ -5,56 +5,32 @@
   "treasury": 15658,
   "country_number": 112,
   "player_count": 213,
-  "provinces_count": 2,
+  "provinces_count": 1,
   "capital": {
-    "name": "Mindanao",
-    "icon": "🌺",
-    "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3"
+    "name": "Çengdu",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 19,
-    "altin": 23,
-    "petrol": 22,
-    "nte": 24,
-    "elmas": 18
+    "deri": 12,
+    "altin": 5,
+    "petrol": 14,
+    "nte": 8,
+    "elmas": 14
   },
   "average_scores": {
-    "education": 4,
-    "military": 5.5,
-    "development": 4,
-    "health": 4.5
+    "education": 0,
+    "military": 5,
+    "development": 0,
+    "health": 3
   },
   "provinces": [
-    {
-      "name": "Mindanao",
-      "icon": "🌺",
-      "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
-      "region": "Güney Filipinler",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 36,
-      "scores": {
-        "education": 8,
-        "military": 6,
-        "development": 8,
-        "health": 7,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 18,
-        "petrol": 8,
-        "nte": 16,
-        "elmas": 4
-      }
-    },
     {
       "name": "Çengdu",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/china.png",
       "region": "Çin",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
       "player_count": 186,
@@ -62,7 +38,7 @@
         "education": 0,
         "military": 5,
         "development": 0,
-        "health": 2,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "HUNNER IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 3065767,
+  "treasury": 8534637,
   "country_number": 135,
-  "player_count": 60,
-  "provinces_count": 2,
+  "player_count": 61,
+  "provinces_count": 3,
   "capital": {
     "name": "Aktöbe",
     "icon": "⛏️",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 21,
-    "altin": 19,
-    "petrol": 24,
-    "nte": 26,
-    "elmas": 24
+    "deri": 35,
+    "altin": 34,
+    "petrol": 34,
+    "nte": 42,
+    "elmas": 31
   },
   "average_scores": {
     "education": 1,
-    "military": 5,
-    "development": 9,
-    "health": 3.5
+    "military": 7,
+    "development": 6.3,
+    "health": 2.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 31,
+      "player_count": 36,
       "scores": {
         "education": 2,
         "military": 7,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Karaganda",
+      "icon": "⚒️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Orta Kazakistan (Sanayi)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 57,
+      "scores": {
+        "education": 1,
+        "military": 10,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 15,
+        "petrol": 10,
+        "nte": 16,
+        "elmas": 7
+      }
+    },
+    {
       "name": "Moskova",
       "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
@@ -57,10 +81,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 41,
+      "player_count": 40,
       "scores": {
         "education": 0,
-        "military": 3,
+        "military": 4,
         "development": 8,
         "health": 6,
         "health_world_first": false

@@ -2,27 +2,27 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 12542198,
+  "treasury": 13475300,
   "country_number": 89,
-  "player_count": 153,
-  "provinces_count": 7,
+  "player_count": 155,
+  "provinces_count": 6,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
     "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 66,
-    "altin": 108,
-    "petrol": 78,
-    "nte": 90,
-    "elmas": 68
+    "deri": 54,
+    "altin": 91,
+    "petrol": 67,
+    "nte": 78,
+    "elmas": 57
   },
   "average_scores": {
-    "education": 2.3,
-    "military": 7.1,
-    "development": 4.9,
-    "health": 2.4
+    "education": 2.7,
+    "military": 6.8,
+    "development": 5.5,
+    "health": 3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 6,
       "scores": {
         "education": 6,
         "military": 5,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 23,
+      "player_count": 21,
       "scores": {
         "education": 6,
-        "military": 9,
+        "military": 10,
         "development": 2,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -98,30 +98,6 @@
       }
     },
     {
-      "name": "Colorado",
-      "icon": "🏔️",
-      "coat_url": "https://diplomacia.com.tr/coats/colorado.png?v=3",
-      "region": "İç Batı (Kayalık Dağlar)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 18,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 2,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 12,
-        "altin": 17,
-        "petrol": 11,
-        "nte": 12,
-        "elmas": 11
-      }
-    },
-    {
       "name": "Kaliforniya",
       "icon": "🌴",
       "coat_url": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
@@ -129,12 +105,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 42,
+      "player_count": 39,
       "scores": {
         "education": 0,
         "military": 9,
         "development": 10,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 61,
+      "player_count": 62,
       "scores": {
         "education": 1,
         "military": 10,
@@ -181,7 +157,7 @@
       "scores": {
         "education": 1,
         "military": 4,
-        "development": 5,
+        "development": 6,
         "health": 6,
         "health_world_first": false
       },

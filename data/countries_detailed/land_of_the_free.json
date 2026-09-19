@@ -2,27 +2,27 @@
   "id": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
   "name": "Land Of the Free",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
-  "treasury": 168130101,
+  "treasury": 184978991,
   "country_number": 136,
-  "player_count": 371,
-  "provinces_count": 7,
+  "player_count": 377,
+  "provinces_count": 9,
   "capital": {
     "name": "Florida",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/florida.png"
   },
   "total_resource_bonuses": {
-    "deri": 80,
-    "altin": 45,
-    "petrol": 64,
-    "nte": 67,
-    "elmas": 103
+    "deri": 96,
+    "altin": 66,
+    "petrol": 78,
+    "nte": 84,
+    "elmas": 129
   },
   "average_scores": {
-    "education": 1.9,
-    "military": 1.6,
-    "development": 4,
-    "health": 4.3
+    "education": 1.6,
+    "military": 2.4,
+    "development": 3.4,
+    "health": 3.9
   },
   "provinces": [
     {
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 93,
+      "player_count": 97,
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 3,
+        "development": 4,
         "health": 6,
         "health_world_first": false
       },
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Colorado",
+      "icon": "🏔️",
+      "coat_url": "https://diplomacia.com.tr/coats/colorado.png?v=3",
+      "region": "İç Batı (Kayalık Dağlar)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 14,
+      "scores": {
+        "education": 0,
+        "military": 8,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 17,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 11
+      }
+    },
+    {
       "name": "Illinois",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/illinois.png",
@@ -57,12 +81,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 136,
+      "player_count": 126,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 6,
-        "health": 5,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -105,9 +129,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 48,
+      "player_count": 54,
       "scores": {
-        "education": 1,
+        "education": 2,
         "military": 0,
         "development": 3,
         "health": 5,
@@ -153,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": "2026-08-14T09:09:36.169Z",
-      "player_count": 100,
+      "player_count": 110,
       "scores": {
         "education": 0,
         "military": 0,
@@ -177,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 25,
       "scores": {
         "education": 0,
         "military": 9,
@@ -191,6 +215,30 @@
         "petrol": 18,
         "nte": 9,
         "elmas": 12
+      }
+    },
+    {
+      "name": "Washington DC",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/washington.png?v=3",
+      "region": "Doğu Kıyısı (Atlantik)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 100,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 5,
+        "elmas": 15
       }
     }
   ]

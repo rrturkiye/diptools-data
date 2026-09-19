@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 407343170,
+  "treasury": 426500112,
   "country_number": 54,
-  "player_count": 1037,
-  "provinces_count": 7,
+  "player_count": 1052,
+  "provinces_count": 8,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 102,
-    "petrol": 71,
-    "nte": 98,
-    "elmas": 72
+    "deri": 46,
+    "altin": 120,
+    "petrol": 79,
+    "nte": 114,
+    "elmas": 76
   },
   "average_scores": {
-    "education": 0.9,
-    "military": 1.9,
-    "development": 4.1,
-    "health": 2.3
+    "education": 1.4,
+    "military": 2,
+    "development": 4.3,
+    "health": 2.6
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 519,
+      "player_count": 525,
       "scores": {
         "education": 4,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 60,
+      "player_count": 67,
       "scores": {
         "education": 0,
         "military": 8,
@@ -71,6 +71,30 @@
         "petrol": 14,
         "nte": 14,
         "elmas": 19
+      }
+    },
+    {
+      "name": "Mindanao",
+      "icon": "🌺",
+      "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
+      "region": "Güney Filipinler",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 35,
+      "scores": {
+        "education": 5,
+        "military": 3,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 18,
+        "petrol": 8,
+        "nte": 16,
+        "elmas": 4
       }
     },
     {
@@ -129,12 +153,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 85,
+      "player_count": 76,
       "scores": {
         "education": 0,
         "military": 0,
         "development": 7,
-        "health": 8,
+        "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -153,12 +177,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 130,
+      "player_count": 136,
       "scores": {
         "education": 2,
         "military": 1,
-        "development": 4,
-        "health": 3,
+        "development": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
