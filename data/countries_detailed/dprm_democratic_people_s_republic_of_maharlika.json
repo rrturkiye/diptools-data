@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1d2efd3c-bb2c-4fcf-a4a5-d42ad1359f80-1788360816839.jpeg",
   "treasury": 15658,
   "country_number": 112,
-  "player_count": 204,
+  "player_count": 213,
   "provinces_count": 2,
   "capital": {
     "name": "Mindanao",
@@ -22,7 +22,7 @@
     "education": 4,
     "military": 5.5,
     "development": 4,
-    "health": 5
+    "health": 4.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 37,
+      "player_count": 36,
       "scores": {
         "education": 8,
         "military": 6,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 182,
+      "player_count": 186,
       "scores": {
         "education": 0,
         "military": 5,
         "development": 0,
-        "health": 3,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
