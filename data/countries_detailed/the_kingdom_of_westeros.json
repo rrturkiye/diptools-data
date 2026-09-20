@@ -2,14 +2,14 @@
   "id": "10fbeac3-ab69-4c1a-a741-83297b17688a",
   "name": "The Kingdom of Westeros",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
-  "treasury": 1625540,
+  "treasury": 2090551,
   "country_number": 189,
-  "player_count": 170,
+  "player_count": 172,
   "provinces_count": 2,
   "capital": {
-    "name": "Temeşvar",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3"
+    "name": "Horasan",
+    "icon": "🌾",
+    "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 23,
@@ -22,42 +22,18 @@
     "education": 6.5,
     "military": 5.5,
     "development": 5.5,
-    "health": 5
+    "health": 4.5
   },
   "provinces": [
-    {
-      "name": "Temeşvar",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
-      "region": null,
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 68,
-      "scores": {
-        "education": 8,
-        "military": 7,
-        "development": 7,
-        "health": 9,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 10,
-        "petrol": 9,
-        "nte": 8,
-        "elmas": 8
-      }
-    },
     {
       "name": "Horasan",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/horasan.png?v=3",
       "region": "Kuzeydoğu (Afganistan sınırı)",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 28,
+      "player_count": 31,
       "scores": {
         "education": 5,
         "military": 4,
@@ -71,6 +47,30 @@
         "petrol": 9,
         "nte": 10,
         "elmas": 9
+      }
+    },
+    {
+      "name": "Temeşvar",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 67,
+      "scores": {
+        "education": 8,
+        "military": 7,
+        "development": 7,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 10,
+        "petrol": 9,
+        "nte": 8,
+        "elmas": 8
       }
     }
   ]

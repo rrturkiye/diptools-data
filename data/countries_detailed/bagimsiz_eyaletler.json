@@ -1,31 +1,7 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 2,
+  "provinces_count": 1,
   "provinces": [
-    {
-      "name": "Ermenistan",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
-      "region": "Güney Kafkasya (Ermenistan)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-16T19:44:55.475Z",
-      "player_count": 289,
-      "scores": {
-        "education": 7,
-        "military": 10,
-        "development": 4,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 15,
-        "petrol": 5,
-        "nte": 13,
-        "elmas": 10
-      }
-    },
     {
       "name": "Ürdün",
       "icon": "🏜️",
@@ -34,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-19T11:12:56.640Z",
-      "player_count": 302,
+      "player_count": 307,
       "scores": {
         "education": 0,
         "military": 5,

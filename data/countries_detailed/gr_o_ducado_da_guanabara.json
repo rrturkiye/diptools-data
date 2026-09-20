@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/coats/riodejaneiro.png?v=3",
   "treasury": 30977704,
   "country_number": 198,
-  "player_count": 297,
+  "player_count": 303,
   "provinces_count": 1,
   "capital": {
     "name": "Rio de Janeiro",
@@ -22,7 +22,7 @@
     "education": 5,
     "military": 0,
     "development": 7,
-    "health": 7
+    "health": 9
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 320,
+      "player_count": 319,
       "scores": {
         "education": 5,
         "military": 0,
         "development": 7,
-        "health": 7,
+        "health": 9,
         "health_world_first": false
       },
       "resource_bonuses": {

@@ -232,9 +232,9 @@
     "Batum": {
       "code": null,
       "color": "#0eaf1c",
-      "name": "Batum Geçici Hükümeti",
+      "name": "Gürcistan Krallığı",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
       "countryId": "91dc9647-2722-42ea-92e8-913764f7d013"
     },
@@ -724,6 +724,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/bordo.png?v=3",
       "countryId": "5985531f-4376-4cd3-a053-08cc78f39d5e"
     },
+    "Temeşvar": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "The Kingdom of Westeros",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
+      "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
+    },
     "Fuçou": {
       "code": null,
       "color": "#970c0f",
@@ -733,14 +742,14 @@
       "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
       "countryId": "8f70a139-5ba3-4e60-b236-bbcf57c8dc39"
     },
-    "Temeşvar": {
+    "Ermenistan": {
       "code": null,
-      "color": "#4e134e",
-      "name": "The Kingdom of Westeros",
+      "color": "#5a0709",
+      "name": "Ermenistan Geçici Hükümeti",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/temesvar.png?v=3",
-      "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
+      "flagUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
+      "countryId": "82bcb0bb-d541-428c-98fa-58f3471a47e6"
     },
     "Ürdün": {
       "code": null,
@@ -821,14 +830,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789825373842.png",
       "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "countryId": "cbe20b56-34d7-4b08-abdb-b9794ee2544d"
-    },
-    "Ermenistan": {
-      "code": null,
-      "color": "#7a8898",
-      "name": "Bağımsız Bölge",
-      "flag": "🏳️",
-      "independent": true,
-      "coatUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3"
     },
     "Tiflis": {
       "code": null,
@@ -1147,7 +1148,7 @@
     },
     "Bogota": {
       "code": null,
-      "color": "#e1bc14",
+      "color": "#7b13dd",
       "name": "República de Colombia.",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1788924568994.png",
@@ -1192,7 +1193,7 @@
     },
     "Medellin": {
       "code": null,
-      "color": "#e1bc14",
+      "color": "#7b13dd",
       "name": "República de Colombia.",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1788924568994.png",
@@ -1210,7 +1211,7 @@
     },
     "Cali": {
       "code": null,
-      "color": "#e1bc14",
+      "color": "#7b13dd",
       "name": "República de Colombia.",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1788924568994.png",
@@ -1469,15 +1470,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/cairo.png?v=3",
       "countryId": "9803c555-a7db-4519-8652-0697dfad5c94"
     },
-    "Horasan": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "The Kingdom of Westeros",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
-      "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
-    },
     "Kafkasya": {
       "code": null,
       "color": "#d9121f",
@@ -1666,6 +1658,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
       "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746"
+    },
+    "Horasan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "The Kingdom of Westeros",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
+      "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a"
     },
     "Amasya": {
       "code": null,
