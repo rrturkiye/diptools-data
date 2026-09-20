@@ -2,27 +2,27 @@
   "id": "43262e0b-726a-4a9f-8a52-44f582257946",
   "name": "Özbekistan Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
-  "treasury": 46478743,
+  "treasury": 52444278,
   "country_number": 85,
   "player_count": 72,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Semerkant",
     "icon": "🕌",
     "coat_url": "https://diplomacia.com.tr/coats/semerkand.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 22,
-    "altin": 32,
-    "petrol": 20,
-    "nte": 26,
-    "elmas": 13
+    "deri": 31,
+    "altin": 41,
+    "petrol": 36,
+    "nte": 39,
+    "elmas": 21
   },
   "average_scores": {
     "education": 2,
-    "military": 7.5,
-    "development": 7.5,
-    "health": 6.5
+    "military": 6.7,
+    "development": 5.7,
+    "health": 5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 27,
+      "player_count": 31,
       "scores": {
         "education": 3,
         "military": 6,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Balkan",
+      "icon": "🛢️",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Batı Türkmenistan (Hazar Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 215,
+      "scores": {
+        "education": 2,
+        "military": 5,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 9,
+        "petrol": 16,
+        "nte": 13,
+        "elmas": 8
+      }
+    },
+    {
       "name": "Karakalpakstan",
       "icon": "🏜️",
       "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 25,
+      "player_count": 20,
       "scores": {
         "education": 1,
         "military": 9,

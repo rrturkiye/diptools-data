@@ -2,27 +2,27 @@
   "id": "84b5882d-a580-482e-a265-c518df28c8ee",
   "name": "Bosna İslâm Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
-  "treasury": 84310100,
+  "treasury": 50145703,
   "country_number": 113,
-  "player_count": 236,
-  "provinces_count": 5,
+  "player_count": 235,
+  "provinces_count": 4,
   "capital": {
     "name": "Bosna Hersek",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 45,
-    "altin": 41,
-    "petrol": 52,
-    "nte": 39,
-    "elmas": 42
+    "deri": 34,
+    "altin": 35,
+    "petrol": 43,
+    "nte": 34,
+    "elmas": 34
   },
   "average_scores": {
     "education": 4.8,
-    "military": 6,
-    "development": 5.2,
-    "health": 5.4
+    "military": 5.3,
+    "development": 5.8,
+    "health": 6
   },
   "provinces": [
     {
@@ -33,13 +33,13 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 68,
+      "player_count": 73,
       "scores": {
         "education": 10,
         "military": 9,
         "development": 10,
-        "health": 10,
-        "health_world_first": false
+        "health": 11,
+        "health_world_first": true
       },
       "resource_bonuses": {
         "deri": 9,
@@ -77,11 +77,11 @@
       "name": "İsfahan",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
-      "region": "Orta İran (Tarihi Başkent)",
+      "region": "Orta ��ran (Tarihi Başkent)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 30,
+      "player_count": 36,
       "scores": {
         "education": 6,
         "military": 4,
@@ -98,30 +98,6 @@
       }
     },
     {
-      "name": "Şam",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/sam.png?v=3",
-      "region": "Batı ve Güney Suriye",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 27,
-      "scores": {
-        "education": 5,
-        "military": 9,
-        "development": 3,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 11,
-        "altin": 6,
-        "petrol": 9,
-        "nte": 5,
-        "elmas": 8
-      }
-    },
-    {
       "name": "Sırbistan",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/sirbistan.png?v=3",
@@ -129,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 27,
       "scores": {
         "education": 0,
         "military": 2,
