@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 437802998,
+  "treasury": 442030978,
   "country_number": 54,
-  "player_count": 1054,
-  "provinces_count": 8,
+  "player_count": 1041,
+  "provinces_count": 7,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 46,
-    "altin": 120,
-    "petrol": 79,
-    "nte": 114,
-    "elmas": 76
+    "deri": 42,
+    "altin": 111,
+    "petrol": 74,
+    "nte": 95,
+    "elmas": 72
   },
   "average_scores": {
-    "education": 1.4,
-    "military": 1.9,
-    "development": 4.3,
-    "health": 2.6
+    "education": 1.6,
+    "military": 1.6,
+    "development": 4.6,
+    "health": 3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 524,
+      "player_count": 513,
       "scores": {
         "education": 4,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 70,
+      "player_count": 67,
       "scores": {
         "education": 0,
         "military": 7,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 39,
+      "player_count": 42,
       "scores": {
         "education": 5,
         "military": 3,
@@ -157,7 +157,7 @@
       "scores": {
         "education": 0,
         "military": 0,
-        "development": 7,
+        "development": 6,
         "health": 9,
         "health_world_first": false
       },
@@ -177,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 141,
+      "player_count": 139,
       "scores": {
         "education": 2,
         "military": 1,
@@ -191,30 +191,6 @@
         "petrol": 14,
         "nte": 11,
         "elmas": 8
-      }
-    },
-    {
-      "name": "Yeni Kaledonya",
-      "icon": "🪸",
-      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
-      "region": "Pasifik (Fransız Toprağı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 5,
-      "scores": {
-        "education": 0,
-        "military": 4,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 4,
-        "altin": 9,
-        "petrol": 5,
-        "nte": 19,
-        "elmas": 4
       }
     }
   ]

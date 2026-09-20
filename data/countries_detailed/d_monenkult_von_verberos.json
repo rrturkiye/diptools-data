@@ -2,27 +2,27 @@
   "id": "7b977dca-f0cc-4aab-bc96-66264c484368",
   "name": "Dämonenkult von Verberos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/7b977dca-f0cc-4aab-bc96-66264c484368-1787587226046.png",
-  "treasury": 31305330,
+  "treasury": 25623201,
   "country_number": 157,
   "player_count": 140,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Guiyang",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 19,
-    "altin": 12,
-    "petrol": 9,
-    "nte": 30,
-    "elmas": 28
+    "deri": 23,
+    "altin": 21,
+    "petrol": 14,
+    "nte": 49,
+    "elmas": 32
   },
   "average_scores": {
-    "education": 4.5,
-    "military": 6,
-    "development": 4.5,
-    "health": 0.5
+    "education": 3,
+    "military": 5.3,
+    "development": 3.3,
+    "health": 0.3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 122,
+      "player_count": 144,
       "scores": {
         "education": 7,
         "military": 6,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 179,
+      "player_count": 174,
       "scores": {
         "education": 2,
         "military": 6,
@@ -71,6 +71,30 @@
         "petrol": 5,
         "nte": 12,
         "elmas": 18
+      }
+    },
+    {
+      "name": "Yeni Kaledonya",
+      "icon": "🪸",
+      "coat_url": "https://diplomacia.com.tr/coats/newcaledonia.png?v=3",
+      "region": "Pasifik (Fransız Toprağı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 5,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 4,
+        "altin": 9,
+        "petrol": 5,
+        "nte": 19,
+        "elmas": 4
       }
     }
   ]
