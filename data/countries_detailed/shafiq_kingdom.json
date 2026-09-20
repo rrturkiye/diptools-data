@@ -2,27 +2,27 @@
   "id": "223ccc4c-71c4-4410-8021-4e43df700a7c",
   "name": "Shafiq Kingdom",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/223ccc4c-71c4-4410-8021-4e43df700a7c-1784510143633.png",
-  "treasury": 32988006,
+  "treasury": 41216552,
   "country_number": 111,
   "player_count": 26,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Visayas",
     "icon": "🏖️",
     "coat_url": "https://diplomacia.com.tr/coats/visayas.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 7,
-    "altin": 15,
-    "petrol": 8,
-    "nte": 15,
-    "elmas": 7
+    "deri": 14,
+    "altin": 33,
+    "petrol": 16,
+    "nte": 31,
+    "elmas": 11
   },
   "average_scores": {
-    "education": 0,
+    "education": 2,
     "military": 2,
-    "development": 5,
-    "health": 3
+    "development": 4,
+    "health": 2.5
   },
   "provinces": [
     {
@@ -47,6 +47,30 @@
         "petrol": 8,
         "nte": 15,
         "elmas": 7
+      }
+    },
+    {
+      "name": "Mindanao",
+      "icon": "🌺",
+      "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
+      "region": "Güney Filipinler",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 40,
+      "scores": {
+        "education": 4,
+        "military": 2,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 18,
+        "petrol": 8,
+        "nte": 16,
+        "elmas": 4
       }
     }
   ]

@@ -2,27 +2,27 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 13638652,
+  "treasury": 4531863,
   "country_number": 89,
-  "player_count": 156,
-  "provinces_count": 6,
+  "player_count": 155,
+  "provinces_count": 5,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
     "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 54,
-    "altin": 91,
-    "petrol": 67,
-    "nte": 78,
-    "elmas": 57
+    "deri": 46,
+    "altin": 75,
+    "petrol": 56,
+    "nte": 58,
+    "elmas": 39
   },
   "average_scores": {
-    "education": 2.2,
-    "military": 6.7,
-    "development": 5.5,
-    "health": 2.5
+    "education": 3,
+    "military": 6.2,
+    "development": 4.8,
+    "health": 3
   },
   "provinces": [
     {
@@ -35,7 +35,7 @@
       "independence_date": null,
       "player_count": 5,
       "scores": {
-        "education": 5,
+        "education": 6,
         "military": 5,
         "development": 3,
         "health": 2,
@@ -57,12 +57,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 7,
+      "player_count": 5,
       "scores": {
-        "education": 5,
+        "education": 6,
         "military": 9,
         "development": 2,
-        "health": 1,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -85,7 +85,7 @@
       "scores": {
         "education": 2,
         "military": 3,
-        "development": 9,
+        "development": 10,
         "health": 5,
         "health_world_first": false
       },
@@ -98,30 +98,6 @@
       }
     },
     {
-      "name": "Kaliforniya",
-      "icon": "🌴",
-      "coat_url": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
-      "region": "Batı Kıyısı (Pasifik)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 40,
-      "scores": {
-        "education": 0,
-        "military": 9,
-        "development": 10,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 8,
-        "altin": 16,
-        "petrol": 11,
-        "nte": 20,
-        "elmas": 18
-      }
-    },
-    {
       "name": "Sinaloa",
       "icon": "🌊",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
@@ -129,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 54,
+      "player_count": 53,
       "scores": {
         "education": 0,
         "military": 10,
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 10,
+      "player_count": 12,
       "scores": {
         "education": 1,
         "military": 4,

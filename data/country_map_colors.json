@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mora": {
@@ -96,7 +96,7 @@
     },
     "Mekke": {
       "code": null,
-      "color": "#15d912",
+      "color": "#9c0d0d",
       "name": "Abbasid Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1789020552404.jpeg",
@@ -249,7 +249,7 @@
     },
     "Batum": {
       "code": null,
-      "color": "#47ec22",
+      "color": "#0eaf1c",
       "name": "Batum Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
@@ -273,15 +273,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karabag.png?v=3",
       "countryId": "313a641c-f6ae-4553-aeae-318e78b093ec"
-    },
-    "Astana": {
-      "code": null,
-      "color": "#910d0d",
-      "name": "KUZEY KRALLIĞI",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e2327468-0be9-4d02-8eaf-129e4ef07386-1789331212378.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
-      "countryId": "e2327468-0be9-4d02-8eaf-129e4ef07386"
     },
     "Herat": {
       "code": null,
@@ -328,21 +319,12 @@
       "coatUrl": "https://diplomacia.com.tr/coats/sumatra.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
     },
-    "Karaganda": {
-      "code": null,
-      "color": "#151a38",
-      "name": "HUNNER IMPERIUM",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
-    },
     "Doğu Timor": {
       "code": null,
       "color": "#500708",
-      "name": "Pawon Rothmere",
+      "name": "Kingdom Of Rothmere",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1788962633076.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1789808152456.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/dogutimor.png?v=3",
       "countryId": "4d973d67-468d-4c16-bba9-c8433a2c2e7b"
     },
@@ -354,6 +336,24 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mosul.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
+    },
+    "Astana": {
+      "code": null,
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/astana.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
+    },
+    "Karaganda": {
+      "code": null,
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
     "Semerkant": {
       "code": null,
@@ -1091,15 +1091,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/singapur.png?v=3",
       "countryId": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
     },
-    "Mindanao": {
-      "code": null,
-      "color": "#e39c16",
-      "name": "Republik Indonesia Serikat",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
-      "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
-    },
     "Kuzey Kıbrıs Türk Cumhuriyeti": {
       "code": null,
       "color": "#4e134e",
@@ -1136,6 +1127,24 @@
       "coatUrl": "https://diplomacia.com.tr/coats/munchen.png?v=3",
       "countryId": "6311fc78-bb94-48a2-8d87-e67ae4374888"
     },
+    "Mindanao": {
+      "code": null,
+      "color": "#c91313",
+      "name": "Shafiq Kingdom",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/223ccc4c-71c4-4410-8021-4e43df700a7c-1784510143633.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
+      "countryId": "223ccc4c-71c4-4410-8021-4e43df700a7c"
+    },
+    "Kaliforniya": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
+    },
     "Bogota": {
       "code": null,
       "color": "#e1bc14",
@@ -1153,15 +1162,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
       "coatUrl": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
-    },
-    "Kaliforniya": {
-      "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
     },
     "Yakutistan": {
       "code": null,
@@ -1633,12 +1633,12 @@
     },
     "Kostanay": {
       "code": null,
-      "color": "#18b0ec",
-      "name": "GÖKTÜRK KAĞANLIĞI",
+      "color": "#151a38",
+      "name": "HUNNER IMPERIUM",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ca984b9e-07b1-4123-8e20-dde1b2bbcbe9-1789620825688.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "countryId": "ca984b9e-07b1-4123-8e20-dde1b2bbcbe9"
+      "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
     },
     "Sibirya": {
       "code": null,
@@ -1657,6 +1657,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moskova.png?v=3",
       "countryId": "71d78e68-4461-42a1-b362-2650312d08e5"
+    },
+    "Varna": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "THEMA VANDORA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
+      "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746"
     },
     "Amasya": {
       "code": null,
@@ -1693,15 +1702,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/denizli.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
-    },
-    "Varna": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "THEMA VANDORA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
-      "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746"
     },
     "Galicia": {
       "code": null,
