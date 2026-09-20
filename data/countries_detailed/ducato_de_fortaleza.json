@@ -2,9 +2,9 @@
   "id": "a87549d7-feed-479d-a728-9d1842d7738b",
   "name": "Ducato de Fortaleza",
   "flag_url": "https://diplomacia.com.tr/coats/fortaleza.png?v=3",
-  "treasury": 7447942,
+  "treasury": 847556,
   "country_number": 207,
-  "player_count": 198,
+  "player_count": 205,
   "provinces_count": 1,
   "capital": {
     "name": "Fortaleza",
@@ -19,10 +19,10 @@
     "elmas": 7
   },
   "average_scores": {
-    "education": 2,
-    "military": 1,
+    "education": 3,
+    "military": 3,
     "development": 3,
-    "health": 3
+    "health": 7
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 212,
+      "player_count": 226,
       "scores": {
-        "education": 2,
-        "military": 1,
+        "education": 3,
+        "military": 3,
         "development": 3,
-        "health": 3,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
