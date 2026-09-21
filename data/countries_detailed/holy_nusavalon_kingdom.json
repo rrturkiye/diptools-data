@@ -4,7 +4,7 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/f61b1b71-6a8b-4eff-9070-61413d3837a5-1784381850211.jpeg",
   "treasury": 186901855,
   "country_number": 104,
-  "player_count": 167,
+  "player_count": 168,
   "provinces_count": 2,
   "capital": {
     "name": "Şenyang",
@@ -22,7 +22,7 @@
     "education": 0,
     "military": 9,
     "development": 3,
-    "health": 2
+    "health": 2.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 168,
+      "player_count": 173,
       "scores": {
         "education": 0,
         "military": 8,
@@ -62,7 +62,7 @@
         "education": 0,
         "military": 10,
         "development": 2,
-        "health": 0,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {

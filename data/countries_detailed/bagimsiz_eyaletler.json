@@ -1,7 +1,31 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 1,
+  "provinces_count": 2,
   "provinces": [
+    {
+      "name": "Perm",
+      "icon": "🏭",
+      "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
+      "region": "Doğu Avrupa (Kama nehri)",
+      "is_capital": false,
+      "is_independent": true,
+      "independence_date": "2026-09-21T10:15:07.689Z",
+      "player_count": 60,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 10,
+        "petrol": 14,
+        "nte": 12,
+        "elmas": 7
+      }
+    },
     {
       "name": "Ürdün",
       "icon": "🏜️",
@@ -10,7 +34,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-19T11:12:56.640Z",
-      "player_count": 309,
+      "player_count": 310,
       "scores": {
         "education": 0,
         "military": 5,

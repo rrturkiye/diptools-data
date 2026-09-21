@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "IND": "#d57120",
-    "USA": "#0f0750"
+    "USA": "#0f0750",
+    "IND": "#d57120"
   },
   "provinceOwners": {
     "Mora": {
@@ -744,7 +744,7 @@
     },
     "Ermenistan": {
       "code": null,
-      "color": "#5a0709",
+      "color": "#d41114",
       "name": "Ermenistan Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
@@ -840,15 +840,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
-    "Arnavutluk": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
     "Bosna Hersek": {
       "code": null,
       "color": "#4e134e",
@@ -857,15 +848,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/84b5882d-a580-482e-a265-c518df28c8ee-1788819476795.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/bosnahersek.png?v=3",
       "countryId": "84b5882d-a580-482e-a265-c518df28c8ee"
-    },
-    "Karadağ": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/karadag.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Normandiya": {
       "code": null,
@@ -884,6 +866,24 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/4ee14c46-59af-4800-aec7-8c5b07029828-1782883631599.png",
       "coatUrl": "https://diplomacia.com.tr/coats/bahia.png?v=3",
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828"
+    },
+    "Karadağ": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/karadag.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
+    },
+    "Arnavutluk": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Marsilya": {
       "code": null,
@@ -974,15 +974,6 @@
       "flagUrl": "https://diplomacia.com.tr/coats/normandiya.png?v=3",
       "coatUrl": "https://diplomacia.com.tr/coats/bretonya.png?v=3",
       "countryId": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
-    },
-    "Kosova": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/kosova.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Filistin": {
       "code": null,
@@ -1146,6 +1137,23 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kaliforniya.png?v=3",
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
+    "Perm": {
+      "code": null,
+      "color": "#7a8898",
+      "name": "Bağımsız Bölge",
+      "flag": "🏳️",
+      "independent": true,
+      "coatUrl": "https://diplomacia.com.tr/coats/perm.png?v=3"
+    },
+    "Kosova": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/kosova.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
+    },
     "Bogota": {
       "code": null,
       "color": "#7b13dd",
@@ -1235,15 +1243,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/223ccc4c-71c4-4410-8021-4e43df700a7c-1784510143633.png",
       "coatUrl": "https://diplomacia.com.tr/coats/visayas.png?v=3",
       "countryId": "223ccc4c-71c4-4410-8021-4e43df700a7c"
-    },
-    "Perm": {
-      "code": null,
-      "color": "#d9121f",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/perm.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
     },
     "Maracaibo": {
       "code": null,
@@ -1416,15 +1415,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/botosani.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46"
     },
-    "Chiapas": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
-    },
     "Cava": {
       "code": null,
       "color": "#e39c16",
@@ -1478,6 +1468,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/cairo.png?v=3",
       "countryId": "9803c555-a7db-4519-8652-0697dfad5c94"
+    },
+    "Chiapas": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "AYKA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
     },
     "Kafkasya": {
       "code": null,
