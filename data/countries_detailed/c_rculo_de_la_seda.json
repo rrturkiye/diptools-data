@@ -2,27 +2,27 @@
   "id": "78abf52b-649d-4d05-bb54-540409e3b083",
   "name": "Círculo de la Seda",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/78abf52b-649d-4d05-bb54-540409e3b083-1787357878119.webp",
-  "treasury": 6621213,
+  "treasury": 7039840,
   "country_number": 97,
   "player_count": 17,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Pavlodar",
     "icon": "🏭",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 12,
-    "altin": 11,
-    "petrol": 11,
-    "nte": 16,
-    "elmas": 5
+    "deri": 29,
+    "altin": 23,
+    "petrol": 19,
+    "nte": 26,
+    "elmas": 16
   },
   "average_scores": {
-    "education": 1,
-    "military": 9,
-    "development": 5,
-    "health": 7
+    "education": 4.5,
+    "military": 7.5,
+    "development": 3.5,
+    "health": 4.5
   },
   "provinces": [
     {
@@ -35,7 +35,7 @@
       "independence_date": "2026-08-03T12:14:04.741Z",
       "player_count": 7,
       "scores": {
-        "education": 1,
+        "education": 2,
         "military": 9,
         "development": 5,
         "health": 7,
@@ -47,6 +47,30 @@
         "petrol": 11,
         "nte": 16,
         "elmas": 5
+      }
+    },
+    {
+      "name": "Jalisco",
+      "icon": "🎺",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Batı Meksika (Guadalajara)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 67,
+      "scores": {
+        "education": 7,
+        "military": 6,
+        "development": 2,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 12,
+        "petrol": 8,
+        "nte": 10,
+        "elmas": 11
       }
     }
   ]

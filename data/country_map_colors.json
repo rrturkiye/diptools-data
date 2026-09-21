@@ -1,7 +1,7 @@
 {
   "countryColors": {
-    "USA": "#0f0750",
-    "IND": "#d57120"
+    "IND": "#d57120",
+    "USA": "#0f0750"
   },
   "provinceOwners": {
     "Mora": {
@@ -166,15 +166,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/umman.png?v=3",
       "countryId": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
     },
-    "Jalisco": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Istana Nusavalon",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
-    },
     "Halep": {
       "code": null,
       "color": "#a3c2b7",
@@ -231,12 +222,21 @@
     },
     "Batum": {
       "code": null,
-      "color": "#0eaf1c",
+      "color": "#4e134e",
       "name": "Gürcistan Krallığı",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
       "countryId": "91dc9647-2722-42ea-92e8-913764f7d013"
+    },
+    "Sinaloa": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Istana Nusavalon",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
     },
     "Karabağ": {
       "code": null,
@@ -382,6 +382,15 @@
       "coatUrl": "https://diplomacia.com.tr/coats/yemen.png?v=3",
       "countryId": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
     },
+    "Jalisco": {
+      "code": null,
+      "color": "#470606",
+      "name": "Círculo de la Seda",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/78abf52b-649d-4d05-bb54-540409e3b083-1787357878119.webp",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "78abf52b-649d-4d05-bb54-540409e3b083"
+    },
     "Aşkabat": {
       "code": null,
       "color": "#aaa3c2",
@@ -390,15 +399,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
       "countryId": "ebf00276-bc41-4857-9def-6f02f0db09ae"
-    },
-    "Sinaloa": {
-      "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
     },
     "Pavlodar": {
       "code": null,

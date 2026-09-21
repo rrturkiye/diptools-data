@@ -2,7 +2,7 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Istana Nusavalon",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-  "treasury": 45269171,
+  "treasury": 36319654,
   "country_number": 155,
   "player_count": 79,
   "provinces_count": 3,
@@ -12,17 +12,17 @@
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 34,
-    "altin": 32,
-    "petrol": 24,
+    "deri": 31,
+    "altin": 37,
+    "petrol": 25,
     "nte": 33,
-    "elmas": 45
+    "elmas": 41
   },
   "average_scores": {
-    "education": 3.7,
-    "military": 6,
-    "development": 4,
-    "health": 3.7
+    "education": 3,
+    "military": 8,
+    "development": 4.7,
+    "health": 3.3
   },
   "provinces": [
     {
@@ -37,7 +37,7 @@
       "scores": {
         "education": 0,
         "military": 5,
-        "development": 9,
+        "development": 10,
         "health": 10,
         "health_world_first": false
       },
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Jalisco",
-      "icon": "🎺",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Batı Meksika (Guadalajara)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 70,
-      "scores": {
-        "education": 7,
-        "military": 4,
-        "development": 2,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 17,
-        "altin": 12,
-        "petrol": 8,
-        "nte": 10,
-        "elmas": 11
-      }
-    },
-    {
       "name": "Meksiko",
       "icon": "🌮",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
@@ -81,9 +57,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 50,
+      "player_count": 46,
       "scores": {
-        "education": 4,
+        "education": 5,
         "military": 9,
         "development": 1,
         "health": 0,
@@ -95,6 +71,30 @@
         "petrol": 11,
         "nte": 13,
         "elmas": 14
+      }
+    },
+    {
+      "name": "Sinaloa",
+      "icon": "🌊",
+      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 51,
+      "scores": {
+        "education": 4,
+        "military": 10,
+        "development": 3,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 17,
+        "petrol": 9,
+        "nte": 10,
+        "elmas": 7
       }
     }
   ]

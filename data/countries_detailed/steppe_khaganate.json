@@ -2,27 +2,27 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 5700187,
+  "treasury": 6158259,
   "country_number": 89,
   "player_count": 155,
-  "provinces_count": 5,
+  "provinces_count": 4,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
     "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 46,
-    "altin": 75,
-    "petrol": 56,
-    "nte": 58,
-    "elmas": 39
+    "deri": 32,
+    "altin": 58,
+    "petrol": 47,
+    "nte": 48,
+    "elmas": 32
   },
   "average_scores": {
-    "education": 2.6,
-    "military": 6.2,
-    "development": 4.8,
-    "health": 3
+    "education": 3.5,
+    "military": 5.3,
+    "development": 5.3,
+    "health": 3.8
   },
   "provinces": [
     {
@@ -35,7 +35,7 @@
       "independence_date": null,
       "player_count": 5,
       "scores": {
-        "education": 5,
+        "education": 6,
         "military": 5,
         "development": 3,
         "health": 2,
@@ -95,30 +95,6 @@
         "petrol": 15,
         "nte": 7,
         "elmas": 11
-      }
-    },
-    {
-      "name": "Sinaloa",
-      "icon": "🌊",
-      "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "region": "Kuzeybatı Meksika (Pasifik Kıyısı)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 52,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 3,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 17,
-        "petrol": 9,
-        "nte": 10,
-        "elmas": 7
       }
     },
     {
