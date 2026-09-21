@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "HUNNER IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 266915,
+  "treasury": 1060500,
   "country_number": 135,
-  "player_count": 269,
-  "provinces_count": 4,
+  "player_count": 258,
+  "provinces_count": 3,
   "capital": {
     "name": "Karaganda",
     "icon": "⚒️",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 60,
-    "altin": 50,
-    "petrol": 44,
-    "nte": 60,
-    "elmas": 32
+    "deri": 45,
+    "altin": 39,
+    "petrol": 30,
+    "nte": 44,
+    "elmas": 25
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 6.3,
-    "development": 4.3,
-    "health": 3.8
+    "education": 4,
+    "military": 6,
+    "development": 2.3,
+    "health": 2.3
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 9,
       "scores": {
         "education": 4,
         "military": 9,
@@ -45,30 +45,6 @@
         "deri": 14,
         "altin": 15,
         "petrol": 10,
-        "nte": 16,
-        "elmas": 7
-      }
-    },
-    {
-      "name": "Aktöbe",
-      "icon": "⛏️",
-      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "region": "Batı Kazakistan",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 33,
-      "scores": {
-        "education": 2,
-        "military": 7,
-        "development": 10,
-        "health": 8,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 15,
-        "altin": 11,
-        "petrol": 14,
         "nte": 16,
         "elmas": 7
       }

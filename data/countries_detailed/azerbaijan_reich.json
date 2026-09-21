@@ -1,0 +1,53 @@
+{
+  "id": "82bcb0bb-d541-428c-98fa-58f3471a47e6",
+  "name": "Azerbaijan Reich",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/82bcb0bb-d541-428c-98fa-58f3471a47e6-1789934555876.jpeg",
+  "treasury": 35275888,
+  "country_number": 213,
+  "player_count": 258,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Ermenistan",
+    "icon": "🏛️",
+    "coat_url": "https://diplomacia.com.tr/coats/ermenistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 10,
+    "altin": 15,
+    "petrol": 5,
+    "nte": 13,
+    "elmas": 10
+  },
+  "average_scores": {
+    "education": 7,
+    "military": 10,
+    "development": 4,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Ermenistan",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/ermenistan.png?v=3",
+      "region": "Güney Kafkasya (Ermenistan)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 282,
+      "scores": {
+        "education": 7,
+        "military": 10,
+        "development": 4,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 15,
+        "petrol": 5,
+        "nte": 13,
+        "elmas": 10
+      }
+    }
+  ]
+}

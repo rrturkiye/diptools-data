@@ -2,7 +2,7 @@
   "id": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
   "name": "Kingdom of Tylos",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789759117695.jpeg",
-  "treasury": 32699133,
+  "treasury": 32765035,
   "country_number": 137,
   "player_count": 14,
   "provinces_count": 3,
@@ -19,10 +19,10 @@
     "elmas": 29
   },
   "average_scores": {
-    "education": 4.3,
-    "military": 4,
+    "education": 3.7,
+    "military": 3.7,
     "development": 5,
-    "health": 4
+    "health": 3.7
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 22,
+      "player_count": 21,
       "scores": {
         "education": 8,
         "military": 11,
         "development": 6,
-        "health": 6,
+        "health": 5,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -59,7 +59,7 @@
       "independence_date": null,
       "player_count": 4,
       "scores": {
-        "education": 4,
+        "education": 3,
         "military": 0,
         "development": 6,
         "health": 4,
@@ -81,10 +81,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 13,
       "scores": {
-        "education": 1,
-        "military": 1,
+        "education": 0,
+        "military": 0,
         "development": 3,
         "health": 2,
         "health_world_first": false

@@ -2,13 +2,13 @@
   "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
   "name": "PERSIAN EMPIRE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1789767136783.jpeg",
-  "treasury": 11060037,
+  "treasury": 11643144,
   "country_number": 114,
   "player_count": 23,
   "provinces_count": 1,
   "capital": {
     "name": "Tahran",
-    "icon": "🏙���",
+    "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3"
   },
   "total_resource_bonuses": {
@@ -22,23 +22,23 @@
     "education": 4,
     "military": 0,
     "development": 9,
-    "health": 7
+    "health": 6
   },
   "provinces": [
     {
       "name": "Tahran",
-      "icon": "🏙���",
+      "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3",
       "region": "Kuzey Merkez (Başkent)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 55,
+      "player_count": 58,
       "scores": {
         "education": 4,
         "military": 0,
         "development": 9,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {

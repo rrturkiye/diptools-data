@@ -2,27 +2,27 @@
   "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
   "name": "HÚNÉR IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1784394284047.png",
-  "treasury": 27163188,
+  "treasury": 28894600,
   "country_number": 86,
-  "player_count": 23,
-  "provinces_count": 4,
+  "player_count": 28,
+  "provinces_count": 5,
   "capital": {
     "name": "Fargona",
     "icon": "🌸",
     "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 50,
-    "altin": 51,
-    "petrol": 40,
-    "nte": 51,
-    "elmas": 53
+    "deri": 65,
+    "altin": 62,
+    "petrol": 54,
+    "nte": 67,
+    "elmas": 60
   },
   "average_scores": {
-    "education": 2.3,
-    "military": 4.8,
-    "development": 7.8,
-    "health": 6
+    "education": 2.2,
+    "military": 5.4,
+    "development": 8.2,
+    "health": 6.2
   },
   "provinces": [
     {
@@ -47,6 +47,30 @@
         "petrol": 11,
         "nte": 12,
         "elmas": 9
+      }
+    },
+    {
+      "name": "Aktöbe",
+      "icon": "⛏️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Batı Kazakistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 33,
+      "scores": {
+        "education": 2,
+        "military": 7,
+        "development": 10,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 11,
+        "petrol": 14,
+        "nte": 16,
+        "elmas": 7
       }
     },
     {
@@ -81,10 +105,10 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 32,
+      "player_count": 40,
       "scores": {
         "education": 0,
-        "military": 3,
+        "military": 4,
         "development": 8,
         "health": 6,
         "health_world_first": false
@@ -105,12 +129,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 23,
+      "player_count": 17,
       "scores": {
         "education": 0,
         "military": 9,
         "development": 9,
-        "health": 7,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
