@@ -88,9 +88,9 @@
     "Mekke": {
       "code": null,
       "color": "#9c0d0d",
-      "name": "Abbasid Empire",
+      "name": "Kingdom of Swadia",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1789020552404.jpeg",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bcbd9435-cfc3-4757-b07c-28a7f0df5b33-1789995002475.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mekke.png?v=3",
       "countryId": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33"
     },
@@ -364,7 +364,7 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
       "countryId": "15054b7d-7503-4345-9434-c67d898b8ac0"
     },
-    "Şam": {
+    "��am": {
       "code": null,
       "color": "#4e134e",
       "name": "Damascus | الشام",
@@ -688,15 +688,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kesmir.png?v=3",
       "countryId": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e"
     },
-    "Alaska": {
-      "code": null,
-      "color": "#08335e",
-      "name": "STEPPE KHAGANATE",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/alaska.png?v=3",
-      "countryId": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
-    },
     "Meksiko": {
       "code": null,
       "color": "#a00d0d",
@@ -839,6 +830,15 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
+    },
+    "Alaska": {
+      "code": "USA",
+      "color": "#0f0750",
+      "name": "Land Of the Free",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f5193745-ad13-4e86-96b9-81b8f8b003d1-1786720347336.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/alaska.png?v=3",
+      "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
     },
     "Bosna Hersek": {
       "code": null,
@@ -1031,7 +1031,7 @@
     },
     "St. Petersburg": {
       "code": null,
-      "color": "#146c76",
+      "color": "#901a18",
       "name": "RUSSIAN FEDERATION",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6-1789324872142.jpeg",

@@ -2,27 +2,27 @@
   "id": "0c44a10a-5f4c-4ece-bf96-343563c392c3",
   "name": "STEPPE KHAGANATE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/0c44a10a-5f4c-4ece-bf96-343563c392c3-1786369947240.jpeg",
-  "treasury": 2722266,
+  "treasury": 2553949,
   "country_number": 89,
-  "player_count": 155,
-  "provinces_count": 4,
+  "player_count": 153,
+  "provinces_count": 3,
   "capital": {
     "name": "Altay",
     "icon": "🏔️",
     "coat_url": "https://diplomacia.com.tr/coats/altay.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 32,
-    "altin": 58,
-    "petrol": 47,
-    "nte": 48,
-    "elmas": 32
+    "deri": 25,
+    "altin": 40,
+    "petrol": 35,
+    "nte": 36,
+    "elmas": 26
   },
   "average_scores": {
-    "education": 3.5,
-    "military": 5.3,
-    "development": 5.3,
-    "health": 3.8
+    "education": 3,
+    "military": 4,
+    "development": 6,
+    "health": 4.3
   },
   "provinces": [
     {
@@ -45,30 +45,6 @@
         "deri": 12,
         "altin": 13,
         "petrol": 8,
-        "nte": 12,
-        "elmas": 6
-      }
-    },
-    {
-      "name": "Alaska",
-      "icon": "❄️",
-      "coat_url": "https://diplomacia.com.tr/coats/alaska.png?v=3",
-      "region": "Kuzeybatı (Arktik)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 4,
-      "scores": {
-        "education": 5,
-        "military": 9,
-        "development": 2,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 18,
-        "petrol": 12,
         "nte": 12,
         "elmas": 6
       }
@@ -105,11 +81,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 26,
       "scores": {
         "education": 1,
         "military": 4,
-        "development": 6,
+        "development": 5,
         "health": 6,
         "health_world_first": false
       },
