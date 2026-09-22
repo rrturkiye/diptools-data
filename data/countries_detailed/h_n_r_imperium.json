@@ -2,9 +2,9 @@
   "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
   "name": "HÚNÉR IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1784394284047.png",
-  "treasury": 33180485,
+  "treasury": 7052456,
   "country_number": 86,
-  "player_count": 28,
+  "player_count": 30,
   "provinces_count": 5,
   "capital": {
     "name": "Fargona",
@@ -22,7 +22,7 @@
     "education": 2.2,
     "military": 5.4,
     "development": 8.2,
-    "health": 6.2
+    "health": 6
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 6,
       "scores": {
         "education": 9,
         "military": 0,
@@ -62,7 +62,7 @@
         "education": 2,
         "military": 7,
         "development": 10,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -99,13 +99,13 @@
     },
     {
       "name": "Moskova",
-      "icon": "���️",
+      "icon": "🏙️",
       "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
-      "region": "Batı Merkez (Başkent)",
+      "region": "Bat�� Merkez (Başkent)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 43,
+      "player_count": 40,
       "scores": {
         "education": 0,
         "military": 4,

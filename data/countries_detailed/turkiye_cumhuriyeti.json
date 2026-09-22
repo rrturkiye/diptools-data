@@ -2,9 +2,9 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "Türkiye Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-  "treasury": 207269898,
+  "treasury": 220800595,
   "country_number": 130,
-  "player_count": 520,
+  "player_count": 524,
   "provinces_count": 18,
   "capital": {
     "name": "Ankara",
@@ -12,17 +12,17 @@
     "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 204,
-    "altin": 134,
-    "petrol": 123,
-    "nte": 167,
-    "elmas": 192
+    "deri": 195,
+    "altin": 128,
+    "petrol": 113,
+    "nte": 158,
+    "elmas": 183
   },
   "average_scores": {
-    "education": 2.1,
+    "education": 2.2,
     "military": 3.2,
     "development": 3.9,
-    "health": 4.6
+    "health": 4.5
   },
   "provinces": [
     {
@@ -33,9 +33,9 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 52,
+      "player_count": 54,
       "scores": {
-        "education": 3,
+        "education": 4,
         "military": 8,
         "development": 6,
         "health": 5,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 72,
+      "player_count": 74,
       "scores": {
         "education": 4,
         "military": 5,
@@ -249,7 +249,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 14,
       "scores": {
         "education": 5,
         "military": 3,
@@ -273,7 +273,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 105,
+      "player_count": 108,
       "scores": {
         "education": 3,
         "military": 3,
@@ -297,12 +297,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 48,
+      "player_count": 47,
       "scores": {
         "education": 0,
         "military": 7,
         "development": 9,
-        "health": 8,
+        "health": 7,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -338,9 +338,9 @@
       }
     },
     {
-      "name": "Kahramanmaraş",
+      "name": "Kahramanmara��",
       "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/kahramanmaras.png",
+      "coat_url": null,
       "region": "Türkiye",
       "is_capital": false,
       "is_independent": false,
@@ -354,11 +354,11 @@
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 10,
-        "nte": 9,
-        "elmas": 9
+        "deri": 0,
+        "altin": 0,
+        "petrol": 0,
+        "nte": 0,
+        "elmas": 0
       }
     },
     {
@@ -441,7 +441,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 40,
+      "player_count": 39,
       "scores": {
         "education": 1,
         "military": 2,

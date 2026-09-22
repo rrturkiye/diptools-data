@@ -4,24 +4,24 @@
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/4d973d67-468d-4c16-bba9-c8433a2c2e7b-1789808152456.jpeg",
   "treasury": 18500000,
   "country_number": 169,
-  "player_count": 36,
-  "provinces_count": 1,
+  "player_count": 53,
+  "provinces_count": 2,
   "capital": {
     "name": "Doğu Timor",
     "icon": "🏝️",
     "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 5,
-    "altin": 10,
-    "petrol": 12,
-    "nte": 9,
-    "elmas": 4
+    "deri": 19,
+    "altin": 15,
+    "petrol": 21,
+    "nte": 15,
+    "elmas": 15
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 0,
+    "development": 1,
     "health": 0
   },
   "provinces": [
@@ -47,6 +47,30 @@
         "petrol": 12,
         "nte": 9,
         "elmas": 4
+      }
+    },
+    {
+      "name": "Harbin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 36,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 2,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 14,
+        "altin": 5,
+        "petrol": 9,
+        "nte": 6,
+        "elmas": 11
       }
     }
   ]

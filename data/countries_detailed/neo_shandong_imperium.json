@@ -2,26 +2,26 @@
   "id": "1187d43e-b239-439d-bbb4-b1675bcfbd20",
   "name": "Neo Shandong Imperium",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1187d43e-b239-439d-bbb4-b1675bcfbd20-1788372430759.png",
-  "treasury": 343833897,
+  "treasury": 345683493,
   "country_number": 109,
   "player_count": 168,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Şandong",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 39,
-    "altin": 18,
-    "petrol": 29,
-    "nte": 31,
-    "elmas": 35
+    "deri": 25,
+    "altin": 13,
+    "petrol": 20,
+    "nte": 25,
+    "elmas": 24
   },
   "average_scores": {
     "education": 0,
     "military": 0,
-    "development": 3,
+    "development": 3.5,
     "health": 0
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 129,
+      "player_count": 130,
       "scores": {
         "education": 0,
         "military": 0,
@@ -47,30 +47,6 @@
         "petrol": 12,
         "nte": 8,
         "elmas": 16
-      }
-    },
-    {
-      "name": "Harbin",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 19,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 2,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 5,
-        "petrol": 9,
-        "nte": 6,
-        "elmas": 11
       }
     },
     {
