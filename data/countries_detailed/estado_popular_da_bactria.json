@@ -2,27 +2,27 @@
   "id": "ca192381-559f-40fa-a94d-e874a13917c6",
   "name": "Estado Popular da Bactria",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1789857730387.jpeg",
-  "treasury": 41902855,
+  "treasury": 25864391,
   "country_number": 142,
   "player_count": 27,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Belh",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/belh.png"
   },
   "total_resource_bonuses": {
-    "deri": 9,
-    "altin": 7,
-    "petrol": 13,
-    "nte": 10,
-    "elmas": 11
+    "deri": 19,
+    "altin": 16,
+    "petrol": 23,
+    "nte": 18,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 0,
-    "military": 7,
-    "development": 6,
-    "health": 7
+    "education": 2.5,
+    "military": 5,
+    "development": 5.5,
+    "health": 5
   },
   "provinces": [
     {
@@ -46,6 +46,30 @@
         "altin": 7,
         "petrol": 13,
         "nte": 10,
+        "elmas": 11
+      }
+    },
+    {
+      "name": "İsfahan",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
+      "region": "Orta İran (Tarihi Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 36,
+      "scores": {
+        "education": 5,
+        "military": 3,
+        "development": 5,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 9,
+        "petrol": 10,
+        "nte": 8,
         "elmas": 11
       }
     }

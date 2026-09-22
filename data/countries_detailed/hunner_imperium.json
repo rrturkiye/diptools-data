@@ -2,13 +2,13 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "HUNNER IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 12313849,
+  "treasury": 97596,
   "country_number": 135,
-  "player_count": 247,
+  "player_count": 236,
   "provinces_count": 3,
   "capital": {
-    "name": "Karaganda",
-    "icon": "⚒️",
+    "name": "Kostanay",
+    "icon": "🌾",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
@@ -26,27 +26,27 @@
   },
   "provinces": [
     {
-      "name": "Karaganda",
-      "icon": "⚒️",
+      "name": "Kostanay",
+      "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "region": "Orta Kazakistan (Sanayi)",
+      "region": "Kuzey Kazakistan",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 13,
       "scores": {
-        "education": 4,
-        "military": 9,
-        "development": 1,
-        "health": 4,
+        "education": 2,
+        "military": 1,
+        "development": 3,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 14,
-        "altin": 15,
-        "petrol": 10,
-        "nte": 16,
-        "elmas": 7
+        "deri": 17,
+        "altin": 13,
+        "petrol": 8,
+        "nte": 15,
+        "elmas": 5
       }
     },
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 123,
+      "player_count": 117,
       "scores": {
         "education": 6,
         "military": 7,
@@ -74,27 +74,27 @@
       }
     },
     {
-      "name": "Kostanay",
-      "icon": "🌾",
+      "name": "Karaganda",
+      "icon": "⚒️",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
-      "region": "Kuzey Kazakistan",
+      "region": "Orta Kazakistan (Sanayi)",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 12,
+      "player_count": 8,
       "scores": {
-        "education": 2,
-        "military": 1,
-        "development": 3,
-        "health": 1,
+        "education": 4,
+        "military": 9,
+        "development": 1,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 17,
-        "altin": 13,
-        "petrol": 8,
-        "nte": 15,
-        "elmas": 5
+        "deri": 14,
+        "altin": 15,
+        "petrol": 10,
+        "nte": 16,
+        "elmas": 7
       }
     }
   ]

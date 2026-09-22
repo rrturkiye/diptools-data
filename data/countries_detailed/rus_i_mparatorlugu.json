@@ -1,0 +1,149 @@
+{
+  "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
+  "name": "Rus İmparatorluğu",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1790108583680.jpeg",
+  "treasury": 23450219,
+  "country_number": 86,
+  "player_count": 30,
+  "provinces_count": 5,
+  "capital": {
+    "name": "Fargona",
+    "icon": "🌸",
+    "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 65,
+    "altin": 62,
+    "petrol": 54,
+    "nte": 67,
+    "elmas": 60
+  },
+  "average_scores": {
+    "education": 2,
+    "military": 5.4,
+    "development": 8,
+    "health": 6
+  },
+  "provinces": [
+    {
+      "name": "Fargona",
+      "icon": "🌸",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Fergana Vadisi (Özbekistan)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 9,
+        "military": 0,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 14,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "Aktöbe",
+      "icon": "⛏️",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Batı Kazakistan",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 31,
+      "scores": {
+        "education": 1,
+        "military": 7,
+        "development": 9,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 11,
+        "petrol": 14,
+        "nte": 16,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "Almatı",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/almati.png?v=3",
+      "region": "Güney Kazakistan (Eski Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 25,
+      "scores": {
+        "education": 0,
+        "military": 7,
+        "development": 9,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 15,
+        "altin": 14,
+        "petrol": 10,
+        "nte": 14,
+        "elmas": 14
+      }
+    },
+    {
+      "name": "Moskova",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
+      "region": "Batı Merkez (Başkent)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 38,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 8,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 10,
+        "elmas": 17
+      }
+    },
+    {
+      "name": "Taşkent",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Özbekistan Başkenti",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 17,
+      "scores": {
+        "education": 0,
+        "military": 9,
+        "development": 9,
+        "health": 6,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 15,
+        "petrol": 9,
+        "nte": 15,
+        "elmas": 13
+      }
+    }
+  ]
+}
