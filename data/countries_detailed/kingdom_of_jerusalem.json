@@ -1,0 +1,53 @@
+{
+  "id": "a61a74e4-fa80-4a6d-b5a9-1f5c816702ca",
+  "name": "مملكة القدس | KINGDOM OF JERUSALEM",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/a61a74e4-fa80-4a6d-b5a9-1f5c816702ca-1789573710162.jpeg",
+  "treasury": 797371,
+  "country_number": 203,
+  "player_count": 259,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Filistin",
+    "icon": "🕌",
+    "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 8,
+    "altin": 6,
+    "petrol": 7,
+    "nte": 4,
+    "elmas": 6
+  },
+  "average_scores": {
+    "education": 8,
+    "military": 5,
+    "development": 5,
+    "health": 4
+  },
+  "provinces": [
+    {
+      "name": "Filistin",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/palestine.png?v=3",
+      "region": "Filistin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 71,
+      "scores": {
+        "education": 8,
+        "military": 5,
+        "development": 5,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 7,
+        "nte": 4,
+        "elmas": 6
+      }
+    }
+  ]
+}
