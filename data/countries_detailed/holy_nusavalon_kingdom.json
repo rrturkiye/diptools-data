@@ -21,7 +21,7 @@
   "average_scores": {
     "education": 0,
     "military": 9,
-    "development": 3,
+    "development": 2.5,
     "health": 2.5
   },
   "provinces": [
@@ -33,11 +33,11 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 149,
+      "player_count": 147,
       "scores": {
         "education": 0,
         "military": 8,
-        "development": 4,
+        "development": 3,
         "health": 4,
         "health_world_first": false
       },

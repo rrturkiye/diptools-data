@@ -2,51 +2,51 @@
   "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
   "name": "Rus İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1790108583680.jpeg",
-  "treasury": 23450219,
+  "treasury": 28690914,
   "country_number": 86,
-  "player_count": 30,
-  "provinces_count": 5,
+  "player_count": 292,
+  "provinces_count": 7,
   "capital": {
-    "name": "Fargona",
-    "icon": "🌸",
-    "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3"
+    "name": "Moskova",
+    "icon": "🏙️",
+    "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 65,
-    "altin": 62,
-    "petrol": 54,
-    "nte": 67,
-    "elmas": 60
+    "deri": 86,
+    "altin": 80,
+    "petrol": 75,
+    "nte": 90,
+    "elmas": 85
   },
   "average_scores": {
-    "education": 2,
-    "military": 5.4,
-    "development": 8,
-    "health": 6
+    "education": 3.3,
+    "military": 5.6,
+    "development": 6.9,
+    "health": 5.4
   },
   "provinces": [
     {
-      "name": "Fargona",
-      "icon": "🌸",
-      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
-      "region": "Fergana Vadisi (Özbekistan)",
+      "name": "Moskova",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
+      "region": "Batı Merkez (Başkent)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 6,
+      "player_count": 37,
       "scores": {
-        "education": 9,
-        "military": 0,
-        "development": 5,
-        "health": 5,
+        "education": 0,
+        "military": 4,
+        "development": 8,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 16,
-        "altin": 14,
-        "petrol": 11,
-        "nte": 12,
-        "elmas": 9
+        "deri": 6,
+        "altin": 8,
+        "petrol": 10,
+        "nte": 10,
+        "elmas": 17
       }
     },
     {
@@ -61,8 +61,8 @@
       "scores": {
         "education": 1,
         "military": 7,
-        "development": 9,
-        "health": 7,
+        "development": 10,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -86,7 +86,7 @@
         "education": 0,
         "military": 7,
         "development": 9,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -98,27 +98,75 @@
       }
     },
     {
-      "name": "Moskova",
-      "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3",
-      "region": "Batı Merkez (Başkent)",
+      "name": "Astana",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3",
+      "region": "Kazakistan Başkenti",
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 38,
+      "player_count": 117,
       "scores": {
-        "education": 0,
-        "military": 4,
-        "development": 8,
-        "health": 6,
+        "education": 6,
+        "military": 7,
+        "development": 3,
+        "health": 2,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 6,
-        "altin": 8,
-        "petrol": 10,
+        "deri": 14,
+        "altin": 11,
+        "petrol": 12,
+        "nte": 13,
+        "elmas": 13
+      }
+    },
+    {
+      "name": "Fargona",
+      "icon": "🌸",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Fergana Vadisi (Özbekistan)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 9,
+        "military": 0,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 14,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 9
+      }
+    },
+    {
+      "name": "St. Petersburg",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
+      "region": "Kuzeybatı (Baltık kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 281,
+      "scores": {
+        "education": 7,
+        "military": 5,
+        "development": 4,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 7,
+        "altin": 7,
+        "petrol": 9,
         "nte": 10,
-        "elmas": 17
+        "elmas": 12
       }
     },
     {
@@ -129,12 +177,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 17,
+      "player_count": 18,
       "scores": {
         "education": 0,
         "military": 9,
         "development": 9,
-        "health": 6,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {

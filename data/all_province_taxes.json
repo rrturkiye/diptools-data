@@ -2,6 +2,17 @@
   "Batum": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 294585,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 100
+      },
+      {
         "day": "2026-09-22",
         "money": 362176,
         "resources": {
@@ -66,34 +77,34 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 1222120,
+      "money": 1516705,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 4845,
         "nte": 4370
       },
-      "event_count": 1641
+      "event_count": 1741
     },
     "timezone": "Europe/Istanbul",
     "country_id": "91dc9647-2722-42ea-92e8-913764f7d013"
   },
   "Karadağ": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 36428,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 14
+      },
       {
         "day": "2026-09-22",
         "money": 340085,
@@ -159,34 +170,34 @@
           "nte": 0
         },
         "event_count": 121
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1034162,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 92
       }
     ],
     "total": {
-      "money": 3136134,
+      "money": 2138400,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 799
+      "event_count": 721
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
   },
   "Atıray": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 107502,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 30
+      },
       {
         "day": "2026-09-22",
         "money": 884478,
@@ -252,28 +263,17 @@
           "nte": 0
         },
         "event_count": 196
-      },
-      {
-        "day": "2026-09-16",
-        "money": 11625,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 169
       }
     ],
     "total": {
-      "money": 1326524,
+      "money": 1422401,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 162,
         "nte": 0
       },
-      "event_count": 592
+      "event_count": 453
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6018c0c2-7c4d-4acd-a086-1b6a2c178361"
@@ -374,15 +374,26 @@
   "Güney Azerbaycan": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 243054,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 342
+      },
+      {
         "day": "2026-09-22",
-        "money": 2227779,
+        "money": 2232999,
         "resources": {
           "deri": 309,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3230
+        "event_count": 3238
       },
       {
         "day": "2026-09-21",
@@ -438,28 +449,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 7076345,
+      "money": 7324619,
       "resources": {
         "deri": 6698,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 10470
+      "event_count": 10820
     },
     "timezone": "Europe/Istanbul",
     "country_id": "313a641c-f6ae-4553-aeae-318e78b093ec"
@@ -560,6 +560,17 @@
   "Arnavutluk": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 211290,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 58
+      },
+      {
         "day": "2026-09-22",
         "money": 1681475,
         "resources": {
@@ -624,28 +635,17 @@
           "nte": 0
         },
         "event_count": 333
-      },
-      {
-        "day": "2026-09-16",
-        "money": 3700619,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 229
       }
     ],
     "total": {
-      "money": 13880527,
+      "money": 10391198,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2756
+      "event_count": 2585
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
@@ -746,6 +746,17 @@
   "Selanik": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
+      {
         "day": "2026-09-22",
         "money": 0,
         "resources": {
@@ -810,17 +821,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -838,6 +838,17 @@
   },
   "Tiflis": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 94998,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 28
+      },
       {
         "day": "2026-09-22",
         "money": 840719,
@@ -903,34 +914,34 @@
           "nte": 0
         },
         "event_count": 232
-      },
-      {
-        "day": "2026-09-16",
-        "money": 4098707,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 260
       }
     ],
     "total": {
-      "money": 9410944,
+      "money": 5407235,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1513
+      "event_count": 1281
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
   },
   "Sırbistan": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 61289,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 59
+      },
       {
         "day": "2026-09-22",
         "money": 437007,
@@ -996,28 +1007,17 @@
           "nte": 0
         },
         "event_count": 1028
-      },
-      {
-        "day": "2026-09-16",
-        "money": 955469,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1223
       }
     ],
     "total": {
-      "money": 3816886,
+      "money": 2922706,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 4339
+      "event_count": 3175
     },
     "timezone": "Europe/Istanbul",
     "country_id": "84b5882d-a580-482e-a265-c518df28c8ee"
@@ -1118,15 +1118,26 @@
   "Bakü": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 1284429,
+        "day": "2026-09-23",
+        "money": 139750,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 4009,
+          "petrol": 692,
           "nte": 0
         },
-        "event_count": 1896
+        "event_count": 210
+      },
+      {
+        "day": "2026-09-22",
+        "money": 1286607,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 4038,
+          "nte": 0
+        },
+        "event_count": 1899
       },
       {
         "day": "2026-09-21",
@@ -1182,34 +1193,34 @@
           "nte": 0
         },
         "event_count": 2370
-      },
-      {
-        "day": "2026-09-16",
-        "money": 2047512,
-        "resources": {
-          "deri": 0,
-          "altin": 36,
-          "petrol": 182,
-          "nte": 0
-        },
-        "event_count": 3050
       }
     ],
     "total": {
-      "money": 12221108,
+      "money": 10315524,
       "resources": {
         "deri": 0,
-        "altin": 36,
-        "petrol": 40541,
+        "altin": 0,
+        "petrol": 41080,
         "nte": 0
       },
-      "event_count": 17265
+      "event_count": 14428
     },
     "timezone": "Europe/Istanbul",
     "country_id": "313a641c-f6ae-4553-aeae-318e78b093ec"
   },
   "Atina": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 183,
@@ -1275,17 +1286,6 @@
           "nte": 0
         },
         "event_count": 2
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -1305,14 +1305,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2890,
+        "money": 157166,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 119
       },
       {
         "day": "2026-09-22",
@@ -1382,20 +1382,31 @@
       }
     ],
     "total": {
-      "money": 6215833,
+      "money": 6370109,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 4757
+      "event_count": 4874
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8830e4de-eb49-4c17-9217-0947f6da0746"
   },
   "Nahçıvan": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 49026,
@@ -1461,28 +1472,17 @@
           "nte": 0
         },
         "event_count": 214
-      },
-      {
-        "day": "2026-09-16",
-        "money": 113479,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 261
       }
     ],
     "total": {
-      "money": 613265,
+      "money": 499786,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 32
       },
-      "event_count": 1152
+      "event_count": 891
     },
     "timezone": "Europe/Istanbul",
     "country_id": "313a641c-f6ae-4553-aeae-318e78b093ec"
@@ -1490,15 +1490,26 @@
   "Hırvatistan": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 903998,
+        "day": "2026-09-23",
+        "money": 94178,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 710
+        "event_count": 72
+      },
+      {
+        "day": "2026-09-22",
+        "money": 906760,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 712
       },
       {
         "day": "2026-09-21",
@@ -1554,28 +1565,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 1046350,
+      "money": 1143290,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 826
+      "event_count": 900
     },
     "timezone": "Europe/Istanbul",
     "country_id": "86ab9188-3b20-4d6d-a081-77659c900a9b"
@@ -1583,15 +1583,26 @@
   "Bosna Hersek": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 205147,
+        "resources": {
+          "deri": 2968,
+          "altin": 0,
+          "petrol": 3302,
+          "nte": 81
+        },
+        "event_count": 231
+      },
+      {
         "day": "2026-09-22",
-        "money": 1547566,
+        "money": 1552133,
         "resources": {
           "deri": 27537,
           "altin": 0,
-          "petrol": 31923,
+          "petrol": 32066,
           "nte": 1416
         },
-        "event_count": 1831
+        "event_count": 1837
       },
       {
         "day": "2026-09-21",
@@ -1647,34 +1658,34 @@
           "nte": 18658
         },
         "event_count": 1897
-      },
-      {
-        "day": "2026-09-16",
-        "money": 2262554,
-        "resources": {
-          "deri": 26159,
-          "altin": 0,
-          "petrol": 6107,
-          "nte": 1459
-        },
-        "event_count": 2238
       }
     ],
     "total": {
-      "money": 10816639,
+      "money": 8763799,
       "resources": {
-        "deri": 155276,
+        "deri": 132085,
         "altin": 0,
-        "petrol": 47713,
-        "nte": 61169
+        "petrol": 45051,
+        "nte": 59791
       },
-      "event_count": 12072
+      "event_count": 10071
     },
     "timezone": "Europe/Istanbul",
     "country_id": "84b5882d-a580-482e-a265-c518df28c8ee"
   },
   "Azerbaycan": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 16134,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 56,
+          "nte": 0
+        },
+        "event_count": 30
+      },
       {
         "day": "2026-09-22",
         "money": 133845,
@@ -1740,34 +1751,34 @@
           "nte": 0
         },
         "event_count": 1126
-      },
-      {
-        "day": "2026-09-16",
-        "money": 823354,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1106
       }
     ],
     "total": {
-      "money": 2875847,
+      "money": 2068627,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 6832,
+        "petrol": 6888,
         "nte": 0
       },
-      "event_count": 4062
+      "event_count": 2986
     },
     "timezone": "Europe/Istanbul",
     "country_id": "313a641c-f6ae-4553-aeae-318e78b093ec"
   },
   "Karabağ": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 1357,
+        "resources": {
+          "deri": 0,
+          "altin": 66,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 6
+      },
       {
         "day": "2026-09-22",
         "money": 21928,
@@ -1833,28 +1844,17 @@
           "nte": 0
         },
         "event_count": 659
-      },
-      {
-        "day": "2026-09-16",
-        "money": 116589,
-        "resources": {
-          "deri": 0,
-          "altin": 4207,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 577
       }
     ],
     "total": {
-      "money": 911554,
+      "money": 796322,
       "resources": {
         "deri": 0,
-        "altin": 15629,
+        "altin": 11488,
         "petrol": 0,
         "nte": 30
       },
-      "event_count": 2811
+      "event_count": 2240
     },
     "timezone": "Europe/Istanbul",
     "country_id": "313a641c-f6ae-4553-aeae-318e78b093ec"
@@ -1863,14 +1863,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 4200,
+        "money": 221499,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 97
       },
       {
         "day": "2026-09-22",
@@ -1940,20 +1940,31 @@
       }
     ],
     "total": {
-      "money": 8509357,
+      "money": 8726656,
       "resources": {
         "deri": 128,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 6462
+      "event_count": 6555
     },
     "timezone": "Europe/Istanbul",
     "country_id": "10fbeac3-ab69-4c1a-a741-83297b17688a"
   },
   "Sevilla": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -2019,17 +2030,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -2047,6 +2047,17 @@
   },
   "Umman": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -2112,17 +2123,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -2141,15 +2141,26 @@
   "Galicia": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 503866,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 146
+      },
+      {
         "day": "2026-09-22",
-        "money": 3951693,
+        "money": 3964567,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 42,
           "nte": 18
         },
-        "event_count": 1201
+        "event_count": 1205
       },
       {
         "day": "2026-09-21",
@@ -2205,28 +2216,17 @@
           "nte": 17
         },
         "event_count": 1535
-      },
-      {
-        "day": "2026-09-16",
-        "money": 3987411,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 16
-        },
-        "event_count": 1294
       }
     ],
     "total": {
-      "money": 28376922,
+      "money": 24906251,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 42,
-        "nte": 103
+        "nte": 87
       },
-      "event_count": 8636
+      "event_count": 7492
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9ea8d076-8268-4d8e-9f36-1341f555a017"
@@ -2234,15 +2234,26 @@
   "Suudi Arabistan": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 7582101,
+        "day": "2026-09-23",
+        "money": 1014468,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 12486,
+          "petrol": 2660,
           "nte": 0
         },
-        "event_count": 4051
+        "event_count": 601
+      },
+      {
+        "day": "2026-09-22",
+        "money": 7600016,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 12551,
+          "nte": 0
+        },
+        "event_count": 4062
       },
       {
         "day": "2026-09-21",
@@ -2298,34 +2309,34 @@
           "nte": 137
         },
         "event_count": 3861
-      },
-      {
-        "day": "2026-09-16",
-        "money": 6052844,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 15894,
-          "nte": 0
-        },
-        "event_count": 3260
       }
     ],
     "total": {
-      "money": 47952045,
+      "money": 42931584,
       "resources": {
         "deri": 0,
         "altin": 2,
-        "petrol": 94102,
+        "petrol": 80933,
         "nte": 421
       },
-      "event_count": 22964
+      "event_count": 20316
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
   },
   "Çengdu": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -2383,17 +2394,6 @@
       },
       {
         "day": "2026-09-17",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
         "money": 0,
         "resources": {
           "deri": 0,
@@ -2420,15 +2420,26 @@
   "İsfahan": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 22467,
+        "day": "2026-09-23",
+        "money": 174391,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 29
+        "event_count": 159
+      },
+      {
+        "day": "2026-09-22",
+        "money": 24003,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 31
       },
       {
         "day": "2026-09-21",
@@ -2484,34 +2495,34 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 22467,
+      "money": 198394,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 29
+      "event_count": 190
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ca192381-559f-40fa-a94d-e874a13917c6"
   },
   "Yemen": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 604,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 1
+      },
       {
         "day": "2026-09-22",
         "money": 4212,
@@ -2577,28 +2588,17 @@
           "nte": 0
         },
         "event_count": 1
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 7397,
+      "money": 8001,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 84
       },
-      "event_count": 14
+      "event_count": 15
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
@@ -2606,15 +2606,26 @@
   "Abu Dabi": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 876948,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 18980,
+          "nte": 0
+        },
+        "event_count": 518
+      },
+      {
         "day": "2026-09-22",
-        "money": 8395685,
+        "money": 8410873,
         "resources": {
           "deri": 0,
           "altin": 901,
-          "petrol": 143736,
+          "petrol": 144034,
           "nte": 0
         },
-        "event_count": 4782
+        "event_count": 4791
       },
       {
         "day": "2026-09-21",
@@ -2670,28 +2681,17 @@
           "nte": 0
         },
         "event_count": 5569
-      },
-      {
-        "day": "2026-09-16",
-        "money": 8982956,
-        "resources": {
-          "deri": 0,
-          "altin": 2924,
-          "petrol": 135470,
-          "nte": 0
-        },
-        "event_count": 5846
       }
     ],
     "total": {
-      "money": 63984567,
+      "money": 55893747,
       "resources": {
         "deri": 0,
-        "altin": 9191,
-        "petrol": 1041888,
+        "altin": 6267,
+        "petrol": 925696,
         "nte": 0
       },
-      "event_count": 37450
+      "event_count": 32131
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d787f333-dd2a-4403-9f70-44b03d6e4a22"
@@ -2700,14 +2700,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 20924,
+        "money": 327739,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 28
+        "event_count": 439
       },
       {
         "day": "2026-09-22",
@@ -2777,20 +2777,31 @@
       }
     ],
     "total": {
-      "money": 14285494,
+      "money": 14592309,
       "resources": {
         "deri": 69,
         "altin": 0,
         "petrol": 6456,
         "nte": 0
       },
-      "event_count": 21375
+      "event_count": 21786
     },
     "timezone": "Europe/Istanbul",
     "country_id": "da5b016b-6b16-4f93-9c97-ca8042b989bf"
   },
   "Madrid": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 162289,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 54
+      },
       {
         "day": "2026-09-22",
         "money": 3305036,
@@ -2856,34 +2867,34 @@
           "nte": 0
         },
         "event_count": 465
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 17349558,
+      "money": 17511847,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 5753
+      "event_count": 5807
     },
     "timezone": "Europe/Istanbul",
     "country_id": "dc266d20-3045-4c2d-8185-2022a532c0b7"
   },
   "Sibirya": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 1596,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 14
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -2949,28 +2960,17 @@
           "nte": 0
         },
         "event_count": 109
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 12886,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 105
       }
     ],
     "total": {
       "money": 884059,
       "resources": {
-        "deri": 104491,
+        "deri": 93201,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1304
+      "event_count": 1213
     },
     "timezone": "Europe/Istanbul",
     "country_id": "dc266d20-3045-4c2d-8185-2022a532c0b7"
@@ -2979,14 +2979,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2830,
+        "money": 142879,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 4693,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 181
       },
       {
         "day": "2026-09-22",
@@ -3056,14 +3056,14 @@
       }
     ],
     "total": {
-      "money": 2490001,
+      "money": 2630050,
       "resources": {
         "deri": 0,
-        "altin": 49585,
+        "altin": 54278,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2872
+      "event_count": 3051
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
@@ -3072,14 +3072,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 103665,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 75,
+          "petrol": 2142,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 97
       },
       {
         "day": "2026-09-22",
@@ -3149,14 +3149,14 @@
       }
     ],
     "total": {
-      "money": 6456134,
+      "money": 6559799,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 192274,
+        "petrol": 194341,
         "nte": 0
       },
-      "event_count": 7376
+      "event_count": 7472
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f4d3dba9-f069-45cf-a77b-26cb8289bed3"
@@ -3164,15 +3164,26 @@
   "Lahor": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 133931,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 4
+        },
+        "event_count": 138
+      },
+      {
         "day": "2026-09-22",
-        "money": 1802440,
+        "money": 1805462,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 4,
           "nte": 0
         },
-        "event_count": 1888
+        "event_count": 1891
       },
       {
         "day": "2026-09-21",
@@ -3228,28 +3239,17 @@
           "nte": 0
         },
         "event_count": 3033
-      },
-      {
-        "day": "2026-09-16",
-        "money": 2357463,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 3026
       }
     ],
     "total": {
-      "money": 16811310,
+      "money": 14590800,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 4,
-        "nte": 0
+        "nte": 4
       },
-      "event_count": 18901
+      "event_count": 16016
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958"
@@ -3258,14 +3258,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5958,
+        "money": 369082,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 191
       },
       {
         "day": "2026-09-22",
@@ -3335,14 +3335,14 @@
       }
     ],
     "total": {
-      "money": 16434844,
+      "money": 16797968,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 8764
+      "event_count": 8952
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
@@ -3350,15 +3350,26 @@
   "Valencia": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 1812337,
+        "day": "2026-09-23",
+        "money": 293508,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 871
+        "event_count": 130
+      },
+      {
+        "day": "2026-09-22",
+        "money": 1816175,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 873
       },
       {
         "day": "2026-09-21",
@@ -3414,34 +3425,34 @@
           "nte": 0
         },
         "event_count": 863
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1194995,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 608
       }
     ],
     "total": {
-      "money": 11624310,
+      "money": 10726661,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 5611
+      "event_count": 5135
     },
     "timezone": "Europe/Istanbul",
     "country_id": "31c78b4e-e502-4aab-afd2-179e000f4729"
   },
   "Şenyang": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 6,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 1
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -3507,34 +3518,34 @@
           "nte": 0
         },
         "event_count": 10
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 24,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 4
       }
     ],
     "total": {
       "money": 9682855,
       "resources": {
         "deri": 0,
-        "altin": 372,
+        "altin": 354,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 651
+      "event_count": 648
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f61b1b71-6a8b-4eff-9070-61413d3837a5"
   },
   "Şian": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -3600,17 +3611,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -3628,6 +3628,17 @@
   },
   "Pavlodar": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 162283,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 27
+      },
       {
         "day": "2026-09-22",
         "money": 965090,
@@ -3693,28 +3704,17 @@
           "nte": 0
         },
         "event_count": 269
-      },
-      {
-        "day": "2026-09-16",
-        "money": 86108,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 34
       }
     ],
     "total": {
-      "money": 6981090,
+      "money": 7057265,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1638
+      "event_count": 1631
     },
     "timezone": "Europe/Istanbul",
     "country_id": "78abf52b-649d-4d05-bb54-540409e3b083"
@@ -3722,15 +3722,26 @@
   "Münih": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 730385,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 352
+      },
+      {
         "day": "2026-09-22",
-        "money": 7029382,
+        "money": 7030172,
         "resources": {
           "deri": 0,
           "altin": 45,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3366
+        "event_count": 3367
       },
       {
         "day": "2026-09-21",
@@ -3786,28 +3797,17 @@
           "nte": 0
         },
         "event_count": 3757
-      },
-      {
-        "day": "2026-09-16",
-        "money": 6775352,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 3799
       }
     ],
     "total": {
-      "money": 49755235,
+      "money": 43711058,
       "resources": {
         "deri": 0,
         "altin": 604,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 24642
+      "event_count": 21196
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6311fc78-bb94-48a2-8d87-e67ae4374888"
@@ -3815,15 +3815,26 @@
   "Hamburg": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 1515509,
+        "day": "2026-09-23",
+        "money": 139365,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 978
+        "event_count": 87
+      },
+      {
+        "day": "2026-09-22",
+        "money": 1517088,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 979
       },
       {
         "day": "2026-09-21",
@@ -3879,28 +3890,17 @@
           "nte": 0
         },
         "event_count": 1052
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1372599,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1050
       }
     ],
     "total": {
-      "money": 9543517,
+      "money": 8311862,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 6376
+      "event_count": 5414
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6311fc78-bb94-48a2-8d87-e67ae4374888"
@@ -3908,15 +3908,26 @@
   "Hessen": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 7063262,
+        "day": "2026-09-23",
+        "money": 641356,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3532
+        "event_count": 320
+      },
+      {
+        "day": "2026-09-22",
+        "money": 7069683,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 3535
       },
       {
         "day": "2026-09-21",
@@ -3972,28 +3983,17 @@
           "nte": 0
         },
         "event_count": 2052
-      },
-      {
-        "day": "2026-09-16",
-        "money": 4286681,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 2286
       }
     ],
     "total": {
-      "money": 41212090,
+      "money": 37573186,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 19816
+      "event_count": 17853
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6311fc78-bb94-48a2-8d87-e67ae4374888"
@@ -4002,14 +4002,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1047,
+        "money": 303456,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 240
       },
       {
         "day": "2026-09-22",
@@ -4079,14 +4079,14 @@
       }
     ],
     "total": {
-      "money": 17218052,
+      "money": 17520461,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 3785,
         "nte": 0
       },
-      "event_count": 14929
+      "event_count": 15168
     },
     "timezone": "Europe/Istanbul",
     "country_id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
@@ -4094,15 +4094,26 @@
   "Berlin": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 505380,
+        "resources": {
+          "deri": 0,
+          "altin": 432,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 283
+      },
+      {
         "day": "2026-09-22",
-        "money": 6181634,
+        "money": 6190392,
         "resources": {
           "deri": 0,
           "altin": 4716,
           "petrol": 98,
           "nte": 0
         },
-        "event_count": 3427
+        "event_count": 3431
       },
       {
         "day": "2026-09-21",
@@ -4158,28 +4169,17 @@
           "nte": 0
         },
         "event_count": 3627
-      },
-      {
-        "day": "2026-09-16",
-        "money": 6014983,
-        "resources": {
-          "deri": 6783,
-          "altin": 30189,
-          "petrol": 0,
-          "nte": 24
-        },
-        "event_count": 4777
       }
     ],
     "total": {
-      "money": 44184913,
+      "money": 38684068,
       "resources": {
-        "deri": 6783,
-        "altin": 65055,
+        "deri": 0,
+        "altin": 35298,
         "petrol": 111,
-        "nte": 24
+        "nte": 0
       },
-      "event_count": 26801
+      "event_count": 22311
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6311fc78-bb94-48a2-8d87-e67ae4374888"
@@ -4188,14 +4188,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 3831,
+        "money": 368526,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 207
       },
       {
         "day": "2026-09-22",
@@ -4265,14 +4265,14 @@
       }
     ],
     "total": {
-      "money": 18948901,
+      "money": 19313596,
       "resources": {
         "deri": 1819,
         "altin": 52,
         "petrol": 1078,
         "nte": 108
       },
-      "event_count": 11034
+      "event_count": 11239
     },
     "timezone": "Europe/Istanbul",
     "country_id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
@@ -4281,14 +4281,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5724,
+        "money": 874405,
         "resources": {
-          "deri": 0,
+          "deri": 31,
           "altin": 0,
           "petrol": 0,
-          "nte": 0
+          "nte": 351
         },
-        "event_count": 3
+        "event_count": 537
       },
       {
         "day": "2026-09-22",
@@ -4358,14 +4358,14 @@
       }
     ],
     "total": {
-      "money": 33163869,
+      "money": 34032550,
       "resources": {
-        "deri": 3002508,
+        "deri": 3002539,
         "altin": 108,
         "petrol": 0,
-        "nte": 3803
+        "nte": 4154
       },
-      "event_count": 22241
+      "event_count": 22775
     },
     "timezone": "Europe/Istanbul",
     "country_id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
@@ -4374,14 +4374,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 3631,
+        "money": 322258,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 181
       },
       {
         "day": "2026-09-22",
@@ -4451,14 +4451,14 @@
       }
     ],
     "total": {
-      "money": 18324031,
+      "money": 18642658,
       "resources": {
         "deri": 0,
         "altin": 413,
         "petrol": 2522,
         "nte": 33
       },
-      "event_count": 11601
+      "event_count": 11780
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8f70a139-5ba3-4e60-b236-bbcf57c8dc39"
@@ -4467,14 +4467,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 53544,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 294,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 57
       },
       {
         "day": "2026-09-22",
@@ -4544,20 +4544,31 @@
       }
     ],
     "total": {
-      "money": 3909865,
+      "money": 3963409,
       "resources": {
         "deri": 0,
-        "altin": 735,
+        "altin": 1029,
         "petrol": 0,
         "nte": 375
       },
-      "event_count": 3240
+      "event_count": 3297
     },
     "timezone": "Europe/Istanbul",
     "country_id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96"
   },
   "Düsseldorf": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 143793,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 94
+      },
       {
         "day": "2026-09-22",
         "money": 1776112,
@@ -4623,28 +4634,17 @@
           "nte": 118
         },
         "event_count": 1821
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1019158,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 2750,
-          "nte": 0
-        },
-        "event_count": 896
       }
     ],
     "total": {
-      "money": 17007549,
+      "money": 16132184,
       "resources": {
         "deri": 564,
         "altin": 0,
-        "petrol": 10209,
+        "petrol": 7459,
         "nte": 118
       },
-      "event_count": 11700
+      "event_count": 10898
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6311fc78-bb94-48a2-8d87-e67ae4374888"
@@ -4653,14 +4653,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 40195,
+        "money": 548999,
         "resources": {
           "deri": 0,
-          "altin": 0,
-          "petrol": 2522,
+          "altin": 504,
+          "petrol": 54824,
           "nte": 0
         },
-        "event_count": 45
+        "event_count": 766
       },
       {
         "day": "2026-09-22",
@@ -4730,14 +4730,14 @@
       }
     ],
     "total": {
-      "money": 10778562,
+      "money": 11287366,
       "resources": {
         "deri": 0,
-        "altin": 125,
-        "petrol": 482685,
+        "altin": 629,
+        "petrol": 534987,
         "nte": 0
       },
-      "event_count": 12099
+      "event_count": 12820
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -4839,14 +4839,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 462,
+        "money": 27348,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 54
       },
       {
         "day": "2026-09-22",
@@ -4916,14 +4916,14 @@
       }
     ],
     "total": {
-      "money": 94146,
+      "money": 121032,
       "resources": {
         "deri": 105,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 371
+      "event_count": 424
     },
     "timezone": "Europe/Istanbul",
     "country_id": null
@@ -4932,14 +4932,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 526027,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 486
       },
       {
         "day": "2026-09-22",
@@ -5009,20 +5009,31 @@
       }
     ],
     "total": {
-      "money": 25836066,
+      "money": 26362093,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 693
       },
-      "event_count": 24019
+      "event_count": 24505
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
   },
   "Solomon Adaları": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -5088,17 +5099,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -5118,14 +5118,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 9392,
+        "money": 609201,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
-          "nte": 0
+          "nte": 16086
         },
-        "event_count": 7
+        "event_count": 539
       },
       {
         "day": "2026-09-22",
@@ -5195,14 +5195,14 @@
       }
     ],
     "total": {
-      "money": 13104924,
+      "money": 13704733,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
-        "nte": 305813
+        "nte": 321899
       },
-      "event_count": 9808
+      "event_count": 10340
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -5210,15 +5210,26 @@
   "Şımkent": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 3379702,
+        "day": "2026-09-23",
+        "money": 353479,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1003
+        "event_count": 104
+      },
+      {
+        "day": "2026-09-22",
+        "money": 3382062,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 1004
       },
       {
         "day": "2026-09-21",
@@ -5274,28 +5285,17 @@
           "nte": 0
         },
         "event_count": 1186
-      },
-      {
-        "day": "2026-09-16",
-        "money": 4719677,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1622
       }
     ],
     "total": {
-      "money": 24443032,
+      "money": 20079194,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 7545
+      "event_count": 6028
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9e83332a-b932-4a97-a26c-8e274a60161b"
@@ -5303,15 +5303,26 @@
   "Guiyang": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 474129,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 3708
+        },
+        "event_count": 485
+      },
+      {
         "day": "2026-09-22",
         "money": 4422405,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
-          "nte": 19779
+          "nte": 19928
         },
-        "event_count": 4237
+        "event_count": 4239
       },
       {
         "day": "2026-09-21",
@@ -5367,28 +5378,17 @@
           "nte": 0
         },
         "event_count": 857
-      },
-      {
-        "day": "2026-09-16",
-        "money": 584486,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 758
       }
     ],
     "total": {
-      "money": 15487907,
+      "money": 15377550,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
-        "nte": 28069
+        "nte": 31926
       },
-      "event_count": 15711
+      "event_count": 15440
     },
     "timezone": "Europe/Istanbul",
     "country_id": "7b977dca-f0cc-4aab-bc96-66264c484368"
@@ -5400,11 +5400,11 @@
         "money": 0,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 5944,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 68
       },
       {
         "day": "2026-09-22",
@@ -5477,11 +5477,11 @@
       "money": 297836,
       "resources": {
         "deri": 0,
-        "altin": 57916,
+        "altin": 63860,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 912
+      "event_count": 980
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -5490,14 +5490,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 6765,
+        "money": 217272,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 24,
-          "nte": 57
+          "petrol": 767,
+          "nte": 3281
         },
-        "event_count": 6
+        "event_count": 227
       },
       {
         "day": "2026-09-22",
@@ -5567,14 +5567,14 @@
       }
     ],
     "total": {
-      "money": 1612113,
+      "money": 1822620,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 8723,
-        "nte": 37036
+        "petrol": 9466,
+        "nte": 40260
       },
-      "event_count": 1974
+      "event_count": 2195
     },
     "timezone": "Europe/Istanbul",
     "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
@@ -5583,14 +5583,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 36221,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 26
       },
       {
         "day": "2026-09-22",
@@ -5660,14 +5660,14 @@
       }
     ],
     "total": {
-      "money": 2754376,
+      "money": 2790597,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1601
+      "event_count": 1627
     },
     "timezone": "Europe/Istanbul",
     "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
@@ -5676,14 +5676,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 33939,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 71
       },
       {
         "day": "2026-09-22",
@@ -5753,20 +5753,31 @@
       }
     ],
     "total": {
-      "money": 345163,
+      "money": 379102,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 625
+      "event_count": 696
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8fe73eae-4a77-47d8-aa3e-9516244b358f"
   },
   "Chiapas": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 2056,
@@ -5832,28 +5843,17 @@
           "nte": 0
         },
         "event_count": 1
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1535254,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 174
       }
     ],
     "total": {
-      "money": 1918661,
+      "money": 383407,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 44,
         "nte": 0
       },
-      "event_count": 538
+      "event_count": 364
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
@@ -5861,15 +5861,26 @@
   "Belh": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 26631,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 39
+      },
+      {
         "day": "2026-09-22",
-        "money": 175515,
+        "money": 176402,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 10535,
           "nte": 0
         },
-        "event_count": 569
+        "event_count": 571
       },
       {
         "day": "2026-09-21",
@@ -5925,28 +5936,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 556066,
+      "money": 583584,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 16984,
         "nte": 46
       },
-      "event_count": 1558
+      "event_count": 1599
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ca192381-559f-40fa-a94d-e874a13917c6"
@@ -5955,14 +5955,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 67460,
+        "money": 1032421,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 30
+        "event_count": 461
       },
       {
         "day": "2026-09-22",
@@ -6032,14 +6032,14 @@
       }
     ],
     "total": {
-      "money": 37230729,
+      "money": 38195690,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 16660
+      "event_count": 17091
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -6141,14 +6141,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 9691,
+        "money": 435318,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 0,
+          "petrol": 945,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 221
       },
       {
         "day": "2026-09-22",
@@ -6218,14 +6218,14 @@
       }
     ],
     "total": {
-      "money": 30706550,
+      "money": 31132177,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 41258,
+        "petrol": 42203,
         "nte": 0
       },
-      "event_count": 12642
+      "event_count": 12859
     },
     "timezone": "Europe/Istanbul",
     "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
@@ -6233,15 +6233,26 @@
   "Barcelona": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 2876382,
+        "day": "2026-09-23",
+        "money": 223088,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1736
+        "event_count": 133
+      },
+      {
+        "day": "2026-09-22",
+        "money": 2878362,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 1737
       },
       {
         "day": "2026-09-21",
@@ -6297,28 +6308,17 @@
           "nte": 0
         },
         "event_count": 1650
-      },
-      {
-        "day": "2026-09-16",
-        "money": 2670030,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1714
       }
     ],
     "total": {
-      "money": 22564623,
+      "money": 20119661,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 13828
+      "event_count": 12248
     },
     "timezone": "Europe/Istanbul",
     "country_id": "5985531f-4376-4cd3-a053-08cc78f39d5e"
@@ -6420,14 +6420,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1601,
+        "money": 139085,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 196,
           "petrol": 0,
-          "nte": 53
+          "nte": 742
         },
-        "event_count": 3
+        "event_count": 117
       },
       {
         "day": "2026-09-22",
@@ -6497,14 +6497,14 @@
       }
     ],
     "total": {
-      "money": 18419650,
+      "money": 18557134,
       "resources": {
         "deri": 0,
-        "altin": 1712,
+        "altin": 1908,
         "petrol": 0,
-        "nte": 7386
+        "nte": 8075
       },
-      "event_count": 8755
+      "event_count": 8869
     },
     "timezone": "Europe/Istanbul",
     "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
@@ -6513,14 +6513,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 107872,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 101
       },
       {
         "day": "2026-09-22",
@@ -6590,14 +6590,14 @@
       }
     ],
     "total": {
-      "money": 8012900,
+      "money": 8120772,
       "resources": {
         "deri": 0,
         "altin": 240,
         "petrol": 2829,
         "nte": 0
       },
-      "event_count": 7856
+      "event_count": 7957
     },
     "timezone": "Europe/Istanbul",
     "country_id": "984d1038-b1f0-4530-8cf4-e7d00c4a52c7"
@@ -6605,15 +6605,26 @@
   "İskoçya": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 298109,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 616
+        },
+        "event_count": 116
+      },
+      {
         "day": "2026-09-22",
-        "money": 3426556,
+        "money": 3432264,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1244
+        "event_count": 1246
       },
       {
         "day": "2026-09-21",
@@ -6669,28 +6680,17 @@
           "nte": 0
         },
         "event_count": 1285
-      },
-      {
-        "day": "2026-09-16",
-        "money": 2929693,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1210
       }
     ],
     "total": {
-      "money": 21160330,
+      "money": 18534454,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
-        "nte": 0
+        "nte": 616
       },
-      "event_count": 7915
+      "event_count": 6823
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ec1225f6-6f40-48ae-b457-7fdc32dac273"
@@ -6698,15 +6698,26 @@
   "Şam": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 202914,
+        "day": "2026-09-23",
+        "money": 21705,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 268
+        "event_count": 30
+      },
+      {
+        "day": "2026-09-22",
+        "money": 204463,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 270
       },
       {
         "day": "2026-09-21",
@@ -6762,28 +6773,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 798665,
+      "money": 821919,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1345
+      "event_count": 1377
     },
     "timezone": "Europe/Istanbul",
     "country_id": "07d2672b-4aac-49d3-8587-b3a3c2002bf7"
@@ -6792,14 +6792,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 24569,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 19
       },
       {
         "day": "2026-09-22",
@@ -6869,20 +6869,31 @@
       }
     ],
     "total": {
-      "money": 398700,
+      "money": 423269,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 301
+      "event_count": 320
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ebf00276-bc41-4857-9def-6f02f0db09ae"
   },
   "İngiltere": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 467955,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 168
+      },
       {
         "day": "2026-09-22",
         "money": 4150730,
@@ -6948,28 +6959,17 @@
           "nte": 57726
         },
         "event_count": 1404
-      },
-      {
-        "day": "2026-09-16",
-        "money": 3116155,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 2080,
-          "nte": 62103
-        },
-        "event_count": 1492
       }
     ],
     "total": {
-      "money": 25598204,
+      "money": 22950004,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 8738,
-        "nte": 324523
+        "petrol": 6658,
+        "nte": 262420
       },
-      "event_count": 10511
+      "event_count": 9187
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ec1225f6-6f40-48ae-b457-7fdc32dac273"
@@ -6978,14 +6978,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 764,
+        "money": 58708,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 56
       },
       {
         "day": "2026-09-22",
@@ -7055,20 +7055,31 @@
       }
     ],
     "total": {
-      "money": 5915881,
+      "money": 5973825,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3826
+      "event_count": 3881
     },
     "timezone": "Europe/Istanbul",
     "country_id": "55f9301b-3f44-4d6b-87b8-66e3f289c3d4"
   },
   "Kuzey İrlanda": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 206594,
+        "resources": {
+          "deri": 0,
+          "altin": 3048,
+          "petrol": 1568,
+          "nte": 0
+        },
+        "event_count": 160
+      },
       {
         "day": "2026-09-22",
         "money": 7908826,
@@ -7134,34 +7145,34 @@
           "nte": 0
         },
         "event_count": 1384
-      },
-      {
-        "day": "2026-09-16",
-        "money": 47528,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 7194,
-          "nte": 0
-        },
-        "event_count": 218
       }
     ],
     "total": {
-      "money": 41968424,
+      "money": 42127490,
       "resources": {
         "deri": 0,
-        "altin": 30007,
-        "petrol": 33781,
+        "altin": 33055,
+        "petrol": 28155,
         "nte": 0
       },
-      "event_count": 19731
+      "event_count": 19673
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ec1225f6-6f40-48ae-b457-7fdc32dac273"
   },
   "Yeni Kaledonya": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -7227,17 +7238,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -7255,6 +7255,17 @@
   },
   "Galler": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 89534,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 41
+      },
       {
         "day": "2026-09-22",
         "money": 843593,
@@ -7320,28 +7331,17 @@
           "nte": 0
         },
         "event_count": 810
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1743055,
-        "resources": {
-          "deri": 0,
-          "altin": 3769,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1053
       }
     ],
     "total": {
-      "money": 6151358,
+      "money": 4497837,
       "resources": {
         "deri": 0,
-        "altin": 13244,
+        "altin": 9475,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3505
+      "event_count": 2493
     },
     "timezone": "Europe/Istanbul",
     "country_id": "ec1225f6-6f40-48ae-b457-7fdc32dac273"
@@ -7442,6 +7442,17 @@
   "Medine": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 64721,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 43
+      },
+      {
         "day": "2026-09-22",
         "money": 629102,
         "resources": {
@@ -7506,28 +7517,17 @@
           "nte": 0
         },
         "event_count": 674
-      },
-      {
-        "day": "2026-09-16",
-        "money": 358540,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 338
       }
     ],
     "total": {
-      "money": 4862011,
+      "money": 4568192,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3946
+      "event_count": 3651
     },
     "timezone": "Europe/Istanbul",
     "country_id": "80343a70-3a5d-4cea-a836-2fde6c4b5307"
@@ -7536,14 +7536,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1087,
+        "money": 33721,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 30
       },
       {
         "day": "2026-09-22",
@@ -7613,14 +7613,14 @@
       }
     ],
     "total": {
-      "money": 3315944,
+      "money": 3348578,
       "resources": {
         "deri": 432,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3200
+      "event_count": 3229
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9803c555-a7db-4519-8652-0697dfad5c94"
@@ -7629,14 +7629,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 34720,
+        "money": 684416,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 24
+        "event_count": 470
       },
       {
         "day": "2026-09-22",
@@ -7706,14 +7706,14 @@
       }
     ],
     "total": {
-      "money": 33689237,
+      "money": 34338933,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 24024
+      "event_count": 24470
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9803c555-a7db-4519-8652-0697dfad5c94"
@@ -7721,37 +7721,48 @@
   "Astana": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 8999876,
+        "day": "2026-09-23",
+        "money": 98999,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1119
+        "event_count": 66
+      },
+      {
+        "day": "2026-09-22",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
       },
       {
         "day": "2026-09-21",
-        "money": 2615324,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1566
+        "event_count": 0
       },
       {
         "day": "2026-09-20",
-        "money": 1132948,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 674
+        "event_count": 0
       },
       {
         "day": "2026-09-19",
@@ -7785,44 +7796,33 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 12748148,
+      "money": 98999,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3359
+      "event_count": 66
     },
     "timezone": "Europe/Istanbul",
-    "country_id": "71d78e68-4461-42a1-b362-2650312d08e5"
+    "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
   },
   "Kahire": {
     "days": [
       {
         "day": "2026-09-23",
-        "money": 11164,
+        "money": 414591,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 10
+        "event_count": 342
       },
       {
         "day": "2026-09-22",
@@ -7892,20 +7892,31 @@
       }
     ],
     "total": {
-      "money": 24897997,
+      "money": 25301424,
       "resources": {
         "deri": 12,
         "altin": 0,
         "petrol": 0,
         "nte": 7
       },
-      "event_count": 20558
+      "event_count": 20890
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9803c555-a7db-4519-8652-0697dfad5c94"
   },
   "Kostanay": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 27979,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 28
+      },
       {
         "day": "2026-09-22",
         "money": 1018160,
@@ -7971,28 +7982,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 1203991,
+      "money": 1231970,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 707
+      "event_count": 735
     },
     "timezone": "Europe/Istanbul",
     "country_id": "71d78e68-4461-42a1-b362-2650312d08e5"
@@ -8001,14 +8001,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 200889,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 121
       },
       {
         "day": "2026-09-22",
@@ -8078,14 +8078,14 @@
       }
     ],
     "total": {
-      "money": 7539500,
+      "money": 7740389,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 7057
+      "event_count": 7178
     },
     "timezone": "Europe/Istanbul",
     "country_id": "5cfa95cf-118b-4a9f-8c30-c9197b8d9da3"
@@ -8094,14 +8094,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 927080,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 664
       },
       {
         "day": "2026-09-22",
@@ -8171,14 +8171,14 @@
       }
     ],
     "total": {
-      "money": 20827653,
+      "money": 21754733,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 17873
+      "event_count": 18537
     },
     "timezone": "Europe/Istanbul",
     "country_id": "7f0c0ac2-db98-4d71-a9ca-95051310492e"
@@ -8187,14 +8187,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 8845,
+        "money": 365740,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 156
       },
       {
         "day": "2026-09-22",
@@ -8264,20 +8264,31 @@
       }
     ],
     "total": {
-      "money": 11433291,
+      "money": 11790186,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 4987
+      "event_count": 5139
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7"
   },
   "Karaganda": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 59668,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 28
+      },
       {
         "day": "2026-09-22",
         "money": 1547862,
@@ -8343,28 +8354,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 3935703,
+      "money": 3995371,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2103
+      "event_count": 2131
     },
     "timezone": "Europe/Istanbul",
     "country_id": "71d78e68-4461-42a1-b362-2650312d08e5"
@@ -8373,14 +8373,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 613622,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 0,
+          "petrol": 1553,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 344
       },
       {
         "day": "2026-09-22",
@@ -8450,14 +8450,14 @@
       }
     ],
     "total": {
-      "money": 40980668,
+      "money": 41594290,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 84518,
+        "petrol": 86071,
         "nte": 0
       },
-      "event_count": 23338
+      "event_count": 23682
     },
     "timezone": "Europe/Istanbul",
     "country_id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
@@ -8466,14 +8466,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 3375,
+        "money": 77400,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 43
       },
       {
         "day": "2026-09-22",
@@ -8543,20 +8543,31 @@
       }
     ],
     "total": {
-      "money": 1749993,
+      "money": 1824018,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 961
+      "event_count": 1002
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
   },
   "Bretonya": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -8622,28 +8633,17 @@
           "nte": 0
         },
         "event_count": 5
-      },
-      {
-        "day": "2026-09-16",
-        "money": 4796,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 6
       }
     ],
     "total": {
-      "money": 7118,
+      "money": 2322,
       "resources": {
         "deri": 159,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 13
+      "event_count": 7
     },
     "timezone": "Europe/Istanbul",
     "country_id": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
@@ -8651,15 +8651,26 @@
   "Katar": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 662325,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 8037,
+          "nte": 0
+        },
+        "event_count": 479
+      },
+      {
         "day": "2026-09-22",
         "money": 7683440,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 66652,
+          "petrol": 66714,
           "nte": 0
         },
-        "event_count": 5048
+        "event_count": 5049
       },
       {
         "day": "2026-09-21",
@@ -8715,34 +8726,34 @@
           "nte": 0
         },
         "event_count": 1303
-      },
-      {
-        "day": "2026-09-16",
-        "money": 759140,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 13370,
-          "nte": 0
-        },
-        "event_count": 690
       }
     ],
     "total": {
-      "money": 42907478,
+      "money": 42810663,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 231220,
+        "petrol": 225949,
         "nte": 0
       },
-      "event_count": 22385
+      "event_count": 22175
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d42e931d-92f1-4c3b-bb0e-3bf8325b5c87"
   },
   "Huzistan": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 12312,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 15
+      },
       {
         "day": "2026-09-22",
         "money": 137976,
@@ -8808,28 +8819,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 632154,
+      "money": 644466,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 158,
         "nte": 0
       },
-      "event_count": 743
+      "event_count": 758
     },
     "timezone": "Europe/Istanbul",
     "country_id": "84b5882d-a580-482e-a265-c518df28c8ee"
@@ -8838,14 +8838,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 322345,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 160
       },
       {
         "day": "2026-09-22",
@@ -8915,14 +8915,14 @@
       }
     ],
     "total": {
-      "money": 7119304,
+      "money": 7441649,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3506
+      "event_count": 3666
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -8931,14 +8931,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 515924,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 0,
+          "petrol": 838,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 308
       },
       {
         "day": "2026-09-22",
@@ -9008,14 +9008,14 @@
       }
     ],
     "total": {
-      "money": 31116037,
+      "money": 31631961,
       "resources": {
         "deri": 0,
         "altin": 2480,
-        "petrol": 1020,
+        "petrol": 1858,
         "nte": 6440
       },
-      "event_count": 17188
+      "event_count": 17496
     },
     "timezone": "Europe/Istanbul",
     "country_id": "bcbd9435-cfc3-4757-b07c-28a7f0df5b33"
@@ -9024,14 +9024,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 6883,
+        "money": 380549,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 92,
+          "petrol": 8369,
           "nte": 0
         },
-        "event_count": 5
+        "event_count": 313
       },
       {
         "day": "2026-09-22",
@@ -9101,14 +9101,14 @@
       }
     ],
     "total": {
-      "money": 5599795,
+      "money": 5973461,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 41171,
+        "petrol": 49448,
         "nte": 0
       },
-      "event_count": 5257
+      "event_count": 5565
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
@@ -9117,14 +9117,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 1872,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 2
       },
       {
         "day": "2026-09-22",
@@ -9194,20 +9194,31 @@
       }
     ],
     "total": {
-      "money": 3621193,
+      "money": 3623065,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 794
+      "event_count": 796
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d6c9494a-aee3-49a8-ae43-f8b66e846477"
   },
   "Bordo": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 101537,
@@ -9273,28 +9284,17 @@
           "nte": 0
         },
         "event_count": 143
-      },
-      {
-        "day": "2026-09-16",
-        "money": 53901,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 108
       }
     ],
     "total": {
-      "money": 691816,
+      "money": 637915,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 857
+      "event_count": 749
     },
     "timezone": "Europe/Istanbul",
     "country_id": "5985531f-4376-4cd3-a053-08cc78f39d5e"
@@ -9303,14 +9303,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 45748,
+        "money": 795637,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 20,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 25
+        "event_count": 437
       },
       {
         "day": "2026-09-22",
@@ -9380,14 +9380,14 @@
       }
     ],
     "total": {
-      "money": 32458226,
+      "money": 33208115,
       "resources": {
         "deri": 0,
-        "altin": 701,
+        "altin": 721,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 18440
+      "event_count": 18852
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -9396,14 +9396,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 37153,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 27
       },
       {
         "day": "2026-09-22",
@@ -9473,14 +9473,14 @@
       }
     ],
     "total": {
-      "money": 2060110,
+      "money": 2097263,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1558
+      "event_count": 1585
     },
     "timezone": "Europe/Istanbul",
     "country_id": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e"
@@ -9582,14 +9582,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 1986,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 0,
+          "petrol": 3555,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 48
       },
       {
         "day": "2026-09-22",
@@ -9659,20 +9659,31 @@
       }
     ],
     "total": {
-      "money": 4097329,
+      "money": 4099315,
       "resources": {
         "deri": 0,
         "altin": 33,
-        "petrol": 182601,
+        "petrol": 186156,
         "nte": 0
       },
-      "event_count": 5526
+      "event_count": 5574
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
   },
   "Jalisco": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 71156,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 30
+      },
       {
         "day": "2026-09-22",
         "money": 575364,
@@ -9738,28 +9749,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 1586889,
+      "money": 1658045,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 521
+      "event_count": 551
     },
     "timezone": "Europe/Istanbul",
     "country_id": "78abf52b-649d-4d05-bb54-540409e3b083"
@@ -9768,14 +9768,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 125697,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 58
       },
       {
         "day": "2026-09-22",
@@ -9845,14 +9845,14 @@
       }
     ],
     "total": {
-      "money": 7147550,
+      "money": 7273247,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3418
+      "event_count": 3476
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
@@ -9861,14 +9861,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2325,
+        "money": 47745,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 29
       },
       {
         "day": "2026-09-22",
@@ -9938,14 +9938,14 @@
       }
     ],
     "total": {
-      "money": 17350924,
+      "money": 17396344,
       "resources": {
         "deri": 479,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 8619
+      "event_count": 8647
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
@@ -9954,14 +9954,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 22431,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 71
       },
       {
         "day": "2026-09-22",
@@ -10031,14 +10031,14 @@
       }
     ],
     "total": {
-      "money": 909990,
+      "money": 932421,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2913
+      "event_count": 2984
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6a84d25c-5b26-4b3d-ab1b-b0200e774900"
@@ -10047,14 +10047,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 493519,
         "resources": {
-          "deri": 0,
+          "deri": 3318,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 246
       },
       {
         "day": "2026-09-22",
@@ -10124,20 +10124,31 @@
       }
     ],
     "total": {
-      "money": 40254706,
+      "money": 40748225,
       "resources": {
-        "deri": 67181,
+        "deri": 70499,
         "altin": 0,
         "petrol": 62460,
         "nte": 0
       },
-      "event_count": 20422
+      "event_count": 20668
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f5193745-ad13-4e86-96b9-81b8f8b003d1"
   },
   "Kosova": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 15258,
@@ -10203,28 +10214,17 @@
           "nte": 0
         },
         "event_count": 134
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1091982,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 82
       }
     ],
     "total": {
-      "money": 2835396,
+      "money": 1743414,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 503
+      "event_count": 421
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3ac6303e-5181-4168-9a9d-47c91449a3c8"
@@ -10233,14 +10233,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5292,
+        "money": 601011,
         "resources": {
           "deri": 0,
-          "altin": 0,
-          "petrol": 0,
+          "altin": 37,
+          "petrol": 77,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 384
       },
       {
         "day": "2026-09-22",
@@ -10310,14 +10310,14 @@
       }
     ],
     "total": {
-      "money": 19616862,
+      "money": 20212581,
       "resources": {
         "deri": 0,
-        "altin": 1257,
-        "petrol": 10639,
+        "altin": 1294,
+        "petrol": 10716,
         "nte": 4299
       },
-      "event_count": 13834
+      "event_count": 14215
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4ee14c46-59af-4800-aec7-8c5b07029828"
@@ -10419,14 +10419,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 125212,
+        "money": 927182,
         "resources": {
           "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
+          "altin": 21,
+          "petrol": 1522,
+          "nte": 40
         },
-        "event_count": 60
+        "event_count": 501
       },
       {
         "day": "2026-09-22",
@@ -10496,14 +10496,14 @@
       }
     ],
     "total": {
-      "money": 48633839,
+      "money": 49435809,
       "resources": {
         "deri": 0,
-        "altin": 36632,
-        "petrol": 24949,
-        "nte": 1154
+        "altin": 36653,
+        "petrol": 26471,
+        "nte": 1194
       },
-      "event_count": 25446
+      "event_count": 25887
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4ee14c46-59af-4800-aec7-8c5b07029828"
@@ -10511,15 +10511,26 @@
   "Kuzey Makedonya": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 150771,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 94
+      },
+      {
         "day": "2026-09-22",
-        "money": 1523470,
+        "money": 1525069,
         "resources": {
           "deri": 0,
           "altin": 540,
           "petrol": 110,
           "nte": 0
         },
-        "event_count": 1083
+        "event_count": 1084
       },
       {
         "day": "2026-09-21",
@@ -10575,28 +10586,17 @@
           "nte": 0
         },
         "event_count": 1709
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1894726,
-        "resources": {
-          "deri": 0,
-          "altin": 930,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1458
       }
     ],
     "total": {
-      "money": 12601401,
+      "money": 10859045,
       "resources": {
         "deri": 0,
-        "altin": 6207,
+        "altin": 5277,
         "petrol": 136,
         "nte": 0
       },
-      "event_count": 8902
+      "event_count": 7539
     },
     "timezone": "Europe/Istanbul",
     "country_id": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6"
@@ -10698,14 +10698,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1165,
+        "money": 30040,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 95
       },
       {
         "day": "2026-09-22",
@@ -10775,14 +10775,14 @@
       }
     ],
     "total": {
-      "money": 1144529,
+      "money": 1173404,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 1296
       },
-      "event_count": 3317
+      "event_count": 3409
     },
     "timezone": "Europe/Istanbul",
     "country_id": null
@@ -10791,14 +10791,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2688,
+        "money": 57252,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 57
       },
       {
         "day": "2026-09-22",
@@ -10868,14 +10868,14 @@
       }
     ],
     "total": {
-      "money": 2701247,
+      "money": 2755811,
       "resources": {
         "deri": 0,
         "altin": 32,
         "petrol": 0,
         "nte": 21
       },
-      "event_count": 2915
+      "event_count": 2969
     },
     "timezone": "Europe/Istanbul",
     "country_id": "cbe20b56-34d7-4b08-abdb-b9794ee2544d"
@@ -10977,14 +10977,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 19506,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 16
       },
       {
         "day": "2026-09-22",
@@ -11054,14 +11054,14 @@
       }
     ],
     "total": {
-      "money": 4416255,
+      "money": 4435761,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 19
       },
-      "event_count": 3430
+      "event_count": 3446
     },
     "timezone": "Europe/Istanbul",
     "country_id": "43262e0b-726a-4a9f-8a52-44f582257946"
@@ -11070,14 +11070,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 129287,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 86
       },
       {
         "day": "2026-09-22",
@@ -11147,14 +11147,14 @@
       }
     ],
     "total": {
-      "money": 6165536,
+      "money": 6294823,
       "resources": {
         "deri": 0,
         "altin": 3742,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 5104
+      "event_count": 5190
     },
     "timezone": "Europe/Istanbul",
     "country_id": "43262e0b-726a-4a9f-8a52-44f582257946"
@@ -11163,14 +11163,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2544,
+        "money": 406430,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 279
       },
       {
         "day": "2026-09-22",
@@ -11240,14 +11240,14 @@
       }
     ],
     "total": {
-      "money": 16037648,
+      "money": 16441534,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 12239
+      "event_count": 12516
     },
     "timezone": "Europe/Istanbul",
     "country_id": "70fb37a0-f17b-4cce-ab6a-d52f739e7c33"
@@ -11256,14 +11256,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 246932,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 126
       },
       {
         "day": "2026-09-22",
@@ -11333,14 +11333,14 @@
       }
     ],
     "total": {
-      "money": 427220,
+      "money": 674152,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 224
+      "event_count": 350
     },
     "timezone": "Europe/Istanbul",
     "country_id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
@@ -11349,14 +11349,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 183723,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 134
       },
       {
         "day": "2026-09-22",
@@ -11426,14 +11426,14 @@
       }
     ],
     "total": {
-      "money": 12415925,
+      "money": 12599648,
       "resources": {
         "deri": 0,
         "altin": 96,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 9507
+      "event_count": 9641
     },
     "timezone": "Europe/Istanbul",
     "country_id": "16fb3540-85c0-46fc-a143-f72db2337f86"
@@ -11442,14 +11442,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 9354,
+        "money": 350945,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 5
+        "event_count": 191
       },
       {
         "day": "2026-09-22",
@@ -11519,14 +11519,14 @@
       }
     ],
     "total": {
-      "money": 19843350,
+      "money": 20184941,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 11495
       },
-      "event_count": 11920
+      "event_count": 12106
     },
     "timezone": "Europe/Istanbul",
     "country_id": "2e50163f-e948-4512-aaeb-2bb93ff2dcc2"
@@ -11535,14 +11535,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 131157,
+        "money": 944856,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 72
+        "event_count": 524
       },
       {
         "day": "2026-09-22",
@@ -11612,14 +11612,14 @@
       }
     ],
     "total": {
-      "money": 40943180,
+      "money": 41756879,
       "resources": {
         "deri": 18982,
         "altin": 1830,
         "petrol": 1286,
         "nte": 24
       },
-      "event_count": 24228
+      "event_count": 24680
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4ee14c46-59af-4800-aec7-8c5b07029828"
@@ -11628,14 +11628,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 168119,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 177
       },
       {
         "day": "2026-09-22",
@@ -11705,14 +11705,14 @@
       }
     ],
     "total": {
-      "money": 10050693,
+      "money": 10218812,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 12053
+      "event_count": 12230
     },
     "timezone": "Europe/Istanbul",
     "country_id": "16fb3540-85c0-46fc-a143-f72db2337f86"
@@ -11721,14 +11721,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1815,
+        "money": 244864,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 152
       },
       {
         "day": "2026-09-22",
@@ -11798,14 +11798,14 @@
       }
     ],
     "total": {
-      "money": 18752583,
+      "money": 18995632,
       "resources": {
         "deri": 88,
         "altin": 202,
         "petrol": 0,
         "nte": 188
       },
-      "event_count": 12497
+      "event_count": 12648
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
@@ -11814,14 +11814,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2767,
+        "money": 467788,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 347
       },
       {
         "day": "2026-09-22",
@@ -11891,14 +11891,14 @@
       }
     ],
     "total": {
-      "money": 23324065,
+      "money": 23789086,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 17412
+      "event_count": 17757
     },
     "timezone": "Europe/Istanbul",
     "country_id": "16fb3540-85c0-46fc-a143-f72db2337f86"
@@ -11907,14 +11907,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5864,
+        "money": 896402,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
-          "nte": 0
+          "nte": 152
         },
-        "event_count": 3
+        "event_count": 454
       },
       {
         "day": "2026-09-22",
@@ -11984,14 +11984,14 @@
       }
     ],
     "total": {
-      "money": 38004688,
+      "money": 38895226,
       "resources": {
         "deri": 8201,
         "altin": 0,
         "petrol": 2054,
-        "nte": 65603
+        "nte": 65755
       },
-      "event_count": 20508
+      "event_count": 20959
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4ee14c46-59af-4800-aec7-8c5b07029828"
@@ -12000,14 +12000,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 142215,
+        "money": 1060974,
         "resources": {
-          "deri": 73,
+          "deri": 926,
           "altin": 0,
-          "petrol": 0,
-          "nte": 0
+          "petrol": 12,
+          "nte": 514
         },
-        "event_count": 70
+        "event_count": 532
       },
       {
         "day": "2026-09-22",
@@ -12077,14 +12077,14 @@
       }
     ],
     "total": {
-      "money": 45984260,
+      "money": 46903019,
       "resources": {
-        "deri": 173936,
+        "deri": 174789,
         "altin": 1520,
-        "petrol": 59,
-        "nte": 0
+        "petrol": 71,
+        "nte": 514
       },
-      "event_count": 27493
+      "event_count": 27955
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4ee14c46-59af-4800-aec7-8c5b07029828"
@@ -12093,14 +12093,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 763,
+        "money": 12420,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 16
       },
       {
         "day": "2026-09-22",
@@ -12170,14 +12170,14 @@
       }
     ],
     "total": {
-      "money": 198648,
+      "money": 210305,
       "resources": {
         "deri": 0,
         "altin": 6,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 266
+      "event_count": 281
     },
     "timezone": "Europe/Istanbul",
     "country_id": "43262e0b-726a-4a9f-8a52-44f582257946"
@@ -12186,14 +12186,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 3192,
+        "money": 264616,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 248
       },
       {
         "day": "2026-09-22",
@@ -12263,20 +12263,31 @@
       }
     ],
     "total": {
-      "money": 15347939,
+      "money": 15609363,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 14502
+      "event_count": 14747
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
   },
   "Kuala Lumpur": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 274276,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 53
+        },
+        "event_count": 361
+      },
       {
         "day": "2026-09-22",
         "money": 2481931,
@@ -12342,34 +12353,34 @@
           "nte": 32
         },
         "event_count": 3804
-      },
-      {
-        "day": "2026-09-16",
-        "money": 3493508,
-        "resources": {
-          "deri": 20,
-          "altin": 540,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 3244
       }
     ],
     "total": {
-      "money": 17699537,
+      "money": 14480305,
       "resources": {
-        "deri": 1914,
-        "altin": 905,
+        "deri": 1894,
+        "altin": 365,
         "petrol": 512,
-        "nte": 16712
+        "nte": 16765
       },
-      "event_count": 23658
+      "event_count": 20775
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1390cf4d-aec6-4029-960c-6662c587bde7"
   },
   "Sabah": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 8653,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 15
+      },
       {
         "day": "2026-09-22",
         "money": 107080,
@@ -12435,34 +12446,34 @@
           "nte": 0
         },
         "event_count": 271
-      },
-      {
-        "day": "2026-09-16",
-        "money": 143221,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 227
       }
     ],
     "total": {
-      "money": 1029510,
+      "money": 894942,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 39045,
         "nte": 0
       },
-      "event_count": 2762
+      "event_count": 2550
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1390cf4d-aec6-4029-960c-6662c587bde7"
   },
   "Lübnan": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -12528,17 +12539,6 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
@@ -12558,14 +12558,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 4381,
+        "money": 211658,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 112
       },
       {
         "day": "2026-09-22",
@@ -12635,14 +12635,14 @@
       }
     ],
     "total": {
-      "money": 10549247,
+      "money": 10756524,
       "resources": {
         "deri": 1338,
         "altin": 216,
         "petrol": 4858,
         "nte": 147
       },
-      "event_count": 6459
+      "event_count": 6569
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
@@ -12651,14 +12651,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 6315,
+        "money": 369535,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 454,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 226
       },
       {
         "day": "2026-09-22",
@@ -12728,14 +12728,14 @@
       }
     ],
     "total": {
-      "money": 34131037,
+      "money": 34494257,
       "resources": {
         "deri": 990,
-        "altin": 4372,
+        "altin": 4826,
         "petrol": 9469,
         "nte": 185
       },
-      "event_count": 18208
+      "event_count": 18431
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
@@ -12744,14 +12744,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5703,
+        "money": 306542,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
-          "nte": 0
+          "nte": 2786
         },
-        "event_count": 3
+        "event_count": 173
       },
       {
         "day": "2026-09-22",
@@ -12821,14 +12821,14 @@
       }
     ],
     "total": {
-      "money": 16432963,
+      "money": 16733802,
       "resources": {
         "deri": 2470,
         "altin": 299,
         "petrol": 10641,
-        "nte": 245247
+        "nte": 248033
       },
-      "event_count": 10904
+      "event_count": 11074
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6"
@@ -12837,14 +12837,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2313,
+        "money": 494341,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 396
       },
       {
         "day": "2026-09-22",
@@ -12914,14 +12914,14 @@
       }
     ],
     "total": {
-      "money": 24910506,
+      "money": 25402534,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 22649
+      "event_count": 23043
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
@@ -12933,11 +12933,11 @@
         "money": 0,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 999,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 27
       },
       {
         "day": "2026-09-22",
@@ -13010,11 +13010,11 @@
       "money": 935845,
       "resources": {
         "deri": 0,
-        "altin": 46616,
+        "altin": 47615,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2772
+      "event_count": 2799
     },
     "timezone": "Europe/Istanbul",
     "country_id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710"
@@ -13115,15 +13115,26 @@
   "Sarawak": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 64110,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 1324,
+          "nte": 0
+        },
+        "event_count": 135
+      },
+      {
         "day": "2026-09-22",
-        "money": 578938,
+        "money": 579443,
         "resources": {
           "deri": 0,
           "altin": 64,
           "petrol": 11926,
           "nte": 484
         },
-        "event_count": 1311
+        "event_count": 1312
       },
       {
         "day": "2026-09-21",
@@ -13179,28 +13190,17 @@
           "nte": 252
         },
         "event_count": 1630
-      },
-      {
-        "day": "2026-09-16",
-        "money": 592723,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 5314,
-          "nte": 0
-        },
-        "event_count": 1385
       }
     ],
     "total": {
-      "money": 3716987,
+      "money": 3188879,
       "resources": {
         "deri": 0,
         "altin": 325,
-        "petrol": 97406,
+        "petrol": 93416,
         "nte": 736
       },
-      "event_count": 10034
+      "event_count": 8785
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1390cf4d-aec6-4029-960c-6662c587bde7"
@@ -13209,14 +13209,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 6137,
+        "money": 299096,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 7
+        "event_count": 368
       },
       {
         "day": "2026-09-22",
@@ -13286,14 +13286,14 @@
       }
     ],
     "total": {
-      "money": 16031303,
+      "money": 16324262,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 18644
+      "event_count": 19005
     },
     "timezone": "Europe/Istanbul",
     "country_id": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
@@ -13395,14 +13395,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 107252,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 79
       },
       {
         "day": "2026-09-22",
@@ -13472,14 +13472,14 @@
       }
     ],
     "total": {
-      "money": 7322504,
+      "money": 7429756,
       "resources": {
         "deri": 36,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 6485
+      "event_count": 6564
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f0e121c3-3e6c-46da-bad6-cc4d77f6318c"
@@ -13488,14 +13488,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2043,
+        "money": 192378,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 1247,
           "petrol": 0,
-          "nte": 0
+          "nte": 3094
         },
-        "event_count": 2
+        "event_count": 267
       },
       {
         "day": "2026-09-22",
@@ -13565,14 +13565,14 @@
       }
     ],
     "total": {
-      "money": 2128182,
+      "money": 2318517,
       "resources": {
         "deri": 0,
-        "altin": 90991,
+        "altin": 92238,
         "petrol": 0,
-        "nte": 83187
+        "nte": 86281
       },
-      "event_count": 6512
+      "event_count": 6777
     },
     "timezone": "Europe/Istanbul",
     "country_id": "0c44a10a-5f4c-4ece-bf96-343563c392c3"
@@ -13673,15 +13673,26 @@
   "Temeşvar": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 79753,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 83
+      },
+      {
         "day": "2026-09-22",
-        "money": 1017616,
+        "money": 1018737,
         "resources": {
           "deri": 0,
           "altin": 168,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1081
+        "event_count": 1082
       },
       {
         "day": "2026-09-21",
@@ -13737,28 +13748,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 1122104,
+      "money": 1202978,
       "resources": {
         "deri": 0,
         "altin": 168,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1191
+      "event_count": 1275
     },
     "timezone": "Europe/Istanbul",
     "country_id": "84b5882d-a580-482e-a265-c518df28c8ee"
@@ -13767,14 +13767,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1523,
+        "money": 74569,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 111
       },
       {
         "day": "2026-09-22",
@@ -13844,14 +13844,14 @@
       }
     ],
     "total": {
-      "money": 4817189,
+      "money": 4890235,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 7650
+      "event_count": 7759
     },
     "timezone": "Europe/Istanbul",
     "country_id": "223ccc4c-71c4-4410-8021-4e43df700a7c"
@@ -13859,15 +13859,26 @@
   "Şanghay": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 5419602,
+        "day": "2026-09-23",
+        "money": 515371,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2889
+        "event_count": 278
+      },
+      {
+        "day": "2026-09-22",
+        "money": 5423547,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 2891
       },
       {
         "day": "2026-09-21",
@@ -13923,28 +13934,17 @@
           "nte": 0
         },
         "event_count": 3055
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 139888022,
+      "money": 140407338,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 21242
+      "event_count": 21522
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9a906c31-293d-4a49-ade4-4f145842a99e"
@@ -13953,14 +13953,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5608,
+        "money": 160963,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 110
       },
       {
         "day": "2026-09-22",
@@ -14030,14 +14030,14 @@
       }
     ],
     "total": {
-      "money": 14150092,
+      "money": 14305447,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 1716
       },
-      "event_count": 11263
+      "event_count": 11369
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -14046,14 +14046,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 12262,
+        "money": 573980,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 7
+        "event_count": 298
       },
       {
         "day": "2026-09-22",
@@ -14123,14 +14123,14 @@
       }
     ],
     "total": {
-      "money": 32964048,
+      "money": 33525766,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 24,
         "nte": 140
       },
-      "event_count": 18766
+      "event_count": 19057
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -14325,14 +14325,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 10322,
+        "money": 408924,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 5
+        "event_count": 195
       },
       {
         "day": "2026-09-22",
@@ -14402,14 +14402,14 @@
       }
     ],
     "total": {
-      "money": 30664222,
+      "money": 31062824,
       "resources": {
         "deri": 0,
         "altin": 336,
         "petrol": 110,
         "nte": 75291
       },
-      "event_count": 16800
+      "event_count": 16990
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -14511,14 +14511,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 117594,
+        "money": 987250,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 56
+        "event_count": 465
       },
       {
         "day": "2026-09-22",
@@ -14588,14 +14588,14 @@
       }
     ],
     "total": {
-      "money": 49930424,
+      "money": 50800080,
       "resources": {
         "deri": 87,
         "altin": 524,
         "petrol": 619,
         "nte": 0
       },
-      "event_count": 24138
+      "event_count": 24547
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -14604,14 +14604,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 94936,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 55
       },
       {
         "day": "2026-09-22",
@@ -14681,14 +14681,14 @@
       }
     ],
     "total": {
-      "money": 4900986,
+      "money": 4995922,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2916
+      "event_count": 2971
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -14789,15 +14789,26 @@
   "Ermenistan": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 2241099,
+        "day": "2026-09-23",
+        "money": 214032,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2472
+        "event_count": 231
+      },
+      {
+        "day": "2026-09-22",
+        "money": 2244798,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 2476
       },
       {
         "day": "2026-09-21",
@@ -14853,28 +14864,17 @@
           "nte": 0
         },
         "event_count": 0
-      },
-      {
-        "day": "2026-09-16",
-        "money": 0,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 0
       }
     ],
     "total": {
-      "money": 4227617,
+      "money": 4445348,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 5433
+      "event_count": 5668
     },
     "timezone": "Europe/Istanbul",
     "country_id": "82bcb0bb-d541-428c-98fa-58f3471a47e6"
@@ -14883,14 +14883,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 13322,
+        "money": 425163,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 8
+        "event_count": 257
       },
       {
         "day": "2026-09-22",
@@ -14960,14 +14960,14 @@
       }
     ],
     "total": {
-      "money": 5612665,
+      "money": 6024506,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 274,
         "nte": 0
       },
-      "event_count": 2978
+      "event_count": 3227
     },
     "timezone": "Europe/Istanbul",
     "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
@@ -15162,6 +15162,17 @@
     "days": [
       {
         "day": "2026-09-23",
+        "money": 151626,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 73
+      },
+      {
+        "day": "2026-09-22",
         "money": 0,
         "resources": {
           "deri": 0,
@@ -15172,97 +15183,86 @@
         "event_count": 0
       },
       {
-        "day": "2026-09-22",
-        "money": 1593476,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 942
-      },
-      {
         "day": "2026-09-21",
-        "money": 2052484,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1233
+        "event_count": 0
       },
       {
         "day": "2026-09-20",
-        "money": 2229017,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1367
+        "event_count": 0
       },
       {
         "day": "2026-09-19",
-        "money": 2075157,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1282
+        "event_count": 0
       },
       {
         "day": "2026-09-18",
-        "money": 1891214,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1160
+        "event_count": 0
       },
       {
         "day": "2026-09-17",
-        "money": 1974243,
+        "money": 0,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1755
+        "event_count": 0
       }
     ],
     "total": {
-      "money": 11815591,
+      "money": 151626,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 7739
+      "event_count": 73
     },
     "timezone": "Europe/Istanbul",
-    "country_id": "9ead7c4a-ffa6-460c-87b9-a4516ef4d1d6"
+    "country_id": "15054b7d-7503-4345-9434-c67d898b8ac0"
   },
   "Kabil": {
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1016,
+        "money": 26966,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 28
       },
       {
         "day": "2026-09-22",
@@ -15332,14 +15332,14 @@
       }
     ],
     "total": {
-      "money": 3412490,
+      "money": 3438440,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3440
+      "event_count": 3467
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451"
@@ -15348,14 +15348,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 185920,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 127
       },
       {
         "day": "2026-09-22",
@@ -15425,14 +15425,14 @@
       }
     ],
     "total": {
-      "money": 7461589,
+      "money": 7647509,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 5109
+      "event_count": 5236
     },
     "timezone": "Europe/Istanbul",
     "country_id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9"
@@ -15534,14 +15534,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 6244,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 14
       },
       {
         "day": "2026-09-22",
@@ -15611,14 +15611,14 @@
       }
     ],
     "total": {
-      "money": 261826,
+      "money": 268070,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 621
+      "event_count": 635
     },
     "timezone": "Europe/Istanbul",
     "country_id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451"
@@ -15627,14 +15627,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 9392,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 6
       },
       {
         "day": "2026-09-22",
@@ -15704,14 +15704,14 @@
       }
     ],
     "total": {
-      "money": 103819,
+      "money": 113211,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 92
+      "event_count": 98
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4d973d67-468d-4c16-bba9-c8433a2c2e7b"
@@ -15719,15 +15719,26 @@
   "Peşaver": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 96474,
+        "day": "2026-09-23",
+        "money": 19511,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 206
+        "event_count": 41
+      },
+      {
+        "day": "2026-09-22",
+        "money": 96943,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 207
       },
       {
         "day": "2026-09-21",
@@ -15783,28 +15794,17 @@
           "nte": 0
         },
         "event_count": 857
-      },
-      {
-        "day": "2026-09-16",
-        "money": 280064,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 662
       }
     ],
     "total": {
-      "money": 1660533,
+      "money": 1400449,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3624
+      "event_count": 3004
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958"
@@ -15813,14 +15813,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 118375,
+        "money": 988146,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 59
+        "event_count": 495
       },
       {
         "day": "2026-09-22",
@@ -15890,14 +15890,14 @@
       }
     ],
     "total": {
-      "money": 37888802,
+      "money": 38758573,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 176,
         "nte": 0
       },
-      "event_count": 21428
+      "event_count": 21864
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4f148395-cec7-4b2d-b00a-71b6855c4209"
@@ -15906,14 +15906,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 623,
+        "money": 17119,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 51
       },
       {
         "day": "2026-09-22",
@@ -15983,14 +15983,14 @@
       }
     ],
     "total": {
-      "money": 822251,
+      "money": 838747,
       "resources": {
         "deri": 3439,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2257
+      "event_count": 2306
     },
     "timezone": "Europe/Istanbul",
     "country_id": "a61a74e4-fa80-4a6d-b5a9-1f5c816702ca"
@@ -16277,6 +16277,17 @@
   "Ural": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 52223,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 29
+      },
+      {
         "day": "2026-09-22",
         "money": 748413,
         "resources": {
@@ -16341,28 +16352,17 @@
           "nte": 0
         },
         "event_count": 554
-      },
-      {
-        "day": "2026-09-16",
-        "money": 204205,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 245
       }
     ],
     "total": {
-      "money": 4313626,
+      "money": 4161644,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3348
+      "event_count": 3132
     },
     "timezone": "Europe/Istanbul",
     "country_id": "45d5ffe1-f7c1-4cb0-b479-42066e142660"
@@ -16463,15 +16463,26 @@
   "Guangzhou": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 3370592,
+        "day": "2026-09-23",
+        "money": 390605,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2382
+        "event_count": 275
+      },
+      {
+        "day": "2026-09-22",
+        "money": 3375771,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 2386
       },
       {
         "day": "2026-09-21",
@@ -16527,28 +16538,17 @@
           "nte": 0
         },
         "event_count": 4007
-      },
-      {
-        "day": "2026-09-16",
-        "money": 7274393,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 3765
       }
     ],
     "total": {
-      "money": 41776979,
+      "money": 34898370,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 22165
+      "event_count": 18679
     },
     "timezone": "Europe/Istanbul",
     "country_id": "7b977dca-f0cc-4aab-bc96-66264c484368"
@@ -16650,14 +16650,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 591542,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 231
       },
       {
         "day": "2026-09-22",
@@ -16727,14 +16727,14 @@
       }
     ],
     "total": {
-      "money": 31417416,
+      "money": 32008958,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 11663
+      "event_count": 11894
     },
     "timezone": "Europe/Istanbul",
     "country_id": "1187d43e-b239-439d-bbb4-b1675bcfbd20"
@@ -16743,14 +16743,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 1918,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 2
       },
       {
         "day": "2026-09-22",
@@ -16820,14 +16820,14 @@
       }
     ],
     "total": {
-      "money": 1799978,
+      "money": 1801896,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 1519
+      "event_count": 1521
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -16836,14 +16836,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1426,
+        "money": 87317,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 66
       },
       {
         "day": "2026-09-22",
@@ -16913,14 +16913,14 @@
       }
     ],
     "total": {
-      "money": 4788436,
+      "money": 4874327,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3940
+      "event_count": 4005
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -17022,14 +17022,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2701,
+        "money": 74016,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 52
       },
       {
         "day": "2026-09-22",
@@ -17099,14 +17099,14 @@
       }
     ],
     "total": {
-      "money": 4069910,
+      "money": 4141225,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2854
+      "event_count": 2904
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -17115,14 +17115,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 17521,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 27
       },
       {
         "day": "2026-09-22",
@@ -17192,20 +17192,31 @@
       }
     ],
     "total": {
-      "money": 222634,
+      "money": 240155,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 365
+      "event_count": 392
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
   },
   "Normandiya": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 0,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 0
+      },
       {
         "day": "2026-09-22",
         "money": 0,
@@ -17271,28 +17282,17 @@
           "nte": 0
         },
         "event_count": 1
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1677,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 5
       }
     ],
     "total": {
-      "money": 1955,
+      "money": 278,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 6
+      "event_count": 1
     },
     "timezone": "Europe/Istanbul",
     "country_id": "2480a407-5540-4a9e-98d7-8253f3fb53e1"
@@ -17301,14 +17301,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5371,
+        "money": 283658,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 206
       },
       {
         "day": "2026-09-22",
@@ -17378,14 +17378,14 @@
       }
     ],
     "total": {
-      "money": 13336526,
+      "money": 13614813,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 5767
       },
-      "event_count": 11428
+      "event_count": 11630
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -17487,14 +17487,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 17379,
+        "money": 541618,
         "resources": {
-          "deri": 0,
+          "deri": 160,
           "altin": 0,
           "petrol": 0,
-          "nte": 0
+          "nte": 2170
         },
-        "event_count": 12
+        "event_count": 395
       },
       {
         "day": "2026-09-22",
@@ -17564,14 +17564,14 @@
       }
     ],
     "total": {
-      "money": 36192951,
+      "money": 36717190,
       "resources": {
-        "deri": 63470,
+        "deri": 63630,
         "altin": 427,
         "petrol": 7428,
-        "nte": 142018
+        "nte": 144188
       },
-      "event_count": 25530
+      "event_count": 25913
     },
     "timezone": "Europe/Istanbul",
     "country_id": "d7e250fb-02f9-4f34-9628-8fb058c35d52"
@@ -17579,15 +17579,26 @@
   "Delhi": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 523858,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 271
+      },
+      {
         "day": "2026-09-22",
-        "money": 2247746,
+        "money": 2251334,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 34
         },
-        "event_count": 1483
+        "event_count": 1485
       },
       {
         "day": "2026-09-21",
@@ -17643,28 +17654,17 @@
           "nte": 0
         },
         "event_count": 1974
-      },
-      {
-        "day": "2026-09-16",
-        "money": 6591898,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 3632
       }
     ],
     "total": {
-      "money": 21114113,
+      "money": 15049661,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 145
       },
-      "event_count": 14271
+      "event_count": 10912
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef"
@@ -17859,14 +17859,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 208916,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 92
       },
       {
         "day": "2026-09-22",
@@ -17936,14 +17936,14 @@
       }
     ],
     "total": {
-      "money": 6307682,
+      "money": 6516598,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 3396
+      "event_count": 3488
     },
     "timezone": "Europe/Istanbul",
     "country_id": "6a63810e-77fb-4804-ae7f-2eb1962e2bef"
@@ -17952,14 +17952,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 15859,
+        "money": 263154,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 17
+        "event_count": 284
       },
       {
         "day": "2026-09-22",
@@ -18029,14 +18029,14 @@
       }
     ],
     "total": {
-      "money": 6061477,
+      "money": 6308772,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 7327
+      "event_count": 7594
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481"
@@ -18138,14 +18138,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 692,
+        "money": 27824,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 47
       },
       {
         "day": "2026-09-22",
@@ -18215,14 +18215,14 @@
       }
     ],
     "total": {
-      "money": 1508035,
+      "money": 1535167,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2781
+      "event_count": 2827
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481"
@@ -18231,14 +18231,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2399,
+        "money": 419961,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 483
       },
       {
         "day": "2026-09-22",
@@ -18308,14 +18308,14 @@
       }
     ],
     "total": {
-      "money": 18182563,
+      "money": 18600125,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 21271
+      "event_count": 21750
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3eed6250-5fe3-4ea6-bda6-4d1bfa2ff481"
@@ -18324,14 +18324,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 8728,
+        "money": 527322,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 179
       },
       {
         "day": "2026-09-22",
@@ -18401,14 +18401,14 @@
       }
     ],
     "total": {
-      "money": 33798148,
+      "money": 34316742,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 12232
+      "event_count": 12408
     },
     "timezone": "Europe/Istanbul",
     "country_id": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7"
@@ -18417,14 +18417,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2091,
+        "money": 71900,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 138
       },
       {
         "day": "2026-09-22",
@@ -18494,14 +18494,14 @@
       }
     ],
     "total": {
-      "money": 2121613,
+      "money": 2191422,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 4027
+      "event_count": 4161
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3588e2c7-1763-433d-be15-5742fe2471f4"
@@ -18509,15 +18509,26 @@
   "Belém": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 157758,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 136
+      },
+      {
         "day": "2026-09-22",
-        "money": 1429383,
+        "money": 1432213,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 352,
           "nte": 0
         },
-        "event_count": 1290
+        "event_count": 1292
       },
       {
         "day": "2026-09-21",
@@ -18573,28 +18584,17 @@
           "nte": 0
         },
         "event_count": 2129
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1771958,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 2098
       }
     ],
     "total": {
-      "money": 13358062,
+      "money": 11746692,
       "resources": {
         "deri": 537,
         "altin": 0,
         "petrol": 360,
         "nte": 0
       },
-      "event_count": 12703
+      "event_count": 10743
     },
     "timezone": "Europe/Istanbul",
     "country_id": "dda9313f-d3bf-4dac-bbdb-05e1ef36fc62"
@@ -18603,14 +18603,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 2770,
+        "money": 141196,
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 96,
+          "petrol": 1453,
           "nte": 0
         },
-        "event_count": 3
+        "event_count": 93
       },
       {
         "day": "2026-09-22",
@@ -18680,14 +18680,14 @@
       }
     ],
     "total": {
-      "money": 11514770,
+      "money": 11653196,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 101235,
+        "petrol": 102592,
         "nte": 0
       },
-      "event_count": 8773
+      "event_count": 8863
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4d9479f0-e62e-4921-b04d-f3b418776f22"
@@ -18695,15 +18695,26 @@
   "Curitiba": {
     "days": [
       {
-        "day": "2026-09-22",
-        "money": 1341548,
+        "day": "2026-09-23",
+        "money": 151861,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 2081
+        "event_count": 234
+      },
+      {
+        "day": "2026-09-22",
+        "money": 1345302,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 2087
       },
       {
         "day": "2026-09-21",
@@ -18759,28 +18770,17 @@
           "nte": 0
         },
         "event_count": 882
-      },
-      {
-        "day": "2026-09-16",
-        "money": 951812,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1147
       }
     ],
     "total": {
-      "money": 9357906,
+      "money": 8561709,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 13692
+      "event_count": 12785
     },
     "timezone": "Europe/Istanbul",
     "country_id": "b1854c75-e10c-41b8-8838-5edb3ad3471a"
@@ -18789,14 +18789,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 83122,
         "resources": {
           "deri": 0,
-          "altin": 0,
+          "altin": 1222,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 93
       },
       {
         "day": "2026-09-22",
@@ -18866,20 +18866,31 @@
       }
     ],
     "total": {
-      "money": 6634394,
+      "money": 6717516,
       "resources": {
         "deri": 0,
-        "altin": 6357,
+        "altin": 7579,
         "petrol": 126,
         "nte": 0
       },
-      "event_count": 6194
+      "event_count": 6287
     },
     "timezone": "Europe/Istanbul",
     "country_id": "97b3ef36-d11a-4463-bd74-21cea671c079"
   },
   "Fortaleza": {
     "days": [
+      {
+        "day": "2026-09-23",
+        "money": 194080,
+        "resources": {
+          "deri": 237,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 187
+      },
       {
         "day": "2026-09-22",
         "money": 1399657,
@@ -18945,28 +18956,17 @@
           "nte": 0
         },
         "event_count": 1423
-      },
-      {
-        "day": "2026-09-16",
-        "money": 1558927,
-        "resources": {
-          "deri": 0,
-          "altin": 837,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1051
       }
     ],
     "total": {
-      "money": 11935948,
+      "money": 10571101,
       "resources": {
-        "deri": 3335,
-        "altin": 1181,
+        "deri": 3572,
+        "altin": 344,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 9310
+      "event_count": 8446
     },
     "timezone": "Europe/Istanbul",
     "country_id": "a87549d7-feed-479d-a728-9d1842d7738b"
@@ -18975,14 +18975,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 84701,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 79
       },
       {
         "day": "2026-09-22",
@@ -19052,14 +19052,14 @@
       }
     ],
     "total": {
-      "money": 2654957,
+      "money": 2739658,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 2542
+      "event_count": 2621
     },
     "timezone": "Europe/Istanbul",
     "country_id": "9803c555-a7db-4519-8652-0697dfad5c94"
@@ -19068,14 +19068,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 8569,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 18
       },
       {
         "day": "2026-09-22",
@@ -19145,14 +19145,14 @@
       }
     ],
     "total": {
-      "money": 560273,
+      "money": 568842,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 37303,
         "nte": 0
       },
-      "event_count": 1796
+      "event_count": 1814
     },
     "timezone": "Europe/Istanbul",
     "country_id": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c"
@@ -19161,14 +19161,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 8162,
+        "money": 185094,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 5
+        "event_count": 113
       },
       {
         "day": "2026-09-22",
@@ -19238,14 +19238,14 @@
       }
     ],
     "total": {
-      "money": 46462,
+      "money": 223394,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 30
+      "event_count": 138
     },
     "timezone": "Europe/Istanbul",
     "country_id": "4f148395-cec7-4b2d-b00a-71b6855c4209"
@@ -19254,14 +19254,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 0,
+        "money": 485002,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 0
+        "event_count": 75
       },
       {
         "day": "2026-09-22",
@@ -19331,14 +19331,14 @@
       }
     ],
     "total": {
-      "money": 25042075,
+      "money": 25527077,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 142,
         "nte": 307
       },
-      "event_count": 3577
+      "event_count": 3652
     },
     "timezone": "Europe/Istanbul",
     "country_id": "76556b7e-4548-4a94-9c75-3e27caea487f"
@@ -19346,15 +19346,26 @@
   "Rio de Janeiro": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 436844,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 435,
+          "nte": 0
+        },
+        "event_count": 413
+      },
+      {
         "day": "2026-09-22",
-        "money": 5129731,
+        "money": 5131225,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 7372,
           "nte": 0
         },
-        "event_count": 4413
+        "event_count": 4414
       },
       {
         "day": "2026-09-21",
@@ -19410,28 +19421,17 @@
           "nte": 864
         },
         "event_count": 4446
-      },
-      {
-        "day": "2026-09-16",
-        "money": 3601461,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 4384,
-          "nte": 1630
-        },
-        "event_count": 3964
       }
     ],
     "total": {
-      "money": 35910533,
+      "money": 32747410,
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 52080,
-        "nte": 3120
+        "petrol": 48131,
+        "nte": 1490
       },
-      "event_count": 31027
+      "event_count": 27477
     },
     "timezone": "Europe/Istanbul",
     "country_id": "fdb9aaa2-f305-48b7-9b22-1814f6cdfbdf"
@@ -19439,15 +19439,26 @@
   "Venedik": {
     "days": [
       {
+        "day": "2026-09-23",
+        "money": 1951628,
+        "resources": {
+          "deri": 0,
+          "altin": 0,
+          "petrol": 0,
+          "nte": 0
+        },
+        "event_count": 115
+      },
+      {
         "day": "2026-09-22",
-        "money": 6353680,
+        "money": 6394713,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 265,
           "nte": 0
         },
-        "event_count": 898
+        "event_count": 901
       },
       {
         "day": "2026-09-21",
@@ -19503,28 +19514,17 @@
           "nte": 0
         },
         "event_count": 430
-      },
-      {
-        "day": "2026-09-16",
-        "money": 18907223,
-        "resources": {
-          "deri": 0,
-          "altin": 0,
-          "petrol": 0,
-          "nte": 0
-        },
-        "event_count": 1618
       }
     ],
     "total": {
-      "money": 39277399,
+      "money": 22362837,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 4201,
         "nte": 0
       },
-      "event_count": 5548
+      "event_count": 4048
     },
     "timezone": "Europe/Istanbul",
     "country_id": "fd131b6a-8186-4ea2-9f9b-b0edd1c078cf"
@@ -19533,14 +19533,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 13201,
+        "money": 875901,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 9
+        "event_count": 607
       },
       {
         "day": "2026-09-22",
@@ -19610,14 +19610,14 @@
       }
     ],
     "total": {
-      "money": 28327110,
+      "money": 29189810,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 20777
+      "event_count": 21375
     },
     "timezone": "Europe/Istanbul",
     "country_id": "bdb0966b-bd04-401b-8d01-8621df11c96b"
@@ -19626,14 +19626,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 1002,
+        "money": 65035,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 61
       },
       {
         "day": "2026-09-22",
@@ -19703,14 +19703,14 @@
       }
     ],
     "total": {
-      "money": 5880639,
+      "money": 5944672,
       "resources": {
         "deri": 57,
         "altin": 0,
         "petrol": 0,
         "nte": 1000
       },
-      "event_count": 5684
+      "event_count": 5744
     },
     "timezone": "Europe/Istanbul",
     "country_id": "bdb0966b-bd04-401b-8d01-8621df11c96b"
@@ -19719,14 +19719,14 @@
     "days": [
       {
         "day": "2026-09-23",
-        "money": 5975,
+        "money": 397646,
         "resources": {
           "deri": 0,
           "altin": 0,
           "petrol": 0,
           "nte": 0
         },
-        "event_count": 4
+        "event_count": 274
       },
       {
         "day": "2026-09-22",
@@ -19796,14 +19796,14 @@
       }
     ],
     "total": {
-      "money": 18367620,
+      "money": 18759291,
       "resources": {
         "deri": 0,
         "altin": 0,
         "petrol": 0,
         "nte": 0
       },
-      "event_count": 12736
+      "event_count": 13006
     },
     "timezone": "Europe/Istanbul",
     "country_id": "bdb0966b-bd04-401b-8d01-8621df11c96b"
@@ -19816,10 +19816,10 @@
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 46,
+          "petrol": 1236,
           "nte": 0
         },
-        "event_count": 2
+        "event_count": 57
       },
       {
         "day": "2026-09-22",
@@ -19893,10 +19893,10 @@
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 67143,
+        "petrol": 68333,
         "nte": 0
       },
-      "event_count": 6279
+      "event_count": 6334
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3eef23ef-fce7-411d-a72e-bb855139843d"
@@ -20002,10 +20002,10 @@
         "resources": {
           "deri": 0,
           "altin": 0,
-          "petrol": 31,
+          "petrol": 837,
           "nte": 0
         },
-        "event_count": 1
+        "event_count": 27
       },
       {
         "day": "2026-09-22",
@@ -20079,10 +20079,10 @@
       "resources": {
         "deri": 0,
         "altin": 0,
-        "petrol": 42369,
+        "petrol": 43175,
         "nte": 0
       },
-      "event_count": 1998
+      "event_count": 2024
     },
     "timezone": "Europe/Istanbul",
     "country_id": "3eef23ef-fce7-411d-a72e-bb855139843d"

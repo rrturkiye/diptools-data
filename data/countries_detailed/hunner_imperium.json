@@ -2,27 +2,27 @@
   "id": "71d78e68-4461-42a1-b362-2650312d08e5",
   "name": "HUNNER IMPERIUM",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1788800707293.jpeg",
-  "treasury": 97596,
+  "treasury": 247411,
   "country_number": 135,
   "player_count": 236,
-  "provinces_count": 3,
+  "provinces_count": 2,
   "capital": {
     "name": "Kostanay",
     "icon": "🌾",
     "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 45,
-    "altin": 39,
-    "petrol": 30,
-    "nte": 44,
-    "elmas": 25
+    "deri": 31,
+    "altin": 28,
+    "petrol": 18,
+    "nte": 31,
+    "elmas": 12
   },
   "average_scores": {
-    "education": 4,
-    "military": 5.7,
-    "development": 2.3,
-    "health": 2.3
+    "education": 3,
+    "military": 5,
+    "development": 1.5,
+    "health": 2
   },
   "provinces": [
     {
@@ -50,30 +50,6 @@
       }
     },
     {
-      "name": "Astana",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/astana.png?v=3",
-      "region": "Kazakistan Başkenti",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 117,
-      "scores": {
-        "education": 6,
-        "military": 7,
-        "development": 3,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 14,
-        "altin": 11,
-        "petrol": 12,
-        "nte": 13,
-        "elmas": 13
-      }
-    },
-    {
       "name": "Karaganda",
       "icon": "⚒️",
       "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
@@ -85,8 +61,8 @@
       "scores": {
         "education": 4,
         "military": 9,
-        "development": 1,
-        "health": 4,
+        "development": 0,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
