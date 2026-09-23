@@ -1,0 +1,53 @@
+{
+  "id": "91dc9647-2722-42ea-92e8-913764f7d013",
+  "name": "THEME GÜRCİSTAN KRALLIĞI",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
+  "treasury": 8620894,
+  "country_number": 212,
+  "player_count": 259,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Batum",
+    "icon": "⚓",
+    "coat_url": "https://diplomacia.com.tr/coats/batum.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 10,
+    "petrol": 10,
+    "nte": 7,
+    "elmas": 12
+  },
+  "average_scores": {
+    "education": 8,
+    "military": 6,
+    "development": 4,
+    "health": 8
+  },
+  "provinces": [
+    {
+      "name": "Batum",
+      "icon": "⚓",
+      "coat_url": "https://diplomacia.com.tr/coats/batum.png?v=3",
+      "region": "Karadeniz Kıyısı (Acara)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 261,
+      "scores": {
+        "education": 8,
+        "military": 6,
+        "development": 4,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 10,
+        "petrol": 10,
+        "nte": 7,
+        "elmas": 12
+      }
+    }
+  ]
+}

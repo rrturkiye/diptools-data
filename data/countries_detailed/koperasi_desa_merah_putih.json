@@ -2,35 +2,59 @@
   "id": "72017feb-e5b6-4271-a1e3-dbd0011fbef9",
   "name": "Koperasi Desa Merah Putih",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/72017feb-e5b6-4271-a1e3-dbd0011fbef9-1789063423584.jpeg",
-  "treasury": 2207042,
+  "treasury": 3894929,
   "country_number": 106,
-  "player_count": 221,
-  "provinces_count": 3,
+  "player_count": 206,
+  "provinces_count": 2,
   "capital": {
-    "name": "Singapur",
-    "icon": "🦁",
-    "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3"
+    "name": "Vuhan",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 18,
-    "altin": 30,
-    "petrol": 34,
-    "nte": 35,
-    "elmas": 54
+    "deri": 13,
+    "altin": 16,
+    "petrol": 20,
+    "nte": 21,
+    "elmas": 35
   },
   "average_scores": {
     "education": 0,
-    "military": 4.7,
-    "development": 6.3,
-    "health": 3.3
+    "military": 5,
+    "development": 8,
+    "health": 5
   },
   "provinces": [
+    {
+      "name": "Vuhan",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 93,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 6,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 7,
+        "elmas": 16
+      }
+    },
     {
       "name": "Singapur",
       "icon": "🦁",
       "coat_url": "https://diplomacia.com.tr/coats/singapur.png?v=3",
       "region": "Güneydoğu Asya (Şehir-Devlet)",
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
       "player_count": 34,
@@ -47,54 +71,6 @@
         "petrol": 12,
         "nte": 14,
         "elmas": 19
-      }
-    },
-    {
-      "name": "Kalimantan",
-      "icon": "🌳",
-      "coat_url": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
-      "region": "Borneo (Kalimantan)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 41,
-      "scores": {
-        "education": 0,
-        "military": 4,
-        "development": 3,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 5,
-        "altin": 14,
-        "petrol": 14,
-        "nte": 14,
-        "elmas": 19
-      }
-    },
-    {
-      "name": "Vuhan",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 99,
-      "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 6,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 6,
-        "petrol": 8,
-        "nte": 7,
-        "elmas": 16
       }
     }
   ]

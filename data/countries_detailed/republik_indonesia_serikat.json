@@ -2,27 +2,27 @@
   "id": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
   "name": "Republik Indonesia Serikat",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
-  "treasury": 376371412,
+  "treasury": 382300363,
   "country_number": 54,
-  "player_count": 943,
-  "provinces_count": 6,
+  "player_count": 946,
+  "provinces_count": 8,
   "capital": {
     "name": "Cava",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/cava.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 37,
-    "altin": 97,
-    "petrol": 60,
-    "nte": 81,
-    "elmas": 53
+    "deri": 47,
+    "altin": 121,
+    "petrol": 86,
+    "nte": 104,
+    "elmas": 76
   },
   "average_scores": {
-    "education": 1.5,
-    "military": 0.5,
-    "development": 5.5,
-    "health": 3.3
+    "education": 1,
+    "military": 0.8,
+    "development": 4.4,
+    "health": 2.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 478,
+      "player_count": 481,
       "scores": {
         "education": 4,
         "military": 0,
@@ -50,6 +50,54 @@
       }
     },
     {
+      "name": "Doğu Timor",
+      "icon": "🏝️",
+      "coat_url": "https://diplomacia.com.tr/coats/dogutimor.png?v=3",
+      "region": "Güneydoğu Asya (Timor Adası)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 5,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 0,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 10,
+        "petrol": 12,
+        "nte": 9,
+        "elmas": 4
+      }
+    },
+    {
+      "name": "Kalimantan",
+      "icon": "🌳",
+      "coat_url": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
+      "region": "Borneo (Kalimantan)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 40,
+      "scores": {
+        "education": 0,
+        "military": 3,
+        "development": 2,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 5,
+        "altin": 14,
+        "petrol": 14,
+        "nte": 14,
+        "elmas": 19
+      }
+    },
+    {
       "name": "Mindanao",
       "icon": "🌺",
       "coat_url": "https://diplomacia.com.tr/coats/mindanao.png?v=3",
@@ -57,9 +105,9 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 29,
+      "player_count": 27,
       "scores": {
-        "education": 3,
+        "education": 2,
         "military": 1,
         "development": 3,
         "health": 1,
@@ -129,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 66,
+      "player_count": 64,
       "scores": {
         "education": 0,
         "military": 0,
@@ -153,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 126,
+      "player_count": 127,
       "scores": {
         "education": 2,
         "military": 2,
