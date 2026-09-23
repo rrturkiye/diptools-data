@@ -2,27 +2,27 @@
   "id": "da5b016b-6b16-4f93-9c97-ca8042b989bf",
   "name": "PERSIAN EMPIRE",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/da5b016b-6b16-4f93-9c97-ca8042b989bf-1789767136783.jpeg",
-  "treasury": 16523772,
+  "treasury": 17647025,
   "country_number": 114,
   "player_count": 22,
-  "provinces_count": 1,
+  "provinces_count": 2,
   "capital": {
     "name": "Tahran",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/tahran.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 7,
-    "altin": 6,
-    "petrol": 15,
-    "nte": 11,
-    "elmas": 13
+    "deri": 13,
+    "altin": 10,
+    "petrol": 18,
+    "nte": 17,
+    "elmas": 30
   },
   "average_scores": {
-    "education": 4,
-    "military": 0,
-    "development": 8,
-    "health": 9
+    "education": 3.5,
+    "military": 4,
+    "development": 5,
+    "health": 4.5
   },
   "provinces": [
     {
@@ -33,12 +33,12 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 60,
+      "player_count": 64,
       "scores": {
         "education": 4,
         "military": 0,
-        "development": 8,
-        "health": 9,
+        "development": 9,
+        "health": 8,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -47,6 +47,30 @@
         "petrol": 15,
         "nte": 11,
         "elmas": 13
+      }
+    },
+    {
+      "name": "Paris",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/paris.png?v=3",
+      "region": "Kuzey Merkez (Île-de-France)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 87,
+      "scores": {
+        "education": 3,
+        "military": 8,
+        "development": 1,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 4,
+        "petrol": 3,
+        "nte": 6,
+        "elmas": 17
       }
     }
   ]
