@@ -2,14 +2,14 @@
   "id": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
   "name": "Istana Nusavalon",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-  "treasury": 50325087,
+  "treasury": 51433899,
   "country_number": 155,
-  "player_count": 75,
+  "player_count": 74,
   "provinces_count": 3,
   "capital": {
-    "name": "Pekin",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/china.png"
+    "name": "Meksiko",
+    "icon": "🌮",
+    "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 31,
@@ -20,44 +20,20 @@
   },
   "average_scores": {
     "education": 3,
-    "military": 7.7,
-    "development": 4.3,
+    "military": 7.3,
+    "development": 4.7,
     "health": 3.7
   },
   "provinces": [
-    {
-      "name": "Pekin",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/china.png",
-      "region": "Çin",
-      "is_capital": true,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 48,
-      "scores": {
-        "education": 0,
-        "military": 5,
-        "development": 9,
-        "health": 10,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 6,
-        "altin": 7,
-        "petrol": 5,
-        "nte": 10,
-        "elmas": 20
-      }
-    },
     {
       "name": "Meksiko",
       "icon": "🌮",
       "coat_url": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "region": "Orta Amerika",
-      "is_capital": false,
+      "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 20,
       "scores": {
         "education": 5,
         "military": 8,
@@ -71,6 +47,30 @@
         "petrol": 11,
         "nte": 13,
         "elmas": 14
+      }
+    },
+    {
+      "name": "Pekin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 45,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 20
       }
     },
     {

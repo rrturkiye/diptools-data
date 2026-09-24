@@ -174,6 +174,16 @@
       "countryId": "d787f333-dd2a-4403-9f70-44b03d6e4a22",
       "bordersOpen": true
     },
+    "Sinaloa": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Istana Nusavalon",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
+      "bordersOpen": false
+    },
     "Halep": {
       "code": null,
       "color": "#a3bcc2",
@@ -242,16 +252,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
       "countryId": "91dc9647-2722-42ea-92e8-913764f7d013",
-      "bordersOpen": false
-    },
-    "Sinaloa": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Istana Nusavalon",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
       "bordersOpen": false
     },
     "Karabağ": {
@@ -604,16 +604,6 @@
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46",
       "bordersOpen": false
     },
-    "Pekin": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Istana Nusavalon",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
-      "bordersOpen": false
-    },
     "Şian": {
       "code": null,
       "color": "#af1f1d",
@@ -751,16 +741,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789759117695.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kesmir.png?v=3",
       "countryId": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
-      "bordersOpen": false
-    },
-    "Meksiko": {
-      "code": null,
-      "color": "#a00d0d",
-      "name": "Istana Nusavalon",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
-      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
       "bordersOpen": false
     },
     "Hırvatistan": {
@@ -973,6 +953,16 @@
       "countryId": "43262e0b-726a-4a9f-8a52-44f582257946",
       "bordersOpen": false
     },
+    "Pekin": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Istana Nusavalon",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/china.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
+      "bordersOpen": false
+    },
     "Kalimantan": {
       "code": null,
       "color": "#e39c16",
@@ -981,6 +971,16 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kalimantan.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
+      "bordersOpen": false
+    },
+    "Meksiko": {
+      "code": null,
+      "color": "#a00d0d",
+      "name": "Istana Nusavalon",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8fe73eae-4a77-47d8-aa3e-9516244b358f-1789208033035.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
+      "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
       "bordersOpen": false
     },
     "Marsilya": {
@@ -1046,9 +1046,9 @@
     "Madrid": {
       "code": null,
       "color": "#4876c7",
-      "name": "Círculo Akelarre del Cantábrico",
+      "name": "España",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1790234925234.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/madrid.png?v=3",
       "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7",
       "bordersOpen": false
@@ -1795,9 +1795,9 @@
     "Sibirya": {
       "code": null,
       "color": "#4876c7",
-      "name": "Círculo Akelarre del Cantábrico",
+      "name": "España",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1786306622332.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1790234925234.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
       "countryId": "dc266d20-3045-4c2d-8185-2022a532c0b7",
       "bordersOpen": false

@@ -1,0 +1,77 @@
+{
+  "id": "dc266d20-3045-4c2d-8185-2022a532c0b7",
+  "name": "España",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/dc266d20-3045-4c2d-8185-2022a532c0b7-1790234925234.jpeg",
+  "treasury": 12750006,
+  "country_number": 100,
+  "player_count": 113,
+  "provinces_count": 2,
+  "capital": {
+    "name": "Sibirya",
+    "icon": "🌲",
+    "coat_url": "https://diplomacia.com.tr/coats/sibirya.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 18,
+    "altin": 21,
+    "petrol": 23,
+    "nte": 24,
+    "elmas": 22
+  },
+  "average_scores": {
+    "education": 2.5,
+    "military": 2.5,
+    "development": 8,
+    "health": 5.5
+  },
+  "provinces": [
+    {
+      "name": "Sibirya",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/sibirya.png?v=3",
+      "region": "Sibirya (Ob-İrtiş ovası)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 20,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 10,
+        "health": 7,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 14,
+        "petrol": 19,
+        "nte": 16,
+        "elmas": 7
+      }
+    },
+    {
+      "name": "Madrid",
+      "icon": "👑",
+      "coat_url": "https://diplomacia.com.tr/coats/madrid.png?v=3",
+      "region": "İspanya Başkenti (Orta İspanya)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 109,
+      "scores": {
+        "education": 5,
+        "military": 1,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 7,
+        "petrol": 4,
+        "nte": 8,
+        "elmas": 15
+      }
+    }
+  ]
+}
