@@ -2,38 +2,62 @@
   "id": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c",
   "name": "Marakeş Geçici Hükümeti",
   "flag_url": "https://diplomacia.com.tr/coats/fas.png?v=3",
-  "treasury": 445907,
+  "treasury": 534793,
   "country_number": 202,
-  "player_count": 189,
-  "provinces_count": 1,
+  "player_count": 196,
+  "provinces_count": 2,
   "capital": {
-    "name": "Marakeş",
+    "name": "Tunus",
     "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/fas.png?v=3"
+    "coat_url": "https://diplomacia.com.tr/coats/tunus.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 15,
-    "altin": 7,
-    "petrol": 5,
-    "nte": 14,
-    "elmas": 8
+    "deri": 24,
+    "altin": 11,
+    "petrol": 14,
+    "nte": 23,
+    "elmas": 16
   },
   "average_scores": {
-    "education": 0,
-    "military": 0,
-    "development": 1,
-    "health": 0
+    "education": 2.5,
+    "military": 1,
+    "development": 2.5,
+    "health": 1.5
   },
   "provinces": [
+    {
+      "name": "Tunus",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/tunus.png?v=3",
+      "region": null,
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 231,
+      "scores": {
+        "education": 5,
+        "military": 2,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 4,
+        "petrol": 9,
+        "nte": 9,
+        "elmas": 8
+      }
+    },
     {
       "name": "Marakeş",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/fas.png?v=3",
       "region": null,
-      "is_capital": true,
+      "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 165,
+      "player_count": 167,
       "scores": {
         "education": 0,
         "military": 0,

@@ -1,0 +1,53 @@
+{
+  "id": "55f9301b-3f44-4d6b-87b8-66e3f289c3d4",
+  "name": "Rus Ulusal Islah Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/55f9301b-3f44-4d6b-87b8-66e3f289c3d4-1789739755258.jpeg",
+  "treasury": 28540328,
+  "country_number": 211,
+  "player_count": 269,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Omsk",
+    "icon": "🌲",
+    "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 11,
+    "altin": 7,
+    "petrol": 14,
+    "nte": 8,
+    "elmas": 8
+  },
+  "average_scores": {
+    "education": 6,
+    "military": 2,
+    "development": 4,
+    "health": 3
+  },
+  "provinces": [
+    {
+      "name": "Omsk",
+      "icon": "🌲",
+      "coat_url": "https://diplomacia.com.tr/coats/omsk.png?v=3",
+      "region": "Sibirya (Ob nehri)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 286,
+      "scores": {
+        "education": 6,
+        "military": 2,
+        "development": 4,
+        "health": 3,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 11,
+        "altin": 7,
+        "petrol": 14,
+        "nte": 8,
+        "elmas": 8
+      }
+    }
+  ]
+}

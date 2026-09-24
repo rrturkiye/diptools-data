@@ -36,7 +36,7 @@
     },
     "Ankara": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -133,16 +133,6 @@
       "coatUrl": "https://diplomacia.com.tr/coats/kandahar.png?v=3",
       "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
       "bordersOpen": true
-    },
-    "Tunus": {
-      "code": null,
-      "color": "#e21216",
-      "name": "المملكة المغربية",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f01c0b18-8dad-4cab-b719-9b960f5ba8d7-1789424679463.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/tunus.png?v=3",
-      "countryId": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7",
-      "bordersOpen": false
     },
     "Şımkent": {
       "code": null,
@@ -252,7 +242,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/batum.png?v=3",
       "countryId": "91dc9647-2722-42ea-92e8-913764f7d013",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Karabağ": {
       "code": null,
@@ -297,7 +287,7 @@
     "Omsk": {
       "code": null,
       "color": "#edce21",
-      "name": "SİBİRYA KARA LİGİ",
+      "name": "Rus Ulusal Islah Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/55f9301b-3f44-4d6b-87b8-66e3f289c3d4-1789739755258.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/omsk.png?v=3",
@@ -336,7 +326,7 @@
     },
     "Musul": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -454,6 +444,16 @@
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828",
       "bordersOpen": true
     },
+    "Tunus": {
+      "code": null,
+      "color": "#0e48a4",
+      "name": "Marakeş Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/tunus.png?v=3",
+      "countryId": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c",
+      "bordersOpen": false
+    },
     "São Paulo": {
       "code": null,
       "color": "#084408",
@@ -566,7 +566,7 @@
     },
     "Diyarbakır": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -666,7 +666,7 @@
     },
     "Samsun": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -676,7 +676,7 @@
     },
     "Adana": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -871,7 +871,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": true
+      "bordersOpen": false
     },
     "Bosna Hersek": {
       "code": null,
@@ -921,7 +921,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/karadag.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": true
+      "bordersOpen": false
     },
     "Arnavutluk": {
       "code": null,
@@ -931,14 +931,14 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": true
+      "bordersOpen": false
     },
     "Ürdün": {
       "code": null,
       "color": "#1d0da5",
       "name": "Ürdün Geçici Hükümeti",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/45b88545-373e-46fd-bc78-02cc1d5b6209-1790175277492.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
       "countryId": "45b88545-373e-46fd-bc78-02cc1d5b6209",
       "bordersOpen": false
@@ -1095,7 +1095,7 @@
     },
     "Erzurum": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1105,7 +1105,7 @@
     },
     "İstanbul": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1115,7 +1115,7 @@
     },
     "İzmir": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1240,7 +1240,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/kosova.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": true
+      "bordersOpen": false
     },
     "Bogota": {
       "code": null,
@@ -1394,7 +1394,7 @@
     },
     "Erzincan": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1424,7 +1424,7 @@
     },
     "Rize": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1454,7 +1454,7 @@
     },
     "Ardahan": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1630,11 +1630,11 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": true
+      "bordersOpen": false
     },
     "Kafkasya": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1694,7 +1694,7 @@
     },
     "Eskişehir": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1825,16 +1825,16 @@
     "Horasan": {
       "code": null,
       "color": "#4e134e",
-      "name": "The Kingdom of Westeros",
+      "name": "HORASAN TÜRK İMPARATORLUĞU",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1789646094068.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/10fbeac3-ab69-4c1a-a741-83297b17688a-1790269304507.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/horasan.png?v=3",
       "countryId": "10fbeac3-ab69-4c1a-a741-83297b17688a",
       "bordersOpen": false
     },
     "Amasya": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1844,7 +1844,7 @@
     },
     "Afyon": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1854,7 +1854,7 @@
     },
     "Kahramanmaraş": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -1864,7 +1864,7 @@
     },
     "Denizli": {
       "code": null,
-      "color": "#c1db8a",
+      "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
@@ -2092,16 +2092,6 @@
       "countryId": "76556b7e-4548-4a94-9c75-3e27caea487f",
       "bordersOpen": false
     },
-    "Marakeş": {
-      "code": null,
-      "color": "#0e48a4",
-      "name": "Marakeş Geçici Hükümeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
-      "coatUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
-      "countryId": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c",
-      "bordersOpen": false
-    },
     "Bingazi": {
       "code": null,
       "color": "#87892a",
@@ -2120,6 +2110,16 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/fd131b6a-8186-4ea2-9f9b-b0edd1c078cf-1789406879007.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/venedik.png?v=3",
       "countryId": "fd131b6a-8186-4ea2-9f9b-b0edd1c078cf",
+      "bordersOpen": false
+    },
+    "Marakeş": {
+      "code": null,
+      "color": "#0e48a4",
+      "name": "Marakeş Geçici Hükümeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
+      "coatUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
+      "countryId": "a179bcd1-1f1e-48fa-a0f0-59a8d4153b0c",
       "bordersOpen": false
     }
   }
