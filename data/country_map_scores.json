@@ -102,6 +102,12 @@
       "development": 9,
       "health": 9
     },
+    "Trablus": {
+      "education": 9,
+      "military": 10,
+      "development": 8,
+      "health": 7
+    },
     "Katar": {
       "education": 9,
       "military": 10,
@@ -119,12 +125,6 @@
       "military": 8,
       "development": 8,
       "health": 8
-    },
-    "Trablus": {
-      "education": 9,
-      "military": 10,
-      "development": 8,
-      "health": 7
     },
     "Napoli": {
       "education": 9,
@@ -224,7 +224,7 @@
     },
     "Guayana": {
       "education": 8,
-      "military": 7,
+      "military": 6,
       "development": 4,
       "health": 7
     },
@@ -236,7 +236,7 @@
     },
     "İslamabad": {
       "education": 8,
-      "military": 11,
+      "military": 10,
       "development": 6,
       "health": 5
     },
@@ -260,7 +260,7 @@
     },
     "Asvan": {
       "education": 7,
-      "military": 7,
+      "military": 6,
       "development": 7,
       "health": 3
     },
@@ -477,7 +477,7 @@
     "Cezayir": {
       "education": 4,
       "military": 9,
-      "development": 6,
+      "development": 7,
       "health": 6
     },
     "Nahçıvan": {
@@ -786,17 +786,17 @@
       "development": 6,
       "health": 10
     },
+    "Selanik": {
+      "education": 0,
+      "military": 11,
+      "development": 0,
+      "health": 0
+    },
     "Suudi Arabistan": {
       "education": 0,
       "military": 10,
       "development": 10,
       "health": 8
-    },
-    "Selanik": {
-      "education": 0,
-      "military": 10,
-      "development": 0,
-      "health": 0
     },
     "Kabil": {
       "education": 0,
@@ -912,6 +912,12 @@
       "development": 3,
       "health": 9
     },
+    "Belh": {
+      "education": 0,
+      "military": 7,
+      "development": 5,
+      "health": 7
+    },
     "Almatı": {
       "education": 0,
       "military": 7,
@@ -923,12 +929,6 @@
       "military": 6,
       "development": 9,
       "health": 10
-    },
-    "Belh": {
-      "education": 0,
-      "military": 6,
-      "development": 5,
-      "health": 7
     },
     "Bretonya": {
       "education": 0,
@@ -1125,7 +1125,7 @@
     "Illinois": {
       "education": 0,
       "military": 0,
-      "development": 7,
+      "development": 6,
       "health": 7
     },
     "Tibet": {

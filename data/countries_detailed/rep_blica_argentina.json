@@ -2,14 +2,14 @@
   "id": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
   "name": "República Argentina",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
-  "treasury": 139020805,
+  "treasury": 304887455,
   "country_number": 103,
-  "player_count": 818,
+  "player_count": 807,
   "provinces_count": 4,
   "capital": {
-    "name": "Buenos Aires",
-    "icon": "🥩",
-    "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3"
+    "name": "Patagonia",
+    "icon": null,
+    "coat_url": "https://diplomacia.com.tr/coats/patagonia.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 69,
@@ -26,14 +26,38 @@
   },
   "provinces": [
     {
-      "name": "Buenos Aires",
-      "icon": "🥩",
-      "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
-      "region": "Güney Amerika (Güney)",
+      "name": "Patagonia",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/patagonia.png?v=3",
+      "region": "Amerika",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 250,
+      "player_count": 166,
+      "scores": {
+        "education": 2,
+        "military": 6,
+        "development": 8,
+        "health": 8,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 18,
+        "altin": 14,
+        "petrol": 14,
+        "nte": 11,
+        "elmas": 4
+      }
+    },
+    {
+      "name": "Buenos Aires",
+      "icon": "����",
+      "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
+      "region": "Güney Amerika (Güney)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 247,
       "scores": {
         "education": 10,
         "military": 10,
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 185,
+      "player_count": 180,
       "scores": {
         "education": 1,
         "military": 7,
@@ -81,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 174,
+      "player_count": 170,
       "scores": {
         "education": 6,
         "military": 4,
@@ -95,30 +119,6 @@
         "petrol": 13,
         "nte": 10,
         "elmas": 9
-      }
-    },
-    {
-      "name": "Patagonia",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/patagonia.png?v=3",
-      "region": "Amerika",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 164,
-      "scores": {
-        "education": 2,
-        "military": 6,
-        "development": 8,
-        "health": 8,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 18,
-        "altin": 14,
-        "petrol": 14,
-        "nte": 11,
-        "elmas": 4
       }
     }
   ]

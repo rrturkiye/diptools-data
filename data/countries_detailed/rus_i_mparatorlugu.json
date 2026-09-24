@@ -2,27 +2,27 @@
   "id": "15054b7d-7503-4345-9434-c67d898b8ac0",
   "name": "Rus İmparatorluğu",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/15054b7d-7503-4345-9434-c67d898b8ac0-1790108583680.jpeg",
-  "treasury": 30314180,
+  "treasury": 32113594,
   "country_number": 86,
-  "player_count": 292,
-  "provinces_count": 7,
+  "player_count": 173,
+  "provinces_count": 6,
   "capital": {
     "name": "Moskova",
     "icon": "🏙️",
     "coat_url": "https://diplomacia.com.tr/coats/moskova.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 86,
-    "altin": 80,
-    "petrol": 75,
-    "nte": 90,
-    "elmas": 85
+    "deri": 70,
+    "altin": 66,
+    "petrol": 64,
+    "nte": 78,
+    "elmas": 76
   },
   "average_scores": {
-    "education": 3.3,
-    "military": 5.3,
-    "development": 6.6,
-    "health": 5.1
+    "education": 2.3,
+    "military": 6.2,
+    "development": 6.8,
+    "health": 5.2
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 38,
+      "player_count": 39,
       "scores": {
         "education": 0,
         "military": 3,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 29,
+      "player_count": 32,
       "scores": {
         "education": 1,
         "military": 7,
@@ -105,7 +105,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 94,
+      "player_count": 90,
       "scores": {
         "education": 6,
         "military": 6,
@@ -122,30 +122,6 @@
       }
     },
     {
-      "name": "Fargona",
-      "icon": "🌸",
-      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
-      "region": "Fergana Vadisi (Özbekistan)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 6,
-      "scores": {
-        "education": 9,
-        "military": 0,
-        "development": 5,
-        "health": 5,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 16,
-        "altin": 14,
-        "petrol": 11,
-        "nte": 12,
-        "elmas": 9
-      }
-    },
-    {
       "name": "St. Petersburg",
       "icon": "🏛️",
       "coat_url": "https://diplomacia.com.tr/coats/petersburg.png?v=3",
@@ -153,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 277,
+      "player_count": 159,
       "scores": {
         "education": 7,
         "military": 5,

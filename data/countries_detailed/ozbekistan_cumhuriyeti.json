@@ -2,27 +2,27 @@
   "id": "43262e0b-726a-4a9f-8a52-44f582257946",
   "name": "Özbekistan Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/43262e0b-726a-4a9f-8a52-44f582257946-1785954628652.png",
-  "treasury": 68196624,
+  "treasury": 68325307,
   "country_number": 85,
-  "player_count": 68,
-  "provinces_count": 3,
+  "player_count": 67,
+  "provinces_count": 4,
   "capital": {
     "name": "Semerkant",
     "icon": "🕌",
     "coat_url": "https://diplomacia.com.tr/coats/semerkand.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 31,
-    "altin": 41,
-    "petrol": 36,
-    "nte": 39,
-    "elmas": 21
+    "deri": 47,
+    "altin": 55,
+    "petrol": 47,
+    "nte": 51,
+    "elmas": 30
   },
   "average_scores": {
-    "education": 2,
-    "military": 6.7,
+    "education": 3.8,
+    "military": 5,
     "development": 5.3,
-    "health": 4.3
+    "health": 4.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 26,
+      "player_count": 25,
       "scores": {
         "education": 3,
         "military": 6,
@@ -71,6 +71,30 @@
         "petrol": 16,
         "nte": 13,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Fargona",
+      "icon": "🌸",
+      "coat_url": "https://diplomacia.com.tr/coats/ozbekistan.png?v=3",
+      "region": "Fergana Vadisi (Özbekistan)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 6,
+      "scores": {
+        "education": 9,
+        "military": 0,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 16,
+        "altin": 14,
+        "petrol": 11,
+        "nte": 12,
+        "elmas": 9
       }
     },
     {
