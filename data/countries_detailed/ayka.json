@@ -2,27 +2,27 @@
   "id": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
   "name": "AYKA",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-  "treasury": 101571520,
+  "treasury": 101865332,
   "country_number": 127,
-  "player_count": 119,
-  "provinces_count": 5,
+  "player_count": 117,
+  "provinces_count": 4,
   "capital": {
     "name": "Arnavutluk",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/arnavutluk.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 44,
-    "altin": 49,
-    "petrol": 40,
-    "nte": 42,
-    "elmas": 34
+    "deri": 34,
+    "altin": 38,
+    "petrol": 33,
+    "nte": 35,
+    "elmas": 24
   },
   "average_scores": {
-    "education": 4.2,
-    "military": 6.2,
-    "development": 1.8,
-    "health": 3.4
+    "education": 3.5,
+    "military": 6.5,
+    "development": 2,
+    "health": 3.8
   },
   "provinces": [
     {
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 4,
+      "player_count": 3,
       "scores": {
         "education": 0,
         "military": 6,
@@ -119,30 +119,6 @@
         "petrol": 4,
         "nte": 10,
         "elmas": 5
-      }
-    },
-    {
-      "name": "Tiflis",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
-      "region": "Güney Kafkasya (Gürcistan Başkenti)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 4,
-      "scores": {
-        "education": 7,
-        "military": 5,
-        "development": 1,
-        "health": 2,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 10,
-        "altin": 11,
-        "petrol": 7,
-        "nte": 7,
-        "elmas": 10
       }
     }
   ]

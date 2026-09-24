@@ -2,27 +2,27 @@
   "id": "cbe20b56-34d7-4b08-abdb-b9794ee2544d",
   "name": "Türkmenistan Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789825373842.png",
-  "treasury": 54259333,
+  "treasury": 54659346,
   "country_number": 91,
-  "player_count": 51,
-  "provinces_count": 2,
+  "player_count": 50,
+  "provinces_count": 3,
   "capital": {
     "name": "Mary",
     "icon": "🏺",
     "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 23,
-    "altin": 16,
-    "petrol": 27,
-    "nte": 21,
-    "elmas": 11
+    "deri": 35,
+    "altin": 25,
+    "petrol": 40,
+    "nte": 32,
+    "elmas": 22
   },
   "average_scores": {
-    "education": 5,
-    "military": 5,
-    "development": 4,
-    "health": 2.5
+    "education": 3.7,
+    "military": 3.7,
+    "development": 3,
+    "health": 1.7
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 24,
+      "player_count": 23,
       "scores": {
         "education": 8,
         "military": 5,
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Aşkabat",
+      "icon": "🏛️",
+      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "region": "Türkmenistan Başkenti",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 4,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 12,
+        "altin": 9,
+        "petrol": 13,
+        "nte": 11,
+        "elmas": 11
+      }
+    },
+    {
       "name": "Daşoguz",
       "icon": "🌾",
       "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
@@ -59,8 +83,8 @@
       "independence_date": null,
       "player_count": 12,
       "scores": {
-        "education": 2,
-        "military": 5,
+        "education": 3,
+        "military": 6,
         "development": 4,
         "health": 2,
         "health_world_first": false

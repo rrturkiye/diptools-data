@@ -2,27 +2,27 @@
   "id": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
   "name": "Thema Hellados",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
-  "treasury": 40727515,
+  "treasury": 73011482,
   "country_number": 126,
   "player_count": 68,
-  "provinces_count": 5,
+  "provinces_count": 6,
   "capital": {
     "name": "Mora",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/mora.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 45,
-    "altin": 30,
-    "petrol": 35,
-    "nte": 43,
-    "elmas": 58
+    "deri": 55,
+    "altin": 42,
+    "petrol": 41,
+    "nte": 51,
+    "elmas": 77
   },
   "average_scores": {
-    "education": 3,
-    "military": 4.6,
-    "development": 2.8,
-    "health": 1
+    "education": 2.5,
+    "military": 4.7,
+    "development": 3.3,
+    "health": 1.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 0,
+      "player_count": 1,
       "scores": {
         "education": 6,
         "military": 0,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 5,
+      "player_count": 3,
       "scores": {
         "education": 3,
         "military": 10,
@@ -98,6 +98,30 @@
       }
     },
     {
+      "name": "İzmir",
+      "icon": "🌊",
+      "coat_url": "https://diplomacia.com.tr/coats/izmir.png?v=3",
+      "region": "Ege (Batı Kıyısı)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 20,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 6,
+        "health": 4,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 10,
+        "altin": 12,
+        "petrol": 6,
+        "nte": 8,
+        "elmas": 19
+      }
+    },
+    {
       "name": "Kabil",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/kabil.png",
@@ -105,7 +129,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 9,
       "scores": {
         "education": 0,
         "military": 10,

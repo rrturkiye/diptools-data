@@ -82,7 +82,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1789857730387.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/belh.png?v=3",
       "countryId": "ca192381-559f-40fa-a94d-e874a13917c6",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Bahreyn": {
       "code": null,
@@ -174,16 +174,6 @@
       "countryId": "8fe73eae-4a77-47d8-aa3e-9516244b358f",
       "bordersOpen": false
     },
-    "Halep": {
-      "code": null,
-      "color": "#a3bcc2",
-      "name": "Osmanlı İslam Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/984d1038-b1f0-4530-8cf4-e7d00c4a52c7-1788804062063.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
-      "countryId": "984d1038-b1f0-4530-8cf4-e7d00c4a52c7",
-      "bordersOpen": false
-    },
     "Düsseldorf": {
       "code": null,
       "color": "#2f271e",
@@ -212,7 +202,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/sofya.png?v=3",
       "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Nahçıvan": {
       "code": null,
@@ -292,7 +282,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/55f9301b-3f44-4d6b-87b8-66e3f289c3d4-1789739755258.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/omsk.png?v=3",
       "countryId": "55f9301b-3f44-4d6b-87b8-66e3f289c3d4",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Sumatra": {
       "code": null,
@@ -414,16 +404,6 @@
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
       "bordersOpen": false
     },
-    "Aşkabat": {
-      "code": null,
-      "color": "#aaa3c2",
-      "name": "İslam Devleti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
-      "countryId": "ebf00276-bc41-4857-9def-6f02f0db09ae",
-      "bordersOpen": false
-    },
     "Pavlodar": {
       "code": null,
       "color": "#470606",
@@ -464,6 +444,16 @@
       "countryId": "4ee14c46-59af-4800-aec7-8c5b07029828",
       "bordersOpen": true
     },
+    "Halep": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Damascus | الشام",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1789499131492.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
+      "countryId": "07d2672b-4aac-49d3-8587-b3a3c2002bf7",
+      "bordersOpen": false
+    },
     "Rabat": {
       "code": null,
       "color": "#e21216",
@@ -472,7 +462,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f01c0b18-8dad-4cab-b719-9b960f5ba8d7-1789424679463.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
       "countryId": "f01c0b18-8dad-4cab-b719-9b960f5ba8d7",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Trablus": {
       "code": null,
@@ -483,6 +473,16 @@
       "coatUrl": "https://diplomacia.com.tr/coats/libya.png?v=3",
       "countryId": "3588e2c7-1763-433d-be15-5742fe2471f4",
       "bordersOpen": true
+    },
+    "Aşkabat": {
+      "code": null,
+      "color": "#0e5311",
+      "name": "Türkmenistan Cumhuriyeti",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/cbe20b56-34d7-4b08-abdb-b9794ee2544d-1789825373842.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
+      "countryId": "cbe20b56-34d7-4b08-abdb-b9794ee2544d",
+      "bordersOpen": false
     },
     "Brasília": {
       "code": null,
@@ -564,7 +564,7 @@
       "countryId": "f61b1b71-6a8b-4eff-9070-61413d3837a5",
       "bordersOpen": false
     },
-    "Diyarbakır": {
+    "Diyarbak��r": {
       "code": null,
       "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
@@ -584,16 +584,6 @@
       "countryId": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6",
       "bordersOpen": false
     },
-    "Kueta": {
-      "code": null,
-      "color": "#791b1d",
-      "name": "Kingdom of Tylos",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/084fd698-13a2-4b41-a7c7-ebadcaf1e70e-1789759117695.jpeg",
-      "coatUrl": "https://diplomacia.com.tr/coats/kueta.png?v=3",
-      "countryId": "084fd698-13a2-4b41-a7c7-ebadcaf1e70e",
-      "bordersOpen": false
-    },
     "Moldova": {
       "code": null,
       "color": "#4e134e",
@@ -602,6 +592,16 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/effa8173-3e25-4063-a83a-ab5422e35a46-1788465447182.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/moldova.png?v=3",
       "countryId": "effa8173-3e25-4063-a83a-ab5422e35a46",
+      "bordersOpen": false
+    },
+    "Kueta": {
+      "code": null,
+      "color": "#e1191c",
+      "name": "Empire de Noustraa",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1181a04c-77ea-4cb3-8cc6-f4671d1a4958-1786945027687.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kueta.png?v=3",
+      "countryId": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958",
       "bordersOpen": false
     },
     "Şian": {
@@ -671,16 +671,6 @@
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/samsun.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
-      "bordersOpen": false
-    },
-    "Adana": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/adana.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "bordersOpen": false
     },
@@ -863,16 +853,6 @@
       "countryId": "cbe20b56-34d7-4b08-abdb-b9794ee2544d",
       "bordersOpen": false
     },
-    "Tiflis": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "AYKA",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
-      "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": false
-    },
     "Bosna Hersek": {
       "code": null,
       "color": "#4e134e",
@@ -973,6 +953,16 @@
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
       "bordersOpen": false
     },
+    "Tiflis": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "THEME GÜRCİSTAN KRALLIĞI",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/tiflis.png?v=3",
+      "countryId": "91dc9647-2722-42ea-92e8-913764f7d013",
+      "bordersOpen": true
+    },
     "Meksiko": {
       "code": null,
       "color": "#a00d0d",
@@ -1012,6 +1002,16 @@
       "coatUrl": "https://diplomacia.com.tr/coats/napoli.png?v=3",
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
       "bordersOpen": false
+    },
+    "Adana": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "⚜️Kıbrıs Kutsal Latin İmparatorluğu ⚜️",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1789145904271.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/adana.png?v=3",
+      "countryId": "1ae658e0-7301-42da-a440-3c5582ce4114",
+      "bordersOpen": true
     },
     "İsrail": {
       "code": null,
@@ -1103,26 +1103,6 @@
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "bordersOpen": false
     },
-    "İstanbul": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
-      "bordersOpen": false
-    },
-    "İzmir": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/izmir.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
-      "bordersOpen": false
-    },
     "Yeni Kaledonya": {
       "code": null,
       "color": "#280d96",
@@ -1211,7 +1191,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/ca192381-559f-40fa-a94d-e874a13917c6-1789857730387.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/isfahan.png?v=3",
       "countryId": "ca192381-559f-40fa-a94d-e874a13917c6",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Kaliforniya": {
       "code": "USA",
@@ -1250,7 +1230,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1790105596015.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "countryId": "bdb0966b-bd04-401b-8d01-8621df11c96b",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Yakutistan": {
       "code": null,
@@ -1290,7 +1270,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1790105596015.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "countryId": "bdb0966b-bd04-401b-8d01-8621df11c96b",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Barcelona": {
       "code": null,
@@ -1310,7 +1290,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/bdb0966b-bd04-401b-8d01-8621df11c96b-1790105596015.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kolombiya.png?v=3",
       "countryId": "bdb0966b-bd04-401b-8d01-8621df11c96b",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Manila": {
       "code": null,
@@ -1452,16 +1432,6 @@
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
       "bordersOpen": false
     },
-    "Ardahan": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
-      "bordersOpen": false
-    },
     "Mendoza": {
       "code": null,
       "color": "#6cace4",
@@ -1470,6 +1440,16 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mendoza.png?v=3",
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
+      "bordersOpen": false
+    },
+    "İstanbul": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
       "bordersOpen": false
     },
     "Santiago": {
@@ -1502,6 +1482,16 @@
       "countryId": "f5193745-ad13-4e86-96b9-81b8f8b003d1",
       "bordersOpen": false
     },
+    "İzmir": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Thema Hellados",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8c84941d-f8bd-4b99-a3e6-0b7f57b74451-1788170585552.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/izmir.png?v=3",
+      "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
+      "bordersOpen": true
+    },
     "Georgia": {
       "code": null,
       "color": "#0d0a4c",
@@ -1511,6 +1501,16 @@
       "coatUrl": "https://diplomacia.com.tr/coats/georgia.png?v=3",
       "countryId": "6a84d25c-5b26-4b3d-ab1b-b0200e774900",
       "bordersOpen": false
+    },
+    "Ardahan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "THEME GÜRCİSTAN KRALLIĞI",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/91dc9647-2722-42ea-92e8-913764f7d013-1789846371815.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3",
+      "countryId": "91dc9647-2722-42ea-92e8-913764f7d013",
+      "bordersOpen": true
     },
     "Altay": {
       "code": null,
@@ -1630,16 +1630,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/3ac6303e-5181-4168-9a9d-47c91449a3c8-1789103257912.png",
       "coatUrl": "https://diplomacia.com.tr/coats/mexico.png?v=3",
       "countryId": "3ac6303e-5181-4168-9a9d-47c91449a3c8",
-      "bordersOpen": false
-    },
-    "Kafkasya": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "bordersOpen": false
     },
     "Şincan": {
@@ -1820,7 +1810,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/varna.png?v=3",
       "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Horasan": {
       "code": null,
@@ -1982,6 +1972,16 @@
       "countryId": "6a63810e-77fb-4804-ae7f-2eb1962e2bef",
       "bordersOpen": false
     },
+    "Kafkasya": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "THEMA VANDORA",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/8830e4de-eb49-4c17-9217-0947f6da0746-1789410941209.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/kafkasya.png?v=3",
+      "countryId": "8830e4de-eb49-4c17-9217-0947f6da0746",
+      "bordersOpen": true
+    },
     "Solomon Adaları": {
       "code": null,
       "color": null,
@@ -2070,7 +2070,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/dda9313f-d3bf-4dac-bbdb-05e1ef36fc62-1789418877520.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/belem.png?v=3",
       "countryId": "dda9313f-d3bf-4dac-bbdb-05e1ef36fc62",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Floransa": {
       "code": null,

@@ -2,27 +2,27 @@
   "id": "07d2672b-4aac-49d3-8587-b3a3c2002bf7",
   "name": "Damascus | الشام",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1789499131492.png",
-  "treasury": 11397832,
+  "treasury": 36746841,
   "country_number": 206,
-  "player_count": 281,
-  "provinces_count": 1,
+  "player_count": 405,
+  "provinces_count": 2,
   "capital": {
     "name": "Şam",
     "icon": "🏛️",
     "coat_url": "https://diplomacia.com.tr/coats/sam.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 11,
-    "altin": 6,
-    "petrol": 9,
-    "nte": 5,
-    "elmas": 8
+    "deri": 24,
+    "altin": 13,
+    "petrol": 20,
+    "nte": 12,
+    "elmas": 17
   },
   "average_scores": {
-    "education": 4,
-    "military": 9,
-    "development": 3,
-    "health": 3
+    "education": 2,
+    "military": 7,
+    "development": 4,
+    "health": 4
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 135,
+      "player_count": 132,
       "scores": {
         "education": 4,
         "military": 9,
@@ -47,6 +47,30 @@
         "petrol": 9,
         "nte": 5,
         "elmas": 8
+      }
+    },
+    {
+      "name": "Halep",
+      "icon": "🕌",
+      "coat_url": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
+      "region": "Kuzey ve Doğu Suriye",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 95,
+      "scores": {
+        "education": 0,
+        "military": 5,
+        "development": 5,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 13,
+        "altin": 7,
+        "petrol": 11,
+        "nte": 7,
+        "elmas": 9
       }
     }
   ]

@@ -2,27 +2,27 @@
   "id": "1ae658e0-7301-42da-a440-3c5582ce4114",
   "name": "⚜️Kıbrıs Kutsal Latin İmparatorluğu ⚜️",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1ae658e0-7301-42da-a440-3c5582ce4114-1789145904271.jpeg",
-  "treasury": 45682708,
+  "treasury": 53929283,
   "country_number": 134,
-  "player_count": 17,
-  "provinces_count": 2,
+  "player_count": 18,
+  "provinces_count": 3,
   "capital": {
     "name": "Güney Kıbrıs",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/guneykibris.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 13,
-    "altin": 12,
-    "petrol": 19,
-    "nte": 11,
-    "elmas": 19
+    "deri": 21,
+    "altin": 18,
+    "petrol": 27,
+    "nte": 20,
+    "elmas": 29
   },
   "average_scores": {
-    "education": 3,
-    "military": 3,
-    "development": 3.5,
-    "health": 3.5
+    "education": 2,
+    "military": 2,
+    "development": 3.3,
+    "health": 3
   },
   "provinces": [
     {
@@ -47,6 +47,30 @@
         "petrol": 10,
         "nte": 7,
         "elmas": 12
+      }
+    },
+    {
+      "name": "Adana",
+      "icon": "🌊",
+      "coat_url": "https://diplomacia.com.tr/coats/adana.png?v=3",
+      "region": "Güney Anadolu (Akdeniz)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 8,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 3,
+        "health": 2,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 6,
+        "petrol": 8,
+        "nte": 9,
+        "elmas": 10
       }
     },
     {

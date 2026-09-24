@@ -2,9 +2,9 @@
   "id": "313a641c-f6ae-4553-aeae-318e78b093ec",
   "name": "Azərbaycan Respublikası",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/313a641c-f6ae-4553-aeae-318e78b093ec-1785139670069.png",
-  "treasury": 47512527,
+  "treasury": 47763720,
   "country_number": 65,
-  "player_count": 236,
+  "player_count": 237,
   "provinces_count": 5,
   "capital": {
     "name": "Bakü",
@@ -19,10 +19,10 @@
     "elmas": 44
   },
   "average_scores": {
-    "education": 6,
-    "military": 5.2,
-    "development": 6.2,
-    "health": 6
+    "education": 6.2,
+    "military": 5.6,
+    "development": 6,
+    "health": 6.2
   },
   "provinces": [
     {
@@ -33,10 +33,10 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 44,
+      "player_count": 43,
       "scores": {
         "education": 8,
-        "military": 4,
+        "military": 5,
         "development": 6,
         "health": 6,
         "health_world_first": false
@@ -59,7 +59,7 @@
       "independence_date": null,
       "player_count": 18,
       "scores": {
-        "education": 2,
+        "education": 3,
         "military": 2,
         "development": 7,
         "health": 6,
@@ -81,11 +81,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 65,
+      "player_count": 67,
       "scores": {
         "education": 9,
         "military": 8,
-        "development": 10,
+        "development": 9,
         "health": 8,
         "health_world_first": false
       },
@@ -110,7 +110,7 @@
         "education": 7,
         "military": 9,
         "development": 4,
-        "health": 5,
+        "health": 6,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -132,7 +132,7 @@
       "player_count": 12,
       "scores": {
         "education": 4,
-        "military": 3,
+        "military": 4,
         "development": 4,
         "health": 5,
         "health_world_first": false

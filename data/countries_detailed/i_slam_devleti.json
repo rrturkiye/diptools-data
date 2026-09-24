@@ -2,27 +2,27 @@
   "id": "ebf00276-bc41-4857-9def-6f02f0db09ae",
   "name": "İslam Devleti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/ebf00276-bc41-4857-9def-6f02f0db09ae-1787340536432.jpeg",
-  "treasury": 22792971,
+  "treasury": 22853366,
   "country_number": 88,
-  "player_count": 32,
-  "provinces_count": 3,
+  "player_count": 31,
+  "provinces_count": 2,
   "capital": {
     "name": "Hürmüz",
     "icon": "⚓",
     "coat_url": "https://diplomacia.com.tr/coats/hurmuz.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 30,
-    "altin": 29,
-    "petrol": 38,
-    "nte": 34,
-    "elmas": 29
+    "deri": 18,
+    "altin": 20,
+    "petrol": 25,
+    "nte": 23,
+    "elmas": 18
   },
   "average_scores": {
-    "education": 1.3,
-    "military": 3,
-    "development": 1.3,
-    "health": 1.7
+    "education": 2,
+    "military": 4.5,
+    "development": 1.5,
+    "health": 2.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 18,
+      "player_count": 20,
       "scores": {
         "education": 0,
         "military": 0,
@@ -46,30 +46,6 @@
         "altin": 5,
         "petrol": 15,
         "nte": 7,
-        "elmas": 11
-      }
-    },
-    {
-      "name": "Aşkabat",
-      "icon": "🏛️",
-      "coat_url": "https://diplomacia.com.tr/coats/turkmenistan.png?v=3",
-      "region": "Türkmenistan Başkenti",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 4,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 12,
-        "altin": 9,
-        "petrol": 13,
-        "nte": 11,
         "elmas": 11
       }
     },

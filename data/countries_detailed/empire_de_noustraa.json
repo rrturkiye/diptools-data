@@ -2,27 +2,27 @@
   "id": "1181a04c-77ea-4cb3-8cc6-f4671d1a4958",
   "name": "Empire de Noustraa",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/1181a04c-77ea-4cb3-8cc6-f4671d1a4958-1786945027687.jpeg",
-  "treasury": 34624201,
+  "treasury": 34836676,
   "country_number": 138,
   "player_count": 46,
-  "provinces_count": 3,
+  "provinces_count": 4,
   "capital": {
     "name": "Lahor",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/lahor.png"
   },
   "total_resource_bonuses": {
-    "deri": 34,
-    "altin": 18,
-    "petrol": 25,
-    "nte": 26,
-    "elmas": 42
+    "deri": 43,
+    "altin": 26,
+    "petrol": 40,
+    "nte": 44,
+    "elmas": 47
   },
   "average_scores": {
     "education": 0,
-    "military": 3.3,
-    "development": 3.7,
-    "health": 4.3
+    "military": 2.5,
+    "development": 3.5,
+    "health": 3.5
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 23,
       "scores": {
         "education": 0,
         "military": 6,
@@ -71,6 +71,30 @@
         "petrol": 14,
         "nte": 8,
         "elmas": 14
+      }
+    },
+    {
+      "name": "Kueta",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/kueta.png",
+      "region": "Asya",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 12,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 8,
+        "petrol": 15,
+        "nte": 18,
+        "elmas": 5
       }
     },
     {
