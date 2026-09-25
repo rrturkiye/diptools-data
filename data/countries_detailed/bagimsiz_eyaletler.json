@@ -1,30 +1,5 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 1,
-  "provinces": [
-    {
-      "name": "Alaska",
-      "icon": "❄️",
-      "coat_url": "https://diplomacia.com.tr/coats/alaska.png?v=3",
-      "region": "Kuzeybatı (Arktik)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-22T18:56:28.726Z",
-      "player_count": 295,
-      "scores": {
-        "education": 3,
-        "military": 7,
-        "development": 1,
-        "health": 1,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 7,
-        "altin": 18,
-        "petrol": 12,
-        "nte": 12,
-        "elmas": 6
-      }
-    }
-  ]
+  "provinces_count": 0,
+  "provinces": []
 }
