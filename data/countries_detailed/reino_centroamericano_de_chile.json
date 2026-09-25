@@ -2,27 +2,27 @@
   "id": "16fb3540-85c0-46fc-a143-f72db2337f86",
   "name": "Reino Centroamericano de Chile",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
-  "treasury": 304274147,
+  "treasury": 306751225,
   "country_number": 132,
-  "player_count": 207,
-  "provinces_count": 3,
+  "player_count": 213,
+  "provinces_count": 4,
   "capital": {
     "name": "Santiago",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/santiago.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 31,
-    "altin": 28,
-    "petrol": 20,
-    "nte": 36,
-    "elmas": 37
+    "deri": 51,
+    "altin": 36,
+    "petrol": 29,
+    "nte": 45,
+    "elmas": 56
   },
   "average_scores": {
-    "education": 0,
-    "military": 0,
-    "development": 8.7,
-    "health": 9
+    "education": 2.5,
+    "military": 2.3,
+    "development": 9,
+    "health": 9.3
   },
   "provinces": [
     {
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 65,
+      "player_count": 66,
       "scores": {
         "education": 0,
         "military": 0,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 62,
+      "player_count": 64,
       "scores": {
         "education": 0,
         "military": 0,
@@ -95,6 +95,30 @@
         "petrol": 7,
         "nte": 18,
         "elmas": 10
+      }
+    },
+    {
+      "name": "Buenos Aires",
+      "icon": "🥩",
+      "coat_url": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
+      "region": "Güney Amerika (Güney)",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 241,
+      "scores": {
+        "education": 10,
+        "military": 9,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 20,
+        "altin": 8,
+        "petrol": 9,
+        "nte": 9,
+        "elmas": 19
       }
     }
   ]

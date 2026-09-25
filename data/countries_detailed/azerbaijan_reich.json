@@ -2,7 +2,7 @@
   "id": "82bcb0bb-d541-428c-98fa-58f3471a47e6",
   "name": "Azerbaijan Reich",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/82bcb0bb-d541-428c-98fa-58f3471a47e6-1789934555876.jpeg",
-  "treasury": 59879278,
+  "treasury": 60240162,
   "country_number": 213,
   "player_count": 257,
   "provinces_count": 2,
@@ -20,8 +20,8 @@
   },
   "average_scores": {
     "education": 3,
-    "military": 5,
-    "development": 4,
+    "military": 5.5,
+    "development": 3.5,
     "health": 3
   },
   "provinces": [
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 290,
+      "player_count": 281,
       "scores": {
         "education": 6,
         "military": 10,
@@ -57,11 +57,11 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 8,
+      "player_count": 16,
       "scores": {
         "education": 0,
-        "military": 0,
-        "development": 4,
+        "military": 1,
+        "development": 3,
         "health": 2,
         "health_world_first": false
       },

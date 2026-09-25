@@ -349,10 +349,10 @@
       "color": "#4e134e",
       "name": "Damascus | الشام",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1789499131492.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1790201988825.png",
       "coatUrl": "https://diplomacia.com.tr/coats/damascus.png?v=3",
       "countryId": "07d2672b-4aac-49d3-8587-b3a3c2002bf7",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Yemen": {
       "code": null,
@@ -449,10 +449,10 @@
       "color": "#4e134e",
       "name": "Damascus | الشام",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1789499131492.png",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/07d2672b-4aac-49d3-8587-b3a3c2002bf7-1790201988825.png",
       "coatUrl": "https://diplomacia.com.tr/coats/aleppo.png?v=3",
       "countryId": "07d2672b-4aac-49d3-8587-b3a3c2002bf7",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Rabat": {
       "code": null,
@@ -1093,6 +1093,16 @@
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
       "bordersOpen": false
     },
+    "Buenos Aires": {
+      "code": null,
+      "color": "#921616",
+      "name": "Reino Centroamericano de Chile",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/16fb3540-85c0-46fc-a143-f72db2337f86-1787552104166.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
+      "countryId": "16fb3540-85c0-46fc-a143-f72db2337f86",
+      "bordersOpen": false
+    },
     "Yeni Kaledonya": {
       "code": null,
       "color": "#280d96",
@@ -1402,19 +1412,9 @@
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "bordersOpen": false
     },
-    "Buenos Aires": {
-      "code": null,
-      "color": "#6cace4",
-      "name": "República Argentina",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/buenos-aires.png?v=3",
-      "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
-      "bordersOpen": false
-    },
     "Córdoba": {
       "code": null,
-      "color": "#6cace4",
+      "color": "#a3c2bf",
       "name": "República Argentina",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
@@ -1424,7 +1424,7 @@
     },
     "Mendoza": {
       "code": null,
-      "color": "#6cace4",
+      "color": "#a3c2bf",
       "name": "República Argentina",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
@@ -1944,7 +1944,7 @@
     },
     "Patagonia": {
       "code": null,
-      "color": "#6cace4",
+      "color": "#a3c2bf",
       "name": "República Argentina",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/aaab2906-4d92-4fbd-9d92-16be96fbcd96-1788828233277.png",
