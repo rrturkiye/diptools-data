@@ -1,0 +1,53 @@
+{
+  "id": "71d78e68-4461-42a1-b362-2650312d08e5",
+  "name": "RISE OF THE REICH",
+  "flag_url": "https://diplomacia.com.tr/uploads/country-flags/71d78e68-4461-42a1-b362-2650312d08e5-1790317118940.jpeg",
+  "treasury": 2386594,
+  "country_number": 135,
+  "player_count": 191,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Kostanay",
+    "icon": "🌾",
+    "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 17,
+    "altin": 13,
+    "petrol": 8,
+    "nte": 15,
+    "elmas": 5
+  },
+  "average_scores": {
+    "education": 1,
+    "military": 7,
+    "development": 3,
+    "health": 1
+  },
+  "provinces": [
+    {
+      "name": "Kostanay",
+      "icon": "🌾",
+      "coat_url": "https://diplomacia.com.tr/coats/kazakistan.png?v=3",
+      "region": "Kuzey Kazakistan",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 25,
+      "scores": {
+        "education": 1,
+        "military": 7,
+        "development": 3,
+        "health": 1,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 17,
+        "altin": 13,
+        "petrol": 8,
+        "nte": 15,
+        "elmas": 5
+      }
+    }
+  ]
+}

@@ -57,7 +57,7 @@
     "Fuçou": {
       "education": 10,
       "military": 10,
-      "development": 10,
+      "development": 9,
       "health": 10
     },
     "Rio Grande do Sul": {
@@ -70,12 +70,12 @@
       "education": 10,
       "military": 9,
       "development": 10,
-      "health": 10
+      "health": 9
     },
     "Sofya": {
       "education": 10,
       "military": 2,
-      "development": 6,
+      "development": 5,
       "health": 3
     },
     "Rabat": {
@@ -180,6 +180,12 @@
       "development": 9,
       "health": 7
     },
+    "Batum": {
+      "education": 8,
+      "military": 8,
+      "development": 4,
+      "health": 10
+    },
     "Filistin": {
       "education": 8,
       "military": 4,
@@ -235,20 +241,14 @@
       "health": 3
     },
     "Medellin": {
-      "education": 8,
+      "education": 7,
       "military": 7,
       "development": 9,
       "health": 8
     },
-    "Batum": {
-      "education": 7,
-      "military": 7,
-      "development": 4,
-      "health": 9
-    },
     "İslamabad": {
       "education": 7,
-      "military": 11,
+      "military": 10,
       "development": 6,
       "health": 5
     },
@@ -366,6 +366,12 @@
       "development": 3,
       "health": 2
     },
+    "Meksiko": {
+      "education": 6,
+      "military": 8,
+      "development": 1,
+      "health": 1
+    },
     "Güney Kıbrıs": {
       "education": 6,
       "military": 3,
@@ -387,7 +393,7 @@
     "Omsk": {
       "education": 5,
       "military": 2,
-      "development": 5,
+      "development": 4,
       "health": 3
     },
     "Mora": {
@@ -432,12 +438,6 @@
       "development": 7,
       "health": 8
     },
-    "Meksiko": {
-      "education": 5,
-      "military": 8,
-      "development": 1,
-      "health": 1
-    },
     "Sabah": {
       "education": 5,
       "military": 3,
@@ -453,7 +453,7 @@
     "Horasan": {
       "education": 5,
       "military": 3,
-      "development": 4,
+      "development": 3,
       "health": 2
     },
     "Guadalajara": {
@@ -538,7 +538,7 @@
       "education": 3,
       "military": 10,
       "development": 2,
-      "health": 0
+      "health": 1
     },
     "Karaganda": {
       "education": 3,
@@ -639,7 +639,7 @@
     "Sumatra": {
       "education": 2,
       "military": 2,
-      "development": 5,
+      "development": 6,
       "health": 5
     },
     "Sevilla": {
@@ -693,7 +693,7 @@
     "Minnesota": {
       "education": 2,
       "military": 0,
-      "development": 4,
+      "development": 3,
       "health": 3
     },
     "Afyon": {
@@ -710,7 +710,7 @@
     },
     "İstanbul": {
       "education": 1,
-      "military": 9,
+      "military": 11,
       "development": 6,
       "health": 4
     },
@@ -747,7 +747,7 @@
     "İngiltere": {
       "education": 1,
       "military": 10,
-      "development": 10,
+      "development": 9,
       "health": 9
     },
     "Denizli": {
@@ -783,7 +783,7 @@
     "Valencia": {
       "education": 1,
       "military": 3,
-      "development": 5,
+      "development": 4,
       "health": 7
     },
     "Selanik": {
@@ -891,7 +891,7 @@
     "Sarawak": {
       "education": 0,
       "military": 7,
-      "development": 3,
+      "development": 5,
       "health": 8
     },
     "Belh": {
@@ -963,7 +963,7 @@
     "Sibirya": {
       "education": 0,
       "military": 4,
-      "development": 9,
+      "development": 10,
       "health": 8
     },
     "Bahreyn": {
@@ -1146,6 +1146,12 @@
       "development": 5,
       "health": 6
     },
+    "Papua Yeni Gine": {
+      "education": 0,
+      "military": 0,
+      "development": 4,
+      "health": 0
+    },
     "Hürmüz": {
       "education": 0,
       "military": 0,
@@ -1173,7 +1179,7 @@
     "Kueta": {
       "education": 0,
       "military": 0,
-      "development": 3,
+      "development": 2,
       "health": 1
     },
     "Yemen": {
@@ -1187,12 +1193,6 @@
       "military": 0,
       "development": 2,
       "health": 1
-    },
-    "Papua Yeni Gine": {
-      "education": 0,
-      "military": 0,
-      "development": 2,
-      "health": 0
     },
     "Umman": {
       "education": 0,

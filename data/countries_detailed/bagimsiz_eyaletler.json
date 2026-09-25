@@ -1,6 +1,6 @@
 {
   "title": "Bağımsız / Sahipsiz Eyaletler",
-  "provinces_count": 2,
+  "provinces_count": 1,
   "provinces": [
     {
       "name": "Alaska",
@@ -10,7 +10,7 @@
       "is_capital": false,
       "is_independent": true,
       "independence_date": "2026-09-22T18:56:28.726Z",
-      "player_count": 272,
+      "player_count": 279,
       "scores": {
         "education": 3,
         "military": 7,
@@ -24,30 +24,6 @@
         "petrol": 12,
         "nte": 12,
         "elmas": 6
-      }
-    },
-    {
-      "name": "Perm",
-      "icon": "🏭",
-      "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
-      "region": "Doğu Avrupa (Kama nehri)",
-      "is_capital": false,
-      "is_independent": true,
-      "independence_date": "2026-09-21T10:15:07.689Z",
-      "player_count": 250,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 1,
-        "health": 0,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 9,
-        "altin": 10,
-        "petrol": 14,
-        "nte": 12,
-        "elmas": 7
       }
     }
   ]

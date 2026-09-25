@@ -5,24 +5,24 @@
   "treasury": 186901855,
   "country_number": 104,
   "player_count": 90,
-  "provinces_count": 2,
+  "provinces_count": 3,
   "capital": {
     "name": "Şenyang",
     "icon": null,
     "coat_url": "https://diplomacia.com.tr/coats/china.png"
   },
   "total_resource_bonuses": {
-    "deri": 13,
-    "altin": 22,
-    "petrol": 17,
-    "nte": 20,
-    "elmas": 18
+    "deri": 19,
+    "altin": 29,
+    "petrol": 22,
+    "nte": 30,
+    "elmas": 38
   },
   "average_scores": {
-    "education": 0.5,
-    "military": 8.5,
-    "development": 2,
-    "health": 4
+    "education": 0.3,
+    "military": 7,
+    "development": 4.7,
+    "health": 6
   },
   "provinces": [
     {
@@ -50,6 +50,30 @@
       }
     },
     {
+      "name": "Pekin",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/china.png",
+      "region": "Çin",
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 45,
+      "scores": {
+        "education": 0,
+        "military": 4,
+        "development": 10,
+        "health": 10,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 6,
+        "altin": 7,
+        "petrol": 5,
+        "nte": 10,
+        "elmas": 20
+      }
+    },
+    {
       "name": "Solomon Adaları",
       "icon": "🌴",
       "coat_url": "https://diplomacia.com.tr/coats/solomonadalari.png?v=3",
@@ -57,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 20,
+      "player_count": 19,
       "scores": {
         "education": 0,
         "military": 10,
