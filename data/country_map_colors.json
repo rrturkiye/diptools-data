@@ -14,16 +14,6 @@
       "countryId": "8c84941d-f8bd-4b99-a3e6-0b7f57b74451",
       "bordersOpen": true
     },
-    "Lübnan": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
-      "bordersOpen": false
-    },
     "Katar": {
       "code": null,
       "color": "#1f1f2e",
@@ -404,6 +394,16 @@
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
       "bordersOpen": false
     },
+    "Lübnan": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/lebanon.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
+      "bordersOpen": false
+    },
     "Pavlodar": {
       "code": null,
       "color": "#470606",
@@ -426,7 +426,7 @@
     },
     "Tunus": {
       "code": null,
-      "color": "#0e48a4",
+      "color": "#4e134e",
       "name": "Marakeş Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",
@@ -456,7 +456,7 @@
     },
     "Rabat": {
       "code": null,
-      "color": "#e21216",
+      "color": "#4e134e",
       "name": "المملكة المغربية",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/f01c0b18-8dad-4cab-b719-9b960f5ba8d7-1789424679463.jpeg",
@@ -514,26 +514,6 @@
       "countryId": "4a6883c8-3539-49f8-8f9b-5b83e2c04fc6",
       "bordersOpen": false
     },
-    "Selanik": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
-      "bordersOpen": false
-    },
-    "Atina": {
-      "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/atina.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
-      "bordersOpen": false
-    },
     "İslamabad": {
       "code": null,
       "color": "#791b1d",
@@ -564,7 +544,7 @@
       "countryId": "f61b1b71-6a8b-4eff-9070-61413d3837a5",
       "bordersOpen": false
     },
-    "Diyarbak��r": {
+    "Diyarbakır": {
       "code": null,
       "color": "#232534",
       "name": "Türkiye Cumhuriyeti",
@@ -582,7 +562,7 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/e7e9f672-89bf-4c26-86ae-7b504b6c46e6-1789041788889.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/kuzeymakedonya.png?v=3",
       "countryId": "e7e9f672-89bf-4c26-86ae-7b504b6c46e6",
-      "bordersOpen": false
+      "bordersOpen": true
     },
     "Moldova": {
       "code": null,
@@ -672,6 +652,16 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
       "coatUrl": "https://diplomacia.com.tr/coats/samsun.png?v=3",
       "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
+      "bordersOpen": false
+    },
+    "Selanik": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
       "bordersOpen": false
     },
     "Kuzey İrlanda": {
@@ -915,8 +905,8 @@
     },
     "Ürdün": {
       "code": null,
-      "color": "#1d0da5",
-      "name": "Ürdün Geçici Hükümeti",
+      "color": "#4e134e",
+      "name": "مملكة انطونيا - Kingdom of Antonia",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/45b88545-373e-46fd-bc78-02cc1d5b6209-1790175277492.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/jordan.png?v=3",
@@ -1015,13 +1005,23 @@
     },
     "İsrail": {
       "code": null,
-      "color": "#892a2a",
+      "color": "#4e134e",
       "name": "الامبراطوريه المصرية - Egyptian Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/israel.png?v=3",
       "countryId": "9803c555-a7db-4519-8652-0697dfad5c94",
       "bordersOpen": true
+    },
+    "Atina": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/atina.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
+      "bordersOpen": false
     },
     "Sevilla": {
       "code": null,
@@ -1091,16 +1091,6 @@
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/44ab8aae-ecd6-4d12-9b15-5bdea1c08710-1783926088538.jpeg",
       "coatUrl": "https://diplomacia.com.tr/coats/papuayenigine.png?v=3",
       "countryId": "44ab8aae-ecd6-4d12-9b15-5bdea1c08710",
-      "bordersOpen": false
-    },
-    "Erzurum": {
-      "code": null,
-      "color": "#232534",
-      "name": "Türkiye Cumhuriyeti",
-      "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/erzurum.png?v=3",
-      "countryId": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
       "bordersOpen": false
     },
     "Yeni Kaledonya": {
@@ -1442,14 +1432,14 @@
       "countryId": "aaab2906-4d92-4fbd-9d92-16be96fbcd96",
       "bordersOpen": false
     },
-    "İstanbul": {
+    "Erzurum": {
       "code": null,
-      "color": "#4e134e",
-      "name": "Basileia Romaion",
+      "color": "#d41114",
+      "name": "Azerbaijan Reich",
       "flag": "",
-      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-      "coatUrl": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
-      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/82bcb0bb-d541-428c-98fa-58f3471a47e6-1789934555876.jpeg",
+      "coatUrl": "https://diplomacia.com.tr/coats/erzurum.png?v=3",
+      "countryId": "82bcb0bb-d541-428c-98fa-58f3471a47e6",
       "bordersOpen": false
     },
     "Santiago": {
@@ -1511,6 +1501,16 @@
       "coatUrl": "https://diplomacia.com.tr/coats/ardahan.png?v=3",
       "countryId": "91dc9647-2722-42ea-92e8-913764f7d013",
       "bordersOpen": true
+    },
+    "İstanbul": {
+      "code": null,
+      "color": "#4e134e",
+      "name": "Basileia Romaion",
+      "flag": "",
+      "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
+      "coatUrl": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
+      "countryId": "b6dd2b08-1317-414d-9c11-f575eb17327a",
+      "bordersOpen": false
     },
     "Altay": {
       "code": null,
@@ -1604,7 +1604,7 @@
     },
     "Asvan": {
       "code": null,
-      "color": "#892a2a",
+      "color": "#4e134e",
       "name": "الامبراطوريه المصرية - Egyptian Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
@@ -1614,7 +1614,7 @@
     },
     "Kahire": {
       "code": null,
-      "color": "#892a2a",
+      "color": "#4e134e",
       "name": "الامبراطوريه المصرية - Egyptian Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
@@ -1994,7 +1994,7 @@
     },
     "İskenderiye": {
       "code": null,
-      "color": "#892a2a",
+      "color": "#4e134e",
       "name": "الامبراطوريه المصرية - Egyptian Empire",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/uploads/country-flags/9803c555-a7db-4519-8652-0697dfad5c94-1789424358568.jpeg",
@@ -2114,7 +2114,7 @@
     },
     "Marakeş": {
       "code": null,
-      "color": "#0e48a4",
+      "color": "#4e134e",
       "name": "Marakeş Geçici Hükümeti",
       "flag": "",
       "flagUrl": "https://diplomacia.com.tr/coats/fas.png?v=3",

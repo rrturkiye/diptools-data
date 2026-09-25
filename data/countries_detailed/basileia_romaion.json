@@ -2,14 +2,14 @@
   "id": "b6dd2b08-1317-414d-9c11-f575eb17327a",
   "name": "Basileia Romaion",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/b6dd2b08-1317-414d-9c11-f575eb17327a-1787568777010.png",
-  "treasury": 634100917,
+  "treasury": 554242931,
   "country_number": 37,
   "player_count": 35,
   "provinces_count": 4,
   "capital": {
-    "name": "Selanik",
-    "icon": null,
-    "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3"
+    "name": "İstanbul",
+    "icon": "🏙️",
+    "coat_url": "https://diplomacia.com.tr/coats/istanbul.png?v=3"
   },
   "total_resource_bonuses": {
     "deri": 35,
@@ -19,34 +19,34 @@
     "elmas": 54
   },
   "average_scores": {
-    "education": 3,
-    "military": 6.5,
-    "development": 1.8,
-    "health": 1.3
+    "education": 4.8,
+    "military": 9,
+    "development": 2.3,
+    "health": 3
   },
   "provinces": [
     {
-      "name": "Selanik",
-      "icon": null,
-      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
-      "region": null,
+      "name": "İstanbul",
+      "icon": "🏙️",
+      "coat_url": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
+      "region": "Kuzeybatı (Trakya + Batı Anadolu)",
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 19,
+      "player_count": 92,
       "scores": {
-        "education": 0,
-        "military": 10,
-        "development": 0,
-        "health": 0,
+        "education": 1,
+        "military": 9,
+        "development": 6,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
-        "deri": 8,
-        "altin": 12,
-        "petrol": 7,
-        "nte": 8,
-        "elmas": 10
+        "deri": 13,
+        "altin": 5,
+        "petrol": 5,
+        "nte": 7,
+        "elmas": 19
       }
     },
     {
@@ -74,30 +74,6 @@
       }
     },
     {
-      "name": "İstanbul",
-      "icon": "🏙️",
-      "coat_url": "https://diplomacia.com.tr/coats/istanbul.png?v=3",
-      "region": "Kuzeybatı (Trakya + Batı Anadolu)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 87,
-      "scores": {
-        "education": 1,
-        "military": 2,
-        "development": 6,
-        "health": 4,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 13,
-        "altin": 5,
-        "petrol": 5,
-        "nte": 7,
-        "elmas": 19
-      }
-    },
-    {
       "name": "Lübnan",
       "icon": "🌲",
       "coat_url": "https://diplomacia.com.tr/coats/lubnan.png?v=3",
@@ -107,10 +83,10 @@
       "independence_date": null,
       "player_count": 4,
       "scores": {
-        "education": 0,
-        "military": 5,
-        "development": 1,
-        "health": 1,
+        "education": 7,
+        "military": 8,
+        "development": 3,
+        "health": 3,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -119,6 +95,30 @@
         "petrol": 8,
         "nte": 4,
         "elmas": 12
+      }
+    },
+    {
+      "name": "Selanik",
+      "icon": null,
+      "coat_url": "https://diplomacia.com.tr/coats/selanik.png?v=3",
+      "region": null,
+      "is_capital": false,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 13,
+      "scores": {
+        "education": 0,
+        "military": 10,
+        "development": 0,
+        "health": 5,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 8,
+        "altin": 12,
+        "petrol": 7,
+        "nte": 8,
+        "elmas": 10
       }
     }
   ]

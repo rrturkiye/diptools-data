@@ -2,27 +2,27 @@
   "id": "d7e250fb-02f9-4f34-9628-8fb058c35d52",
   "name": "Türkiye Cumhuriyeti",
   "flag_url": "https://diplomacia.com.tr/uploads/country-flags/d7e250fb-02f9-4f34-9628-8fb058c35d52-1788987511180.png",
-  "treasury": 1543177,
+  "treasury": 8230234,
   "country_number": 130,
-  "player_count": 560,
-  "provinces_count": 12,
+  "player_count": 551,
+  "provinces_count": 11,
   "capital": {
     "name": "Ankara",
     "icon": "🌿",
     "coat_url": "https://diplomacia.com.tr/coats/ankara.png?v=3"
   },
   "total_resource_bonuses": {
-    "deri": 138,
-    "altin": 93,
-    "petrol": 86,
-    "nte": 124,
-    "elmas": 114
+    "deri": 120,
+    "altin": 82,
+    "petrol": 81,
+    "nte": 115,
+    "elmas": 108
   },
   "average_scores": {
-    "education": 2,
-    "military": 2.4,
-    "development": 3.7,
-    "health": 3.9
+    "education": 2.2,
+    "military": 2.5,
+    "development": 3.5,
+    "health": 3.8
   },
   "provinces": [
     {
@@ -33,7 +33,7 @@
       "is_capital": true,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 43,
+      "player_count": 41,
       "scores": {
         "education": 3,
         "military": 7,
@@ -57,7 +57,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 10,
+      "player_count": 9,
       "scores": {
         "education": 1,
         "military": 2,
@@ -81,7 +81,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 45,
+      "player_count": 44,
       "scores": {
         "education": 3,
         "military": 4,
@@ -105,12 +105,12 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 21,
+      "player_count": 19,
       "scores": {
         "education": 1,
         "military": 3,
         "development": 1,
-        "health": 2,
+        "health": 1,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -170,30 +170,6 @@
       }
     },
     {
-      "name": "Erzurum",
-      "icon": "🏔️",
-      "coat_url": "https://diplomacia.com.tr/coats/erzurum.png?v=3",
-      "region": "Doğu Anadolu (Dağlık)",
-      "is_capital": false,
-      "is_independent": false,
-      "independence_date": null,
-      "player_count": 6,
-      "scores": {
-        "education": 0,
-        "military": 0,
-        "development": 5,
-        "health": 3,
-        "health_world_first": false
-      },
-      "resource_bonuses": {
-        "deri": 18,
-        "altin": 11,
-        "petrol": 5,
-        "nte": 9,
-        "elmas": 6
-      }
-    },
-    {
       "name": "Eskişehir",
       "icon": null,
       "coat_url": "https://diplomacia.com.tr/coats/eskisehir.png",
@@ -201,7 +177,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 14,
+      "player_count": 13,
       "scores": {
         "education": 5,
         "military": 2,
@@ -225,7 +201,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 13,
+      "player_count": 12,
       "scores": {
         "education": 0,
         "military": 2,
@@ -276,9 +252,9 @@
       "player_count": 11,
       "scores": {
         "education": 7,
-        "military": 3,
+        "military": 2,
         "development": 5,
-        "health": 5,
+        "health": 4,
         "health_world_first": false
       },
       "resource_bonuses": {
@@ -297,7 +273,7 @@
       "is_capital": false,
       "is_independent": false,
       "independence_date": null,
-      "player_count": 31,
+      "player_count": 29,
       "scores": {
         "education": 0,
         "military": 1,
