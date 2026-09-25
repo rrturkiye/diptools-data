@@ -1,0 +1,53 @@
+{
+  "id": "3e12f175-7d18-4c67-b229-c6a3747a6843",
+  "name": "Perm Geçici Hükümeti",
+  "flag_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
+  "treasury": 1343013,
+  "country_number": 215,
+  "player_count": 292,
+  "provinces_count": 1,
+  "capital": {
+    "name": "Perm",
+    "icon": "🏭",
+    "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3"
+  },
+  "total_resource_bonuses": {
+    "deri": 9,
+    "altin": 10,
+    "petrol": 14,
+    "nte": 12,
+    "elmas": 7
+  },
+  "average_scores": {
+    "education": 0,
+    "military": 0,
+    "development": 1,
+    "health": 0
+  },
+  "provinces": [
+    {
+      "name": "Perm",
+      "icon": "🏭",
+      "coat_url": "https://diplomacia.com.tr/coats/perm.png?v=3",
+      "region": "Doğu Avrupa (Kama nehri)",
+      "is_capital": true,
+      "is_independent": false,
+      "independence_date": null,
+      "player_count": 248,
+      "scores": {
+        "education": 0,
+        "military": 0,
+        "development": 1,
+        "health": 0,
+        "health_world_first": false
+      },
+      "resource_bonuses": {
+        "deri": 9,
+        "altin": 10,
+        "petrol": 14,
+        "nte": 12,
+        "elmas": 7
+      }
+    }
+  ]
+}
